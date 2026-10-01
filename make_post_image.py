@@ -62,7 +62,7 @@ def emblem(diam):
     return out
 
 
-def make(title, fmt, out, tag=None, theme="sand"):
+def make(title, fmt, out, tag=None, theme="rot"):
     global BG_TOP, BG_BOT, TXT, GOLD, NAMEC
     BG_TOP, BG_BOT, TXT, GOLD, NAMEC = THEMES[theme]
     w, h = SIZES[fmt]
@@ -114,6 +114,6 @@ if __name__ == "__main__":
     p.add_argument("--fmt", choices=SIZES, required=True)
     p.add_argument("--out", required=True)
     p.add_argument("--tag")
-    p.add_argument("--theme", choices=THEMES, default="sand")
+    p.add_argument("--theme", choices=THEMES, default="rot")
     a = p.parse_args()
     make(a.title, a.fmt, a.out, a.tag, a.theme)
