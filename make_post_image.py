@@ -14,8 +14,14 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 LOGO = os.path.join(HERE, "INSTA_Short_Image_dunkel.jpg")
 FONT_B = os.path.join(HERE, "fonts", "Tajawal-Bold.ttf")
 FONT_R = os.path.join(HERE, "fonts", "Tajawal-Regular.ttf")
-BG_TOP, BG_BOT = (96, 108, 122), (66, 76, 88)
-GOLD = (212, 175, 90)
+THEMES = {
+    # name: (bg_oben, bg_unten, text, akzent, seitenname)
+    "grau":  ((96, 108, 122), (66, 76, 88), (245, 245, 245), (212, 175, 90), (200, 206, 212)),
+    "sand":  ((240, 231, 212), (219, 205, 178), (28, 34, 40), (150, 105, 25), (95, 90, 80)),
+    "gruen": ((86, 150, 108), (52, 112, 78), (255, 255, 255), (245, 214, 130), (225, 240, 230)),
+    "rot":   ((196, 88, 76), (150, 52, 46), (255, 255, 255), (245, 214, 130), (245, 225, 220)),
+}
+BG_TOP, BG_BOT, TXT, GOLD, NAMEC = THEMES["sand"]
 W = 1080
 SIZES = {"feed": (1080, 1350), "story": (1080, 1920)}
 
@@ -56,7 +62,9 @@ def emblem(diam):
     return out
 
 
-def make(title, fmt, out, tag=None):
+def make(title, fmt, out, tag=None, theme="sand"):
+    global BG_TOP, BG_BOT, TXT, GOLD, NAMEC
+    BG_TOP, BG_BOT, TXT, GOLD, NAMEC = THEMES[theme]
     w, h = SIZES[fmt]
     img = Image.new("RGB", (w, h))
     d = ImageDraw.Draw(img)
@@ -85,7 +93,7 @@ def make(title, fmt, out, tag=None):
     y = area_top + max(0, (area_bot - area_top - block) // 2 - 10)
     for ln in lines:
         t = ar(ln)
-        d.text(((w - d.textlength(t, font=f)) / 2, y), t, font=f, fill=(245, 245, 245))
+        d.text(((w - d.textlength(t, font=f)) / 2, y), t, font=f, fill=TXT)
         y += lh
     d.rectangle(((w - 160) // 2, y + 14, (w + 160) // 2, y + 18), fill=GOLD)
 
@@ -96,7 +104,7 @@ def make(title, fmt, out, tag=None):
     fn = ImageFont.truetype(FONT_R, 30)
     name = "Morocco Football & Futsal News"
     ny = h - (70 if fmt == "feed" else 270)
-    d.text(((w - d.textlength(name, font=fn)) / 2, ny), name, font=fn, fill=(150, 156, 162))
+    d.text(((w - d.textlength(name, font=fn)) / 2, ny), name, font=fn, fill=NAMEC)
     img.save(out, quality=90)
 
 
@@ -106,5 +114,6 @@ if __name__ == "__main__":
     p.add_argument("--fmt", choices=SIZES, required=True)
     p.add_argument("--out", required=True)
     p.add_argument("--tag")
+    p.add_argument("--theme", choices=THEMES, default="sand")
     a = p.parse_args()
-    make(a.title, a.fmt, a.out, a.tag)
+    make(a.title, a.fmt, a.out, a.tag, a.theme)
