@@ -354,7 +354,7 @@ def build_timeline(data):
         tl.append((2.8 if m.get("status") else 3.4, lambda t, du, m=m, i=i: scene_match(m, i, len(ms), t, du), "main"))
     if not data.get("table"):
         raise SystemExit("ABBRUCH: Tabelle fehlt – das Video wird ohne Tabelle nicht erstellt.")
-    tl.append((5.4, lambda t, du: scene_table(data, t, du), "table"))
+    tl.append((9.5, lambda t, du: scene_table(data, t, du), "table"))
     tl.append((2.6, lambda t, du: scene_outro(data, t, du), "outro"))
     return tl
 
