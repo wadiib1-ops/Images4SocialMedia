@@ -91,7 +91,7 @@ Getestet: Metricool übernimmt diese URL (Feed-Reel und Story, Entwurf-Test 2026
 
 1. `getBrandSettings`: Es muss `id` = 7182798 sein, `networksData.facebookData` = `476343148890228` und `networksData.instagramData` = `moroccanfootballandfutsal`.
    Weicht etwas ab → **STOPP** (nichts posten), melden. Die Zeitzone für `publicationDate` kommt aus den Marken-Einstellungen.
-2. **Veröffentlichungszeit:** heute **08:00** Uhr. Läuft der Job nach 07:30, dann jetzt plus 10 Minuten.
+2. **Veröffentlichungszeit:** **sofort nach dem Erstellen**: jetzt plus 10 Minuten (Berliner Zeit, `TZ=Europe/Berlin date`), also kurz nach 00:30 Uhr. Kein Warten auf eine Morgenzeit.
 3. Zwei Beiträge mit `createScheduledPost` (`blogId` = `7182798`, `date` = ISO mit Offset, `autoPublish` true, `draft` false, `media` = `[URL]`):
 
    **A) Feed (Facebook-Video-Post + Instagram-Reel mit Anzeige im Feed)**, Text = Inhalt von `caption.txt`:
@@ -100,7 +100,7 @@ Getestet: Metricool übernimmt diese URL (Feed-Reel und Story, Entwurf-Test 2026
     "facebookData":{"type":"POST"},
     "instagramData":{"type":"REEL","showReelOnFeed":true}}
    ```
-   **B) Story (Facebook und Instagram)**, **ohne Text**, 5 Minuten nach A:
+   **B) Story (Facebook und Instagram)**, **ohne Text**, 5 Minuten nach A (also jetzt plus 15 Minuten):
    ```json
    {"providers":[{"network":"facebook"},{"network":"instagram"}],
     "facebookData":{"type":"STORY"},
@@ -121,7 +121,7 @@ git push origin HEAD:main
 ```
 
 Schlägt der Push wegen neuer Commits fehl: `git fetch origin main`, `git rebase FETCH_HEAD`, einmal erneut pushen.
-Abschlussmeldung (3–5 Zeilen): wie viele Spiele, geplante Zeit, die `plannerUrl`s, Auffälligkeiten.
+Abschlussmeldung (3–5 Zeilen): wie viele Spiele, Veröffentlichungszeit, die `plannerUrl`s, Auffälligkeiten.
 
 ## Regeln
 
