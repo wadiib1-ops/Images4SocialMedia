@@ -65,17 +65,27 @@ python3 finalize.py build /tmp/day.json
 
 Ergebnis: `botola-video/out/botola-<Lauf-Tag>.mp4`, `botola-video/out/caption.txt` (arabische Bildunterschrift, ohne Links), `botola-video/out/summary.json`.
 
-## 3. Video hochladen (GitHub Release = öffentliche URL)
+## 3. Video hochladen (Branch `video-out` = öffentliche URL)
+
+GitHub Releases sind in dieser Umgebung gesperrt. Stattdessen liegt das Video im Orphan-Branch `video-out` (nur Videos, keine Code-Historie).
 
 ```bash
-TAG=botola-<Lauf-Tag>
-gh release create "$TAG" "botola-video/out/$TAG.mp4" --repo wadiib1-ops/Images4SocialMedia \
-  --title "Botola Pro $TAG" --notes "Automatisch erzeugtes Tagesvideo"
-URL="https://github.com/wadiib1-ops/Images4SocialMedia/releases/download/$TAG/$TAG.mp4"
+RUN=<Lauf-Tag>
+git fetch origin video-out
+rm -rf /tmp/vo && git worktree add /tmp/vo FETCH_HEAD -B video-out
+cp botola-video/out/botola-$RUN.mp4 /tmp/vo/
+# Videos älter als 7 Tage entfernen (Dateinamen botola-YYYY-MM-DD.mp4)
+cd /tmp/vo && for f in botola-20*.mp4; do d=${f#botola-}; d=${d%.mp4}; [ "$d" \< "$(date -d '7 days ago' +%F)" ] && git rm -q "$f"; done
+git rm -q --ignore-unmatch botola-test-*.mp4
+git add -A && git commit -q -m "Tagesvideo $RUN"   # plus Attributionszeilen laut Systemvorgabe
+git push origin video-out
+URL="https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-$RUN.mp4"
 curl -sIL "$URL" | grep -iE "^HTTP|content-length"
+cd - && git worktree remove --force /tmp/vo
 ```
 
-Existiert das Release schon, `gh release upload "$TAG" <datei> --clobber --repo wadiib1-ops/Images4SocialMedia`. Die Abfrage muss mit HTTP 200 enden.
+Schlägt der Push wegen neuer Commits fehl: neu holen, rebasen, einmal wiederholen. Die Abfrage muss mit HTTP 200 enden (kurz warten und einmal wiederholen).
+Getestet: Metricool übernimmt diese URL (Feed-Reel und Story, Entwurf-Test 2026-10-04 erfolgreich).
 
 ## 4. An Metricool übergeben
 
