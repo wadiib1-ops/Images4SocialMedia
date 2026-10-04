@@ -141,10 +141,10 @@ def header_layer(data):
     logo = LOGO_FILE
     if os.path.exists(logo):
         lg = Image.open(logo).convert("RGBA")
-        lw = int(W * 0.28)
+        lw = 118
         lg = lg.resize((lw, int(lg.height * lw / lg.width)))
-        lay.paste(lg, (40, 40), lg)
-    text(d, (W - 50, 95), data.get("page_name", "كرة القدم المغربية"), F("700Bold", 38), GOLD, "rm")
+        lay.paste(lg, (40, 290), lg)
+    text(d, (W - 50, 350), data.get("page_name", "كرة القدم المغربية"), F("700Bold", 38), GOLD, "rm")
     if data.get("demo"):
         d.rounded_rectangle((W // 2 - 150, H - 120, W // 2 + 150, H - 60), 14, fill=RED)
         text(d, (W // 2, H - 92), "بيانات تجريبية", F("700Bold", 34), WHITE)
@@ -290,19 +290,18 @@ def table_background():
     _TBL_BG = bg.convert("RGB")
     return _TBL_BG
 
-ROW0, PITCH, RH = 392, 83, 76
+ROW0, PITCH, RH = 528, 69, 63
 def scene_table(data, t, dur):
     lay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(lay)
     a = ease(t / 0.5)
     al0 = int(255 * a)
-    text(d, (720, 182), "الترتيب العام", F("900Black", 92), WHITE + (al0,))
-    text(d, (720, 275), f"بعد الجولة {data['table_round']}", F("700Bold", 46), GOLD + (al0,))
-    text(d, (990, 362), "الفريق", F("700Bold", 28), MUTED + (al0,), "rm")
+    text(d, (W // 2, 440), f"الترتيب العام · بعد الجولة {data['table_round']}", F("900Black", 60), WHITE + (al0,))
+    text(d, (990, 496), "الفريق", F("700Bold", 26), MUTED + (al0,), "rm")
     for x, lab in ((370, "لعب"), (250, "فارق"), (110, "نقاط")):
-        text(d, (x, 362), lab, F("700Bold", 28), MUTED + (al0,))
+        text(d, (x, 496), lab, F("700Bold", 26), MUTED + (al0,))
     rows = data["table"]
-    fn, fg, fp = F("900Black", 40), F("400Regular", 38), F("900Black", 46)
+    fn, fg, fp = F("900Black", 34), F("400Regular", 32), F("900Black", 40)
     for i, r in enumerate(rows):
         ra = ease((t - 0.35 - i * 0.07) / 0.4)
         if ra <= 0:
@@ -312,14 +311,14 @@ def scene_table(data, t, dur):
         x0 = int((1 - ra) * 360)
         lead = (i == 0)
         fill = ((70, 52, 12) if lead else (14, 30, 26)) + (int(205 * ra),)
-        d.rounded_rectangle((50 + x0, y, 1030 + x0, y + RH), 22, fill=fill,
+        d.rounded_rectangle((50 + x0, y, 1030 + x0, y + RH), 20, fill=fill,
                             outline=(GOLD if lead else (92, 110, 100)) + (int((230 if lead else 150) * ra),), width=3 if lead else 2)
         cx = 990 + x0
-        d.ellipse((cx - 30, y + RH // 2 - 30, cx + 30, y + RH // 2 + 30), fill=(RED if lead else (26, 74, 54)) + (al,))
+        d.ellipse((cx - 26, y + RH // 2 - 26, cx + 26, y + RH // 2 + 26), fill=(RED if lead else (26, 74, 54)) + (al,))
         num(d, (cx, y + RH // 2 - 2), str(i + 1), fn, WHITE + (al,))
-        b = club_badge(r["team"], 62)
-        lay.alpha_composite(_fade(b, al), (905 + x0 - 31, y + (RH - 62) // 2))
-        text(d, (860 + x0, y + RH // 2 - 2), r["team"], fit_font("700Bold", 42, r["team"], 420), WHITE + (al,), "rm")
+        b = club_badge(r["team"], 54)
+        lay.alpha_composite(_fade(b, al), (905 + x0 - 27, y + (RH - 54) // 2))
+        text(d, (860 + x0, y + RH // 2 - 2), r["team"], fit_font("700Bold", 37, r["team"], 420), WHITE + (al,), "rm")
         num(d, (370 + x0, y + RH // 2 - 2), str(r["played"]), fg, MUTED + (al,))
         gd = r["gd"]
         num(d, (250 + x0, y + RH // 2 - 2), f"{gd:+d}" if gd else "0", fg,
