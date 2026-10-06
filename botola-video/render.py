@@ -143,8 +143,8 @@ def header_layer(data):
         lg = Image.open(logo).convert("RGBA")
         lw = 118
         lg = lg.resize((lw, int(lg.height * lw / lg.width)))
-        lay.paste(lg, (40, 290), lg)
-    text(d, (W - 50, 350), data.get("page_name", "كرة القدم المغربية"), F("700Bold", 38), GOLD, "rm")
+        lay.paste(lg, (40, 250), lg)  # Logo höher (Nutzerwunsch 06.10.2026)
+    text(d, (W - 50, 310), data.get("page_name", "كرة القدم المغربية"), F("700Bold", 38), GOLD, "rm")
     if data.get("demo"):
         d.rounded_rectangle((W // 2 - 150, H - 120, W // 2 + 150, H - 60), 14, fill=RED)
         text(d, (W // 2, H - 92), "بيانات تجريبية", F("700Bold", 34), WHITE)
