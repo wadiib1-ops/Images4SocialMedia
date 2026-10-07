@@ -111,6 +111,28 @@ Getestet: Metricool übernimmt diese URL (Feed-Reel und Story, Entwurf-Test 2026
 5. Lehnt Metricool ab (Medienformat, Instagram-Konto ohne Business-Verknüpfung, …): höchstens **einmal** bei erkennbar vorübergehenden Fehlern wiederholen,
    sonst **STOPP** und die Fehlermeldung wörtlich melden. Keine anderen Parameter raten.
 
+### 4b. Rückfall auf Buffer, wenn das Metricool-Limit erreicht ist (Nutzerwunsch 07.10.2026)
+
+**Auslöser:** `createScheduledPost` lehnt ab, weil das Kontingent/Guthaben erschöpft ist, z. B. Fehlermeldung mit
+„limit“, „quota“, „credits“, „plan“, „upgrade“, „exceeded“, „límite“, „límite alcanzado“, HTTP 402 oder 429.
+Andere Fehler (Medienformat, Konto) lösen **keinen** Wechsel aus, dort gilt Punkt 5 oben.
+
+**Ablauf:**
+1. Mit `getScheduledPosts` prüfen, welche Beiträge in Metricool schon angelegt sind. Nur die **fehlenden** über Buffer anlegen, nichts doppelt.
+2. Tools laden: ToolSearch `select:mcp__Buffer__create_post,mcp__Buffer__list_posts`. Nur `create_post` (und bei unklarem Ausgang einmal `list_posts`), kein list_channels/get_account.
+   Feste IDs: organizationId `6abe4bd3b65e767df7d8a7aa`; Facebook-Seite channelId `6abe4ea1ea19ca0bde42a29b`; Instagram channelId `6abe7257ea19ca0bde442b81`.
+3. Buffer braucht je Netzwerk einen eigenen Eintrag, also bis zu vier `create_post` mit `mode` "customScheduled", `schedulingType` "automatic",
+   `dueAt` ISO mit Offset (gleiche Zeiten wie oben: Feed jetzt plus 10 Minuten, Stories 5 Minuten später), Asset `{"video":{"url":URL,"metadata":{"title":"<kurzer arabischer Titel>"}}}`:
+   - Facebook-Feed: `metadata.facebook {"type":"post"}`, Text = Caption
+   - Instagram-Reel: `metadata.instagram {"type":"reel","shouldShareToFeed":true}`, Text = Caption
+   - Facebook-Story: `metadata.facebook {"type":"story"}`, ohne Text
+   - Instagram-Story: `metadata.instagram {"type":"story","shouldShareToFeed":false,"link":"https://facebook.com/476343148890228"}`, ohne Text
+     (lehnt Buffer den `link` ab: einmal ohne `link` anlegen)
+4. Buffer-Free-Tarif: höchstens 10 geplante Einträge pro Kanal. Meldet Buffer ein volles Kontingent oder einen getrennten Kanal: diesen Eintrag weglassen und melden.
+   Ist auch Buffer nicht erreichbar oder voll: **STOPP**, nichts weiter versuchen.
+5. Das Anlegen über Buffer ist erlaubt und ändert die Buffer-Automatik nicht (deren Anleitung bleibt unangetastet).
+6. Abschlussmeldung: deutlich „Metricool-Limit erreicht → über Buffer gepostet“ mit der wörtlichen Metricool-Fehlermeldung und je Eintrag, ob er in Metricool oder Buffer liegt.
+
 ## 5. Abschluss
 
 ```bash

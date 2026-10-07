@@ -67,6 +67,7 @@ Genau wie JOB.md Abschnitt 4 (Markenprüfung 7182798 / 476343148890228 / morocca
 - **B) Story** 5 Minuten nach A, **ohne Text**: `facebookData {"type":"STORY"}`, `instagramData {"type":"STORY"}`.
 - Danach `getScheduledPosts` prüfen. Ablehnung: höchstens einmal bei vorübergehendem Fehler wiederholen, sonst STOPP mit wörtlicher Fehlermeldung.
 - Getestet am 05.10.2026 (Runde 3): beide Beiträge angenommen.
+- **Metricool-Limit erreicht** (Kontingent/Guthaben erschöpft): genau wie JOB.md Abschnitt 4b auf **Buffer** wechseln (nur fehlende Beiträge, Caption aus `out/caption-vorschau.txt`).
 
 ## 5. Abschluss
 
