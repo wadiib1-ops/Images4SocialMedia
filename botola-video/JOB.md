@@ -113,14 +113,17 @@ Getestet: Metricool übernimmt diese URL (Feed-Reel und Story, Entwurf-Test 2026
 
 ### 4b. Rückfall auf Buffer, wenn das Metricool-Limit erreicht ist (Nutzerwunsch 07.10.2026)
 
-**Auslöser:** `createScheduledPost` lehnt ab, weil das Kontingent/Guthaben erschöpft ist, z. B. Fehlermeldung mit
+**Auslöser (eins von beiden):**
+- Vor dem Anlegen: `getScheduledPosts` (letzte 24 Stunden bis 3 Tage voraus, `extendedRange` true) zeigt bei einem Beitrag `status` "ERROR" mit `detailedStatus` wie „You have reached your Metricool account limit.“ → direkt Buffer, Metricool gar nicht erst versuchen.
+- Metricool meldet das Limit oft erst zum Veröffentlichungszeitpunkt, nicht beim Anlegen. Daher nach dem Anlegen und nach der Veröffentlichungszeit (warten bis 2 Minuten danach) noch einmal `getScheduledPosts` prüfen; steht dort der Limit-Fehler, dieselben Beiträge über Buffer anlegen (Zeit: jetzt plus 5 Minuten).
+- Oder `createScheduledPost` lehnt direkt ab, weil das Kontingent/Guthaben erschöpft ist, z. B. Fehlermeldung mit
 „limit“, „quota“, „credits“, „plan“, „upgrade“, „exceeded“, „límite“, „límite alcanzado“, HTTP 402 oder 429.
 Andere Fehler (Medienformat, Konto) lösen **keinen** Wechsel aus, dort gilt Punkt 5 oben.
 
 **Ablauf:**
 1. Mit `getScheduledPosts` prüfen, welche Beiträge in Metricool schon angelegt sind. Nur die **fehlenden** über Buffer anlegen, nichts doppelt.
 2. Tools laden: ToolSearch `select:mcp__Buffer__create_post,mcp__Buffer__list_posts`. Nur `create_post` (und bei unklarem Ausgang einmal `list_posts`), kein list_channels/get_account.
-   Feste IDs: organizationId `6abe4bd3b65e767df7d8a7aa`; Facebook-Seite channelId `6abe4ea1ea19ca0bde42a29b`; Instagram channelId `6abe7257ea19ca0bde442b81`.
+   Feste IDs: organizationId `6ac68e7c60b8422dfb9949c5`; Facebook-Seite channelId `6ac6ce5c6a5c39ccb6482791`; Instagram channelId `6ac6ce7d6a5c39ccb6482832` (neues Buffer-Konto seit 07.10.2026).
 3. Buffer braucht je Netzwerk einen eigenen Eintrag, also bis zu vier `create_post` mit `mode` "customScheduled", `schedulingType` "automatic",
    `dueAt` ISO mit Offset (gleiche Zeiten wie oben: Feed jetzt plus 10 Minuten, Stories 5 Minuten später), Asset `{"video":{"url":URL,"metadata":{"title":"<kurzer arabischer Titel>"}}}`:
    - Facebook-Feed: `metadata.facebook {"type":"post"}`, Text = Caption
