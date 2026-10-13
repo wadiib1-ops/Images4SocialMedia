@@ -25,7 +25,7 @@ Antworten auf Deutsch, knapp. Nichts erfinden: keine Ergebnisse, Namen oder Minu
 
 Nur **Botola Pro Inwi** (keine Länderspiele, Botola 2, Frauen, Jugend). Werkzeuge: WebSearch und WebFetch (Shell-Zugriff auf Webseiten ist gesperrt, nur GitHub erreichbar; bei 403 oder DNS-Fehlern die nächste Quelle nehmen).
 
-- **Quellen:** mindestens 1 Beleg pro Endergebnis, bevorzugt https://www.sofascore.com/ und https://www.fotmob.com/de. Weitere: sportnador.com, hesport.com, elbotola.com, msport.ma, sport7.ma, almountakhab.com, 365scores.com, btolat.com, kooora.com, mapsport.ma. Bei Widerspruch gilt die Mehrheit; bleibt es unklar, das Spiel nicht aufnehmen.
+- **Quellen:** pro Endergebnis **mindestens 5, höchstens 8 unabhängige Quellen**, bevorzugt https://www.sofascore.com/ und https://www.fotmob.com/de. Weitere: sportnador.com, hesport.com, elbotola.com, msport.ma, sport7.ma, almountakhab.com, 365scores.com, btolat.com, kooora.com, mapsport.ma. Bei Widerspruch gilt die Mehrheit; bleiben weniger als 5 Quellen oder ist es unklar, das Spiel nicht aufnehmen.
 - **Torschützen:** nur mit vollem arabischem Namen (Vor- und Nachname) und Minute, wie in der Mehrheit der Quellen. Formate: `26'`, `90+2'`, Elfmeter `39' ض.ج`, Eigentor `12' عكسي`. Unsicheres weglassen. Sind nicht alle Torschützen des Tages sicher bekannt, zeigt das Video überall nur Minuten (gewollt).
 - **Nicht beendete Spiele** der betroffenen Runde(n) mit `status` markieren: `live`, `postponed` (offiziell verlegt), `not_played`.
 - **Keine beendeten Spiele im Fenster:** **STOPP**. Nichts erzeugen, posten oder pushen; Meldung „Keine Spiele in den letzten 24 Stunden“.
