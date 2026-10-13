@@ -50,6 +50,18 @@ python3 finalize.py build /tmp/day.json
 
 Ergebnis: `botola-video/out/botola-<Lauf-Tag>.mp4`, `out/caption.txt` (arabisch, ohne Links), `out/summary.json`.
 
+## 2b. Story-Video mit sichtbarem Text (Pflicht, Nutzerwunsch 13.10.2026)
+
+Instagram zeigt den Begleittext von Stories nicht. Die Story bekommt deshalb den Text IM Video. Repo-Wurzel, nach Abschnitt 2:
+
+```bash
+python3 story_text.py --video botola-video/out/botola-$RUN.mp4 --out-video botola-video/out/botola-$RUN-story.mp4 \
+  --out /tmp/st-$RUN.png --title "<kurzer arabischer Titel, z. B. نتائج الجولة N>" \
+  --cta "<kurzer arabischer Call to Action>" --tags "#البطولة_المغربية #الدوري_المغربي"
+```
+
+Ausgabe mit ffprobe prüfen (Breite/Höhe wie das Original, Audio vorhanden). Das Feed-Video `botola-$RUN.mp4` bleibt unverändert. Die Story nutzt `botola-$RUN-story.mp4`.
+
 ## 3. Video hochladen (Branch `video-out` = öffentliche URL)
 
 GitHub Releases sind gesperrt; das Video liegt im Orphan-Branch `video-out`.
@@ -58,7 +70,7 @@ GitHub Releases sind gesperrt; das Video liegt im Orphan-Branch `video-out`.
 RUN=<Lauf-Tag>
 git fetch origin video-out
 rm -rf /tmp/vo && git worktree add /tmp/vo FETCH_HEAD -B video-out
-cp botola-video/out/botola-$RUN.mp4 /tmp/vo/
+cp botola-video/out/botola-$RUN.mp4 botola-video/out/botola-$RUN-story.mp4 /tmp/vo/
 # Videos älter als 7 Tage entfernen
 cd /tmp/vo && for f in botola-20*.mp4; do d=${f#botola-}; d=${d%.mp4}; [ "$d" \< "$(date -d '7 days ago' +%F)" ] && git rm -q "$f"; done
 git rm -q --ignore-unmatch botola-test-*.mp4
@@ -89,7 +101,7 @@ Fest verwendete IDs (kein `list_channels`, `get_account`, `edit_post`, `delete_p
    |---|---|---|---|
    | 1. Facebook-Feed | Facebook | `facebook: {"type":"post"}` (nie `linkAttachment`) | Inhalt von `caption.txt` |
    | 2. Instagram-Reel | Instagram | `instagram: {"type":"reel","shouldShareToFeed":true}` | Inhalt von `caption.txt` |
-   | 3. Instagram-Story | Instagram | `instagram: {"type":"story","shouldShareToFeed":false,"link":"https://facebook.com/476343148890228"}` | ohne Text |
+   | 3. Instagram-Story | Instagram | `instagram: {"type":"story","shouldShareToFeed":false,"link":"https://facebook.com/476343148890228"}` | ohne Begleittext; Story-Video `botola-$RUN-story.mp4` mit eingebranntem Text (Abschnitt 2b) |
 
    Lehnt Buffer den `link` der Story ab: einmal ohne `link` anlegen und melden.
 4. **Fehler:** Schlägt der Facebook-Feed endgültig fehl, die anderen Einträge **nicht** anlegen. Eindeutige Fehler nicht unverändert wiederholen; bei unklarem Ausgang einmal `list_posts` prüfen. Free-Tarif: höchstens 10 geplante Einträge pro Kanal; bei voller Warteschlange oder getrenntem Kanal den betroffenen Eintrag weglassen und melden. Ist Buffer nicht erreichbar: **STOPP**.

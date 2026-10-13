@@ -64,7 +64,7 @@ URL: `https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out
 Genau wie JOB.md Abschnitt 4 (Markenprüfung 7182798 / 476343148890228 / moroccanfootballandfutsal, Zeitzone aus getBrandSettings):
 - **A) Feed** jetzt plus 10 Minuten: providers facebook + instagram, `facebookData {"type":"POST"}`,
   `instagramData {"type":"REEL","showReelOnFeed":true}`, Text = `out/caption-vorschau.txt`.
-- **B) Story** 5 Minuten nach A, **ohne Text**: `facebookData {"type":"STORY"}`, `instagramData {"type":"STORY"}`.
+- **B) Story** 5 Minuten nach A, **ohne Begleittext**, Text steht im Video (story_text.py, siehe JOB.md Abschnitt 2b; Nutzerwunsch 13.10.2026): `facebookData {"type":"STORY"}`, `instagramData {"type":"STORY"}`.
 - Danach `getScheduledPosts` prüfen. Ablehnung: höchstens einmal bei vorübergehendem Fehler wiederholen, sonst STOPP mit wörtlicher Fehlermeldung.
 - Getestet am 05.10.2026 (Runde 3): beide Beiträge angenommen.
 - **Metricool-Limit erreicht** (Kontingent/Guthaben erschöpft): genau wie JOB.md Abschnitt 4b auf **Buffer** wechseln (nur fehlende Beiträge, Caption aus `out/caption-vorschau.txt`).
