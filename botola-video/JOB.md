@@ -1,80 +1,65 @@
 # Täglicher Botola-Video-Job
 
-Läuft jeden Tag um **00:30 Uhr (Europe/Berlin)** als geplante Aufgabe. Der Lauf startet in einer frischen Umgebung:
-Alles, was er braucht (Code, Wappen, Musik, Ergebnisliste), liegt in diesem Repo.
+Läuft täglich um **00:30 Uhr (Europe/Berlin)** als geplante Aufgabe in frischer Umgebung; alles Nötige (Code, Wappen, Musik, Ergebnisliste) liegt in diesem Repo.
 
-**Ziel:** Nur wenn in den letzten 24 Stunden Spiele der **Botola Pro (1. Liga Marokko)** beendet wurden, wird ein Video
-erzeugt und über **Metricool** auf **Facebook** (Feed-Video + Story) und **Instagram** (Reel im Feed + Story) eingeplant.
-Gibt es keine Spiele, passiert **nichts**.
+**Ziel:** Wurden in den letzten 24 Stunden Spiele der **Botola Pro** (1. Liga Marokko) beendet, wird ein Video erzeugt und über **Buffer** eingeplant (Reihenfolge):
+1. Facebook-Feed (Video)
+2. Instagram-Feed (Reel)
+3. Instagram-Story (Video)
 
-Antworte dem Nutzer auf Deutsch, knapp. Erfinde nichts: keine Ergebnisse, Namen oder Minuten ohne Quelle.
+Es gibt **keine Facebook-Story**. Metricool wird nicht verwendet. Ohne Spiele passiert nichts.
+
+Antworten auf Deutsch, knapp. Nichts erfinden: keine Ergebnisse, Namen oder Minuten ohne Quelle. Text im Video und in Beiträgen immer **Arabisch**.
 
 ---
 
 ## 0. Vorbereitung
 
-1. Repo: `wadiib1-ops/Images4SocialMedia` (öffentlich). Liegt es nicht unter `/home/claude/images4socialmedia`, dann
-   `mcp__claude-code-remote__add_repo` (owner `wadiib1-ops`, repo `Images4SocialMedia`, access `push`), klonen
-   (`git clone --depth 1`) und `register_repo_root` aufrufen. Alle Pfade unten sind relativ zur Repo-Wurzel.
-2. Metricool-Werkzeuge laden (ToolSearch): `select:mcp__Metricool_Social_Media_Management__getBrandSettings,mcp__Metricool_Social_Media_Management__createScheduledPost,mcp__Metricool_Social_Media_Management__getScheduledPosts`
-3. Prüfen: `ffmpeg -version`, `python3 -c "import PIL, numpy, scipy"`. Fehlt etwas Python-Seitiges:
-   `pip install --break-system-packages pillow numpy scipy`.
-4. Zeit bestimmen: `TZ=Europe/Berlin date`. **Lauf-Tag** = heutiges Berliner Datum. **Fenster** = jetzt minus 24 Stunden bis jetzt.
-5. Doppelpost-Sperre: `cd botola-video && python3 finalize.py check-posted <Lauf-Tag>`.
-   Exit-Code 0 bedeutet: für diesen Lauf-Tag wurde schon gepostet → **STOPP**, kurze Meldung.
+1. Repo `wadiib1-ops/Images4SocialMedia` (öffentlich) muss in der Sitzung verfügbar sein. Sonst `mcp__claude-code-remote__add_repo` (owner `wadiib1-ops`, repo `Images4SocialMedia`, access `push`), `git clone --depth 1`, `register_repo_root`. Alle Pfade sind relativ zur Repo-Wurzel.
+2. Buffer-Tools laden: ToolSearch `select:mcp__Buffer__list_posts,mcp__Buffer__create_post`.
+3. Prüfen: `ffmpeg -version` und `python3 -c "import PIL, numpy, scipy"`; fehlt Python-Seitiges: `python3 -m pip install --break-system-packages pillow numpy scipy`.
+4. Zeit: `TZ=Europe/Berlin date`. **Lauf-Tag** = heutiges Berliner Datum, **Fenster** = jetzt minus 24 Stunden bis jetzt.
+5. Doppelpost-Sperre: `cd botola-video && python3 finalize.py check-posted <Lauf-Tag>`. Exit 0 = schon gepostet → **STOPP**, kurze Meldung.
 
-## 1. Spiele im Fenster recherchieren
+## 1. Spiele recherchieren
 
-Nur **Botola Pro Inwi** (nicht Länderspiele, nicht Botola 2, nicht Frauen/Jugend).
+Nur **Botola Pro Inwi** (keine Länderspiele, Botola 2, Frauen, Jugend). Werkzeuge: WebSearch und WebFetch (Shell-Zugriff auf Webseiten ist gesperrt, nur GitHub erreichbar; bei 403 oder DNS-Fehlern die nächste Quelle nehmen).
 
-- Werkzeuge: WebSearch und WebFetch. Gute arabische Quellen: sportnador.com, hesport.com, elbotola.com, msport.ma, sport7.ma,
-  almountakhab.com, 365scores.com, btolat.com, kooora.com, agadir24.info, radiomars.ma. Manche Seiten liefern 403 – dann die nächste nehmen.
-  Der Shell-Zugriff auf Webseiten ist gesperrt, nur GitHub ist erreichbar.
-- **Beendete Spiele:** Endergebnis muss in **mindestens 2 unabhängigen Quellen** stehen. Bei Widerspruch gilt die Mehrheit.
-  Bleibt es unklar, das Spiel **nicht** als beendet aufnehmen.
-- **Torschützen:** nur mit **vollem arabischem Namen (Vor- und Nachname)** und Minute, geschrieben wie in der Mehrheit der Quellen.
-  Formate der Minute: `26'`, `90+2'`, Elfmeter `39' ض.ج`, Eigentor `12' عكسي`. Unsicheres weglassen.
-  Sind nicht alle Torschützen des Tages sicher mit vollem Namen bekannt, zeigt das Video automatisch überall nur die Minuten.
-  Das ist gewollt.
-- **Nicht beendete / nicht gespielte Spiele** der Runde(n) der beendeten Spiele mit `status` markieren:
-  `live` (läuft noch), `postponed` (offiziell verlegt), `not_played` (noch nicht ausgetragen).
-- Sind im Fenster **keine** Botola-Pro-Spiele beendet worden (spielfreier Tag, Länderspielpause, Verlegungen):
-  **STOPP. Nichts erzeugen, nichts posten, nichts pushen.** Kurze Meldung „Keine Spiele in den letzten 24 Stunden“.
+- **Quellen:** pro Endergebnis **mindestens 5, höchstens 8 unabhängige Quellen**, bevorzugt https://www.sofascore.com/ und https://www.fotmob.com/de. Weitere: sportnador.com, hesport.com, elbotola.com, msport.ma, sport7.ma, almountakhab.com, 365scores.com, btolat.com, kooora.com, mapsport.ma. Bei Widerspruch gilt die Mehrheit; bleiben weniger als 5 Quellen oder ist es unklar, das Spiel nicht aufnehmen.
+- **Torschützen:** nur mit vollem arabischem Namen (Vor- und Nachname) und Minute, wie in der Mehrheit der Quellen. Formate: `26'`, `90+2'`, Elfmeter `39' ض.ج`, Eigentor `12' عكسي`. Unsicheres weglassen. Sind nicht alle Torschützen des Tages sicher bekannt, zeigt das Video überall nur Minuten (gewollt).
+- **Nicht beendete Spiele** der betroffenen Runde(n) mit `status` markieren: `live`, `postponed` (offiziell verlegt), `not_played`.
+- **Keine beendeten Spiele im Fenster:** **STOPP**. Nichts erzeugen, posten oder pushen; Meldung „Keine Spiele in den letzten 24 Stunden“.
 
 ## 2. day.json schreiben und Video bauen
 
-Schema und Beispiel stehen im Kopf von `botola-video/finalize.py`. Vereinsnamen dürfen in gängigen Schreibweisen
-(arabisch oder lateinisch) stehen, sie werden über `botola-video/wappen_map.json` vereinheitlicht.
+Schema und Beispiel stehen im Kopf von `botola-video/finalize.py`. Vereinsnamen werden über `botola-video/wappen_map.json` vereinheitlicht.
 
 ```bash
 cd botola-video
 python3 finalize.py build /tmp/day.json
 ```
 
-- `date` = Datum, an dem die meisten der beendeten Spiele stattfanden (nur für die Anzeige im Video).
-- `FEHLER`, `KONFLIKT` oder `ABBRUCH` in der Ausgabe: Quellen erneut prüfen und beheben. Gelingt das nicht → **STOPP**, nichts posten,
-  Grund melden. Bei `KONFLIKT` steht in `season_results.json` ein anderes Ergebnis als gemeldet: beide Angaben neu prüfen, nie blind überschreiben.
-- Steht im Log `WARNUNG: keine Tracks`, ist keine Musik im Ordner `Video/` → **STOPP** und melden (der synthetische Notbehelf wird nicht veröffentlicht).
-- **Tabelle gegenprüfen:** Die Tabelle wird aus `season_results.json` berechnet. Vergleiche die Punkte jedes Vereins mit einer externen Tabelle
-  (btolat.com, 365scores.com, almountakhab.com). Unterschiede sind nur erlaubt, wenn dort ein laufendes Spiel mitgezählt wird.
-  Fehlt ein Ergebnis einer früheren Runde, trage es in `season_results.json` nach (`{"round":N,"home":..,"away":..,"score":[h,a]}`), nachdem es in
-  2 Quellen bestätigt ist, und baue neu. Bleibt eine Abweichung ungeklärt → **STOPP**.
-- **Video ansehen:** Mit ffmpeg einzelne Bilder ausgeben (z. B. bei 1,5 s, in der Mitte der ersten Spielkarte, in der Tabelle bei ca. Dauer minus 8 s)
-  und mit Read prüfen: Text nicht abgeschnitten, Wappen vorhanden (ein Initialen-Kreis bedeutet: Wappen fehlt, in der Meldung erwähnen),
-  Tabelle mit 16 Zeilen. Auffälligkeiten beheben oder STOPP.
+`date` = Datum der meisten beendeten Spiele (nur Anzeige). Ergebnisse früherer Runden, die in `season_results.json` fehlen, vorher dort nachtragen (`{"round":N,"home":..,"away":..,"score":[h,a]}`, belegt) und dann bauen.
 
-Ergebnis: `botola-video/out/botola-<Lauf-Tag>.mp4`, `botola-video/out/caption.txt` (arabische Bildunterschrift, ohne Links), `botola-video/out/summary.json`.
+**STOPP** (nichts posten, Grund melden) bei:
+- `FEHLER`, `KONFLIKT`, `ABBRUCH` in der Ausgabe, die sich nicht beheben lassen. Bei `KONFLIKT` beide Angaben neu prüfen, nie blind überschreiben.
+- `WARNUNG: keine Tracks` (keine Musik in `Video/`; der Notbehelf wird nicht veröffentlicht).
+- Ungeklärter Unterschied zwischen berechneter Tabelle und einer externen Tabelle (sofascore, fotmob, btolat, 365scores, almountakhab). Erlaubt nur, wenn dort ein laufendes Spiel mitgezählt wird.
+
+**Video ansehen:** per ffmpeg Einzelbilder (ca. 1,5 s, Mitte der ersten Spielkarte, Tabelle bei Dauer minus 8 s) ausgeben und mit Read prüfen: Text nicht abgeschnitten, Wappen vorhanden (Initialen-Kreis = Wappen fehlt, melden), Tabelle mit 16 Zeilen. Auffälligkeiten beheben oder STOPP.
+
+Ergebnis: `botola-video/out/botola-<Lauf-Tag>.mp4`, `out/caption.txt` (arabisch, ohne Links), `out/summary.json`.
 
 ## 3. Video hochladen (Branch `video-out` = öffentliche URL)
 
-GitHub Releases sind in dieser Umgebung gesperrt. Stattdessen liegt das Video im Orphan-Branch `video-out` (nur Videos, keine Code-Historie).
+GitHub Releases sind gesperrt; das Video liegt im Orphan-Branch `video-out`.
 
 ```bash
 RUN=<Lauf-Tag>
 git fetch origin video-out
 rm -rf /tmp/vo && git worktree add /tmp/vo FETCH_HEAD -B video-out
 cp botola-video/out/botola-$RUN.mp4 /tmp/vo/
-# Videos älter als 7 Tage entfernen (Dateinamen botola-YYYY-MM-DD.mp4)
+# Videos älter als 7 Tage entfernen
 cd /tmp/vo && for f in botola-20*.mp4; do d=${f#botola-}; d=${d%.mp4}; [ "$d" \< "$(date -d '7 days ago' +%F)" ] && git rm -q "$f"; done
 git rm -q --ignore-unmatch botola-test-*.mp4
 git add -A && git commit -q -m "Tagesvideo $RUN"   # plus Attributionszeilen laut Systemvorgabe
@@ -84,57 +69,30 @@ curl -sIL "$URL" | grep -iE "^HTTP|content-length"
 cd - && git worktree remove --force /tmp/vo
 ```
 
-Schlägt der Push wegen neuer Commits fehl: neu holen, rebasen, einmal wiederholen. Die Abfrage muss mit HTTP 200 enden (kurz warten und einmal wiederholen).
-Getestet: Metricool übernimmt diese URL (Feed-Reel und Story, Entwurf-Test 2026-10-04 erfolgreich).
+Push abgelehnt: neu holen, rebasen, einmal wiederholen. Die Abfrage muss mit HTTP 200 enden (einmal kurz warten und wiederholen).
 
-## 4. An Metricool übergeben
+## 4. Über Buffer einplanen
 
-1. `getBrandSettings`: Es muss `id` = 7182798 sein, `networksData.facebookData` = `476343148890228` und `networksData.instagramData` = `moroccanfootballandfutsal`.
-   Weicht etwas ab → **STOPP** (nichts posten), melden. Die Zeitzone für `publicationDate` kommt aus den Marken-Einstellungen.
-2. **Veröffentlichungszeit:** **sofort nach dem Erstellen**: jetzt plus 10 Minuten (Berliner Zeit, `TZ=Europe/Berlin date`), also kurz nach 00:30 Uhr. Kein Warten auf eine Morgenzeit.
-3. Zwei Beiträge mit `createScheduledPost` (`blogId` = `7182798`, `date` = ISO mit Offset, `autoPublish` true, `draft` false, `media` = `[URL]`):
+Fest verwendete IDs (kein `list_channels`, `get_account`, `edit_post`, `delete_post`; nur bei „Organization not found“ oder unbekanntem Kanal einmal `get_account`/`list_channels` und im Bericht melden):
 
-   **A) Feed (Facebook-Video-Post + Instagram-Reel mit Anzeige im Feed)**, Text = Inhalt von `caption.txt`:
-   ```json
-   {"providers":[{"network":"facebook"},{"network":"instagram"}],
-    "facebookData":{"type":"POST"},
-    "instagramData":{"type":"REEL","showReelOnFeed":true}}
-   ```
-   **B) Story (Facebook und Instagram)**, **ohne Text**, 5 Minuten nach A (also jetzt plus 15 Minuten):
-   ```json
-   {"providers":[{"network":"facebook"},{"network":"instagram"}],
-    "facebookData":{"type":"STORY"},
-    "instagramData":{"type":"STORY"}}
-   ```
-   Restliche Felder wie in der Werkzeugbeschreibung (`publicationDate` mit `timezone`, `shortener` false, `smartLinkData` `{"ids":[]}`, `descendants` `[]`).
-4. Danach `getScheduledPosts` für den Zeitraum aufrufen und prüfen, dass **beide** Beiträge angelegt sind.
-5. Lehnt Metricool ab (Medienformat, Instagram-Konto ohne Business-Verknüpfung, …): höchstens **einmal** bei erkennbar vorübergehenden Fehlern wiederholen,
-   sonst **STOPP** und die Fehlermeldung wörtlich melden. Keine anderen Parameter raten.
+| Was | ID |
+|---|---|
+| Organisation „My organization“ (Europe/Berlin) | `6ac8f8ef5d2b1343a7943fde` |
+| Facebook-Seite | `6ac8f9916a5c39ccb6620a50` |
+| Instagram „moroccanfootballandfutsal“ | `6ac8f9b76a5c39ccb6620bc0` |
 
-### 4b. Rückfall auf Buffer, wenn das Metricool-Limit erreicht ist (Nutzerwunsch 07.10.2026)
+1. **Slot-Prüfung:** ein `list_posts` (organizationId, channelIds `["6ac8f9916a5c39ccb6620a50"]`, `dueAt` von jetzt bis jetzt plus 2 Tage, ISO mit Offset, `first` 100); Antwort per Python auswerten. Keine Minute belegen, die dort schon belegt ist.
+2. **Zeiten** (Berliner Zeit, ISO mit Offset, in der Zukunft): Feed = jetzt plus 10 Minuten (ggf. auf freie Minute verschieben); Instagram-Story = 5 Minuten nach dem Feed.
+3. **Drei `create_post`** mit `mode` `customScheduled`, `schedulingType` `automatic`, Asset `{"video":{"url":<Raw-URL aus Schritt 3>,"metadata":{"title":"<kurzer arabischer Titel>"}}}`:
 
-**Auslöser (eins von beiden):**
-- Vor dem Anlegen: `getScheduledPosts` (letzte 24 Stunden bis 3 Tage voraus, `extendedRange` true) zeigt bei einem Beitrag `status` "ERROR" mit `detailedStatus` wie „You have reached your Metricool account limit.“ → direkt Buffer, Metricool gar nicht erst versuchen.
-- Metricool meldet das Limit oft erst zum Veröffentlichungszeitpunkt, nicht beim Anlegen. Daher nach dem Anlegen und nach der Veröffentlichungszeit (warten bis 2 Minuten danach) noch einmal `getScheduledPosts` prüfen; steht dort der Limit-Fehler, dieselben Beiträge über Buffer anlegen (Zeit: jetzt plus 5 Minuten).
-- Oder `createScheduledPost` lehnt direkt ab, weil das Kontingent/Guthaben erschöpft ist, z. B. Fehlermeldung mit
-„limit“, „quota“, „credits“, „plan“, „upgrade“, „exceeded“, „límite“, „límite alcanzado“, HTTP 402 oder 429.
-Andere Fehler (Medienformat, Konto) lösen **keinen** Wechsel aus, dort gilt Punkt 5 oben.
+   | Reihenfolge | Kanal | `metadata` | Text |
+   |---|---|---|---|
+   | 1. Facebook-Feed | Facebook | `facebook: {"type":"post"}` (nie `linkAttachment`) | Inhalt von `caption.txt` |
+   | 2. Instagram-Reel | Instagram | `instagram: {"type":"reel","shouldShareToFeed":true}` | Inhalt von `caption.txt` |
+   | 3. Instagram-Story | Instagram | `instagram: {"type":"story","shouldShareToFeed":false,"link":"https://facebook.com/476343148890228"}` | ohne Text |
 
-**Ablauf:**
-1. Mit `getScheduledPosts` prüfen, welche Beiträge in Metricool schon angelegt sind. Nur die **fehlenden** über Buffer anlegen, nichts doppelt.
-2. Tools laden: ToolSearch `select:mcp__Buffer__create_post,mcp__Buffer__list_posts`. Nur `create_post` (und bei unklarem Ausgang einmal `list_posts`), kein list_channels/get_account.
-   Feste IDs: organizationId `6ac68e7c60b8422dfb9949c5`; Facebook-Seite channelId `6ac6ce5c6a5c39ccb6482791`; Instagram channelId `6ac6ce7d6a5c39ccb6482832` (neues Buffer-Konto seit 07.10.2026).
-3. Buffer braucht je Netzwerk einen eigenen Eintrag, also bis zu vier `create_post` mit `mode` "customScheduled", `schedulingType` "automatic",
-   `dueAt` ISO mit Offset (gleiche Zeiten wie oben: Feed jetzt plus 10 Minuten, Stories 5 Minuten später), Asset `{"video":{"url":URL,"metadata":{"title":"<kurzer arabischer Titel>"}}}`:
-   - Facebook-Feed: `metadata.facebook {"type":"post"}`, Text = Caption
-   - Instagram-Reel: `metadata.instagram {"type":"reel","shouldShareToFeed":true}`, Text = Caption
-   - Facebook-Story: `metadata.facebook {"type":"story"}`, ohne Text
-   - Instagram-Story: `metadata.instagram {"type":"story","shouldShareToFeed":false,"link":"https://facebook.com/476343148890228"}`, ohne Text
-     (lehnt Buffer den `link` ab: einmal ohne `link` anlegen)
-4. Buffer-Free-Tarif: höchstens 10 geplante Einträge pro Kanal. Meldet Buffer ein volles Kontingent oder einen getrennten Kanal: diesen Eintrag weglassen und melden.
-   Ist auch Buffer nicht erreichbar oder voll: **STOPP**, nichts weiter versuchen.
-5. Das Anlegen über Buffer ist erlaubt und ändert die Buffer-Automatik nicht (deren Anleitung bleibt unangetastet).
-6. Abschlussmeldung: deutlich „Metricool-Limit erreicht → über Buffer gepostet“ mit der wörtlichen Metricool-Fehlermeldung und je Eintrag, ob er in Metricool oder Buffer liegt.
+   Lehnt Buffer den `link` der Story ab: einmal ohne `link` anlegen und melden.
+4. **Fehler:** Schlägt der Facebook-Feed endgültig fehl, die anderen Einträge **nicht** anlegen. Eindeutige Fehler nicht unverändert wiederholen; bei unklarem Ausgang einmal `list_posts` prüfen. Free-Tarif: höchstens 10 geplante Einträge pro Kanal; bei voller Warteschlange oder getrenntem Kanal den betroffenen Eintrag weglassen und melden. Ist Buffer nicht erreichbar: **STOPP**.
 
 ## 5. Abschluss
 
@@ -145,13 +103,13 @@ git commit -m "Botola-Tagesvideo <Lauf-Tag>: Ergebnisse und Log"   # plus Attrib
 git push origin HEAD:main
 ```
 
-Schlägt der Push wegen neuer Commits fehl: `git fetch origin main`, `git rebase FETCH_HEAD`, einmal erneut pushen.
-Abschlussmeldung (3–5 Zeilen): wie viele Spiele, Veröffentlichungszeit, die `plannerUrl`s, Auffälligkeiten.
+Push abgelehnt: `git fetch origin main`, `git rebase FETCH_HEAD`, einmal erneut pushen.
+
+**Bericht** (3–5 Zeilen, Deutsch): Anzahl Spiele, Veröffentlichungszeit, je Eintrag (Facebook-Feed, Instagram-Reel, Instagram-Story) Buffer-ID oder Fehlertext, Auffälligkeiten. Keine Facebook-Story-Zeilen.
 
 ## Regeln
 
-- Nur Botola Pro. Nur Spiele mit Quellenbeleg. Keine Quellen-Links in Bildunterschriften.
-- Bei jedem STOPP: nichts posten, nichts pushen, nichts am Metricool-Konto ändern.
+- Nur Botola Pro, nur Spiele mit Quellenbeleg, keine Quellen-Links in Bildunterschriften.
+- Bei jedem STOPP: nichts posten, nichts pushen.
 - Die bestehende Buffer-Automatik (stündliche Foto-Posts) nicht anfassen.
-- Neue Wappen: PNG in `Wappen/` legen und in `botola-video/wappen_map.json` den Dateinamen mit arabischem Namen (erster Eintrag) und Alternativschreibweisen eintragen.
-- Neue Musik: MP3 in `Video/` legen. Mehrere Dateien werden nach Datum durchgewechselt.
+- Neue Wappen: PNG in `Wappen/` legen, in `botola-video/wappen_map.json` Dateiname mit arabischem Namen (erster Eintrag) und Alternativschreibweisen eintragen. Neue Musik: MP3 in `Video/` (mehrere werden nach Datum durchgewechselt).
