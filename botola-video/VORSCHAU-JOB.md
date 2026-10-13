@@ -1,8 +1,8 @@
 # Botola-Vorschau-Job (kommender Spieltag)
 
 Läuft täglich als geplante Aufgabe in einer frischen Umgebung. Er erzeugt **einmal pro Runde** ein Vorschau-Video mit den
-Begegnungen der nächsten Runde der **Botola Pro Inwi**. Design und Musik sind dieselben wie beim Tagesvideo. Das Video wird über **Metricool**
-auf Facebook (Feed-Video + Story) und Instagram (Reel im Feed + Story) eingeplant. Gibt es nichts zu tun, passiert **nichts**.
+Begegnungen der nächsten Runde der **Botola Pro Inwi**. Design und Musik sind dieselben wie beim Tagesvideo. Das Video wird über **Buffer**
+als Facebook-Feed-Video, Instagram-Reel (Feed) und Instagram-Story eingeplant (keine Facebook-Story). Gibt es nichts zu tun, passiert **nichts**.
 
 Antworte dem Nutzer auf Deutsch, knapp. Erfinde nichts: keine Termine, Uhrzeiten oder Paarungen ohne Quelle.
 
@@ -10,7 +10,7 @@ Antworte dem Nutzer auf Deutsch, knapp. Erfinde nichts: keine Termine, Uhrzeiten
 
 1. Repo `wadiib1-ops/Images4SocialMedia` unter `/home/claude/images4socialmedia`. Fehlt es: `mcp__claude-code-remote__add_repo`
    (owner `wadiib1-ops`, repo `Images4SocialMedia`, access `push`), `git clone --depth 1` (großzügiges Timeout) und `register_repo_root`.
-2. Metricool-Werkzeuge laden (ToolSearch): `select:mcp__Metricool_Social_Media_Management__getBrandSettings,mcp__Metricool_Social_Media_Management__createScheduledPost,mcp__Metricool_Social_Media_Management__getScheduledPosts`
+2. Buffer-Tools laden (ToolSearch): `select:mcp__Buffer__list_posts,mcp__Buffer__create_post`
 3. Prüfen: `ffmpeg -version`, `python3 -c "import PIL, numpy, scipy"`; fehlt etwas: `pip install --break-system-packages pillow numpy scipy`.
 4. Zeit: `TZ=Europe/Berlin date`.
 
@@ -59,15 +59,12 @@ Wie beim Tagesvideo (JOB.md Abschnitt 3), Dateiname `botola-vorschau-rundeN.mp4`
 (`botola-vorschau-runde*.mp4` mit kleinerer Nummer als N-2) mit `git rm` entfernen. Commit „Vorschauvideo Runde N“ plus Attributionszeilen.
 URL: `https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-vorschau-rundeN.mp4`, muss HTTP 200 liefern.
 
-## 4. An Metricool übergeben
+## 4. Über Buffer einplanen
 
-Genau wie JOB.md Abschnitt 4 (Markenprüfung 7182798 / 476343148890228 / moroccanfootballandfutsal, Zeitzone aus getBrandSettings):
-- **A) Feed** jetzt plus 10 Minuten: providers facebook + instagram, `facebookData {"type":"POST"}`,
-  `instagramData {"type":"REEL","showReelOnFeed":true}`, Text = `out/caption-vorschau.txt`.
-- **B) Story** 5 Minuten nach A, **ohne Begleittext**, Text steht im Video (story_text.py, siehe JOB.md Abschnitt 2b; Nutzerwunsch 13.10.2026): `facebookData {"type":"STORY"}`, `instagramData {"type":"STORY"}`.
-- Danach `getScheduledPosts` prüfen. Ablehnung: höchstens einmal bei vorübergehendem Fehler wiederholen, sonst STOPP mit wörtlicher Fehlermeldung.
-- Getestet am 05.10.2026 (Runde 3): beide Beiträge angenommen.
-- **Metricool-Limit erreicht** (Kontingent/Guthaben erschöpft): genau wie JOB.md Abschnitt 4b auf **Buffer** wechseln (nur fehlende Beiträge, Caption aus `out/caption-vorschau.txt`).
+Genau wie JOB.md Abschnitt 4 (feste IDs, Slot-Prüfung, Fehlerregeln), mit Video-URL aus Abschnitt 3:
+- **Facebook-Feed** und **Instagram-Reel** jetzt plus 10 Minuten, Text = `out/caption-vorschau.txt`.
+- **Instagram-Story** 5 Minuten später, **ohne Begleittext**; der Text steht im Video (`story_text.py`, JOB.md Abschnitt 2b; Nutzerwunsch 13.10.2026).
+- Schlägt der Facebook-Feed endgültig fehl, die anderen Einträge nicht anlegen.
 
 ## 5. Abschluss
 
@@ -79,7 +76,7 @@ git push origin HEAD:main
 ```
 
 Push-Konflikt: `git fetch origin main`, `git rebase FETCH_HEAD`, einmal erneut pushen.
-Abschlussmeldung (3–5 Zeilen): Runde, Anzahl Spiele, Zeitraum, Veröffentlichungszeiten, die `plannerUrl`s, Quellen, Auffälligkeiten.
+Abschlussmeldung (3–5 Zeilen): Runde, Anzahl Spiele, Zeitraum, Veröffentlichungszeiten, je Eintrag Buffer-ID oder Fehlertext, Quellen, Auffälligkeiten.
 
 ## Regeln
 
