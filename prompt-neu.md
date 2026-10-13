@@ -129,10 +129,10 @@ Lehnt Buffer den link ab, den Eintrag einmal ohne link anlegen und melden. Story
 
 | Eintrag | Stufen | Max. create_post |
 |---|---|---|
-| Facebook-Feed (Foto) | 1 Musik-Video → 2 Foto-LOGO-URL → 3 Foto ohne Logo ("Logo-URL abgelehnt, Foto ohne Logo") → 4 Kandidat 2 mit Logo, dann ohne Logo → 5 Entwurf (Regel F). Ohne Musik-Video (5.1 misslungen) beginnt es bei Stufe 2. | 5 (ohne Musik: 4) |
+| Facebook-Feed (Foto) | 1 Musik-Video → 2 Foto-LOGO-URL → 3 Foto ohne Logo ("Logo-URL abgelehnt, Foto ohne Logo") → 4 Kandidat 2 mit Logo, dann ohne Logo → 5 Entwurf (Regel F). Das Musik-Video zählt als einer der 4 Versuche; ohne Musik-Video (5.1 misslungen) beginnt es bei Stufe 2 und es bleiben 4 Foto-Versuche. | 4 insgesamt, Musik-Video eingerechnet |
 | Facebook-Feed (Quell-Video) | 1 Video → 2 Foto Kandidat 1 (LOGO-URL) → 3 Foto Kandidat 2 (LOGO-URL) → 4 Entwurf | 3 |
-| Instagram-Feed | 1 Musik-Video/Quell-Video als Reel → 2 Foto: LOGO-URL (Seitenverhältnis 0.8–1.91) oder INSTAGRAM-URL, Typ "post" → 3 rotes FEED-Bild (auch wenn Buffer die LOGO-URL ablehnt; Abschnitt 5.3) | 3 |
-| Instagram-Story | 1 Musik-Video/Quell-Video → 2 STORY-URL mit Bildtext (ohne Text) → 3 STORY-URL ohne Bildtext (mit Text) → 4 Facebook-Foto-Adresse (LOGO-URL oder Original, mit Text) → 5 rotes STORY-Bild (ohne Text). Ohne Foto-Kandidat: sonst rotes Bild, sonst melden | 5 |
+| Instagram-Feed | 1 Musik-Video/Quell-Video als Reel → 2 Foto: LOGO-URL (Seitenverhältnis 0.8–1.91) oder INSTAGRAM-URL, Typ "post" → 3 rotes FEED-Bild (auch wenn Buffer die LOGO-URL ablehnt; Abschnitt 5.3) | 2 insgesamt |
+| Instagram-Story | 1 Musik-Video/Quell-Video → 2 STORY-URL mit Bildtext (ohne Text) → 3 STORY-URL ohne Bildtext (mit Text) → 4 Facebook-Foto-Adresse (LOGO-URL oder Original, mit Text) → 5 rotes STORY-Bild (ohne Text). Ohne Foto-Kandidat: sonst rotes Bild, sonst melden | 4 insgesamt (Stufen überspringen, wenn die Grenze erreicht ist) |
 
 Musste der Facebook-Feed-Post ohne Logo auskommen, nehmen Instagram-Story und Instagram-Post ebenfalls die Original-Foto-Adresse ohne Logo (keine STORY-/INSTAGRAM-URL, kein Auffüllen, kein Bildtext); die Story hat dann keinen eingebauten Text und bekommt INSTAGRAM-STORY-TEXT. Passt das Seitenverhältnis für Instagram dann nicht, gilt das rote FEED-Bild. Das Logo wird nie doppelt aufgesetzt; kein Logo bekommen Videos, rote Textbilder, Hintergrundbilder und eigene Bilder des Nutzers.
 Schlägt der Facebook-Feed als Video UND als Foto endgültig fehl: die anderen beiden Einträge nicht anlegen.
