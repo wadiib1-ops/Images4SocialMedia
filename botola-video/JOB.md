@@ -7,7 +7,7 @@ Läuft täglich um **00:30 Uhr (Europe/Berlin)** als geplante Aufgabe in frische
 2. Instagram-Feed (Reel)
 3. Instagram-Story (Video)
 
-Es gibt **keine Facebook-Story**. Metricool wird nicht verwendet. Ohne Spiele passiert nichts.
+Es gibt **keine Facebook-Story**. Ohne Spiele passiert nichts.
 
 Antworten auf Deutsch, knapp. Nichts erfinden: keine Ergebnisse, Namen oder Minuten ohne Quelle. Text im Video und in Beiträgen immer **Arabisch**.
 
