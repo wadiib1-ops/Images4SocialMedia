@@ -70,9 +70,9 @@ def main():
     args = ap.parse_args()
 
     measure = ImageDraw.Draw(Image.new("RGBA", (W, H)))
-    title_font = ImageFont.truetype(FONT, 80)
-    cta_font = ImageFont.truetype(FONT, 52)
-    tag_font = ImageFont.truetype(FONT, 42)
+    title_font = ImageFont.truetype(FONT, 58)
+    cta_font = ImageFont.truetype(FONT, 38)
+    tag_font = ImageFont.truetype(FONT, 30)
     max_w = W - 2 * MARGIN
 
     # Blöcke: (Zeilen, Schrift, Farbe, Zeilenabstand, Abstand davor)
@@ -85,15 +85,15 @@ def main():
         blocks.append((wrap(measure, args.tags, tag_font, max_w), tag_font,
                        (255, 255, 255, 230), 10, 36))
 
-    pad = 60
+    pad = 36
     total = pad * 2
     for lines, font, _, gap, before in blocks:
         total += before + len(lines) * (font.size + gap)
     if total > 1000:
         raise SystemExit("Text zu lang für die Story: Titel oder CTA kürzen")
 
-    # Streifen zentriert im unteren Drittel (Mitte bei ca. 1420 px)
-    box_top = 1420 - total // 2
+    # Streifen zentriert im unteren Drittel (Mitte bei ca. 1540 px)
+    box_top = 1540 - total // 2
     box_bottom = box_top + total
 
     img = Image.new("RGBA", (W, H), (0, 0, 0, 0))
