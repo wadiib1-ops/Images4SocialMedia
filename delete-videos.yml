@@ -1,0 +1,45 @@
+name: MP4 Videos automatisch loeschen
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Läuft jeden Tag um Mitternacht
+  workflow_dispatch: # Erlaubt es dir, den Job jederzeit manuell zu starten
+
+jobs:
+  cleanup-videos:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Code auschecken
+      uses: actions/checkout@v4
+
+    - name: Passende MP4 Dateien suchen und loeschen
+      run: |
+        # Festgelegter Zielordner
+        TARGET_DIR="botola-video"
+        
+        # Prüfen, ob der Ordner überhaupt existiert
+        if [ -d "$TARGET_DIR" ]; then
+          echo "Suche im Ordner '$TARGET_DIR' nach MP4-Dateien..."
+          
+          # -mtime +9 erfasst Dateien, die älter als genau 10 Tage sind
+          # Filtert exakt nach Namen, die mit botola oder musik beginnen und auf .mp4 enden
+          find "$TARGET_DIR" -type f -mtime +9 \( -name "botola*.mp4" -o -name "musik*.mp4" \) -print -delete
+        else
+          echo "Ordner '$TARGET_DIR' existiert nicht. Abruch."
+        fi
+
+    - name: Aenderungen hochladen
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@://github.com"
+        
+        git add .
+        if ! git diff --staged --quiet; then
+          git commit -m "System: MP4-Dateien in botola-video/ automatisch aufgeräumt"
+          git push
+        else
+          echo "Keine veralteten Dateien zum Löschen gefunden."
+        fi
