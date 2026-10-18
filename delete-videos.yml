@@ -15,20 +15,43 @@ jobs:
     - name: Code auschecken
       uses: actions/checkout@v4
 
-    - name: Passende MP4 Dateien suchen und loeschen
+    - name: Passende MP4 Dateien suchen, loeschen und protokollieren
       run: |
-        # Festgelegter Zielordner
         TARGET_DIR="botola-video"
+        LOG_FILE="$TARGET_DIR/cleanup_history.log"
         
-        # Prüfen, ob der Ordner überhaupt existiert
+        # Prüfen, ob der Ordner existiert
         if [ -d "$TARGET_DIR" ]; then
-          echo "Suche im Ordner '$TARGET_DIR' nach MP4-Dateien..."
+          echo "Starte Bereinigung im Ordner '$TARGET_DIR'..."
           
-          # -mtime +9 erfasst Dateien, die älter als genau 10 Tage sind
-          # Filtert exakt nach Namen, die mit botola oder musik beginnen und auf .mp4 enden
-          find "$TARGET_DIR" -type f -mtime +9 \( -name "botola*.mp4" -o -name "musik*.mp4" \) -print -delete
+          # Aktuelles Datum und Uhrzeit im Format DD.MM.YYYY HH:MM:SS (deutsche Zeit/Europe/Berlin) holen
+          export TZ="Europe/Berlin"
+          CURRENT_TIME=$(date "+%d.%m.%Y %H:%M:%S")
+          
+          # Temporäre Liste für gefundene Dateien erstellen
+          find "$TARGET_DIR" -type f -mtime +5 \( -name "botola*.mp4" -o -name "musik*.mp4" \) > deleted_files.txt
+          
+          # Wenn Dateien gefunden wurden, diese protokollieren und löschen
+          if [ -s deleted_files.txt ]; then
+            echo "[$CURRENT_TIME] Folgende Dateien wurden gelöscht:" >> "$LOG_FILE"
+            
+            while IFS= read -r file; do
+              # In die Log-Datei schreiben
+              echo "  - $file" >> "$LOG_FILE"
+              # Datei tatsächlich löschen
+              rm "$file"
+            done < deleted_files.txt
+            
+            echo "--------------------------------------------------" >> "$LOG_FILE"
+            echo "Löschungen erfolgreich in $LOG_FILE protokolliert."
+          else
+            echo "Keine veralteten Dateien zum Löschen gefunden."
+          fi
+          
+          # Temporäre Datei aufräumen
+          rm -f deleted_files.txt
         else
-          echo "Ordner '$TARGET_DIR' existiert nicht. Abruch."
+          echo "Ordner '$TARGET_DIR' existiert nicht. Abbruch."
         fi
 
     - name: Aenderungen hochladen
@@ -38,8 +61,8 @@ jobs:
         
         git add .
         if ! git diff --staged --quiet; then
-          git commit -m "System: MP4-Dateien in botola-video/ automatisch aufgeräumt"
+          git commit -m "System: MP4-Dateien automatisch aufgeräumt & Log aktualisiert"
           git push
         else
-          echo "Keine veralteten Dateien zum Löschen gefunden."
+          echo "Keine Änderungen (weder Dateien gelöscht noch Log verändert)."
         fi
