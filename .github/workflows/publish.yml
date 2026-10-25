@@ -1,0 +1,43 @@
+name: Veröffentlichung Facebook und Instagram
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # alle 15 Minuten
+  workflow_dispatch: # manueller Start möglich
+
+concurrency:
+  group: publisher
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Code auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Beiträge veröffentlichen und protokollieren
+        env:
+          META_USER_TOKEN: ${{ secrets.META_USER_TOKEN }}
+        run: python3 publisher/publish.py
+
+      - name: Warteschlange und Protokoll zurückschreiben
+        run: |
+          git config user.name "publisher-bot"
+          git config user.email "publisher-bot@users.noreply.github.com"
+          git add publisher/queue.json publisher/log.jsonl
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen."
+          else
+            git commit -m "Veröffentlichungslauf $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

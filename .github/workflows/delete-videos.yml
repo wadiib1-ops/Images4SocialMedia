@@ -1,0 +1,65 @@
+name: MP4 Videos automatisch loeschen
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Läuft jeden Tag um Mitternacht (UTC)
+  workflow_dispatch: # Erlaubt es, den Job jederzeit manuell zu starten
+
+concurrency:
+  group: video-out
+  cancel-in-progress: false
+
+# WICHTIG: Dieser Job arbeitet NUR auf dem Branch video-out und löscht NUR *.mp4.
+# Die Musik-Tracks (Video/*.mp3 auf main) und alles andere auf main werden nie angefasst.
+
+jobs:
+  cleanup-videos:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Branch video-out auschecken
+      uses: actions/checkout@v4
+      with:
+        ref: video-out
+        fetch-depth: 0
+
+    - name: MP4 Dateien aelter als 2 Tage loeschen und protokollieren
+      run: |
+        export TZ="Europe/Berlin"
+        LOG_FILE="cleanup_history.log"
+        LIMIT=$(( $(date +%s) - 2*24*3600 ))
+        : > deleted_files.txt
+
+        # Alter nach dem Zeitpunkt des letzten Commits der Datei (die Datei-Zeit nach dem Checkout ist immer "jetzt")
+        git ls-files '*.mp4' | while IFS= read -r file; do
+          ts=$(git log -1 --format=%ct -- "$file")
+          if [ -n "$ts" ] && [ "$ts" -lt "$LIMIT" ]; then
+            echo "$file" >> deleted_files.txt
+          fi
+        done
+
+        if [ -s deleted_files.txt ]; then
+          echo "[$(date '+%d.%m.%Y %H:%M:%S')] Folgende Dateien wurden gelöscht:" >> "$LOG_FILE"
+          while IFS= read -r file; do
+            echo "  - $file" >> "$LOG_FILE"
+            git rm -q -- "$file"
+          done < deleted_files.txt
+          echo "--------------------------------------------------" >> "$LOG_FILE"
+        else
+          echo "Keine veralteten Dateien zum Löschen gefunden."
+        fi
+        rm -f deleted_files.txt
+
+    - name: Aenderungen hochladen
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add -A
+        if ! git diff --staged --quiet; then
+          git commit -m "System: MP4-Dateien älter als 2 Tage entfernt"
+          git push origin HEAD:video-out
+        else
+          echo "Keine Änderungen."
+        fi
