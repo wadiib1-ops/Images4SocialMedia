@@ -1,0 +1,65 @@
+[
+  {
+    "id": "test-20261025-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/INSTA_Short_Image_dunkel.jpg",
+    "caption": "",
+    "status": "published",
+    "titel": "Test Veröffentlicher",
+    "quelle_url": "test-20261025",
+    "meta_id": "18091802576225873",
+    "published_at": "2026-10-25T21:53:47.288748+00:00"
+  },
+  {
+    "id": "test-20261025-fb-photo",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/INSTA_Short_Image_dunkel.jpg",
+    "caption": "Test Veröffentlicher",
+    "status": "published",
+    "titel": "Test Veröffentlicher FB",
+    "quelle_url": "test-20261025-fb",
+    "meta_id": "122221786664577271",
+    "published_at": "2026-10-25T21:55:22.415546+00:00"
+  },
+  {
+    "id": "20261025-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/l_logo_wappen/c_scale,fl_relative,w_0.14/fl_layer_apply,g_north_west,x_0.025,y_0.025/f_jpg,q_90/https://alyaoum24.com/content/uploads/2026/10/FB_IMG_1792959922623_edit_649101714125457.jpg",
+    "caption": "🟢 الجيش الملكي يتأهل إلى دور مجموعات كأس الكونفدرالية الإفريقية!\n\nفاز الفريق العسكري على كورهوغو الإيفواري 2-1 في الرباط. سجل يوسف الفهلي من ركلة جزاء في الدقيقة 6، وعادل كورهوغو في الدقيقة 52، ثم حسم أنس باش اللقاء في الدقيقة 84.\n\nما رأيكم في أداء الجيش الملكي؟\n\nL'AS FAR file en phase de groupes de la Coupe de la Confédération CAF !\n\nLes Militaires s'imposent 2-1 face à Korhogo, à Rabat. Youssef El Fahli ouvre le score sur penalty (6e), Korhogo égalise (52e), puis Anas Bach offre la victoire (84e).\n\nQue pensez-vous de la prestation de l'AS FAR ?\n\n#الجيش_الملكي #كأس_الكونفدرالية #ASFAR",
+    "status": "published",
+    "publish_at": "2026-10-25T22:20:00+00:00",
+    "titel": "الجيش الملكي يتأهل إلى دور مجموعات كأس الكونفدرالية",
+    "quelle_url": "https://alyaoum24.com/2053105.html",
+    "meta_id": "122221789334577271",
+    "published_at": "2026-10-25T22:21:33.485923+00:00"
+  },
+  {
+    "id": "20261025-1-ig-reel",
+    "platform": "instagram",
+    "type": "feed",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261025-2300-1-reel-text.mp4",
+    "caption": "⚽🔥 الجيش الملكي في دور المجموعات!\n\nفوز 2-1 على كورهوغو في الرباط بفضل هدف الفهلي من ركلة جزاء وهدف أنس باش في الدقيقة 84. الكونفدرالية تنتظر العساكر! 💪\n\n⚽ L'AS FAR est en phase de groupes ! Victoire 2-1 contre Korhogo à Rabat grâce au penalty d'El Fahli et au but d'Anas Bach à la 84e. La Confédération attend les Militaires ! 🔥\n\n#الجيش_الملكي #كأس_الكونفدرالية #كرة_القدم_المغربية #ASFAR #CAF",
+    "status": "published",
+    "publish_at": "2026-10-25T22:20:00+00:00",
+    "titel": "الجيش الملكي يتأهل إلى دور مجموعات كأس الكونفدرالية",
+    "quelle_url": "https://alyaoum24.com/2053105.html",
+    "meta_id": "18099107354561146",
+    "published_at": "2026-10-25T22:22:05.635529+00:00"
+  },
+  {
+    "id": "20261025-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261025-2300-1-story-text.mp4",
+    "caption": "",
+    "status": "published",
+    "publish_at": "2026-10-25T22:20:00+00:00",
+    "titel": "الجيش الملكي يتأهل إلى دور مجموعات كأس الكونفدرالية",
+    "quelle_url": "https://alyaoum24.com/2053105.html",
+    "meta_id": "18032171612914975",
+    "published_at": "2026-10-25T22:22:05.635529+00:00"
+  }
+]
