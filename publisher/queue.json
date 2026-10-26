@@ -908,5 +908,105 @@
     "runde": 5,
     "meta_id": "17998878813110255",
     "published_at": "2026-10-26T11:45:21.770885+00:00"
+  },
+  {
+    "id": "20261026-14-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/l_logo_wappen/c_scale,fl_relative,w_0.14/fl_layer_apply,g_north_west,x_0.025,y_0.025/f_jpg,q_90/https://www.lesiteinfo.com/wp-content/uploads/2026/10/nbi.jpg",
+    "caption": "نصر الدين نبي يبدأ مشواره مع الوداد بالتركيز على الجانب البدني.\n\nبحسب ما نُشر، لاحظ المدرب خلال أول حصة تدريبية نقصا بدنيا لدى بعض اللاعبين، فقرر مع طاقمه رفع وتيرة العمل البدني.\n\nويرى أن التحضير القوي، إلى جانب العمل التقني والتكتيكي، سيساعد الفريق على التطور. وكان الفوز على اتحاد تواركة بهدف نظيف أول مباراة له على رأس الإدارة التقنية.\n\nهل ينجح نبي في إعادة الوداد إلى أفضل مستوياته؟\n\nNasreddine Nabi débute chez le Wydad en misant sur le physique.\n\nLors de sa première séance, le coach a relevé des lacunes physiques chez certains joueurs et a décidé, avec son staff, d'intensifier le travail athlétique. Il compte l'associer au travail technique et tactique pour faire progresser le groupe. Sa première sortie s'est soldée par une victoire 1-0 contre l'Union Touarga.\n\nNabi peut-il remettre le Wydad au top ?\n\n#الوداد #البطولة_الاحترافية #Wydad",
+    "status": "now",
+    "titel": "نصر الدين نبي يشدد العمل البدني في الوداد بعد أول حصة تدريبية",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685527-wydad-nabi-prepare-une-remise-en-forme-du-groupe.html"
+  },
+  {
+    "id": "20261026-14-1-ig-photo",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/l_logo_wappen/c_scale,fl_relative,w_0.14/fl_layer_apply,g_north_west,x_0.025,y_0.025/f_jpg,q_90/https://www.lesiteinfo.com/wp-content/uploads/2026/10/nbi.jpg",
+    "caption": "🔥 أول قرار لنبي مع الوداد: عمل بدني أقوى!\n\nبعد أول حصة تدريبية، لاحظ المدرب نقصا بدنيا عند بعض اللاعبين، فرفع الإيقاع مع طاقمه 💪\n\nالهدف: فريق أكثر جاهزية يجمع بين القوة والتكتيك والتقنية ⚽️ وبدأ نبي مشواره بفوز 1-0 على اتحاد تواركة.\n\n🔥 La première décision de Nabi au Wydad : plus de physique !\n\nDès la première séance, le coach a vu des lacunes athlétiques et a durci la préparation 💪 Objectif : un groupe plus affûté, avec du technique et du tactique. Sa première : victoire 1-0 face à l'Union Touarga ⚽️\n\n#الوداد #نبي #Botola #Wydad #كرة_القدم",
+    "status": "now",
+    "titel": "نصر الدين نبي يشدد العمل البدني في الوداد بعد أول حصة تدريبية",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685527-wydad-nabi-prepare-une-remise-en-forme-du-groupe.html"
+  },
+  {
+    "id": "20261026-14-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-1336-1-reel-text.mp4",
+    "caption": "🔥 أول قرار لنبي مع الوداد: عمل بدني أقوى!\n\nبعد أول حصة تدريبية، لاحظ المدرب نقصا بدنيا عند بعض اللاعبين، فرفع الإيقاع مع طاقمه 💪\n\nالهدف: فريق أكثر جاهزية يجمع بين القوة والتكتيك والتقنية ⚽️ وبدأ نبي مشواره بفوز 1-0 على اتحاد تواركة.\n\n🔥 La première décision de Nabi au Wydad : plus de physique !\n\nDès la première séance, le coach a vu des lacunes athlétiques et a durci la préparation 💪 Objectif : un groupe plus affûté, avec du technique et du tactique. Sa première : victoire 1-0 face à l'Union Touarga ⚽️\n\n#الوداد #نبي #Botola #Wydad #كرة_القدم",
+    "status": "now",
+    "titel": "نصر الدين نبي يشدد العمل البدني في الوداد بعد أول حصة تدريبية",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685527-wydad-nabi-prepare-une-remise-en-forme-du-groupe.html"
+  },
+  {
+    "id": "20261026-14-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-1336-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "نصر الدين نبي يشدد العمل البدني في الوداد بعد أول حصة تدريبية",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685527-wydad-nabi-prepare-une-remise-en-forme-du-groupe.html"
+  },
+  {
+    "id": "20261026-14-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-1336-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "نصر الدين نبي يشدد العمل البدني في الوداد بعد أول حصة تدريبية",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685527-wydad-nabi-prepare-une-remise-en-forme-du-groupe.html"
+  },
+  {
+    "id": "20261026-14-2-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/l_logo_wappen/c_scale,fl_relative,w_0.14/fl_layer_apply,g_north_west,x_0.025,y_0.025/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/HJKMO5D5KVBBVLSGMTPVCOTVIE.jpg%3Fauth%3Dd2fc98a92e48c8c343a2a79ab848e36fdb6bf89528b643cdd92b3bb710de136c%26smart%3Dtrue%26width%3D1216%26height%3D684",
+    "caption": "الرابطة الوطنية لكرة القدم الاحترافية غيّرت ملعب مباراة الرجاء أمام حسنية أكادير.\n\nاللقاء ضمن الجولة الخامسة من البطولة الاحترافية سيجرى الأربعاء على الساعة السادسة مساء بملعب العربي الزاولي بالدار البيضاء، بدل المركب محمد الخامس.\n\nالسبب هو أشغال صيانة عشب المركب.\n\nكيف تتوقعون نتيجة المباراة؟\n\nLa LNPFL a changé le stade du match Raja - Hassania d'Agadir.\n\nCe match de la 5e journée de Botola se jouera mercredi à 18h au stade Larbi Zaouli de Casablanca, et non au Complexe Mohammed V, dont la pelouse est en travaux d'entretien.\n\nQuel est votre pronostic ?\n\n#الرجاء #البطولة_الاحترافية #Raja",
+    "status": "now",
+    "titel": "الرجاء يستقبل حسنية أكادير الأربعاء بملعب العربي الزاولي بدل المركب",
+    "quelle_url": "https://ar.sport.le360.ma/football/HIUWX63C65GM5E5VLJO6QCS6CE/"
+  },
+  {
+    "id": "20261026-14-2-ig-photo",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/l_logo_wappen/c_scale,fl_relative,w_0.14/fl_layer_apply,g_north_west,x_0.025,y_0.025/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/HJKMO5D5KVBBVLSGMTPVCOTVIE.jpg%3Fauth%3Dd2fc98a92e48c8c343a2a79ab848e36fdb6bf89528b643cdd92b3bb710de136c%26smart%3Dtrue%26width%3D1216%26height%3D684",
+    "caption": "📍 تغيير في ملعب مباراة الرجاء!\n\nالرجاء يلاقي حسنية أكادير الأربعاء على الساعة 18:00 بملعب العربي الزاولي 🏟️\n\nالسبب: أشغال صيانة عشب المركب محمد الخامس 🌱 المباراة ضمن الجولة الخامسة من البطولة 🔥\n\n📍 Changement de stade pour le Raja !\n\nRaja - Hassania d'Agadir, mercredi à 18h au stade Larbi Zaouli 🏟️ La pelouse du Complexe Mohammed V est en travaux 🌱 Rendez-vous pour la 5e journée de Botola 🔥\n\n#الرجاء #حسنية_أكادير #Raja #Botola #كرة_القدم",
+    "status": "now",
+    "titel": "الرجاء يستقبل حسنية أكادير الأربعاء بملعب العربي الزاولي بدل المركب",
+    "quelle_url": "https://ar.sport.le360.ma/football/HIUWX63C65GM5E5VLJO6QCS6CE/"
+  },
+  {
+    "id": "20261026-14-2-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-1336-2-reel-text.mp4",
+    "caption": "📍 تغيير في ملعب مباراة الرجاء!\n\nالرجاء يلاقي حسنية أكادير الأربعاء على الساعة 18:00 بملعب العربي الزاولي 🏟️\n\nالسبب: أشغال صيانة عشب المركب محمد الخامس 🌱 المباراة ضمن الجولة الخامسة من البطولة 🔥\n\n📍 Changement de stade pour le Raja !\n\nRaja - Hassania d'Agadir, mercredi à 18h au stade Larbi Zaouli 🏟️ La pelouse du Complexe Mohammed V est en travaux 🌱 Rendez-vous pour la 5e journée de Botola 🔥\n\n#الرجاء #حسنية_أكادير #Raja #Botola #كرة_القدم",
+    "status": "now",
+    "titel": "الرجاء يستقبل حسنية أكادير الأربعاء بملعب العربي الزاولي بدل المركب",
+    "quelle_url": "https://ar.sport.le360.ma/football/HIUWX63C65GM5E5VLJO6QCS6CE/"
+  },
+  {
+    "id": "20261026-14-2-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-1336-2-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الرجاء يستقبل حسنية أكادير الأربعاء بملعب العربي الزاولي بدل المركب",
+    "quelle_url": "https://ar.sport.le360.ma/football/HIUWX63C65GM5E5VLJO6QCS6CE/"
+  },
+  {
+    "id": "20261026-14-2-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-1336-2-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الرجاء يستقبل حسنية أكادير الأربعاء بملعب العربي الزاولي بدل المركب",
+    "quelle_url": "https://ar.sport.le360.ma/football/HIUWX63C65GM5E5VLJO6QCS6CE/"
   }
 ]
