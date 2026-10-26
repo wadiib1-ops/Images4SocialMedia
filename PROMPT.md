@@ -39,9 +39,7 @@ G. Schlägt der Facebook-Feed-Eintrag nach der Prüfung (Abschnitt 5) endgültig
 H. Musik-Tracks im Ordner Video/ werden nie gelöscht oder verändert.
 
 4. EINTRÄGE JE MELDUNG
- - Facebook-Feed | platform facebook, type photo, image_url = LOGO-URL (Abschnitt 5); bei Quell-Video type video mit video_url | caption FACEBOOK-TEXT (arabisch + französisch, höchstens 3 Hashtags, keine Quellenzeile).
- - Instagram-Reel | platform instagram, type feed, video_url = Reel-Video mit mitlaufendem Text (Abschnitt 8) | caption INSTAGRAM-TEXT (arabisch + französisch, genau 5 Hashtags, unter 2200 Zeichen).
- - Instagram-Story | platform instagram, type story, video_url = Story-Video mit Text im Video (Abschnitt 8) | caption leer. Instagram zeigt den Begleittext von Stories nicht an, deshalb steht der Text IM Video.
+ - Die sechs Einträge je Meldung mit Typen und Texten stehen in CLAUDE-Routine.md (FB photo, IG photo, FB reel, IG reel, FB story, IG story). FACEBOOK-TEXT: arabisch + französisch, höchstens 3 Hashtags; INSTAGRAM-TEXT: arabisch + französisch, genau 5 Hashtags, unter 2200 Zeichen; Stories ohne Begleittext (Text im Video, Abschnitt 8); keine Quellenzeile.
 Rückfälle (je Eintrag, nur wenn der Eintrag nicht anlegbar ist; das Scheitern von Reel oder Story stoppt den Facebook-Eintrag nicht):
  - Facebook-Foto: erst LOGO-URL, bei Fehler die Original-Foto-Adresse ohne Logo, dann Kandidat 2 mit Logo und ohne Logo (höchstens 4 Versuche). Alles fehlgeschlagen: Regel F.
  - Reel und Story: Video nicht baubar oder nicht hostbar: Eintrag weglassen und im Bericht melden.
