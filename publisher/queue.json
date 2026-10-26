@@ -1037,7 +1037,8 @@
     "publish_at": "2026-10-26T13:49:00+01:00",
     "titel": "برنامج الجولة 6 من البطولة الاحترافية إنوي للقسم الثاني",
     "quelle_url": "https://www.365scores.com/en-us/football/league/botola-2-5651",
-    "status": "scheduled"
+    "status": "paused",
+    "hinweis": "Lauf 12:49Z hat veröffentlicht, Zurückschreiben scheiterte (Push abgelehnt); nicht erneut senden"
   },
   {
     "id": "20261026-botola2-vorschau-r6-ig-feed",
@@ -1048,7 +1049,8 @@
     "publish_at": "2026-10-26T13:49:00+01:00",
     "titel": "برنامج الجولة 6 من البطولة الاحترافية إنوي للقسم الثاني",
     "quelle_url": "https://www.365scores.com/en-us/football/league/botola-2-5651",
-    "status": "scheduled"
+    "status": "paused",
+    "hinweis": "Lauf 12:49Z hat veröffentlicht, Zurückschreiben scheiterte (Push abgelehnt); nicht erneut senden"
   },
   {
     "id": "20261026-botola2-vorschau-r6-ig-reel",
@@ -1059,7 +1061,8 @@
     "publish_at": "2026-10-26T13:49:00+01:00",
     "titel": "برنامج الجولة 6 من البطولة الاحترافية إنوي للقسم الثاني",
     "quelle_url": "https://www.365scores.com/en-us/football/league/botola-2-5651",
-    "status": "scheduled"
+    "status": "paused",
+    "hinweis": "Lauf 12:49Z hat veröffentlicht, Zurückschreiben scheiterte (Push abgelehnt); nicht erneut senden"
   },
   {
     "id": "20261026-botola2-vorschau-r6-ig-story",
