@@ -1936,5 +1936,55 @@
     "titel": "رسميا: مباراة الرجاء وحسنية أكادير تنتقل إلى ملعب العربي الزاولي",
     "quelle_url": "https://www.lesiteinfo.com/sport/685545-officiel-le-match-raja-husa-naura-pas-lieu-au-complexe-mohammed-v.html",
     "error": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"User is performing too many actions\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":9,\"error_subcode\":2207042,\"error_user_title\":\"Limit f\\u00fcr die Ver\\u00f6ffentlichung von Medien \\u00fcberschritten\",\"error_user_msg\":\"Du hast die maximal zul\\u00e4ssige Anzahl an durch die Content Publishing API ver\\u00f6ffentlichten Beitr\\u00e4gen erreicht.\",\"fbtrace_id\":\"Aywrr4AwRRtmcUgHL_yf_Nc\"}}"
+  },
+  {
+    "id": "20261026-2125-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/l_logo_wappen/c_scale,fl_relative,w_0.14/fl_layer_apply,g_north_west,x_0.025,y_0.025/f_jpg,q_90/https://static.kifache.com/content/uploads/2026/05/2LBO4ZBNSVFVRLTJOF6VVWNCTU.jpg",
+    "caption": "براهيم دياز غاب عن الكلاسيكو أمام برشلونة، فلم يكن ضمن التشكيلة الأساسية ولا على دكة البدلاء.\n\nالمدرب مورينيو لم يمنح اللاعب المغربي أي دقيقة في المباراة، ويقال إن دوره في ريال مدريد يتراجع، فيما تتحدث تقارير عن اهتمام أندية أوروبية به.\n\nمستقبل اللاعب مع النادي الملكي يبقى مفتوحا. برأيكم، هل يبقى أم يرحل؟\n\nBrahim Díaz n'a pas joué le Clásico contre le Barça : ni dans le onze de départ, ni sur le banc.\n\nMourinho ne lui a offert aucune minute. Son rôle semble s'amenuiser au Real Madrid et la presse évoque l'intérêt de clubs européens. Son avenir reste incertain. Selon vous, doit-il rester ou partir ?\n\n#براهيم_دياز #أسود_الأطلس #Maroc",
+    "status": "now",
+    "titel": "براهيم دياز خارج حسابات مورينيو في الكلاسيكو أمام برشلونة",
+    "quelle_url": "https://kifache.com/%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85-%d8%af%d9%8a%d8%a7%d8%b2-%d8%ae%d8%a7%d8%b1%d8%ac-%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%8a%d9%88-%d9%81%d9%8a-%d8%a7%d9%84%d9%83/"
+  },
+  {
+    "id": "20261026-2125-1-ig-photo",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261026-2125-1.jpg",
+    "caption": "😮 براهيم دياز خارج الحسابات في الكلاسيكو!\n\nلا بداية أساسية ولا دقيقة من دكة البدلاء أمام برشلونة 🔥 مورينيو تجاهل نجم الأسود، ومستقبله في ريال مدريد صار محل نقاش ⚽\n\nBrahim Díaz absent du Clásico, ni titulaire ni remplaçant 😮 Mourinho ne l'a pas fait jouer et son avenir au Real est en question.\n\n#براهيم_دياز #ريال_مدريد #أسود_الأطلس #BrahimDiaz #Maroc",
+    "status": "now",
+    "titel": "براهيم دياز خارج حسابات مورينيو في الكلاسيكو أمام برشلونة",
+    "quelle_url": "https://kifache.com/%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85-%d8%af%d9%8a%d8%a7%d8%b2-%d8%ae%d8%a7%d8%b1%d8%ac-%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%8a%d9%88-%d9%81%d9%8a-%d8%a7%d9%84%d9%83/"
+  },
+  {
+    "id": "20261026-2125-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-2125-1-reel-text.mp4",
+    "caption": "😮 براهيم دياز خارج الحسابات في الكلاسيكو!\n\nلا بداية أساسية ولا دقيقة من دكة البدلاء أمام برشلونة 🔥 مورينيو تجاهل نجم الأسود، ومستقبله في ريال مدريد صار محل نقاش ⚽\n\nBrahim Díaz absent du Clásico, ni titulaire ni remplaçant 😮 Mourinho ne l'a pas fait jouer et son avenir au Real est en question.\n\n#براهيم_دياز #ريال_مدريد #أسود_الأطلس #BrahimDiaz #Maroc",
+    "status": "now",
+    "titel": "براهيم دياز خارج حسابات مورينيو في الكلاسيكو أمام برشلونة",
+    "quelle_url": "https://kifache.com/%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85-%d8%af%d9%8a%d8%a7%d8%b2-%d8%ae%d8%a7%d8%b1%d8%ac-%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%8a%d9%88-%d9%81%d9%8a-%d8%a7%d9%84%d9%83/"
+  },
+  {
+    "id": "20261026-2125-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-2125-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "براهيم دياز خارج حسابات مورينيو في الكلاسيكو أمام برشلونة",
+    "quelle_url": "https://kifache.com/%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85-%d8%af%d9%8a%d8%a7%d8%b2-%d8%ae%d8%a7%d8%b1%d8%ac-%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%8a%d9%88-%d9%81%d9%8a-%d8%a7%d9%84%d9%83/"
+  },
+  {
+    "id": "20261026-2125-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-2125-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "براهيم دياز خارج حسابات مورينيو في الكلاسيكو أمام برشلونة",
+    "quelle_url": "https://kifache.com/%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85-%d8%af%d9%8a%d8%a7%d8%b2-%d8%ae%d8%a7%d8%b1%d8%ac-%d8%ad%d8%b3%d8%a7%d8%a8%d8%a7%d8%aa-%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%8a%d9%88-%d9%81%d9%8a-%d8%a7%d9%84%d9%83/"
   }
 ]
