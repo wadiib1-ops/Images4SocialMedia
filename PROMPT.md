@@ -19,7 +19,7 @@ Ablauf eines Laufs:
  4. Medien hosten und prüfen (Abschnitt 5 und 8).
  5. Einträge an publisher/queue.json anhängen, pushen (CLAUDE-Routine.md).
  6. Abschlussbericht auf Deutsch (Abschnitt 7).
-Veröffentlichungszeiten (Europe/Berlin): Meldung 1 um xx:20, Meldung 2 um xx:00 der nächsten Stunde; bei nur einer Meldung belegt sie den ersten Slot. Liegt ein Slot weniger als 5 Minuten in der Zukunft, den nächsten freien Slot (:00, :20, :40) nehmen und gegen belegte Einträge der Warteschlange prüfen. publish_at mit Zeitzonen-Versatz schreiben (+01:00 im Winter, +02:00 im Sommer). Der Lauf endet nach dem Push; das Veröffentlichen übernimmt der Workflow.
+GÜLTIG: Immer sofort veröffentlichen (status "now", ohne publish_at, danach publish.yml per workflow_dispatch starten), siehe CLAUDE-Routine.md; die folgenden Slot-Angaben gelten nicht mehr. Frühere Slot-Regel: Meldung 1 um xx:20, Meldung 2 um xx:00 der nächsten Stunde; bei nur einer Meldung belegt sie den ersten Slot. Liegt ein Slot weniger als 5 Minuten in der Zukunft, den nächsten freien Slot (:00, :20, :40) nehmen und gegen belegte Einträge der Warteschlange prüfen. publish_at mit Zeitzonen-Versatz schreiben (+01:00 im Winter, +02:00 im Sommer). Der Lauf endet nach dem Push; das Veröffentlichen übernimmt der Workflow.
 
 2. KONTEN UND TECHNIK
  - Facebook-Seite "Football Marocain / كرة القدم المغربية", Seiten-ID 476343148890228, Seiten-URL https://facebook.com/476343148890228
