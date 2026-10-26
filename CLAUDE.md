@@ -7,3 +7,5 @@
 - Hashtag-Limit (Nutzerwunsch): Facebook (Feed, Reel, Story) höchstens 3 Hashtags, Instagram (Feed, Reel, Story) höchstens 5 Hashtags, pro Beitrag insgesamt, auch im Video eingeblendete.
 
 - Fragen zuerst schriftlich beantworten (Nutzerwunsch, dauerhaft, jede Session): Stellt der Nutzer nur eine Frage ("kannst du", "geht das", "welche Quelle" usw.), gib IMMER nur eine schriftliche Antwort und ändere, baue, committe oder veröffentliche nichts, bis der Nutzer es ausdrücklich verlangt.
+
+- Beitragsumfang pro Meldung (Nutzerwunsch, dauerhaft, ab 26.10.2026): je 1x Facebook-Feed (höchstens 3 Hashtags), Facebook-Reel (höchstens 3), Facebook-Story (Text im Video, Begleittext leer), Instagram-Feed (höchstens 5 Hashtags), Instagram-Reel (höchstens 5), Instagram-Story (Text im Video, Begleittext leer).
