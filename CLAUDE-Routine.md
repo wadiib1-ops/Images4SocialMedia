@@ -10,14 +10,14 @@ Ich (Claude) lege die Beiträge in `publisher/queue.json` ab. Der GitHub-Workflo
 - Instagram-Konto: 17841410500657352
 - Zugang: Das Geheimnis `META_USER_TOKEN` liegt in den GitHub-Repo-Settings und wird nur vom Workflow gelesen. Das Token nie ausgeben, nie in Dateien, Logs oder Chat schreiben.
 
-## Pro Meldung sechs Einträge, gleiche Zeit (Reihenfolge einhalten; Änderung 26.10.2026)
+## Pro Meldung fünf Einträge, gleiche Zeit (Reihenfolge einhalten; Änderung 26.10.2026: Facebook-Reel entfällt dauerhaft)
 1. Facebook-Feed: `platform: "facebook"`, `type: "photo"` (`image_url` = LOGO-URL nach PROMPT.md Abschnitt 5) oder `"video"` (`video_url`, bei Quell-Video). Text FACEBOOK-TEXT (AR+FR, höchstens 3 Hashtags).
 2. Instagram-Feed: `platform: "instagram"`, `type: "photo"` mit derselben `image_url` (LOGO-URL; wenn Cloudinary die Quelle nicht laden kann, Foto mit aufgesetztem Logo in `images/` ablegen). Text INSTAGRAM-TEXT (AR+FR, genau 5 Hashtags). Bei Quell-Video entfällt dieser Eintrag.
-3. Facebook-Reel: `platform: "facebook"`, `type: "reel"`, `video_url` = `musik-<Zeit>-<n>-reel-text.mp4`. Text FACEBOOK-TEXT (höchstens 3 Hashtags).
+3. (entfällt) Es wird KEIN Facebook-Reel mehr erstellt.
 4. Instagram-Reel: `platform: "instagram"`, `type: "reel"`, gleiche `video_url`. Text INSTAGRAM-TEXT (genau 5 Hashtags). (Der Instagram-Feed ist das Foto aus Punkt 2, deshalb `reel` statt `feed`.)
 5. Facebook-Story: `platform: "facebook"`, `type: "story"`, `video_url` = `musik-<Zeit>-<n>-story-text.mp4`, `caption` leer.
 6. Instagram-Story: `platform: "instagram"`, `type: "story"`, gleiche `video_url`, `caption` leer. Einen Link-Sticker gibt die API nicht her, er entfällt.
-Alle sechs tragen dieselbe `quelle_url`, denselben `titel` und dieselbe Zeit. Hinweis: `publish.py` (Facebook-Reel und -Story, Instagram-Foto) wurde am 26.10.2026 ergänzt; nach dem ersten Lauf das Log auf Fehler prüfen und melden.
+Alle fünf tragen dieselbe `quelle_url`, denselben `titel` und dieselbe Zeit. Hinweis: `publish.py` (Facebook-Reel und -Story, Instagram-Foto) wurde am 26.10.2026 ergänzt; nach dem ersten Lauf das Log auf Fehler prüfen und melden.
 
 ## Format eines Eintrags in publisher/queue.json
 ```json
@@ -69,7 +69,7 @@ Antworten auf Deutsch, knapp. Keine Zusatzaktionen außer den oben genannten Sch
 - Schreibt der Nutzer im Chat "starte jetzt" (oder Ähnliches): sofort loslegen, ohne Wartezeiten. Alle Einträge bekommen `status: "now"` (kein `publish_at`), und nach dem Push startet der Workflow `publish.yml` sofort per workflow_dispatch (GitHub-Tool `actions_run_trigger`, ref main), statt auf den 15-Minuten-Takt zu warten. Dann das Ergebnis in `publisher/log.jsonl` prüfen.
 - Manueller Start (verbindlich, dauerhaft): Wird die Routine vom Nutzer von Hand gestartet (Button/„Jetzt ausführen“, Chat-Aufforderung, Prompt ohne Zeitplan-Kennzeichnung „[SCHEDULED TASK …]“), werden die gefundenen Ergebnisse sofort nach Fertigstellung veröffentlicht: Einträge mit `status: "now"` (ohne `publish_at`), nach dem Push `publish.yml` per workflow_dispatch starten und das Ergebnis in `publisher/log.jsonl` prüfen. Keine Slots, kein Warten. Das gilt für alle künftigen manuellen Starts.
 - Im automatischen (geplanten) Lauf bekommen die Einträge `status: "scheduled"` mit `publish_at` nach den Slots aus PROMPT.md. Nach dem Push der Einträge ist der Lauf zu Ende: NICHT auf die Uhrzeit warten, nicht pollen. Das Veröffentlichen übernimmt der Workflow.
-- Mehrere Einträge einer Meldung (sechs Einträge) tragen dieselbe `quelle_url`; `publish.py` wertet sie nicht als Dubletten.
+- Mehrere Einträge einer Meldung (fünf Einträge) tragen dieselbe `quelle_url`; `publish.py` wertet sie nicht als Dubletten.
 
 ## Parallele Arbeitsweise (verbindlich, um Zeit zu sparen)
 1. Gleich zu Beginn in EINEM Schritt parallel: Python-Umgebung im Hintergrund bauen (`python3 -m venv /tmp/venv && /tmp/venv/bin/pip install -q pillow arabic-reshaper python-bidi`, weil das System-Pillow defekt ist), `git fetch origin main video-out` und die Dublettenprüfung gegen `publisher/queue.json`/`log.jsonl`.
