@@ -2,7 +2,7 @@
 
 Läuft täglich um **00:30 Uhr (Europe/Berlin)** als geplante Aufgabe in frischer Umgebung; alles Nötige (Code, Wappen, Musik, Ergebnisliste) liegt in diesem Repo.
 
-**Ziel:** Wurden in den letzten 24 Stunden Spiele der **Botola Pro** (1. Liga Marokko) beendet, wird ein Video erzeugt und über **Buffer** eingeplant (Reihenfolge):
+**Ziel:** Wurden in den letzten 24 Stunden Spiele der **Botola Pro** (1. Liga Marokko) beendet, wird ein Video erzeugt und direkt über die Meta Graph API (Veröffentlicher `publisher/`, ohne Buffer) veröffentlicht (Reihenfolge):
 1. Facebook-Feed (Video)
 2. Instagram-Feed (Reel)
 3. Instagram-Story (Video)
@@ -16,7 +16,7 @@ Antworten auf Deutsch, knapp. Nichts erfinden: keine Ergebnisse, Namen oder Minu
 ## 0. Vorbereitung
 
 1. Repo `wadiib1-ops/Images4SocialMedia` (öffentlich) muss in der Sitzung verfügbar sein. Sonst `mcp__claude-code-remote__add_repo` (owner `wadiib1-ops`, repo `Images4SocialMedia`, access `push`), `git clone --depth 1`, `register_repo_root`. Alle Pfade sind relativ zur Repo-Wurzel.
-2. Buffer-Tools laden: ToolSearch `select:mcp__Buffer__list_posts,mcp__Buffer__create_post`.
+2. Kein Buffer. Veröffentlicht wird über `publisher/queue.json` und den Workflow `publish.yml` (Regeln in `CLAUDE-Routine.md`; Token `META_USER_TOKEN` nie ausgeben).
 3. Prüfen: `ffmpeg -version` und `python3 -c "import PIL, numpy, scipy"`; fehlt Python-Seitiges: `python3 -m pip install --break-system-packages pillow numpy scipy`.
 4. Zeit: `TZ=Europe/Berlin date`. **Lauf-Tag** = heutiges Berliner Datum, **Fenster** = jetzt minus 24 Stunden bis jetzt.
 5. Doppelpost-Sperre: `cd botola-video && python3 finalize.py check-posted <Lauf-Tag>`. Exit 0 = schon gepostet → **STOPP**, kurze Meldung.
@@ -83,28 +83,17 @@ cd - && git worktree remove --force /tmp/vo
 
 Push abgelehnt: neu holen, rebasen, einmal wiederholen. Die Abfrage muss mit HTTP 200 enden (einmal kurz warten und wiederholen).
 
-## 4. Über Buffer einplanen
+## 4. Direkt veröffentlichen (ohne Buffer)
 
-Fest verwendete IDs (kein `list_channels`, `get_account`, `edit_post`, `delete_post`; nur bei „Organization not found“ oder unbekanntem Kanal einmal `get_account`/`list_channels` und im Bericht melden):
+Konten: Facebook-Seite `476343148890228`, Instagram `17841410500657352` (siehe `CLAUDE-Routine.md`). Es werden drei Einträge an `publisher/queue.json` angehängt (vorhandene nie ändern), alle mit `status: "now"` ohne `publish_at`, gleiche `titel`, `quelle_url` (Hauptquelle) und `runde`; `id` eindeutig, z. B. `<Lauf-Tag>-botola-fb-feed`:
 
-| Was | ID |
-|---|---|
-| Organisation „My organization“ (Europe/Berlin) | `6ac8f8ef5d2b1343a7943fde` |
-| Facebook-Seite | `6ac8f9916a5c39ccb6620a50` |
-| Instagram „moroccanfootballandfutsal“ | `6ac8f9b76a5c39ccb6620bc0` |
+| Reihenfolge | `platform` / `type` | `video_url` | `caption` |
+|---|---|---|---|
+| 1. Facebook-Feed | `facebook` / `video` | Raw-URL `botola-$RUN.mp4` | Inhalt `caption_fb.txt` (max. 3 Hashtags) |
+| 2. Instagram-Reel | `instagram` / `reel` | Raw-URL `botola-$RUN.mp4` | Inhalt `caption.txt` (max. 5 Hashtags) |
+| 3. Instagram-Story | `instagram` / `story` | Raw-URL `botola-$RUN-story.mp4` | leer (Text ist eingebrannt, Abschnitt 2b) |
 
-1. **Slot-Prüfung:** ein `list_posts` (organizationId, channelIds `["6ac8f9916a5c39ccb6620a50"]`, `dueAt` von jetzt bis jetzt plus 2 Tage, ISO mit Offset, `first` 100); Antwort per Python auswerten. Keine Minute belegen, die dort schon belegt ist.
-2. **Zeiten** (Berliner Zeit, ISO mit Offset, in der Zukunft): Feed = jetzt plus 10 Minuten (ggf. auf freie Minute verschieben); Instagram-Story = 5 Minuten nach dem Feed.
-3. **Drei `create_post`** mit `mode` `customScheduled`, `schedulingType` `automatic`, Asset `{"video":{"url":<Raw-URL aus Schritt 3>,"metadata":{"title":"<kurzer arabischer Titel>"}}}`:
-
-   | Reihenfolge | Kanal | `metadata` | Text |
-   |---|---|---|---|
-   | 1. Facebook-Feed | Facebook | `facebook: {"type":"post"}` (nie `linkAttachment`) | Inhalt von `caption_fb.txt` |
-   | 2. Instagram-Reel | Instagram | `instagram: {"type":"reel","shouldShareToFeed":true}` | Inhalt von `caption.txt` |
-   | 3. Instagram-Story | Instagram | `instagram: {"type":"story","shouldShareToFeed":false,"link":"https://facebook.com/476343148890228"}` | ohne Begleittext; Story-Video `botola-$RUN-story.mp4` mit eingebranntem Text (Abschnitt 2b) |
-
-   Lehnt Buffer den `link` der Story ab: einmal ohne `link` anlegen und melden.
-4. **Fehler:** Schlägt der Facebook-Feed endgültig fehl, die anderen Einträge **nicht** anlegen. Eindeutige Fehler nicht unverändert wiederholen; bei unklarem Ausgang einmal `list_posts` prüfen. Free-Tarif: höchstens 10 geplante Einträge pro Kanal; bei voller Warteschlange oder getrenntem Kanal den betroffenen Eintrag weglassen und melden. Ist Buffer nicht erreichbar: **STOPP**.
+Keine Facebook-Story, kein Link-Sticker. Vor dem Eintrag Raw-URLs per curl prüfen (HTTP 200). Dann `git add publisher/queue.json`, committen, `git push origin HEAD:main` (bei Ablehnung `git pull --rebase origin main`, einmal wiederholen). Direkt danach `publish.yml` per `actions_run_trigger` (ref main) starten und `publisher/log.jsonl` prüfen; Fehler per PushNotification melden. Schlägt der Facebook-Feed fehl, nicht blind neu anlegen, sondern melden.
 
 ## 5. Abschluss
 
@@ -117,13 +106,12 @@ git push origin HEAD:main
 
 Push abgelehnt: `git fetch origin main`, `git rebase FETCH_HEAD`, einmal erneut pushen.
 
-**Bericht** (3–5 Zeilen, Deutsch): Anzahl Spiele, Veröffentlichungszeit, je Eintrag (Facebook-Feed, Instagram-Reel, Instagram-Story) Buffer-ID oder Fehlertext, Auffälligkeiten. Keine Facebook-Story-Zeilen.
+**Bericht** (3–5 Zeilen, Deutsch): Anzahl Spiele, Veröffentlichungszeit, je Eintrag (Facebook-Feed, Instagram-Reel, Instagram-Story) Log-Status oder Fehlertext, Auffälligkeiten. Keine Facebook-Story-Zeilen.
 
 ## Regeln
 
 - **Hashtags:** Facebook (Feed, Reel, Story) höchstens 3, Instagram (Feed, Reel, Story, auch eingebrannt im Story-Video) höchstens 5.
 - Nur Botola Pro, nur Spiele mit Quellenbeleg, keine Quellen-Links in Bildunterschriften.
 - Bei jedem STOPP: nichts posten, nichts pushen.
-- Die bestehende Buffer-Automatik (stündliche Foto-Posts) nicht anfassen.
 - Neue Wappen: PNG in `Wappen/` legen, in `botola-video/wappen_map.json` Dateiname mit arabischem Namen (erster Eintrag) und Alternativschreibweisen eintragen. Neue Musik: MP3 in `Video/` (mehrere werden nach Datum durchgewechselt).
 - Hashtag-Limit (Nutzerwunsch): Facebook (Feed, Reel, Story) höchstens 3 Hashtags, Instagram (Feed, Reel, Story) höchstens 5 Hashtags, pro Beitrag insgesamt, auch im Video eingeblendete.
