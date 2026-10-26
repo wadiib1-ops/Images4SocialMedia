@@ -141,7 +141,7 @@ SPERRE_STUNDEN = 24
 
 
 def bereits_verwendet(entry, queue, now):
-    """Wie bisher bei den Buffer-Routinen: Quelle oder Titel in den letzten 24 Stunden schon veröffentlicht?
+    """Quelle oder Titel in den letzten 24 Stunden schon veröffentlicht?
     Zusätzlich 'runde' für Botola-Beiträge: dieselbe Runde nur einmal.
     Gibt den Grund zurück oder None."""
     fenster = SPERRE_STUNDEN * 3600
