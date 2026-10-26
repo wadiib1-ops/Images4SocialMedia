@@ -3,9 +3,7 @@
 Diese Datei gilt innerhalb der Routine anstelle von CLAUDE.md. Die bestehende CLAUDE.md bleibt unverändert. Wo PROMPT.md und diese Datei sich widersprechen, gilt diese Datei.
 
 ## Grundsatz
-Buffer und Metricool werden NICHT benutzt. Ich (Claude) lege die Beiträge in `publisher/queue.json` ab. Der GitHub-Workflow `.github/workflows/publish.yml` (alle 15 Minuten) veröffentlicht fällige Einträge mit `publisher/publish.py` über die Meta Graph API.
-
-Alle Buffer-Schritte in PROMPT.md (create_post, Buffer-Kanäle, Buffer-Abruf, "Buffer hat das Foto angenommen", Entwurf in Buffer) entfallen und werden durch Einträge in der queue.json ersetzt. Inhalte, Texte, Bilder, Musik-Video, Quellenregeln, 24-Stunden-Regel und Sprachen bleiben wie in PROMPT.md.
+Ich (Claude) lege die Beiträge in `publisher/queue.json` ab. Der GitHub-Workflow `.github/workflows/publish.yml` (alle 15 Minuten) veröffentlicht fällige Einträge mit `publisher/publish.py` über die Meta Graph API. Es wird kein externes Planungswerkzeug benutzt. Inhalte, Texte, Bilder, Musik-Video, Quellenregeln, 24-Stunden-Regel und Sprachen stehen in PROMPT.md.
 
 ## Konten
 - Facebook-Seite: 476343148890228
@@ -16,7 +14,7 @@ Alle Buffer-Schritte in PROMPT.md (create_post, Buffer-Kanäle, Buffer-Abruf, "B
 1. Facebook-Feed: `platform: "facebook"`, `type: "photo"` (`image_url` = LOGO-URL nach PROMPT.md Abschnitt 5) oder `"video"` (`video_url`). Text FACEBOOK-TEXT (AR+FR, höchstens 3 Hashtags).
 2. Instagram-Reel (erscheint auch im Feed): `platform: "instagram"`, `type: "feed"` mit `video_url` = Reel-Video mit mitlaufendem Text (`musik-<Zeit>-<n>-reel-text.mp4`). `type: "feed"` ist hier richtig, weil publish.py nur dann das Reel im Feed zeigt (`reel` wäre nur im Reels-Tab). Text INSTAGRAM-TEXT (AR+FR, genau 5 Hashtags).
 3. Instagram-Story: `type: "story"` mit `video_url` = `musik-<Zeit>-<n>-story-text.mp4` (Text im Video), `caption` leer. Einen Link-Sticker gibt die API nicht her, er entfällt.
-Es gibt keinen separaten Instagram-Foto-Post (PROMPT.md, Nachtrag 24.10.).
+Es gibt keinen separaten Instagram-Foto-Post.
 
 ## Format eines Eintrags in publisher/queue.json
 ```json
