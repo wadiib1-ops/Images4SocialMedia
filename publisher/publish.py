@@ -90,6 +90,8 @@ def publish_instagram(entry, token):
             params["video_url"] = entry["video_url"]
         else:
             params["image_url"] = entry["image_url"]
+    elif kind == "photo":
+        params = {"image_url": entry["image_url"], "caption": entry.get("caption", "")}
     elif kind in ("feed", "reel"):
         params = {
             "media_type": "REELS",
@@ -101,11 +103,40 @@ def publish_instagram(entry, token):
         raise RuntimeError(f"Unbekannter Instagram-Typ: {kind}")
 
     container = call("POST", f"{IG_ID}/media", token, **params)["id"]
-    wait_for_container(container, token)
+    if kind != "photo":
+        wait_for_container(container, token)
     return call("POST", f"{IG_ID}/media_publish", token, creation_id=container)["id"]
 
 
+def page_token(token):
+    return call("GET", PAGE_ID, token, fields="access_token")["access_token"]
+
+
+def publish_facebook_video_upload(entry, token, edge, **finish):
+    """Reel (video_reels) oder Video-Story (video_stories) per file_url hochladen."""
+    ptoken = page_token(token)
+    start = call("POST", f"{PAGE_ID}/{edge}", ptoken, upload_phase="start")
+    video_id = start["video_id"]
+    req = urllib.request.Request(
+        start["upload_url"], method="POST",
+        headers={"Authorization": f"OAuth {ptoken}", "file_url": entry["video_url"]})
+    try:
+        with urllib.request.urlopen(req, timeout=300) as r:
+            r.read()
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", "replace").replace(ptoken, "***")
+        raise RuntimeError(f"Meta-Upload HTTP {e.code}: {body[:500]}")
+    call("POST", f"{PAGE_ID}/{edge}", ptoken, upload_phase="finish", video_id=video_id, **finish)
+    return video_id
+
+
 def publish_facebook(entry, token):
+    if entry["type"] == "reel":
+        return publish_facebook_video_upload(
+            entry, token, "video_reels", video_state="PUBLISHED",
+            description=entry.get("caption", ""))
+    if entry["type"] == "story":
+        return publish_facebook_video_upload(entry, token, "video_stories")
     if entry["type"] == "video":
         res = call("POST", f"{PAGE_ID}/videos", token,
                    file_url=entry["video_url"], description=entry.get("caption", ""))

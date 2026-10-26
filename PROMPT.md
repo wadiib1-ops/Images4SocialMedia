@@ -5,10 +5,13 @@ Lies zuerst vollständig die Datei CLAUDE-Routine.md im selben Repo (Branch main
 
 1. AUFTRAG UND ABLAUF
 Veröffentliche bis zu 2 neue Meldungen pro Lauf auf Arabisch (Beitragstexte zusätzlich auf Französisch, Abschnitt 9) über AKTUELLE Nachrichten zu Fußball oder Futsal mit klarem Marokko-Bezug. Zulässig: Nationalmannschaft und Atlas Lions, Frauen- und Jugendteams, Spieler marokkanischer Herkunft und Diaspora, Botola Pro, marokkanische Klubs und Trainer, Auslandsprofis (auch Futsal), marokkanische Vereine in der CAF Champions League, im CAF Confederation Cup, in Frauen-Wettbewerben und in Futsal-Klubwettbewerben. Kein anderes Thema.
-Pro Meldung entstehen drei Einträge in publisher/queue.json, immer in dieser Reihenfolge und mit derselben Veröffentlichungszeit:
+Pro Meldung entstehen SECHS Einträge in publisher/queue.json (Änderung 26.10.2026, Details in CLAUDE-Routine.md), immer in dieser Reihenfolge und mit derselben Veröffentlichungszeit:
  1. Facebook-Feed: Foto mit Seitenlogo und FACEBOOK-TEXT.
- 2. Instagram-Reel (erscheint auch im Feed): Musik-Video mit mitlaufendem Text und INSTAGRAM-TEXT.
- 3. Instagram-Story: dasselbe Musik-Video mit Schlagzeile und Call to Action im Video, ohne Begleittext.
+ 2. Instagram-Feed: dasselbe Foto mit Logo und INSTAGRAM-TEXT.
+ 3. Facebook-Reel: Musik-Video mit mitlaufendem Text und FACEBOOK-TEXT.
+ 4. Instagram-Reel: dasselbe Video mit INSTAGRAM-TEXT.
+ 5. Facebook-Story: Musik-Video mit Schlagzeile und Call to Action im Video, ohne Begleittext.
+ 6. Instagram-Story: dasselbe Story-Video, ohne Begleittext.
 Ablauf eines Laufs:
  1. Dublettenprüfung (Abschnitt 7).
  2. Recherche, Video- und Fotosuche (Abschnitt 7 und 3).
@@ -29,10 +32,10 @@ Veröffentlichungszeiten (Europe/Berlin): Meldung 1 um xx:20, Meldung 2 um xx:00
 A. Nur Nachrichten der letzten 24 Stunden. Ein Beitrag berichtet nur über ein Ereignis oder eine Meldung, das oder die nachweislich in den letzten 24 Stunden passiert oder veröffentlicht wurde. Datum und Uhrzeit der Quelle prüfen. Ist das Datum nicht eindeutig oder älter, ist die Meldung unbrauchbar. Keine Evergreen-Themen, keine Geschichte, keine Trivia, keine Rückblicke. Gibt es keine frische Meldung, wird nichts veröffentlicht: lieber 0, 1 oder 2 Meldungen als eine veraltete.
 B. Keine URL im Text der Beiträge, kein Link zur Quelle. Bilder und Videos immer als Medien, nie als Link-Vorschau.
 C. Keine Quellenangabe in den Beiträgen. Weder "المصدر: ..." noch "Source : ..." noch ein Quellenname steht in Texten, Video-Titeln oder erzeugten Bildern. Die Quelle wird nur im Abschlussbericht und im Feld quelle_url der Warteschlange genannt.
-D. Video vor Foto. Gibt es zur Meldung ein direktes Video (.mp4 oder .mov, zum Beispiel aus og:video), das nutzbar ist, bleibt es unverändert (Originalton, keine Musik) und wird für alle drei Einträge verwendet. Nicht verwendbar: YouTube-, Facebook-, Instagram-, X-Einbettungen, .m3u8-Playlists, Seiten-URLs, Videos mit fremden Wasserzeichen oder Senderlogos. Bevorzugt: Videos des Verbands (FRMF), von Vereinen oder frei lizenzierte (Wikimedia Commons, Pexels, Pixabay). Ohne plausible Datei-URL gilt die Fotosuche.
+D. Video vor Foto. Gibt es zur Meldung ein direktes Video (.mp4 oder .mov, zum Beispiel aus og:video), das nutzbar ist, bleibt es unverändert (Originalton, keine Musik) und wird für Feed-Video, Reels und Stories verwendet. Nicht verwendbar: YouTube-, Facebook-, Instagram-, X-Einbettungen, .m3u8-Playlists, Seiten-URLs, Videos mit fremden Wasserzeichen oder Senderlogos. Bevorzugt: Videos des Verbands (FRMF), von Vereinen oder frei lizenzierte (Wikimedia Commons, Pexels, Pixabay). Ohne plausible Datei-URL gilt die Fotosuche.
 E. Foto ist Pflicht-Suche (ohne verwendbares Video). Kandidat 1 ist das Artikelfoto der Quellseite (og:image oder großes Artikelfoto), per WebFetch ermittelt. Einen zweiten Kandidaten erst suchen, wenn Kandidat 1 in der Shell nicht ladbar ist: das Artikelfoto einer zweiten Quelle zur selben Meldung, sonst ein frei lizenziertes Bild (Wikimedia Commons, Flickr, Pixabay, Pexels, Europeana). Höchstens 2 Kandidaten pro Meldung.
 F. Kein Video und kein Foto: die Meldung wird nicht veröffentlicht, es wird kein Eintrag angelegt. Im Bericht nennen.
-G. Schlägt der Facebook-Feed-Eintrag nach der Prüfung (Abschnitt 5) endgültig fehl, werden Reel und Story dieser Meldung nicht angelegt.
+G. Schlägt der Facebook-Feed-Eintrag nach der Prüfung (Abschnitt 5) endgültig fehl, werden die übrigen fünf Einträge dieser Meldung nicht angelegt.
 H. Musik-Tracks im Ordner Video/ werden nie gelöscht oder verändert.
 
 4. EINTRÄGE JE MELDUNG
@@ -87,7 +90,7 @@ Findet sich nichts Neues, wird nichts angelegt, und es gibt keine Benachrichtigu
 Abschlussbericht (deutsch, kurz, Zeiten in Berliner Zeit):
  - Je Meldung eine Zeile: Datum und Uhrzeit der Quelle, Quellenname (nur im Bericht), Themenbereich.
  - Video oder Foto (URL, Maße), Logo ja oder nein, geplante Veröffentlichungszeit, Musik-Track (Dateiname) und Startpunkt, ob der Push nach video-out klappte.
- - Nach dem Lauf des Workflows: Status der drei Einträge aus publisher/log.jsonl (veröffentlicht oder Fehlertext).
+ - Nach dem Lauf des Workflows: Status der sechs Einträge aus publisher/log.jsonl (veröffentlicht oder Fehlertext).
  - Fehlgeschlagene oder nicht angelegte Einträge mit Grund; oder dass mangels frischer Meldungen nichts angelegt wurde.
  - Bestätigung, dass alle Texte zweisprachig (AR+FR) vor dem Anlegen fertig waren.
  - Verbrauch: Anzahl Recherche-Abrufe, Fehlschläge, nach welcher Seite gestoppt, Liste der abgerufenen Seiten mit Ergebnis.
