@@ -1315,9 +1315,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261026-1600-1.jpg",
     "caption": "💰 الجامعة تكافئ المغرب الفاسي ونهضة بركان!\n\nقررت الجامعة الملكية المغربية لكرة القدم منح كل من المغرب الفاسي ونهضة بركان 100 مليون سنتيم، أي مليون درهم، بعد بلوغهما دور مجموعات دوري أبطال إفريقيا. أما منحة التأهل إلى مجموعات كأس الكونفدرالية فتبلغ 50 مليون سنتيم.\n\nهل تراها مكافأة كافية لدعم الأندية الوطنية في إفريقيا؟\n\nLa Fédération récompense le Maghreb de Fès et la RS Berkane !\n\nLa FRMF accorde 100 millions de centimes (1 million de dirhams) à chacun des deux clubs pour leur qualification en phase de groupes de la Ligue des champions CAF. La prime pour la phase de groupes de la Coupe de la Confédération est de 50 millions de centimes.\n\nCette récompense vous semble-t-elle suffisante pour soutenir nos clubs en Afrique ?\n\n#نهضة_بركان #المغرب_الفاسي #دوري_الأبطال",
-    "status": "now",
+    "status": "published",
     "titel": "الجامعة تكافئ المغرب الفاسي ونهضة بركان بمنحة مالية لبلوغ مجموعات دوري الأبطال",
-    "quelle_url": "https://ar.sport.le360.ma/football/GXQQW47SLFF5BLTOAPTTJ2H6SY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/GXQQW47SLFF5BLTOAPTTJ2H6SY/",
+    "meta_id": "122221894016577271",
+    "published_at": "2026-10-26T14:58:48.027705+00:00"
   },
   {
     "id": "20261026-1600-1-ig-photo",
@@ -1325,9 +1327,10 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261026-1600-1.jpg",
     "caption": "🔥 مكافأة مالية للعملاقين المغربيين في دوري الأبطال!\n\nالمغرب الفاسي ونهضة بركان يحصلان على 100 مليون سنتيم من الجامعة بعد التأهل إلى دور المجموعات 💪 ومنحة الكونفدرالية 50 مليون سنتيم. القرعة تنتظر الفريقين يوم الأربعاء ⚽\n\n🔥 Belle prime pour les deux clubs marocains en Ligue des champions !\n\nLe Maghreb de Fès et la RS Berkane touchent 100 millions de centimes de la Fédération après leur qualification en phase de groupes 💪 La prime en Coupe de la Confédération est de 50 millions de centimes. Le tirage au sort a lieu mercredi ⚽\n\n#نهضة_بركان #المغرب_الفاسي #دوري_أبطال_إفريقيا #البطولة_الاحترافية #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "failed",
     "titel": "الجامعة تكافئ المغرب الفاسي ونهضة بركان بمنحة مالية لبلوغ مجموعات دوري الأبطال",
-    "quelle_url": "https://ar.sport.le360.ma/football/GXQQW47SLFF5BLTOAPTTJ2H6SY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/GXQQW47SLFF5BLTOAPTTJ2H6SY/",
+    "error": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Kann nicht ver\\u00f6ffentlicht werden\",\"error_user_msg\":\"Die Medien k\\u00f6nnen noch nicht ver\\u00f6ffentlicht werden. Bitte warte noch einen Moment.\",\"fbtrace_id\":\"A8JIY434pZp2hzP-9gDcjf9\"}}"
   },
   {
     "id": "20261026-1600-1-ig-reel",
@@ -1335,9 +1338,11 @@
     "type": "reel",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-1600-1-reel-text.mp4",
     "caption": "🔥 مكافأة مالية للعملاقين المغربيين في دوري الأبطال!\n\nالمغرب الفاسي ونهضة بركان يحصلان على 100 مليون سنتيم من الجامعة بعد التأهل إلى دور المجموعات 💪 ومنحة الكونفدرالية 50 مليون سنتيم. القرعة تنتظر الفريقين يوم الأربعاء ⚽\n\n🔥 Belle prime pour les deux clubs marocains en Ligue des champions !\n\nLe Maghreb de Fès et la RS Berkane touchent 100 millions de centimes de la Fédération après leur qualification en phase de groupes 💪 La prime en Coupe de la Confédération est de 50 millions de centimes. Le tirage au sort a lieu mercredi ⚽\n\n#نهضة_بركان #المغرب_الفاسي #دوري_أبطال_إفريقيا #البطولة_الاحترافية #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "الجامعة تكافئ المغرب الفاسي ونهضة بركان بمنحة مالية لبلوغ مجموعات دوري الأبطال",
-    "quelle_url": "https://ar.sport.le360.ma/football/GXQQW47SLFF5BLTOAPTTJ2H6SY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/GXQQW47SLFF5BLTOAPTTJ2H6SY/",
+    "meta_id": "18077833895448969",
+    "published_at": "2026-10-26T14:58:48.027705+00:00"
   },
   {
     "id": "20261026-1600-1-fb-story",
@@ -1345,9 +1350,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-1600-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الجامعة تكافئ المغرب الفاسي ونهضة بركان بمنحة مالية لبلوغ مجموعات دوري الأبطال",
-    "quelle_url": "https://ar.sport.le360.ma/football/GXQQW47SLFF5BLTOAPTTJ2H6SY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/GXQQW47SLFF5BLTOAPTTJ2H6SY/",
+    "meta_id": "1080404724822251",
+    "published_at": "2026-10-26T14:58:48.027705+00:00"
   },
   {
     "id": "20261026-1600-1-ig-story",
@@ -1355,9 +1362,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-1600-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الجامعة تكافئ المغرب الفاسي ونهضة بركان بمنحة مالية لبلوغ مجموعات دوري الأبطال",
-    "quelle_url": "https://ar.sport.le360.ma/football/GXQQW47SLFF5BLTOAPTTJ2H6SY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/GXQQW47SLFF5BLTOAPTTJ2H6SY/",
+    "meta_id": "18038290517839094",
+    "published_at": "2026-10-26T14:58:48.027705+00:00"
   },
   {
     "id": "20261026-1600-2-fb-feed",
@@ -1365,9 +1374,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261026-1600-2.jpg",
     "caption": "🟢 أشبال الرجاء يكتسحون الوداد في ديربي الفئات الصغرى!\n\nفاز فريق الرجاء الرياضي لفئة أقل من 17 سنة على نظيره الوداد بأربعة أهداف دون رد، يوم الأحد في أكاديمية الرجاء. الفريق يدربه حميد ناطر، اللاعب السابق للنادي.\n\nما رأيكم في مستوى الأشبال، وهل ترون فيهم نجوم المستقبل؟\n\n🟢 Les jeunes du Raja écrasent le Wydad dans le derby des U17 !\n\nL'équipe U17 du Raja s'est imposée 4-0 face au Wydad dimanche, à l'académie du club. Elle est dirigée par Hamid Nater, ancien joueur du Raja.\n\nQue pensez-vous de ces jeunes, voyez-vous en eux les stars de demain ?\n\n#الرجاء #الوداد #الديربي",
-    "status": "now",
+    "status": "published",
     "titel": "أشبال الرجاء تحت 17 سنة يهزمون الوداد بأربعة أهداف دون رد في الديربي",
-    "quelle_url": "https://ar.sport.le360.ma/football/VHWKYP4BWNDIJEIXH7RVXG6FGM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/VHWKYP4BWNDIJEIXH7RVXG6FGM/",
+    "meta_id": "122221894358577271",
+    "published_at": "2026-10-26T14:58:48.027705+00:00"
   },
   {
     "id": "20261026-1600-2-ig-photo",
@@ -1375,9 +1386,10 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261026-1600-2.jpg",
     "caption": "⚡ ديربي الأشبال بطعم الرجاء!\n\nأربعة أهداف دون رد للرجاء أمام الوداد في فئة أقل من 17 سنة 🔥 المباراة جرت الأحد في أكاديمية الرجاء بقيادة المدرب حميد ناطر 💚\n\n⚡ Le derby des jeunes a une saveur verte !\n\nLe Raja U17 s'impose 4-0 face au Wydad 🔥 Match disputé dimanche à l'académie du Raja, sous la direction de Hamid Nater 💚\n\n#الرجاء #الوداد #ديربي_الدار_البيضاء #كرة_القدم_المغربية #الفئات_الصغرى",
-    "status": "now",
+    "status": "failed",
     "titel": "أشبال الرجاء تحت 17 سنة يهزمون الوداد بأربعة أهداف دون رد في الديربي",
-    "quelle_url": "https://ar.sport.le360.ma/football/VHWKYP4BWNDIJEIXH7RVXG6FGM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/VHWKYP4BWNDIJEIXH7RVXG6FGM/",
+    "error": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Kann nicht ver\\u00f6ffentlicht werden\",\"error_user_msg\":\"Die Medien k\\u00f6nnen noch nicht ver\\u00f6ffentlicht werden. Bitte warte noch einen Moment.\",\"fbtrace_id\":\"APDm-DhmDdL_svn0rubxdWc\"}}"
   },
   {
     "id": "20261026-1600-2-ig-reel",
@@ -1385,9 +1397,11 @@
     "type": "reel",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-1600-2-reel-text.mp4",
     "caption": "⚡ ديربي الأشبال بطعم الرجاء!\n\nأربعة أهداف دون رد للرجاء أمام الوداد في فئة أقل من 17 سنة 🔥 المباراة جرت الأحد في أكاديمية الرجاء بقيادة المدرب حميد ناطر 💚\n\n⚡ Le derby des jeunes a une saveur verte !\n\nLe Raja U17 s'impose 4-0 face au Wydad 🔥 Match disputé dimanche à l'académie du Raja, sous la direction de Hamid Nater 💚\n\n#الرجاء #الوداد #ديربي_الدار_البيضاء #كرة_القدم_المغربية #الفئات_الصغرى",
-    "status": "now",
+    "status": "published",
     "titel": "أشبال الرجاء تحت 17 سنة يهزمون الوداد بأربعة أهداف دون رد في الديربي",
-    "quelle_url": "https://ar.sport.le360.ma/football/VHWKYP4BWNDIJEIXH7RVXG6FGM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/VHWKYP4BWNDIJEIXH7RVXG6FGM/",
+    "meta_id": "18126699319928849",
+    "published_at": "2026-10-26T14:58:48.027705+00:00"
   },
   {
     "id": "20261026-1600-2-fb-story",
@@ -1395,9 +1409,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-1600-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "أشبال الرجاء تحت 17 سنة يهزمون الوداد بأربعة أهداف دون رد في الديربي",
-    "quelle_url": "https://ar.sport.le360.ma/football/VHWKYP4BWNDIJEIXH7RVXG6FGM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/VHWKYP4BWNDIJEIXH7RVXG6FGM/",
+    "meta_id": "1588573562552423",
+    "published_at": "2026-10-26T14:58:48.027705+00:00"
   },
   {
     "id": "20261026-1600-2-ig-story",
@@ -1405,8 +1421,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-1600-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "أشبال الرجاء تحت 17 سنة يهزمون الوداد بأربعة أهداف دون رد في الديربي",
-    "quelle_url": "https://ar.sport.le360.ma/football/VHWKYP4BWNDIJEIXH7RVXG6FGM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/VHWKYP4BWNDIJEIXH7RVXG6FGM/",
+    "meta_id": "18491562394104882",
+    "published_at": "2026-10-26T14:58:48.027705+00:00"
   }
 ]
