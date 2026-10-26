@@ -68,8 +68,10 @@
     "type": "story",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/INSTA_Short_Image_dunkel.jpg",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "Test neues Repo",
-    "quelle_url": "test-20261026"
+    "quelle_url": "test-20261026",
+    "meta_id": "18099109076557033",
+    "published_at": "2026-10-26T00:31:11.761609+00:00"
   }
 ]
