@@ -90,3 +90,14 @@
 {"zeit": "26.10.2026 12:46:10", "aktion": "veröffentlicht", "beitrag": "2026-10-26-botola-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 17989525743118648"}
 {"zeit": "26.10.2026 12:46:43", "aktion": "veröffentlicht", "beitrag": "2026-10-26-botola-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 17998878813110255"}
 {"zeit": "26.10.2026 12:46:43", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "72 Einträge geprüft"}
+{"zeit": "26.10.2026 13:40:07", "aktion": "veröffentlicht", "beitrag": "20261026-14-1-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122221875734577271"}
+{"zeit": "26.10.2026 13:40:10", "aktion": "fehlgeschlagen", "beitrag": "20261026-14-1-ig-photo", "plattform": "instagram", "ergebnis": "fehler", "details": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"The aspect ratio is not supported.\",\"type\":\"OAuthException\",\"code\":36003,\"error_subcode\":2207009,\"is_transient\":false,\"error_user_title\":\"Ung\\u00fcltiges Seitenverh\\u00e4ltnis\",\"error_user_msg\":\"Das gesendete Bild mit einem Seitenverh\\u00e4ltnis von () kann nicht ver\\u00f6ffentlicht werden. Bitte sende ein Bild mit einem g\\u00fcltigen Seitenverh\\u00e4ltnis.\",\"fbtrace_id\":\"ApPWTka9y8vDFpAhpU-zIbx\"}}"}
+{"zeit": "26.10.2026 13:40:47", "aktion": "veröffentlicht", "beitrag": "20261026-14-1-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18099416882099159"}
+{"zeit": "26.10.2026 13:40:56", "aktion": "veröffentlicht", "beitrag": "20261026-14-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1823136398883800"}
+{"zeit": "26.10.2026 13:41:33", "aktion": "veröffentlicht", "beitrag": "20261026-14-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18016476974749926"}
+{"zeit": "26.10.2026 13:41:37", "aktion": "veröffentlicht", "beitrag": "20261026-14-2-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122221876184577271"}
+{"zeit": "26.10.2026 13:41:44", "aktion": "veröffentlicht", "beitrag": "20261026-14-2-ig-photo", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18117421963826205"}
+{"zeit": "26.10.2026 13:42:14", "aktion": "veröffentlicht", "beitrag": "20261026-14-2-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18647368057037172"}
+{"zeit": "26.10.2026 13:42:23", "aktion": "veröffentlicht", "beitrag": "20261026-14-2-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1476909017660833"}
+{"zeit": "26.10.2026 13:43:00", "aktion": "veröffentlicht", "beitrag": "20261026-14-2-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18126232943305110"}
+{"zeit": "26.10.2026 13:43:00", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "82 Einträge geprüft"}
