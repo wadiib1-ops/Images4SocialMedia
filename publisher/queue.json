@@ -1805,5 +1805,15 @@
     "quelle_url": "https://www.lesiteinfo.com/sport/685527-wydad-nabi-prepare-une-remise-en-forme-du-groupe.html",
     "status": "failed",
     "error": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Kann nicht ver\\u00f6ffentlicht werden\",\"error_user_msg\":\"Die Medien k\\u00f6nnen noch nicht ver\\u00f6ffentlicht werden. Bitte warte noch einen Moment.\",\"fbtrace_id\":\"ADBF3LJWJb1UTaOB1t953x4\"}}"
+  },
+  {
+    "id": "20261026-14-1-ig-photo-r4",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/nabi-wydad-20261026-ig.jpg",
+    "caption": "🔥 أول قرار لنبي مع الوداد: عمل بدني أقوى!\n\nبعد أول حصة تدريبية، لاحظ المدرب نقصا بدنيا عند بعض اللاعبين، فرفع الإيقاع مع طاقمه 💪\n\nالهدف: فريق أكثر جاهزية يجمع بين القوة والتكتيك والتقنية ⚽️ وبدأ نبي مشواره بفوز 1-0 على اتحاد تواركة.\n\n🔥 La première décision de Nabi au Wydad : plus de physique !\n\nDès la première séance, le coach a vu des lacunes athlétiques et a durci la préparation 💪 Objectif : un groupe plus affûté, avec du technique et du tactique. Sa première : victoire 1-0 face à l'Union Touarga ⚽️\n\n#الوداد #نبي #Botola #Wydad #كرة_القدم",
+    "titel": "نصر الدين نبي يشدد العمل البدني في الوداد بعد أول حصة تدريبية",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685527-wydad-nabi-prepare-une-remise-en-forme-du-groupe.html",
+    "status": "now"
   }
 ]

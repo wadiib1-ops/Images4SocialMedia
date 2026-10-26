@@ -103,8 +103,7 @@ def publish_instagram(entry, token):
         raise RuntimeError(f"Unbekannter Instagram-Typ: {kind}")
 
     container = call("POST", f"{IG_ID}/media", token, **params)["id"]
-    if kind != "photo":
-        wait_for_container(container, token)
+    wait_for_container(container, token)
     return call("POST", f"{IG_ID}/media_publish", token, creation_id=container)["id"]
 
 
