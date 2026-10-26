@@ -61,5 +61,15 @@
     "quelle_url": "https://alyaoum24.com/2053105.html",
     "meta_id": "18032171612914975",
     "published_at": "2026-10-25T22:22:05.635529+00:00"
+  },
+  {
+    "id": "test-20261026-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/INSTA_Short_Image_dunkel.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "Test neues Repo",
+    "quelle_url": "test-20261026"
   }
 ]
