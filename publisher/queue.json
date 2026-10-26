@@ -1817,5 +1817,105 @@
     "status": "published",
     "meta_id": "18166265947490931",
     "published_at": "2026-10-26T19:07:00.931936+00:00"
+  },
+  {
+    "id": "20261026-2015-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/l_logo_wappen/c_scale,fl_relative,w_0.14/fl_layer_apply,g_north_west,x_0.025,y_0.025/f_jpg,q_90/https://www.lesiteinfo.com/wp-content/uploads/2026/04/Youssef-En-Nesyri1.jpg",
+    "caption": "هل يعود يوسف النصيري إلى قميص الأسود؟\n\nمهاجم الاتحاد السعودي يواصل التسجيل، وكان آخر أهدافه ضربة حرة مباشرة أمام نفتشي الأوزبكي في دوري أبطال آسيا للنخبة.\n\nوقبل مباراتي النيجر في تصفيات كأس إفريقيا 2027، يبقى السؤال مطروحا: هل يستدعيه المدرب محمد وهبي؟ علما أنه غاب عن قائمة المونديال.\n\nهل تريدون عودة النصيري إلى المنتخب؟\n\nYoussef En-Nesyri va-t-il retrouver les Lions de l'Atlas ?\n\nL'attaquant d'Al-Ittihad continue de marquer, avec un coup franc direct face à Neftchi en Ligue des champions d'Asie Élite.\n\nÀ l'approche des deux matchs contre le Niger en qualifications pour la CAN 2027, la question se pose : Mohamed Ouahbi va-t-il le rappeler ? Il avait été absent de la liste pour le Mondial.\n\nVoulez-vous le revoir en sélection ?\n\n#النصيري #المنتخب_المغربي #EnNesyri",
+    "status": "now",
+    "titel": "هل يعيد وهبي يوسف النصيري إلى المنتخب قبل مباراتي النيجر",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685555-youssef-en-nesyri-sera-t-il-rappele-par-mohamed-ouahbi-en-selection.html"
+  },
+  {
+    "id": "20261026-2015-1-ig-photo",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/nesyri-ouahbi-20261026-ig.jpg",
+    "caption": "⚽ النصيري يطرق باب الأسود من جديد!\n\nضربة حرة مباشرة جديدة مع الاتحاد السعودي أمام نفتشي 🔥 والمهاجم في كامل جاهزيته.\n\nمباراتا النيجر في تصفيات كأس إفريقيا 2027 تقتربان، وكل الأنظار على المدرب محمد وهبي: هل يمنحه الاستدعاء؟ 🦁\n\nLe retour d'En-Nesyri chez les Lions ? ⚽\n\nUn nouveau coup franc direct avec Al-Ittihad face à Neftchi 🔥 et un attaquant en pleine forme.\n\nAvant les deux matchs contre le Niger (qualifs CAN 2027), tous les regards sont tournés vers Mohamed Ouahbi.\n\n#النصيري #الأسود #EnNesyri #LionsDeLAtlas #Maroc",
+    "status": "now",
+    "titel": "هل يعيد وهبي يوسف النصيري إلى المنتخب قبل مباراتي النيجر",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685555-youssef-en-nesyri-sera-t-il-rappele-par-mohamed-ouahbi-en-selection.html"
+  },
+  {
+    "id": "20261026-2015-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-2015-1-reel-text.mp4",
+    "caption": "⚽ النصيري يطرق باب الأسود من جديد!\n\nضربة حرة مباشرة جديدة مع الاتحاد السعودي أمام نفتشي 🔥 والمهاجم في كامل جاهزيته.\n\nمباراتا النيجر في تصفيات كأس إفريقيا 2027 تقتربان، وكل الأنظار على المدرب محمد وهبي: هل يمنحه الاستدعاء؟ 🦁\n\nLe retour d'En-Nesyri chez les Lions ? ⚽\n\nUn nouveau coup franc direct avec Al-Ittihad face à Neftchi 🔥 et un attaquant en pleine forme.\n\nAvant les deux matchs contre le Niger (qualifs CAN 2027), tous les regards sont tournés vers Mohamed Ouahbi.\n\n#النصيري #الأسود #EnNesyri #LionsDeLAtlas #Maroc",
+    "status": "now",
+    "titel": "هل يعيد وهبي يوسف النصيري إلى المنتخب قبل مباراتي النيجر",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685555-youssef-en-nesyri-sera-t-il-rappele-par-mohamed-ouahbi-en-selection.html"
+  },
+  {
+    "id": "20261026-2015-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-2015-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "هل يعيد وهبي يوسف النصيري إلى المنتخب قبل مباراتي النيجر",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685555-youssef-en-nesyri-sera-t-il-rappele-par-mohamed-ouahbi-en-selection.html"
+  },
+  {
+    "id": "20261026-2015-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-2015-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "هل يعيد وهبي يوسف النصيري إلى المنتخب قبل مباراتي النيجر",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685555-youssef-en-nesyri-sera-t-il-rappele-par-mohamed-ouahbi-en-selection.html"
+  },
+  {
+    "id": "20261026-2015-2-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/l_logo_wappen/c_scale,fl_relative,w_0.14/fl_layer_apply,g_north_west,x_0.025,y_0.025/f_jpg,q_90/https://www.lesiteinfo.com/wp-content/uploads/2026/10/raja-2.jpg",
+    "caption": "رسميا: تغيير ملعب مباراة الرجاء وحسنية أكادير.\n\nاللقاء سيجرى يوم الأربعاء على الساعة السادسة مساء، ضمن الجولة الخامسة من البطولة الاحترافية، في ملعب العربي الزاولي.\n\nوجاء القرار بسبب أشغال في أرضية مركب محمد الخامس، وأكدته الرابطة الوطنية لكرة القدم الاحترافية، بعد محاولات من مسؤولي الرجاء للبقاء في المركب.\n\nهل تتوقعون فوز الرجاء في ملعبه الجديد؟\n\nOfficiel : le match Raja – Hassania d'Agadir ne se jouera pas au complexe Mohammed V.\n\nLa rencontre aura lieu mercredi à 18h, au stade Larbi Zaouli, pour la 5e journée de la Botola Pro.\n\nLa LNFP a confirmé ce changement à cause de travaux sur la pelouse du complexe, malgré les efforts des dirigeants du Raja pour y rester.\n\nPensez-vous que le Raja s'imposera sur sa nouvelle pelouse ?\n\n#الرجاء #البطولة_الاحترافية #Raja",
+    "status": "now",
+    "titel": "رسميا: مباراة الرجاء وحسنية أكادير تنتقل إلى ملعب العربي الزاولي",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685545-officiel-le-match-raja-husa-naura-pas-lieu-au-complexe-mohammed-v.html"
+  },
+  {
+    "id": "20261026-2015-2-ig-photo",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/raja-husa-20261026-ig.jpg",
+    "caption": "🚨 الرجاء يغيّر الملعب!\n\nمواجهة حسنية أكادير يوم الأربعاء الساعة 18:00 ستقام في ملعب العربي الزاولي 🏟️\n\nالسبب: أشغال في أرضية مركب محمد الخامس. الرابطة أكدت القرار، والجولة الخامسة تنتظر الأجواء الخضراء 💚\n\nChangement de stade pour le Raja ! 🚨\n\nFace à Hassania d'Agadir, mercredi à 18h, ce sera au stade Larbi Zaouli 🏟️\n\nRaison : des travaux sur la pelouse du complexe Mohammed V, confirmés par la LNFP. 5e journée de Botola, ambiance verte garantie 💚\n\n#الرجاء #Raja #Botola #البطولة_الاحترافية #RajaCA",
+    "status": "now",
+    "titel": "رسميا: مباراة الرجاء وحسنية أكادير تنتقل إلى ملعب العربي الزاولي",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685545-officiel-le-match-raja-husa-naura-pas-lieu-au-complexe-mohammed-v.html"
+  },
+  {
+    "id": "20261026-2015-2-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-2015-2-reel-text.mp4",
+    "caption": "🚨 الرجاء يغيّر الملعب!\n\nمواجهة حسنية أكادير يوم الأربعاء الساعة 18:00 ستقام في ملعب العربي الزاولي 🏟️\n\nالسبب: أشغال في أرضية مركب محمد الخامس. الرابطة أكدت القرار، والجولة الخامسة تنتظر الأجواء الخضراء 💚\n\nChangement de stade pour le Raja ! 🚨\n\nFace à Hassania d'Agadir, mercredi à 18h, ce sera au stade Larbi Zaouli 🏟️\n\nRaison : des travaux sur la pelouse du complexe Mohammed V, confirmés par la LNFP. 5e journée de Botola, ambiance verte garantie 💚\n\n#الرجاء #Raja #Botola #البطولة_الاحترافية #RajaCA",
+    "status": "now",
+    "titel": "رسميا: مباراة الرجاء وحسنية أكادير تنتقل إلى ملعب العربي الزاولي",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685545-officiel-le-match-raja-husa-naura-pas-lieu-au-complexe-mohammed-v.html"
+  },
+  {
+    "id": "20261026-2015-2-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-2015-2-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "رسميا: مباراة الرجاء وحسنية أكادير تنتقل إلى ملعب العربي الزاولي",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685545-officiel-le-match-raja-husa-naura-pas-lieu-au-complexe-mohammed-v.html"
+  },
+  {
+    "id": "20261026-2015-2-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261026-2015-2-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "رسميا: مباراة الرجاء وحسنية أكادير تنتقل إلى ملعب العربي الزاولي",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685545-officiel-le-match-raja-husa-naura-pas-lieu-au-complexe-mohammed-v.html"
   }
 ]
