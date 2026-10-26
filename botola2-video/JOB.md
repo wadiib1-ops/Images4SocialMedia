@@ -2,12 +2,13 @@
 
 Läuft jeden **Montag um 10:40 Uhr (Europe/Berlin)** als geplante Aufgabe in frischer Umgebung; alles Nötige (Code, Wappen in `Wappen/Botola2/`, Musik, Ergebnisliste) liegt in diesem Repo, Ordner `botola2-video/`. Der Botola-Pro-Job in `botola-video/` bleibt unberührt.
 
-**Ziel:** Wurden im Fenster Spiele der **Botola Pro 2** (البطولة الاحترافية إنوي للقسم الثاني, 2. Liga Marokko) beendet, wird ein Video erzeugt und über **Buffer** eingeplant (Reihenfolge):
-1. Facebook-Feed (Video)
-2. Instagram-Feed (Reel)
-3. Instagram-Story (Video)
+**Ziel:** Wurden im Fenster Spiele der **Botola Pro 2** (البطولة الاحترافية إنوي للقسم الثاني, 2. Liga Marokko) beendet, wird ein Video erzeugt und **sofort nach Erstellung** direkt über die Meta Graph API (Veröffentlicher `publisher/`, ohne Buffer) veröffentlicht (Reihenfolge, Nutzerwunsch 26.10.2026):
+1. Facebook-Story (Video mit eingebranntem Text)
+2. Facebook-Reel (Video)
+3. Instagram-Story (Video mit eingebranntem Text)
+4. Instagram-Reel (Video, zugleich im Feed)
 
-Es gibt **keine Facebook-Story**. Ohne Spiele passiert nichts.
+Ohne Spiele passiert nichts.
 
 Antworten auf Deutsch, knapp. Nichts erfinden: keine Ergebnisse, Namen oder Minuten ohne Quelle. Text im Video und in Beiträgen immer **Arabisch**.
 
@@ -16,7 +17,7 @@ Antworten auf Deutsch, knapp. Nichts erfinden: keine Ergebnisse, Namen oder Minu
 ## 0. Vorbereitung
 
 1. Repo `wadiib1-ops/Images4SocialMedia` (öffentlich) muss in der Sitzung verfügbar sein. Sonst `mcp__claude-code-remote__add_repo` (owner `wadiib1-ops`, repo `Images4SocialMedia`, access `push`), `git clone --depth 1`, `register_repo_root`. Alle Pfade sind relativ zur Repo-Wurzel.
-2. Buffer-Tools laden: ToolSearch `select:mcp__Buffer__list_posts,mcp__Buffer__create_post`.
+2. Kein Buffer. Veröffentlicht wird über `publisher/queue.json` und den Workflow `publish.yml` (Regeln in `CLAUDE-Routine.md`; Token `META_USER_TOKEN` nie ausgeben).
 3. Prüfen: `ffmpeg -version` und `python3 -c "import PIL, numpy, scipy"`; fehlt Python-Seitiges: `python3 -m pip install --break-system-packages pillow numpy scipy`.
 4. Zeit: `TZ=Europe/Berlin date`. **Lauf-Tag** = heutiges Berliner Datum, **Fenster** = jetzt minus 7 Tage bis jetzt (wöchentlicher Lauf; Spiele, die schon in `season_results.json` stehen, zählen nicht neu).
 5. Doppelpost-Sperre: `cd botola2-video && python3 finalize.py check-posted <Lauf-Tag>`. Exit 0 = schon gepostet → **STOPP**, kurze Meldung.
@@ -25,7 +26,7 @@ Antworten auf Deutsch, knapp. Nichts erfinden: keine Ergebnisse, Namen oder Minu
 
 Nur **Botola Pro 2 Inwi** (16 Vereine laut `botola2-video/season_results.json`; keine 1. Liga, Länderspiele, Frauen, Jugend, Amateure). Werkzeuge: WebSearch und WebFetch (Shell-Zugriff auf Webseiten ist gesperrt, nur GitHub erreichbar; bei 403 oder DNS-Fehlern die nächste Quelle nehmen).
 
-- **Quellen:** pro Endergebnis **mindestens 5, höchstens 8 unabhängige Quellen**, **Hauptquellen (Nutzerwunsch 20.10.2026, immer zuerst lesen):** https://www.flashscore.de/fussball/marokko/botola-2/ergebnisse/ (Ergebnisse und aktuellste Tabelle) und https://www.sofascore.com/de/football/tournament/morocco/botola-pro-2/10554 (Ergebnisse je Runde). Weitere: fotmob.com, hesport.com, sport7.ma, elbotola.com, msport.ma, atlasscoop.com, analkhabar.com, ihata.ma, howatpress.net, snrt.ma, kooora.com, 365scores.com, mapsport.ma. Bei Widerspruch gilt die Mehrheit; bleiben weniger als 5 Quellen oder ist es unklar, das Spiel nicht aufnehmen.
+- **Quellen:** pro Endergebnis **mindestens 2, höchstens 8 unabhängige Quellen**, die dasselbe Ergebnis zeigen (Nutzerwunsch 26.10.2026). **Zuerst abfragen:** https://www.eurosport.de/fussball/gnf-ii/zeitplan-kalender-ergebnisse.shtml (Endergebnisse, keine Torschützen). **Weitere Hauptquellen:** https://www.flashscore.de/fussball/marokko/botola-2/ergebnisse/ (Ergebnisse und aktuellste Tabelle) und https://www.sofascore.com/de/football/tournament/morocco/botola-pro-2/10554 (Ergebnisse je Runde). Weitere: fotmob.com, hesport.com, sport7.ma, elbotola.com, msport.ma, atlasscoop.com, analkhabar.com, ihata.ma, howatpress.net, snrt.ma, kooora.com, 365scores.com, mapsport.ma. Bei Widerspruch gilt die Mehrheit; bleiben weniger als 2 Quellen oder ist es unklar, das Spiel nicht aufnehmen. **Erst bei mindestens 2 übereinstimmenden Quellen wird gebaut und veröffentlicht; sonst nichts posten und später erneut prüfen (siehe „Wiederholung“ in den Regeln).**
 - **Torschützen:** nur mit vollem arabischem Namen (Vor- und Nachname) und Minute, wie in der Mehrheit der Quellen. Formate: `26'`, `90+2'`, Elfmeter `39' ض.ج`, Eigentor `12' عكسي`. Unsicheres weglassen. Sind nicht alle Torschützen des Tages sicher bekannt, zeigt das Video überall nur Minuten (gewollt).
 - **Nicht beendete Spiele** der betroffenen Runde(n) mit `status` markieren: `live`, `postponed` (offiziell verlegt), `not_played`.
 - **Nachtrag früherer Runden (Pflicht, besonders beim ersten Lauf):** Jede abgeschlossene Runde hat 8 Spiele. Fehlen in `botola2-video/season_results.json` beendete Spiele früherer Runden (Saison 2026-27 begann am 26.09.2026; Stand bei Einrichtung: Liste leer, Runden 1–4 fehlen), diese mit denselben Quellenregeln recherchieren und dort eintragen (`{"round":N,"home":..,"away":..,"score":[h,a]}`, kanonische Namen = erster Eintrag in `botola2-video/wappen_map.json`). Danach `python3 standings.py` mit der aktuellsten Tabelle von https://www.flashscore.de/fussball/marokko/botola-2/ergebnisse/ (bei Nichterreichbarkeit sofascore) abgleichen: Spiele, Punkte und Tordifferenz je Verein müssen stimmen, sonst **STOPP** mit Angabe der Abweichung. Ein Spiel, das sich nicht belegen lässt, nicht raten: **STOPP** und melden.
@@ -83,28 +84,18 @@ cd - && git worktree remove --force /tmp/vo
 
 Push abgelehnt: neu holen, rebasen, einmal wiederholen. Die Abfrage muss mit HTTP 200 enden (einmal kurz warten und wiederholen).
 
-## 4. Über Buffer einplanen
+## 4. Direkt veröffentlichen (ohne Buffer)
 
-Fest verwendete IDs (kein `list_channels`, `get_account`, `edit_post`, `delete_post`; nur bei „Organization not found“ oder unbekanntem Kanal einmal `get_account`/`list_channels` und im Bericht melden):
+Konten: Facebook-Seite `476343148890228`, Instagram `17841410500657352` (siehe `CLAUDE-Routine.md`). Es werden vier Einträge an `publisher/queue.json` angehängt (vorhandene nie ändern), alle mit `status: "now"` ohne `publish_at`, gleiche `titel`, `quelle_url` (Hauptquelle) und `runde`; `id` eindeutig, z. B. `<Lauf-Tag>-botola2-fb-story`. Die Story erscheint zusammen mit den anderen Beiträgen, kein Abstand von 5 Minuten.
 
-| Was | ID |
-|---|---|
-| Organisation „My organization“ (Europe/Berlin) | `6ac8f8ef5d2b1343a7943fde` |
-| Facebook-Seite | `6ac8f9916a5c39ccb6620a50` |
-| Instagram „moroccanfootballandfutsal“ | `6ac8f9b76a5c39ccb6620bc0` |
+| Reihenfolge | `platform` / `type` | `video_url` | `caption` |
+|---|---|---|---|
+| 1. Facebook-Story | `facebook` / `story` | Raw-URL `botola2-$RUN-story.mp4` | leer (Text eingebrannt, Abschnitt 2b) |
+| 2. Facebook-Reel | `facebook` / `reel` | Raw-URL `botola2-$RUN.mp4` | Inhalt `caption_fb.txt` (max. 3 Hashtags) |
+| 3. Instagram-Story | `instagram` / `story` | Raw-URL `botola2-$RUN-story.mp4` | leer (Text eingebrannt, Abschnitt 2b) |
+| 4. Instagram-Reel | `instagram` / `reel` | Raw-URL `botola2-$RUN.mp4` | Inhalt `caption.txt` (max. 5 Hashtags) |
 
-1. **Slot-Prüfung:** ein `list_posts` (organizationId, channelIds `["6ac8f9916a5c39ccb6620a50"]`, `dueAt` von jetzt bis jetzt plus 2 Tage, ISO mit Offset, `first` 100); Antwort per Python auswerten. Keine Minute belegen, die dort schon belegt ist.
-2. **Zeiten** (Berliner Zeit, ISO mit Offset, in der Zukunft): Feed = jetzt plus 10 Minuten (ggf. auf freie Minute verschieben); Instagram-Story = 5 Minuten nach dem Feed.
-3. **Drei `create_post`** mit `mode` `customScheduled`, `schedulingType` `automatic`, Asset `{"video":{"url":<Raw-URL aus Schritt 3>,"metadata":{"title":"<kurzer arabischer Titel>"}}}`:
-
-   | Reihenfolge | Kanal | `metadata` | Text |
-   |---|---|---|---|
-   | 1. Facebook-Feed | Facebook | `facebook: {"type":"post"}` (nie `linkAttachment`) | Inhalt von `caption_fb.txt` |
-   | 2. Instagram-Reel | Instagram | `instagram: {"type":"reel","shouldShareToFeed":true}` | Inhalt von `caption.txt` |
-   | 3. Instagram-Story | Instagram | `instagram: {"type":"story","shouldShareToFeed":false,"link":"https://facebook.com/476343148890228"}` | ohne Begleittext; Story-Video `botola2-$RUN-story.mp4` mit eingebranntem Text (Abschnitt 2b) |
-
-   Lehnt Buffer den `link` der Story ab: einmal ohne `link` anlegen und melden.
-4. **Fehler:** Schlägt der Facebook-Feed endgültig fehl, die anderen Einträge **nicht** anlegen. Eindeutige Fehler nicht unverändert wiederholen; bei unklarem Ausgang einmal `list_posts` prüfen. Free-Tarif: höchstens 10 geplante Einträge pro Kanal; bei voller Warteschlange oder getrenntem Kanal den betroffenen Eintrag weglassen und melden. Ist Buffer nicht erreichbar: **STOPP**.
+Kein Link-Sticker. Vor dem Eintrag Hashtags per Python zählen (Wörter mit `#`; Facebook höchstens 3, Instagram höchstens 5, im Story-Video 2) und Raw-URLs per curl prüfen (HTTP 200). Dann `git add publisher/queue.json`, committen, `git push origin HEAD:main` (bei Ablehnung `git pull --rebase origin main`, einmal wiederholen). Direkt danach `publish.yml` per `actions_run_trigger` (ref main) starten und `publisher/log.jsonl` prüfen; Fehler per PushNotification melden. Schlägt ein Eintrag fehl, nicht blind neu anlegen, sondern melden.
 
 ## 5. Abschluss
 
@@ -117,15 +108,15 @@ git push origin HEAD:main
 
 Push abgelehnt: `git fetch origin main`, `git rebase FETCH_HEAD`, einmal erneut pushen.
 
-**Bericht** (3–5 Zeilen, Deutsch): Anzahl Spiele, Veröffentlichungszeit, je Eintrag (Facebook-Feed, Instagram-Reel, Instagram-Story) Buffer-ID oder Fehlertext, Auffälligkeiten. Keine Facebook-Story-Zeilen.
+**Bericht** (3–5 Zeilen, Deutsch): Anzahl Spiele, Veröffentlichungszeit, je Eintrag (Facebook-Story, Facebook-Reel, Instagram-Story, Instagram-Reel) Log-Status oder Fehlertext, Hashtag-Anzahl je Eintrag, Auffälligkeiten.
 
 ## Regeln
 
 - Nur Botola Pro 2, nur Spiele mit Quellenbeleg, keine Quellen-Links in Bildunterschriften.
 - Musik ist Pflicht (Nutzerwunsch 20.10.2026): ohne Track aus `Video/` wird nichts veröffentlicht.
-- Bildunterschrift: genau 5 arabische Hashtags zur Botola Pro 2 (fest in `finalize.py`), alle Texte Arabisch.
+- **Hashtags (Nutzerwunsch):** Facebook (Feed, Reel, Story) höchstens 3, Instagram (Feed, Reel, Story, auch eingebrannt im Story-Video) höchstens 5, pro Beitrag insgesamt. Alle Texte Arabisch.
+- **Wiederholung:** Gibt es für ein Spiel noch keine 2 übereinstimmenden Quellen, nichts veröffentlichen und die Aufgabe später erneut ausführen (einmalig in ca. 2 Stunden per ScheduleWakeup/CronCreate, höchstens 3 Versuche; danach per PushNotification melden).
 - Hintergrund Nachtblau/Gold (Unterscheidung zur grün-roten Botola Pro); nicht ändern.
 - Den Botola-Pro-Job (`botola-video/`) nicht anfassen.
 - Bei jedem STOPP: nichts posten, nichts pushen.
-- Die bestehende Buffer-Automatik (stündliche Foto-Posts) nicht anfassen.
 - Neue Wappen (z. B. nach Auf-/Abstieg): PNG in `Wappen/Botola2/` legen, in `botola2-video/wappen_map.json` und `season_results.json` (`teams`) Dateiname mit arabischem Namen (erster Eintrag) und Alternativschreibweisen eintragen. Neue Musik: MP3 in `Video/` (mehrere werden nach Datum durchgewechselt).
