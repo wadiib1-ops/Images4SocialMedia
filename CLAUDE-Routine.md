@@ -67,7 +67,8 @@ Antworten auf Deutsch, knapp. Keine Zusatzaktionen außer den oben genannten Sch
 ## Start und Zeitplan
 - Läuft die Routine automatisch, beginnt die Bearbeitung SOFORT, wenn die konfigurierte Zeit kommt. Keine Vorlaufzeit, kein Warten.
 - Schreibt der Nutzer im Chat "starte jetzt" (oder Ähnliches): sofort loslegen, ohne Wartezeiten. Alle Einträge bekommen `status: "now"` (kein `publish_at`), und nach dem Push startet der Workflow `publish.yml` sofort per workflow_dispatch (GitHub-Tool `actions_run_trigger`, ref main), statt auf den 15-Minuten-Takt zu warten. Dann das Ergebnis in `publisher/log.jsonl` prüfen.
-- Im automatischen Lauf bekommen die Einträge `status: "scheduled"` mit `publish_at` nach den Slots aus PROMPT.md. Nach dem Push der Einträge ist der Lauf zu Ende: NICHT auf die Uhrzeit warten, nicht pollen. Das Veröffentlichen übernimmt der Workflow.
+- Manueller Start (verbindlich, dauerhaft): Wird die Routine vom Nutzer von Hand gestartet (Button/„Jetzt ausführen“, Chat-Aufforderung, Prompt ohne Zeitplan-Kennzeichnung „[SCHEDULED TASK …]“), werden die gefundenen Ergebnisse sofort nach Fertigstellung veröffentlicht: Einträge mit `status: "now"` (ohne `publish_at`), nach dem Push `publish.yml` per workflow_dispatch starten und das Ergebnis in `publisher/log.jsonl` prüfen. Keine Slots, kein Warten. Das gilt für alle künftigen manuellen Starts.
+- Im automatischen (geplanten) Lauf bekommen die Einträge `status: "scheduled"` mit `publish_at` nach den Slots aus PROMPT.md. Nach dem Push der Einträge ist der Lauf zu Ende: NICHT auf die Uhrzeit warten, nicht pollen. Das Veröffentlichen übernimmt der Workflow.
 - Mehrere Einträge einer Meldung (sechs Einträge) tragen dieselbe `quelle_url`; `publish.py` wertet sie nicht als Dubletten.
 
 ## Parallele Arbeitsweise (verbindlich, um Zeit zu sparen)
