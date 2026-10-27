@@ -2475,5 +2475,55 @@
     "titel": "عموتة يشيد بأداء لاعبي الأهلي بعد الفوز برباعية على كيتارا",
     "quelle_url": "https://www.hespress.com/%d8%b9%d9%85%d9%88%d8%aa%d8%a9-%d9%8a%d8%b4%d9%8a%d8%af-%d8%a8%d8%a3%d8%af%d8%a7%d8%a1-%d9%84%d8%a7%d8%b9%d8%a8%d9%8a-%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a-1829000.html",
     "error": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"User is performing too many actions\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":9,\"error_subcode\":2207042,\"error_user_title\":\"Limit f\\u00fcr die Ver\\u00f6ffentlichung von Medien \\u00fcberschritten\",\"error_user_msg\":\"Du hast die maximal zul\\u00e4ssige Anzahl an durch die Content Publishing API ver\\u00f6ffentlichten Beitr\\u00e4gen erreicht.\",\"fbtrace_id\":\"AK98nRX8VMTZMCPorXyeq2x\"}}"
+  },
+  {
+    "id": "20261027-0315-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/l_logo_wappen/c_scale,fl_relative,w_0.14/fl_layer_apply,g_north_west,x_0.025,y_0.025/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/PW5QTYNCNJHS7MPRCNUWOYQ2HM.webp%3Fauth%3D3e3280a1520c04e8d73904ece41f00128a617a18f5b5259eece6717c75677de0%26smart%3Dtrue%26width%3D1216%26height%3D684",
+    "caption": "أشرف حكيمي يحل في المركز الـ13 في ترتيب الكرة الذهبية لعام 2026 الذي أعلنته مجلة فرانس فوتبول.\n\nنجم الأسود كان قد حل سادسا في الترتيب السابق، وحقق هذا الموسم أربعة ألقاب: الدوري والأبطال وكأس فرنسا والسوبر الأوروبي، إضافة إلى لقب كأس أمم إفريقيا مع المغرب في 2025.\n\nهل يستحق حكيمي مركزا أفضل برأيكم؟\n\nAchraf Hakimi se classe 13e au Ballon d'Or 2026, selon le classement de France Football.\n\nIl avait terminé 6e lors de la dernière édition et a remporté cette saison quatre titres : Ligue 1, Ligue des champions, Coupe de France et Supercoupe d'Europe, en plus de la CAN avec le Maroc en 2025.\n\nMérite-t-il mieux, selon vous ?\n\n#حكيمي #الكرة_الذهبية #Hakimi",
+    "titel": "حكيمي يحتل المركز الثالث عشر في ترتيب الكرة الذهبية 2026",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/EQNQIDXKHZDE3NPVQJXB7H43PY/",
+    "status": "now"
+  },
+  {
+    "id": "20261027-0315-1-ig-photo",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/l_logo_wappen/c_scale,fl_relative,w_0.14/fl_layer_apply,g_north_west,x_0.025,y_0.025/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/PW5QTYNCNJHS7MPRCNUWOYQ2HM.webp%3Fauth%3D3e3280a1520c04e8d73904ece41f00128a617a18f5b5259eece6717c75677de0%26smart%3Dtrue%26width%3D1216%26height%3D684",
+    "caption": "🏆 حكيمي ضمن أفضل 13 لاعبا في العالم!\n\nأعلنت فرانس فوتبول ترتيب الكرة الذهبية 2026، ونجم الأسود جاء في المركز الـ13 بعد موسم حافل بالألقاب ⚽🔥\n\nفخر للكرة المغربية.\n\n🏆 Hakimi dans le top 13 mondial !\n\nFrance Football a dévoilé le classement du Ballon d'Or 2026 : le latéral des Lions de l'Atlas termine 13e après une saison riche en titres.\n\n#حكيمي #الكرة_الذهبية #أسود_الأطلس #Hakimi #BallonDor",
+    "titel": "حكيمي يحتل المركز الثالث عشر في ترتيب الكرة الذهبية 2026",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/EQNQIDXKHZDE3NPVQJXB7H43PY/",
+    "status": "now"
+  },
+  {
+    "id": "20261027-0315-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-0315-1-reel-text.mp4",
+    "caption": "🏆 حكيمي ضمن أفضل 13 لاعبا في العالم!\n\nأعلنت فرانس فوتبول ترتيب الكرة الذهبية 2026، ونجم الأسود جاء في المركز الـ13 بعد موسم حافل بالألقاب ⚽🔥\n\nفخر للكرة المغربية.\n\n🏆 Hakimi dans le top 13 mondial !\n\nFrance Football a dévoilé le classement du Ballon d'Or 2026 : le latéral des Lions de l'Atlas termine 13e après une saison riche en titres.\n\n#حكيمي #الكرة_الذهبية #أسود_الأطلس #Hakimi #BallonDor",
+    "titel": "حكيمي يحتل المركز الثالث عشر في ترتيب الكرة الذهبية 2026",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/EQNQIDXKHZDE3NPVQJXB7H43PY/",
+    "status": "now"
+  },
+  {
+    "id": "20261027-0315-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-0315-1-story-text.mp4",
+    "caption": "",
+    "titel": "حكيمي يحتل المركز الثالث عشر في ترتيب الكرة الذهبية 2026",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/EQNQIDXKHZDE3NPVQJXB7H43PY/",
+    "status": "now"
+  },
+  {
+    "id": "20261027-0315-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-0315-1-story-text.mp4",
+    "caption": "",
+    "titel": "حكيمي يحتل المركز الثالث عشر في ترتيب الكرة الذهبية 2026",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/EQNQIDXKHZDE3NPVQJXB7H43PY/",
+    "status": "now"
   }
 ]
