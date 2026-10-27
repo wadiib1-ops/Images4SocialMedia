@@ -3,7 +3,7 @@
 Diese Datei gilt innerhalb der Routine anstelle von CLAUDE.md. Die bestehende CLAUDE.md bleibt unverändert. Wo PROMPT.md und diese Datei sich widersprechen, gilt diese Datei.
 
 ## Grundsatz
-Ich (Claude) lege die Beiträge in `publisher/queue.json` ab. Der GitHub-Workflow `.github/workflows/publish.yml` (alle 15 Minuten) veröffentlicht fällige Einträge mit `publisher/publish.py` über die Meta Graph API. Es wird kein externes Planungswerkzeug benutzt. Inhalte, Texte, Bilder, Musik-Video, Quellenregeln, 24-Stunden-Regel und Sprachen stehen in PROMPT.md.
+Ich (Claude) lege die Beiträge in `publisher/queue.json` ab. Der GitHub-Workflow `.github/workflows/publish.yml` (alle 15 Minuten) veröffentlicht fällige Einträge mit `publisher/publish.py` über die Meta Graph API. Es wird kein externes Planungswerkzeug benutzt. Inhalte, Texte, Bilder, Musik-Video, Quellenregeln, 32-Stunden-Regel und Sprachen stehen in PROMPT.md.
 
 ## Konten
 - Facebook-Seite: 476343148890228
