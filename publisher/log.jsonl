@@ -263,3 +263,14 @@
 {"zeit": "27.10.2026 11:20:16", "aktion": "veröffentlicht", "beitrag": "20261027-1120-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1071373639216998"}
 {"zeit": "27.10.2026 11:20:49", "aktion": "fehlgeschlagen", "beitrag": "20261027-1120-1-ig-story", "plattform": "instagram", "ergebnis": "fehler", "details": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"User is performing too many actions\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":9,\"error_subcode\":2207042,\"error_user_title\":\"Limit f\\u00fcr die Ver\\u00f6ffentlichung von Medien \\u00fcberschritten\",\"error_user_msg\":\"Du hast die maximal zul\\u00e4ssige Anzahl an durch die Content Publishing API ver\\u00f6ffentlichten Beitr\\u00e4gen erreicht.\",\"fbtrace_id\":\"AEcrVBgZPXQMwJDBkoWAG2i\"}}"}
 {"zeit": "27.10.2026 11:20:49", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "223 Einträge geprüft"}
+{"zeit": "27.10.2026 12:26:50", "aktion": "veröffentlicht", "beitrag": "20261027-1235-1-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122222018018577271"}
+{"zeit": "27.10.2026 12:27:03", "aktion": "veröffentlicht", "beitrag": "20261027-1235-1-ig-photo", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18149070142489532"}
+{"zeit": "27.10.2026 12:27:39", "aktion": "veröffentlicht", "beitrag": "20261027-1235-1-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18033438410887792"}
+{"zeit": "27.10.2026 12:27:48", "aktion": "veröffentlicht", "beitrag": "20261027-1235-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 2063425578395608"}
+{"zeit": "27.10.2026 12:28:25", "aktion": "veröffentlicht", "beitrag": "20261027-1235-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18129947533874149"}
+{"zeit": "27.10.2026 12:28:29", "aktion": "veröffentlicht", "beitrag": "20261027-1235-2-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122222018186577271"}
+{"zeit": "27.10.2026 12:28:41", "aktion": "veröffentlicht", "beitrag": "20261027-1235-2-ig-photo", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18221140315352472"}
+{"zeit": "27.10.2026 12:29:15", "aktion": "veröffentlicht", "beitrag": "20261027-1235-2-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18096506426247218"}
+{"zeit": "27.10.2026 12:29:23", "aktion": "veröffentlicht", "beitrag": "20261027-1235-2-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1846393390045923"}
+{"zeit": "27.10.2026 12:30:05", "aktion": "veröffentlicht", "beitrag": "20261027-1235-2-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18117755248954042"}
+{"zeit": "27.10.2026 12:30:05", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "233 Einträge geprüft"}
