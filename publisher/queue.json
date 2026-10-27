@@ -3363,5 +3363,46 @@
     "quelle_url": "https://ar.sport.le360.ma/football/UQF3VXYQRNFFVAYAM5KVP5HCVE/",
     "meta_id": "18119730658778240",
     "published_at": "2026-10-27T21:21:45.127602+00:00"
+  },
+  {
+    "id": "20261027-2330-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.22/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/ounahi-20261027-2330-1.jpg",
+    "caption": "🚑 أوناحي يخضع لعملية جراحية ويغيب لأشهر\n\nتمزق كامل في وتر الساق اليمنى خلال مباراة أستيراس تريبوليس\n\nالعملية يوم الخميس مع نادي باناثينايكوس\n\nويأمل العودة في أبريل لخوض كأس إفريقيا\n\nهل ينجح أوناحي في العودة بسرعة لدعم الأسود؟\n\n#أوناحي #المنتخب_المغربي #باناثينايكوس",
+    "status": "now",
+    "titel": "أوناحي يخضع لعملية جراحية ويغيب عن الملاعب لبضعة أشهر",
+    "quelle_url": "https://alomksport.com/109829.html"
+  },
+  {
+    "id": "20261027-2330-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-2330-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261027-2330-1.jpg",
+    "caption": "💔 صدمة جديدة لأسود الأطلس!\n\nعز الدين أوناحي سيجري عملية جراحية بعد تمزق وتر في الساق اليمنى، وسيغيب عن الملاعب عدة أشهر 🏥\n\nالأمل أن يعود في أبريل ⚽🙏\n\n#أوناحي #أسود_الأطلس #باناثينايكوس #كرة_القدم_المغربية #المنتخب_المغربي",
+    "status": "now",
+    "titel": "أوناحي يخضع لعملية جراحية ويغيب عن الملاعب لبضعة أشهر",
+    "quelle_url": "https://alomksport.com/109829.html"
+  },
+  {
+    "id": "20261027-2330-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-2330-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "أوناحي يخضع لعملية جراحية ويغيب عن الملاعب لبضعة أشهر",
+    "quelle_url": "https://alomksport.com/109829.html"
+  },
+  {
+    "id": "20261027-2330-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-2330-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "أوناحي يخضع لعملية جراحية ويغيب عن الملاعب لبضعة أشهر",
+    "quelle_url": "https://alomksport.com/109829.html"
   }
 ]
