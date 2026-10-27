@@ -106,3 +106,6 @@ Die Anzeigedauer jedes Textabschnitts im Video (Reel-Abschnitte, Story-Schlagzei
 - Videolänge D = Summe der Abschnittszeiten + 1 s, höchstens 30 s. Reicht D nicht, die unwichtigsten Abschnitte weglassen (die Schlagzeile bleibt immer).
 - Abschnitt 1 erscheint ab 0,5 s, jeder weitere direkt nach dem vorigen (Einblendung 0,4 s, `enable='between(t,Start,Ende)'`, Ende des letzten = D). Story: Schlagzeile ab 0,5 s, Call to Action danach; D mindestens 12 s.
 - In allen ffmpeg-Aufrufen 12 durch D ersetzen (`-t`, Farbbalken `d=`, Fortschrittsbalken `t/D`, `atrim=0:D`, `afade out st=D-2`); story.mp4 wird mit D gebaut. Startpunkt im Track: höchstens Tracklänge minus D minus 8 Sekunden.
+
+## Logo 30 % kleiner (verbindlich, dauerhaft, Nutzerwunsch 27.10.2026, gilt für alle Beitragsarten)
+Das Logo ist überall 30 % kleiner: im Facebook-Foto 63 % statt 90 % der Streifenhöhe (`h_$b_mul_0.63`), in allen Videos (Reel, Facebook- und Instagram-Story) `scale=106:-1` statt 151. Streifenhöhe und Position bleiben.
