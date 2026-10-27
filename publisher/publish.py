@@ -99,6 +99,8 @@ def publish_instagram(entry, token):
             "caption": entry.get("caption", ""),
             "share_to_feed": "true" if kind == "feed" else "false",
         }
+        if entry.get("cover_url"):
+            params["cover_url"] = entry["cover_url"]
     else:
         raise RuntimeError(f"Unbekannter Instagram-Typ: {kind}")
 
