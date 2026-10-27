@@ -46,11 +46,11 @@ Rückfälle (je Eintrag, nur wenn der Eintrag nicht anlegbar ist; das Scheitern 
 Musste der Facebook-Eintrag ohne Logo auskommen, trägt das Video trotzdem das Logo (Abschnitt 8). Das Logo wird nie doppelt aufgesetzt.
 
 5. BILD-URLS (CLOUDINARY, NUR FACEBOOK-FOTO)
-Jedes Foto aus einer externen Quelle bekommt das runde Seitenlogo oben links (14 % der Bildbreite). Das Logo setzt Cloudinary (Cloud-Name gc0qxb3y, Logo-Public-ID logo_wappen). Die URL wird nur gebaut und per curl -sIL auf HTTP 200 und image/jpeg geprüft.
+Jedes Foto aus einer externen Quelle bekommt oben einen weißen Streifen von 30 px Höhe, in dem das runde Seitenlogo links oben sitzt (26 px hoch, 4 px vom linken und 2 px vom oberen Rand). Das Logo verdeckt dadurch nie einen Teil des Fotos (Nutzerwunsch 27.10.2026, dauerhaft, ersetzt das frühere Logo im Foto mit 14 % Breite). Den Streifen und das Logo setzt Cloudinary (Cloud-Name gc0qxb3y, Logo-Public-ID logo_wappen). Die URL wird nur gebaut und per curl -sIL auf HTTP 200 und image/jpeg geprüft.
 Foto-URL kodieren (nur Sonderzeichen wie ? & = # und Leerzeichen, "https://", Host und Pfad bleiben lesbar):
  python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1], safe=':/%'))" "<Foto-URL>"
 LOGO-URL:
- https://res.cloudinary.com/gc0qxb3y/image/fetch/l_logo_wappen/c_scale,fl_relative,w_0.14/fl_layer_apply,g_north_west,x_0.025,y_0.025/f_jpg,q_90/<kodierte Foto-URL>
+ https://res.cloudinary.com/gc0qxb3y/image/fetch/c_pad,w_iw,h_ih_add_30,g_south,b_white/l_logo_wappen/c_scale,h_26/fl_layer_apply,g_north_west,x_4,y_2/f_jpg,q_90/<kodierte Foto-URL>
 Es ist immer dieselbe Foto-Adresse für alle URLs einer Meldung.
 
 6. TEXTE
