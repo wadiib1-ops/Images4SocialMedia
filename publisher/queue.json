@@ -3118,5 +3118,46 @@
     "quelle_url": "https://ar.sport.le360.ma/football/NQVTUQFLH5C6TD66KFNBLJJVEQ/",
     "meta_id": "18158233285517686",
     "published_at": "2026-10-27T16:38:11.972426+00:00"
+  },
+  {
+    "id": "20261027-1820-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.22/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://www.lesiteinfo.com/wp-content/uploads/2026/10/hakimi.jpg",
+    "caption": "ظهر أشرف حكيمي بإطلالة جديدة لفتت الأنظار قبل مباراة باريس سان جيرمان وليون مساء الإثنين.\n\nالدولي المغربي اختار تسريحة جديدة بضفائر قصيرة، مع بدلة كحلية وقميص أبيض وربطة عنق من ديور ونظارة شمسية سوداء.\n\nوتفاعل رواد مواقع التواصل بكثرة مع الإطلالة، وأشاد كثيرون بأناقته. وعلى أرض الملعب فاز باريس سان جيرمان بهدفين دون رد.\n\nوكان حكيمي قد احتل المركز الثالث عشر في ترتيب الكرة الذهبية 2026.\n\nما رأيكم في إطلالة حكيمي الجديدة؟\n\n#حكيمي #باريس_سان_جيرمان #المنتخب_المغربي",
+    "status": "now",
+    "titel": "حكيمي يخطف الأنظار بإطلالته الجديدة قبل مباراة باريس وليون",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685622-achraf-hakimi-fait-sensation-avec-son-nouveau-look-photo.html"
+  },
+  {
+    "id": "20261027-1820-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-1820-1-reel-text.mp4",
+    "caption": "✨ حكيمي يخطف الأضواء حتى قبل صافرة البداية! 🔥\n\nضفائر قصيرة، بدلة كحلية وربطة عنق ديور: إطلالة الظهير الأيمن أشعلت مواقع التواصل قبل مباراة باريس وليون 😎\n\nوفي الملعب، كان الفوز لباريس سان جيرمان بهدفين نظيفين ⚽\n\n#حكيمي #PSG #أسود_الأطلس #كرة_القدم_المغربية #Hakimi",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261027-1820-1.jpg",
+    "status": "now",
+    "titel": "حكيمي يخطف الأنظار بإطلالته الجديدة قبل مباراة باريس وليون",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685622-achraf-hakimi-fait-sensation-avec-son-nouveau-look-photo.html"
+  },
+  {
+    "id": "20261027-1820-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-1820-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "حكيمي يخطف الأنظار بإطلالته الجديدة قبل مباراة باريس وليون",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685622-achraf-hakimi-fait-sensation-avec-son-nouveau-look-photo.html"
+  },
+  {
+    "id": "20261027-1820-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-1820-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "حكيمي يخطف الأنظار بإطلالته الجديدة قبل مباراة باريس وليون",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685622-achraf-hakimi-fait-sensation-avec-son-nouveau-look-photo.html"
   }
 ]
