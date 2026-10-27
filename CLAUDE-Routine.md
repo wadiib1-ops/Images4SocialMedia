@@ -82,3 +82,6 @@ Antworten auf Deutsch, knapp. Keine Zusatzaktionen außer den oben genannten Sch
 
 ## Logo-Streifen (verbindlich, dauerhaft, Nutzerwunsch 27.10.2026)
 Fotos tragen das Logo nicht mehr auf dem Bild, sondern in einem Streifen in der Randfarbe des Fotos (Höhe 22 % der Bildbreite; das Foto bleibt vollständig sichtbar) oben links über dem Foto (LOGO-URL in PROMPT.md Abschnitt 5). Das gilt für Facebook- und Instagram-Foto in jedem Lauf; Videos bleiben unverändert.
+
+## Video-Effekt (verbindlich, dauerhaft, Nutzerwunsch 27.10.2026)
+Instagram-Reel, Facebook-Story und Instagram-Story erhalten das Effekt-Video nach PROMPT.md Abschnitt 8 Schritt 5 bis 7: Start-Effekt (Blitz, Punch-In-Zoom, RGB-Glitch, Beat-Puls, Vignette) nur in den ersten 2 Sekunden, danach ruhiges Bild; Text mit Einblendung, roter Fortschrittsbalken unten. Quell-Videos (Regel D) bleiben unverändert.
