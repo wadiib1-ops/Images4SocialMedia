@@ -81,7 +81,7 @@ Antworten auf Deutsch, knapp. Keine Zusatzaktionen außer den oben genannten Sch
 7. Unabhängige Tool-Aufrufe immer im selben Block absetzen.
 
 ## Logo-Streifen (verbindlich, dauerhaft, Nutzerwunsch 27.10.2026)
-Fotos tragen das Logo nicht mehr auf dem Bild, sondern in einem Streifen in der Randfarbe des Fotos (Höhe 22 % der Bildbreite; das Foto bleibt vollständig sichtbar) oben links über dem Foto (LOGO-URL in PROMPT.md Abschnitt 5). Das gilt für das Facebook-Foto in jedem Lauf; Videos bleiben unverändert.
+Fotos tragen das Logo nicht mehr auf dem Bild, sondern in einem Streifen in der Randfarbe des Fotos (Höhe 15,4 % der Bildbreite; das Foto bleibt vollständig sichtbar) oben links über dem Foto (LOGO-URL in PROMPT.md Abschnitt 5). Das gilt für das Facebook-Foto in jedem Lauf; Videos bleiben unverändert.
 
 ## Video-Effekt (verbindlich, dauerhaft, Nutzerwunsch 27.10.2026)
 Instagram-Reel, Facebook-Story und Instagram-Story erhalten das Effekt-Video nach PROMPT.md Abschnitt 8 Schritt 5 bis 7: Start-Effekt (Blitz, Punch-In-Zoom, RGB-Glitch, Beat-Puls, Vignette) nur in den ersten 2 Sekunden, danach ruhiges Bild; Text mit Einblendung, roter Fortschrittsbalken unten. Quell-Videos (Regel D) bleiben unverändert.
@@ -108,4 +108,4 @@ Die Anzeigedauer jedes Textabschnitts im Video (Reel-Abschnitte, Story-Schlagzei
 - In allen ffmpeg-Aufrufen 12 durch D ersetzen (`-t`, Farbbalken `d=`, Fortschrittsbalken `t/D`, `atrim=0:D`, `afade out st=D-2`); story.mp4 wird mit D gebaut. Startpunkt im Track: höchstens Tracklänge minus D minus 8 Sekunden.
 
 ## Logo 30 % kleiner (verbindlich, dauerhaft, Nutzerwunsch 27.10.2026, gilt für alle Beitragsarten)
-Das Logo ist überall 30 % kleiner: im Facebook-Foto 63 % statt 90 % der Streifenhöhe (`h_$b_mul_0.63`), in allen Videos (Reel, Facebook- und Instagram-Story) `scale=106:-1` statt 151. Streifenhöhe und Position bleiben.
+Das Logo ist überall 30 % kleiner: im Facebook-Foto sind Streifen (jetzt 15,4 % der Bildbreite, `$b_iw_mul_0.154`) und Logo (weiter 90 % der Streifenhöhe) 30 % kleiner, in allen Videos `scale=106:-1` statt 151. Position bleibt.
