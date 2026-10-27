@@ -3321,9 +3321,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.22/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/QIA5JV3PQNEKLDMSJNEOTC76D4.png%3Fauth%3D9dddaca74ec867e7cf1e5059e32d6d9a2fe02f921c0562416fad5a87c3996f6c%26smart%3Dtrue%26width%3D1216%26height%3D684",
     "caption": "الفيفا تستعد لجولة جديدة من الزيارات التفقدية للدول الثلاث المستضيفة لمونديال 2030: المغرب وإسبانيا والبرتغال.\n\nستجري الزيارات خلال شهري نوفمبر وديسمبر، وتهدف إلى مقارنة ما ورد في ملفات الترشيح بالواقع على الأرض.\n\nفي المغرب ستشمل الجولة ست مدن هي أكادير والدار البيضاء وفاس ومراكش والرباط وطنجة.\n\nولم يُحسم بعد توزيع المباريات على الملاعب ولا مكان إقامة المباراة النهائية.\n\nبرأيكم، أي ملعب مغربي يستحق احتضان أكبر المباريات؟\n\n#المغرب #مونديال2030 #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "الفيفا تعلن جولة تفقدية لملاعب مونديال 2030",
-    "quelle_url": "https://ar.sport.le360.ma/football/UQF3VXYQRNFFVAYAM5KVP5HCVE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/UQF3VXYQRNFFVAYAM5KVP5HCVE/",
+    "meta_id": "122222074616577271",
+    "published_at": "2026-10-27T21:21:45.127602+00:00"
   },
   {
     "id": "20261027-2230-1-ig-reel",
@@ -3332,9 +3334,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-2230-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261027-2230-1.jpg",
     "caption": "🏟️ المغرب على أجندة الفيفا من جديد!\n\nلجنة الفيفا ستزور في نوفمبر وديسمبر المدن والملاعب المرشحة لاحتضان مونديال 2030 في المغرب وإسبانيا والبرتغال ⚽\n\n6 مدن مغربية في البرنامج: أكادير، الدار البيضاء، فاس، مراكش، الرباط وطنجة \n\nالقرار النهائي بشأن توزيع المباريات والمباراة النهائية لم يُتخذ بعد 👀\n\n#مونديال2030 #المغرب #الفيفا #أسود_الأطلس #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "الفيفا تعلن جولة تفقدية لملاعب مونديال 2030",
-    "quelle_url": "https://ar.sport.le360.ma/football/UQF3VXYQRNFFVAYAM5KVP5HCVE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/UQF3VXYQRNFFVAYAM5KVP5HCVE/",
+    "meta_id": "18010591529978689",
+    "published_at": "2026-10-27T21:21:45.127602+00:00"
   },
   {
     "id": "20261027-2230-1-fb-story",
@@ -3342,9 +3346,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-2230-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الفيفا تعلن جولة تفقدية لملاعب مونديال 2030",
-    "quelle_url": "https://ar.sport.le360.ma/football/UQF3VXYQRNFFVAYAM5KVP5HCVE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/UQF3VXYQRNFFVAYAM5KVP5HCVE/",
+    "meta_id": "28875311638785441",
+    "published_at": "2026-10-27T21:21:45.127602+00:00"
   },
   {
     "id": "20261027-2230-1-ig-story",
@@ -3352,8 +3358,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-2230-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الفيفا تعلن جولة تفقدية لملاعب مونديال 2030",
-    "quelle_url": "https://ar.sport.le360.ma/football/UQF3VXYQRNFFVAYAM5KVP5HCVE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/UQF3VXYQRNFFVAYAM5KVP5HCVE/",
+    "meta_id": "18119730658778240",
+    "published_at": "2026-10-27T21:21:45.127602+00:00"
   }
 ]
