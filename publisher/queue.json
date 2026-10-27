@@ -3022,5 +3022,45 @@
     "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/4GUQOQJANFBE5JB37F6CEB25XQ/",
     "meta_id": "17978485752134996",
     "published_at": "2026-10-27T15:20:59.335177+00:00"
+  },
+  {
+    "id": "20261027-1715-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.22/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://www.lesiteinfo.com/wp-content/uploads/2023/01/Amrabat-1.jpg",
+    "caption": "مصطفى حجي يرد على سفيان أمرابط: لا أحد فوق المنتخب\n\nانتقد نجم الأسود السابق تصريحات أمرابط الذي ربط عودته إلى المنتخب برحيل المدرب محمد وهبي.\n\nوقال حجي إن اللاعب يمثل الوطن وليس المدرب، ولا يعلو فوق المنتخب أو المدرب أو العلم المغربي.\n\nوأكد في المقابل احترامه الكبير لما قدمه أمرابط مع المنتخب طوال السنوات الماضية.\n\nفهل توافقون حجي في موقفه من أمرابط؟\n\n#أمرابط #مصطفى_حجي #الأسود",
+    "status": "now",
+    "titel": "حجي يرد على أمرابط: لا أحد فوق المنتخب أو المدرب أو العلم",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685620-tu-nes-pas-au-dessus-de-la-selection-mustapha-hadji-recadre-sofyan-amrabat.html"
+  },
+  {
+    "id": "20261027-1715-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-1715-1-reel-text.mp4",
+    "caption": "🗣️ حجي يوجه رسالة مباشرة لأمرابط: القميص الوطني أكبر من الجميع!\n\nربط سفيان أمرابط عودته إلى الأسود برحيل المدرب محمد وهبي، فجاء رد مصطفى حجي سريعا وحاسما ⚽\n\nنجم المنتخب السابق شدد على أن اللاعب يخدم الوطن وليس شخص المدرب، مع إشادته بما قدمه أمرابط للمنتخب 🦁\n\nمن وجهة نظركم، هل يحق للاعب وضع شروط للعودة؟ 👇\n\n#أمرابط #حجي #وهبي #المنتخب_المغربي #أسود_الأطلس",
+    "status": "now",
+    "titel": "حجي يرد على أمرابط: لا أحد فوق المنتخب أو المدرب أو العلم",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685620-tu-nes-pas-au-dessus-de-la-selection-mustapha-hadji-recadre-sofyan-amrabat.html"
+  },
+  {
+    "id": "20261027-1715-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-1715-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "حجي يرد على أمرابط: لا أحد فوق المنتخب أو المدرب أو العلم",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685620-tu-nes-pas-au-dessus-de-la-selection-mustapha-hadji-recadre-sofyan-amrabat.html"
+  },
+  {
+    "id": "20261027-1715-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-1715-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "حجي يرد على أمرابط: لا أحد فوق المنتخب أو المدرب أو العلم",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685620-tu-nes-pas-au-dessus-de-la-selection-mustapha-hadji-recadre-sofyan-amrabat.html"
   }
 ]
