@@ -3223,9 +3223,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.22/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/XPHWHIPC6RAOJLBN2CXVG3DVXQ.jpg%3Fauth%3D063b3fa83f18889ee37d17d86c9ebe1ffb245db5b039424a463a04594ffd42eb%26smart%3Dtrue%26width%3D1216%26height%3D684",
     "caption": "ضربة جديدة تهدد قائمة الأسود قبل مباراتي النيجر 😟\n\nإلياس أخوماش لن يكون حاضرا مع فياريال في مواجهة سي دي ماناكور ضمن كأس الملك، بسبب مشكلة عضلية.\n\nاللاعب شعر بآلام بعد مباراة فريقه أمام فالنسيا في الدوري الإسباني، وغاب عن تداريب الفريق.\n\nمدرب فياريال إينيغو بيريز قال إن الفريق سيفتقده، لكنه لا يعرف إلى متى سيستمر الغياب.\n\nالإصابة قد تهدد مشاركة الدولي المغربي في معسكر المنتخب الوطني الذي يشرف عليه محمد وهبي، استعدادا لمواجهتي النيجر في تصفيات كأس أمم إفريقيا.\n\nهل تتمنون أن يلحق أخوماش بمعسكر الأسود في الوقت المناسب؟\n\n#أخوماش #المنتخب_المغربي #أسود_الأطلس",
-    "status": "now",
+    "status": "published",
     "titel": "فريق إسباني ينقل خبرا غير سار لمحمد وهبي قبل مواجهة النيجر",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/QCZPTIEPPBAKBKYR2SJBLP7BRY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/QCZPTIEPPBAKBKYR2SJBLP7BRY/",
+    "meta_id": "122222062904577271",
+    "published_at": "2026-10-27T19:19:55.512598+00:00"
   },
   {
     "id": "20261027-2030-1-ig-reel",
@@ -3234,9 +3236,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-2030-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261027-2030-1.jpg",
     "caption": "خبر غير سار لوهبي قبل مباراتي النيجر ⚠️\n\nنجم فياريال إلياس أخوماش يغيب عن مواجهة سي دي ماناكور في كأس الملك بعد إصابة عضلية 🤕\n\nالألم ظهر عقب لقاء فالنسيا، والمدرب إينيغو بيريز اعترف بأنه لا يعرف موعد العودة.\n\nالسؤال الآن: هل يلحق الدولي المغربي بمعسكر الأسود؟ 🦁\n\n#أخوماش #فياريال #أسود_الأطلس #المنتخب_المغربي #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "فريق إسباني ينقل خبرا غير سار لمحمد وهبي قبل مواجهة النيجر",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/QCZPTIEPPBAKBKYR2SJBLP7BRY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/QCZPTIEPPBAKBKYR2SJBLP7BRY/",
+    "meta_id": "17952265749318357",
+    "published_at": "2026-10-27T19:19:55.512598+00:00"
   },
   {
     "id": "20261027-2030-1-fb-story",
@@ -3244,9 +3248,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-2030-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "فريق إسباني ينقل خبرا غير سار لمحمد وهبي قبل مواجهة النيجر",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/QCZPTIEPPBAKBKYR2SJBLP7BRY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/QCZPTIEPPBAKBKYR2SJBLP7BRY/",
+    "meta_id": "2497406327450535",
+    "published_at": "2026-10-27T19:19:55.512598+00:00"
   },
   {
     "id": "20261027-2030-1-ig-story",
@@ -3254,8 +3260,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-2030-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "فريق إسباني ينقل خبرا غير سار لمحمد وهبي قبل مواجهة النيجر",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/QCZPTIEPPBAKBKYR2SJBLP7BRY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/QCZPTIEPPBAKBKYR2SJBLP7BRY/",
+    "meta_id": "17993538957065612",
+    "published_at": "2026-10-27T19:19:55.512598+00:00"
   }
 ]
