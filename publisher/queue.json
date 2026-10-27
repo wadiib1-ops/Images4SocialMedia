@@ -2532,5 +2532,55 @@
     "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/EQNQIDXKHZDE3NPVQJXB7H43PY/",
     "status": "failed",
     "error": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"User is performing too many actions\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":9,\"error_subcode\":2207042,\"error_user_title\":\"Limit f\\u00fcr die Ver\\u00f6ffentlichung von Medien \\u00fcberschritten\",\"error_user_msg\":\"Du hast die maximal zul\\u00e4ssige Anzahl an durch die Content Publishing API ver\\u00f6ffentlichten Beitr\\u00e4gen erreicht.\",\"fbtrace_id\":\"AoaO9aoU04kODwncPniAzSO\"}}"
+  },
+  {
+    "id": "20261027-0718-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "status": "now",
+    "titel": "النصيري يمنح الاتحاد أول انتصار آسيوي",
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d9%86%d8%b5%d9%8a%d8%b1%d9%8a-%d9%8a%d9%85%d9%86%d8%ad-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a3%d9%88%d9%84-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1-%d8%a2%d8%b3%d9%8a%d9%88%d9%8a-1829290.html",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/nassiri-ittihad-20261027.jpg",
+    "caption": "يوسف النصيري يصنع الفارق من جديد مع اتحاد جدة ⚽\n\nسجل مهاجم الأسود هدف الفوز من ركلة حرة مباشرة بقدمه اليسرى في الدقيقة الأولى من الوقت بدل الضائع، ليقود الاتحاد إلى الفوز 2-1 على نفتشي فرغانة في دوري أبطال آسيا للنخبة، وهو أول انتصار له في البطولة.\n\nما رأيكم في هذا الهدف الحاسم؟\n\nYoussef En-Nesyri sauve Al-Ittihad à la dernière minute !\n\nL'attaquant des Lions de l'Atlas a inscrit le but de la victoire sur coup franc direct du pied gauche, dans les arrêts de jeu, pour un succès 2-1 face à Neftchi Fergana en Ligue des champions d'Asie Élite. C'est la première victoire d'Al-Ittihad dans la compétition.\n\nQue pensez-vous de ce coup franc décisif ?\n\n#النصيري #الاتحاد #أسود_الأطلس"
+  },
+  {
+    "id": "20261027-0718-1-ig-photo",
+    "platform": "instagram",
+    "type": "photo",
+    "status": "now",
+    "titel": "النصيري يمنح الاتحاد أول انتصار آسيوي",
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d9%86%d8%b5%d9%8a%d8%b1%d9%8a-%d9%8a%d9%85%d9%86%d8%ad-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a3%d9%88%d9%84-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1-%d8%a2%d8%b3%d9%8a%d9%88%d9%8a-1829290.html",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/nassiri-ittihad-20261027.jpg",
+    "caption": "🔥 النصيري يخطف الفوز في اللحظة الأخيرة!\n\nركلة حرة مباشرة بالقدم اليسرى مع بداية الوقت بدل الضائع، وهدف يمنح اتحاد جدة أول انتصار في دوري أبطال آسيا للنخبة بنتيجة 2-1 أمام نفتشي فرغانة 🦁⚽🏆\n\n🔥 En-Nesyri arrache la victoire dans le temps additionnel !\n\nUn coup franc direct du pied gauche et Al-Ittihad s'impose 2-1 face à Neftchi Fergana pour sa première victoire en Ligue des champions d'Asie Élite 🦁⚽\n\n#النصيري #ennesyri #الاتحاد #LionsDeLAtlas #كرة_القدم"
+  },
+  {
+    "id": "20261027-0718-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "status": "now",
+    "titel": "النصيري يمنح الاتحاد أول انتصار آسيوي",
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d9%86%d8%b5%d9%8a%d8%b1%d9%8a-%d9%8a%d9%85%d9%86%d8%ad-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a3%d9%88%d9%84-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1-%d8%a2%d8%b3%d9%8a%d9%88%d9%8a-1829290.html",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-0718-1-reel-text.mp4",
+    "caption": "🔥 النصيري يخطف الفوز في اللحظة الأخيرة!\n\nركلة حرة مباشرة بالقدم اليسرى مع بداية الوقت بدل الضائع، وهدف يمنح اتحاد جدة أول انتصار في دوري أبطال آسيا للنخبة بنتيجة 2-1 أمام نفتشي فرغانة 🦁⚽🏆\n\n🔥 En-Nesyri arrache la victoire dans le temps additionnel !\n\nUn coup franc direct du pied gauche et Al-Ittihad s'impose 2-1 face à Neftchi Fergana pour sa première victoire en Ligue des champions d'Asie Élite 🦁⚽\n\n#النصيري #ennesyri #الاتحاد #LionsDeLAtlas #كرة_القدم"
+  },
+  {
+    "id": "20261027-0718-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "status": "now",
+    "titel": "النصيري يمنح الاتحاد أول انتصار آسيوي",
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d9%86%d8%b5%d9%8a%d8%b1%d9%8a-%d9%8a%d9%85%d9%86%d8%ad-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a3%d9%88%d9%84-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1-%d8%a2%d8%b3%d9%8a%d9%88%d9%8a-1829290.html",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-0718-1-story-text.mp4",
+    "caption": ""
+  },
+  {
+    "id": "20261027-0718-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "status": "now",
+    "titel": "النصيري يمنح الاتحاد أول انتصار آسيوي",
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d9%86%d8%b5%d9%8a%d8%b1%d9%8a-%d9%8a%d9%85%d9%86%d8%ad-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a3%d9%88%d9%84-%d8%a7%d9%86%d8%aa%d8%b5%d8%a7%d8%b1-%d8%a2%d8%b3%d9%8a%d9%88%d9%8a-1829290.html",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-0718-1-story-text.mp4",
+    "caption": ""
   }
 ]
