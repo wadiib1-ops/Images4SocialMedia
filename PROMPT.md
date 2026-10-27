@@ -46,11 +46,11 @@ Rückfälle (je Eintrag, nur wenn der Eintrag nicht anlegbar ist; das Scheitern 
 Musste der Facebook-Eintrag ohne Logo auskommen, trägt das Video trotzdem das Logo (Abschnitt 8). Das Logo wird nie doppelt aufgesetzt.
 
 5. BILD-URLS (CLOUDINARY, NUR FACEBOOK-FOTO)
-Jedes Foto aus einer externen Quelle bekommt oben einen weißen Streifen, dessen Höhe 11 % der Bildbreite beträgt (bei 1216 px Breite etwa 134 px); darin sitzt das runde Seitenlogo links oben (90 % der Streifenhöhe). Das Logo verdeckt dadurch nie einen Teil des Fotos (Nutzerwunsch 27.10.2026, dauerhaft; die erste feste Fassung mit 30 px war zu klein). Den Streifen und das Logo setzt Cloudinary (Cloud-Name gc0qxb3y, Logo-Public-ID logo_wappen). Die URL wird nur gebaut und per curl -sIL auf HTTP 200 und image/jpeg geprüft.
+Jedes Foto aus einer externen Quelle bekommt oben einen weißen Streifen, dessen Höhe 22 % der Bildbreite beträgt (bei 1216 px Breite etwa 268 px); darin sitzt das runde Seitenlogo links oben (90 % der Streifenhöhe). Das Logo verdeckt dadurch nie einen Teil des Fotos (Nutzerwunsch 27.10.2026, dauerhaft; Logo doppelt so groß wie in der 11-%-Fassung; das Foto wird nie beschnitten und bleibt vollständig sichtbar). Den Streifen und das Logo setzt Cloudinary (Cloud-Name gc0qxb3y, Logo-Public-ID logo_wappen). Die URL wird nur gebaut und per curl -sIL auf HTTP 200 und image/jpeg geprüft.
 Foto-URL kodieren (nur Sonderzeichen wie ? & = # und Leerzeichen, "https://", Host und Pfad bleiben lesbar):
  python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1], safe=':/%'))" "<Foto-URL>"
 LOGO-URL:
- https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.11/c_pad,w_iw,h_ih_add_$b,g_south,b_white/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.1,y_$b_mul_0.05/f_jpg,q_90/<kodierte Foto-URL>
+ https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.22/c_pad,w_iw,h_ih_add_$b,g_south,b_white/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/<kodierte Foto-URL>
 Es ist immer dieselbe Foto-Adresse für alle URLs einer Meldung.
 
 6. TEXTE
