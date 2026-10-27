@@ -73,10 +73,10 @@ Antworten auf Deutsch, knapp. Keine Zusatzaktionen außer den oben genannten Sch
 
 ## Parallele Arbeitsweise (verbindlich, um Zeit zu sparen)
 1. Gleich zu Beginn in EINEM Schritt parallel: Python-Umgebung im Hintergrund bauen (`python3 -m venv /tmp/venv && /tmp/venv/bin/pip install -q pillow arabic-reshaper python-bidi`, weil das System-Pillow defekt ist), `git fetch origin main video-out` und die Dublettenprüfung gegen `publisher/queue.json`/`log.jsonl`.
-2. Recherche: 3 bis 4 Quellseiten der Quellenliste gleichzeitig abrufen (ein Block mit mehreren WebFetch-Aufrufen), danach die Einzelartikel der Kandidaten gleichzeitig (Datum, Fakten, Foto, Video). Abbruch, sobald 2 brauchbare Meldungen vorliegen.
-3. Foto-Ladeprüfung und Foto-Ansicht beider Meldungen gleichzeitig.
-4. Videos beider Meldungen gleichzeitig bauen (ffmpeg-Aufrufe als parallele Hintergrundprozesse mit `&` und `wait`): STORY-VIDEO, Story-Text-Video, Reel-Text-Video. Ein Vorschaubild je Video genügt.
-5. Texte (FACEBOOK-TEXT, INSTAGRAM-TEXT, je AR+FR) für beide Meldungen schreiben, während die Videos rendern.
+2. Recherche: 3 bis 4 Quellseiten der Quellenliste gleichzeitig abrufen (ein Block mit mehreren WebFetch-Aufrufen), danach die Einzelartikel der Kandidaten gleichzeitig (Datum, Fakten, Foto, Video). Abbruch, sobald 1 brauchbare Meldung vorliegt (pro Lauf wird nur nach einer Meldung gesucht, Nutzerwunsch 27.10.2026, dauerhaft).
+3. Foto-Ladeprüfung und Foto-Ansicht der Meldung.
+4. Videos der Meldung gleichzeitig bauen (ffmpeg-Aufrufe als parallele Hintergrundprozesse mit `&` und `wait`): STORY-VIDEO, Story-Text-Video, Reel-Text-Video. Ein Vorschaubild je Video genügt.
+5. Texte (FACEBOOK-TEXT, INSTAGRAM-TEXT, je AR+FR) für die Meldung schreiben, während die Videos rendern.
 6. Push nach `video-out`, Medien-URL-Prüfung (curl) und Cloudinary-Prüfung gleichzeitig; danach ein einziger Push von `queue.json` nach `main`.
 7. Unabhängige Tool-Aufrufe immer im selben Block absetzen.
 
