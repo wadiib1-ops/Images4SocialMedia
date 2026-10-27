@@ -3077,9 +3077,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.22/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/756GEPG5ZNEZXL4V2ASI7DE62A.jpg%3Fauth%3Db38caee60706b3d51e75c1f457d904d28160cefe8e2a39a57591e73823fbf91b%26smart%3Dtrue%26width%3D1216%26height%3D684",
     "caption": "رقم سلبي يلاحق نهضة بركان قبل قمة الجولة الخامسة من البطولة الاحترافية\n\nيحل نهضة بركان ضيفاً على المغرب الفاسي يوم الخميس عند الثامنة مساءً بالملعب الشرفي بمكناس\n\nلم يحقق الفريق البركاني أي فوز هذا الموسم، فتعادل سلباً مع المغرب التطواني، ثم بنتيجة اثنين لاثنين مع نهضة الزمامرة\n\nويقود الفريق المدرب البرتغالي بيدرو بوبيستا، ويسعى إلى كسر هذه السلسلة أمام منافس مؤهل مثله إلى دور المجموعات\n\nهل ينهي بركان صيامه عن الانتصارات في مكناس؟\n\n#نهضة_بركان #البطولة_الاحترافية #المغرب_الفاسي",
-    "status": "now",
+    "status": "published",
     "titel": "رقم سلبي يلاحق نهضة بركان في قمته أمام المغرب الفاسي",
-    "quelle_url": "https://ar.sport.le360.ma/football/NQVTUQFLH5C6TD66KFNBLJJVEQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/NQVTUQFLH5C6TD66KFNBLJJVEQ/",
+    "meta_id": "122222048186577271",
+    "published_at": "2026-10-27T16:38:11.972426+00:00"
   },
   {
     "id": "20261027-1736-1-ig-reel",
@@ -3087,9 +3089,11 @@
     "type": "reel",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-1736-1-reel-text.mp4",
     "caption": "بركان بلا فوز... وقمة نارية تنتظره في مكناس 🔥\n\nالخميس عند الثامنة مساءً، يواجه نهضة بركان مضيفه المغرب الفاسي بالملعب الشرفي ضمن الجولة الخامسة ⚽\n\nحصيلة الفريق البرتقالي هذا الموسم: تعادلان بلا أهداف وتعادل بهدفين لكل فريق، ولا انتصار بعد 🧡\n\nالمدرب البرتغالي بوبيستا يريد كسر الرقم السلبي أمام فريق مؤهل مثل بركان إلى دور المجموعات 💪\n\n#نهضة_بركان #المغرب_الفاسي #البطولة_الاحترافية #كرة_القدم_المغربية #بركان",
-    "status": "now",
+    "status": "published",
     "titel": "رقم سلبي يلاحق نهضة بركان في قمته أمام المغرب الفاسي",
-    "quelle_url": "https://ar.sport.le360.ma/football/NQVTUQFLH5C6TD66KFNBLJJVEQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/NQVTUQFLH5C6TD66KFNBLJJVEQ/",
+    "meta_id": "18097820009425867",
+    "published_at": "2026-10-27T16:38:11.972426+00:00"
   },
   {
     "id": "20261027-1736-1-fb-story",
@@ -3097,9 +3101,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-1736-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "رقم سلبي يلاحق نهضة بركان في قمته أمام المغرب الفاسي",
-    "quelle_url": "https://ar.sport.le360.ma/football/NQVTUQFLH5C6TD66KFNBLJJVEQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/NQVTUQFLH5C6TD66KFNBLJJVEQ/",
+    "meta_id": "1130935999450063",
+    "published_at": "2026-10-27T16:38:11.972426+00:00"
   },
   {
     "id": "20261027-1736-1-ig-story",
@@ -3107,8 +3113,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261027-1736-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "رقم سلبي يلاحق نهضة بركان في قمته أمام المغرب الفاسي",
-    "quelle_url": "https://ar.sport.le360.ma/football/NQVTUQFLH5C6TD66KFNBLJJVEQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/NQVTUQFLH5C6TD66KFNBLJJVEQ/",
+    "meta_id": "18158233285517686",
+    "published_at": "2026-10-27T16:38:11.972426+00:00"
   }
 ]
