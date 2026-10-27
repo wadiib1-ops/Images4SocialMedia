@@ -81,4 +81,4 @@ Antworten auf Deutsch, knapp. Keine Zusatzaktionen außer den oben genannten Sch
 7. Unabhängige Tool-Aufrufe immer im selben Block absetzen.
 
 ## Logo-Streifen (verbindlich, dauerhaft, Nutzerwunsch 27.10.2026)
-Fotos tragen das Logo nicht mehr auf dem Bild, sondern in einem 30 px hohen weißen Streifen oben links über dem Foto (LOGO-URL in PROMPT.md Abschnitt 5). Das gilt für Facebook- und Instagram-Foto in jedem Lauf; Videos bleiben unverändert.
+Fotos tragen das Logo nicht mehr auf dem Bild, sondern in einem weißen Streifen (Höhe 11 % der Bildbreite) oben links über dem Foto (LOGO-URL in PROMPT.md Abschnitt 5). Das gilt für Facebook- und Instagram-Foto in jedem Lauf; Videos bleiben unverändert.
