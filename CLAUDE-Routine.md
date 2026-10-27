@@ -10,14 +10,14 @@ Ich (Claude) lege die Beiträge in `publisher/queue.json` ab. Der GitHub-Workflo
 - Instagram-Konto: 17841410500657352
 - Zugang: Das Geheimnis `META_USER_TOKEN` liegt in den GitHub-Repo-Settings und wird nur vom Workflow gelesen. Das Token nie ausgeben, nie in Dateien, Logs oder Chat schreiben.
 
-## Pro Meldung fünf Einträge, gleiche Zeit (Reihenfolge einhalten; Änderung 26.10.2026: Facebook-Reel entfällt dauerhaft)
+## Pro Meldung vier Einträge, gleiche Zeit (Reihenfolge einhalten; Änderungen: Facebook-Reel entfällt dauerhaft seit 26.10.2026, Instagram-Feed entfällt dauerhaft seit 27.10.2026)
 1. Facebook-Feed: `platform: "facebook"`, `type: "photo"` (`image_url` = LOGO-URL nach PROMPT.md Abschnitt 5) oder `"video"` (`video_url`, bei Quell-Video). Text FACEBOOK-TEXT (AR+FR, höchstens 3 Hashtags).
-2. Instagram-Feed: `platform: "instagram"`, `type: "photo"` mit derselben `image_url` (LOGO-URL; wenn Cloudinary die Quelle nicht laden kann, Foto mit aufgesetztem Logo in `images/` ablegen). Text INSTAGRAM-TEXT (AR+FR, genau 5 Hashtags). Bei Quell-Video entfällt dieser Eintrag.
+2. (entfällt) Es wird KEIN Instagram-Feed (Foto) mehr erstellt (Nutzerwunsch 27.10.2026, dauerhaft, für alle künftigen Läufe). Das Foto dient nur noch dem Facebook-Feed und als Bildquelle für die Videos.
 3. (entfällt) Es wird KEIN Facebook-Reel mehr erstellt.
-4. Instagram-Reel: `platform: "instagram"`, `type: "reel"`, gleiche `video_url`. Text INSTAGRAM-TEXT (genau 5 Hashtags). (Der Instagram-Feed ist das Foto aus Punkt 2, deshalb `reel` statt `feed`.)
+4. Instagram-Reel: `platform: "instagram"`, `type: "reel"`, gleiche `video_url`. Text INSTAGRAM-TEXT (genau 5 Hashtags).
 5. Facebook-Story: `platform: "facebook"`, `type: "story"`, `video_url` = `musik-<Zeit>-<n>-story-text.mp4`, `caption` leer.
 6. Instagram-Story: `platform: "instagram"`, `type: "story"`, gleiche `video_url`, `caption` leer. Einen Link-Sticker gibt die API nicht her, er entfällt.
-Alle fünf tragen dieselbe `quelle_url`, denselben `titel` und dieselbe Zeit. Hinweis: `publish.py` (Facebook-Reel und -Story, Instagram-Foto) wurde am 26.10.2026 ergänzt; nach dem ersten Lauf das Log auf Fehler prüfen und melden.
+Alle vier tragen dieselbe `quelle_url`, denselben `titel` und dieselbe Zeit. Hinweis: `publish.py` (Facebook-Reel und -Story, Instagram-Foto) wurde am 26.10.2026 ergänzt; nach dem ersten Lauf das Log auf Fehler prüfen und melden.
 
 ## Format eines Eintrags in publisher/queue.json
 ```json
@@ -69,7 +69,7 @@ Antworten auf Deutsch, knapp. Keine Zusatzaktionen außer den oben genannten Sch
 - Schreibt der Nutzer im Chat "starte jetzt" (oder Ähnliches): sofort loslegen, ohne Wartezeiten. Alle Einträge bekommen `status: "now"` (kein `publish_at`), und nach dem Push startet der Workflow `publish.yml` sofort per workflow_dispatch (GitHub-Tool `actions_run_trigger`, ref main), statt auf den 15-Minuten-Takt zu warten. Dann das Ergebnis in `publisher/log.jsonl` prüfen.
 - Manueller Start (verbindlich, dauerhaft): Wird die Routine vom Nutzer von Hand gestartet (Button/„Jetzt ausführen“, Chat-Aufforderung, Prompt ohne Zeitplan-Kennzeichnung „[SCHEDULED TASK …]“), werden die gefundenen Ergebnisse sofort nach Fertigstellung veröffentlicht: Einträge mit `status: "now"` (ohne `publish_at`), nach dem Push `publish.yml` per workflow_dispatch starten und das Ergebnis in `publisher/log.jsonl` prüfen. Keine Slots, kein Warten. Das gilt für alle künftigen manuellen Starts.
 - SOFORT VERÖFFENTLICHEN (verbindlich, dauerhaft, gilt für JEDEN Lauf, auch den automatisch geplanten; Nutzerwunsch 26.10.2026, muss nie wieder gesagt werden): Alle Einträge (Feed, Reel, Stories) bekommen `status: "now"` ohne `publish_at`. Keine Slots, kein Warten auf :00/:20/:40. Direkt nach dem Push von `queue.json` den Workflow `publish.yml` per workflow_dispatch starten (GitHub-Tool `actions_run_trigger`, ref main), weil der 15-Minuten-Takt von GitHub unzuverlässig ausgeführt wird. Danach `publisher/log.jsonl` auf `main` prüfen; Fehler per PushNotification melden. Fälligen Rückstand in der Queue (scheduled mit vergangenem `publish_at`) löst derselbe Workflow-Start mit aus. Dieser Punkt ersetzt alle Slot-Angaben in PROMPT.md.
-- Mehrere Einträge einer Meldung (fünf Einträge) tragen dieselbe `quelle_url`; `publish.py` wertet sie nicht als Dubletten.
+- Mehrere Einträge einer Meldung (vier Einträge) tragen dieselbe `quelle_url`; `publish.py` wertet sie nicht als Dubletten.
 
 ## Parallele Arbeitsweise (verbindlich, um Zeit zu sparen)
 1. Gleich zu Beginn in EINEM Schritt parallel: Python-Umgebung im Hintergrund bauen (`python3 -m venv /tmp/venv && /tmp/venv/bin/pip install -q pillow arabic-reshaper python-bidi`, weil das System-Pillow defekt ist), `git fetch origin main video-out` und die Dublettenprüfung gegen `publisher/queue.json`/`log.jsonl`.
@@ -81,7 +81,7 @@ Antworten auf Deutsch, knapp. Keine Zusatzaktionen außer den oben genannten Sch
 7. Unabhängige Tool-Aufrufe immer im selben Block absetzen.
 
 ## Logo-Streifen (verbindlich, dauerhaft, Nutzerwunsch 27.10.2026)
-Fotos tragen das Logo nicht mehr auf dem Bild, sondern in einem Streifen in der Randfarbe des Fotos (Höhe 22 % der Bildbreite; das Foto bleibt vollständig sichtbar) oben links über dem Foto (LOGO-URL in PROMPT.md Abschnitt 5). Das gilt für Facebook- und Instagram-Foto in jedem Lauf; Videos bleiben unverändert.
+Fotos tragen das Logo nicht mehr auf dem Bild, sondern in einem Streifen in der Randfarbe des Fotos (Höhe 22 % der Bildbreite; das Foto bleibt vollständig sichtbar) oben links über dem Foto (LOGO-URL in PROMPT.md Abschnitt 5). Das gilt für das Facebook-Foto in jedem Lauf; Videos bleiben unverändert.
 
 ## Video-Effekt (verbindlich, dauerhaft, Nutzerwunsch 27.10.2026)
 Instagram-Reel, Facebook-Story und Instagram-Story erhalten das Effekt-Video nach PROMPT.md Abschnitt 8 Schritt 5 bis 7: Start-Effekt (Blitz, Punch-In-Zoom, RGB-Glitch, Beat-Puls, Vignette) nur in den ersten 2 Sekunden, danach ruhiges Bild; Text mit Einblendung, roter Fortschrittsbalken unten. Quell-Videos (Regel D) bleiben unverändert.

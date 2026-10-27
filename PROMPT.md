@@ -5,9 +5,9 @@ Lies zuerst vollständig die Datei CLAUDE-Routine.md im selben Repo (Branch main
 
 1. AUFTRAG UND ABLAUF
 Veröffentliche bis zu 2 neue Meldungen pro Lauf auf Arabisch (Beitragstexte zusätzlich auf Französisch, Abschnitt 9) über AKTUELLE Nachrichten zu Fußball oder Futsal mit klarem Marokko-Bezug. Zulässig: Nationalmannschaft und Atlas Lions, Frauen- und Jugendteams, Spieler marokkanischer Herkunft und Diaspora, Botola Pro, marokkanische Klubs und Trainer, Auslandsprofis (auch Futsal), marokkanische Vereine in der CAF Champions League, im CAF Confederation Cup, in Frauen-Wettbewerben und in Futsal-Klubwettbewerben. Kein anderes Thema.
-Pro Meldung entstehen FÜNF Einträge (Facebook-Reel entfällt dauerhaft) in publisher/queue.json (Änderung 26.10.2026, Details in CLAUDE-Routine.md), immer in dieser Reihenfolge und mit derselben Veröffentlichungszeit:
+Pro Meldung entstehen VIER Einträge (Facebook-Reel und Instagram-Feed entfallen dauerhaft, Instagram-Feed seit 27.10.2026) in publisher/queue.json (Änderung 26.10.2026, Details in CLAUDE-Routine.md), immer in dieser Reihenfolge und mit derselben Veröffentlichungszeit:
  1. Facebook-Feed: Foto mit Seitenlogo und FACEBOOK-TEXT.
- 2. Instagram-Feed: dasselbe Foto mit Logo und INSTAGRAM-TEXT.
+ 2. (entfällt: kein Instagram-Feed mehr)
  3. (entfällt: kein Facebook-Reel mehr)
  4. Instagram-Reel: dasselbe Video mit INSTAGRAM-TEXT.
  5. Facebook-Story: Musik-Video mit Schlagzeile und Call to Action im Video, ohne Begleittext.
@@ -35,11 +35,11 @@ C. Keine Quellenangabe in den Beiträgen. Weder "المصدر: ..." noch "Source
 D. Video vor Foto. Gibt es zur Meldung ein direktes Video (.mp4 oder .mov, zum Beispiel aus og:video), das nutzbar ist, bleibt es unverändert (Originalton, keine Musik) und wird für Feed-Video, Reels und Stories verwendet. Nicht verwendbar: YouTube-, Facebook-, Instagram-, X-Einbettungen, .m3u8-Playlists, Seiten-URLs, Videos mit fremden Wasserzeichen oder Senderlogos. Bevorzugt: Videos des Verbands (FRMF), von Vereinen oder frei lizenzierte (Wikimedia Commons, Pexels, Pixabay). Ohne plausible Datei-URL gilt die Fotosuche.
 E. Foto ist Pflicht-Suche (ohne verwendbares Video). Kandidat 1 ist das Artikelfoto der Quellseite (og:image oder großes Artikelfoto), per WebFetch ermittelt. Einen zweiten Kandidaten erst suchen, wenn Kandidat 1 in der Shell nicht ladbar ist: das Artikelfoto einer zweiten Quelle zur selben Meldung, sonst ein frei lizenziertes Bild (Wikimedia Commons, Flickr, Pixabay, Pexels, Europeana). Höchstens 2 Kandidaten pro Meldung.
 F. Kein Video und kein Foto: die Meldung wird nicht veröffentlicht, es wird kein Eintrag angelegt. Im Bericht nennen.
-G. Schlägt der Facebook-Feed-Eintrag nach der Prüfung (Abschnitt 5) endgültig fehl, werden die übrigen fünf Einträge dieser Meldung nicht angelegt.
+G. Schlägt der Facebook-Feed-Eintrag nach der Prüfung (Abschnitt 5) endgültig fehl, werden die übrigen drei Einträge dieser Meldung nicht angelegt.
 H. Musik-Tracks im Ordner Video/ werden nie gelöscht oder verändert.
 
 4. EINTRÄGE JE MELDUNG
- - Die fünf Einträge je Meldung mit Typen und Texten stehen in CLAUDE-Routine.md (FB photo, IG photo, IG reel, FB story, IG story). FACEBOOK-TEXT: arabisch + französisch, höchstens 3 Hashtags; INSTAGRAM-TEXT: arabisch + französisch, genau 5 Hashtags, unter 2200 Zeichen; Stories ohne Begleittext (Text im Video, Abschnitt 8); keine Quellenzeile.
+ - Die vier Einträge je Meldung mit Typen und Texten stehen in CLAUDE-Routine.md (FB photo, IG reel, FB story, IG story). FACEBOOK-TEXT: arabisch + französisch, höchstens 3 Hashtags; INSTAGRAM-TEXT: arabisch + französisch, genau 5 Hashtags, unter 2200 Zeichen; Stories ohne Begleittext (Text im Video, Abschnitt 8); keine Quellenzeile.
 Rückfälle (je Eintrag, nur wenn der Eintrag nicht anlegbar ist; das Scheitern von Reel oder Story stoppt den Facebook-Eintrag nicht):
  - Facebook-Foto: erst LOGO-URL, bei Fehler die Original-Foto-Adresse ohne Logo, dann Kandidat 2 mit Logo und ohne Logo (höchstens 4 Versuche). Alles fehlgeschlagen: Regel F.
  - Reel und Story: Video nicht baubar oder nicht hostbar: Eintrag weglassen und im Bericht melden.
@@ -88,7 +88,7 @@ Findet sich nichts Neues, wird nichts angelegt, und es gibt keine Benachrichtigu
 Abschlussbericht (deutsch, kurz, Zeiten in Berliner Zeit):
  - Je Meldung eine Zeile: Datum und Uhrzeit der Quelle, Quellenname (nur im Bericht), Themenbereich.
  - Video oder Foto (URL, Maße), Logo ja oder nein, geplante Veröffentlichungszeit, Musik-Track (Dateiname) und Startpunkt, ob der Push nach video-out klappte.
- - Nach dem Lauf des Workflows: Status der fünf Einträge aus publisher/log.jsonl (veröffentlicht oder Fehlertext).
+ - Nach dem Lauf des Workflows: Status der vier Einträge aus publisher/log.jsonl (veröffentlicht oder Fehlertext).
  - Fehlgeschlagene oder nicht angelegte Einträge mit Grund; oder dass mangels frischer Meldungen nichts angelegt wurde.
  - Bestätigung, dass alle Texte zweisprachig (AR+FR) vor dem Anlegen fertig waren.
  - Verbrauch: Anzahl Recherche-Abrufe, Fehlschläge, nach welcher Seite gestoppt, Liste der abgerufenen Seiten mit Ergebnis.
