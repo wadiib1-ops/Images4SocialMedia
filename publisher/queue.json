@@ -4105,9 +4105,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/7JD3BRRYIRCSVDVE3ODG4KW6XY.jpg%3Fauth%3D863580783fd7c421f968e1ab82b7d7f9af7296d5acf6198dbc0605315dd908b4%26smart%3Dtrue%26width%3D1216%26height%3D684",
     "caption": "عموتة يطلب تعزيز جهازه الفني في الأهلي المصري\n\nتدرس الإدارة ضم محلل أداء مصري قريبا\n\nالهدف تحسين تحليل المباريات قبل مواجهة الرجاء\n\nكيف تقيّمون هذه الخطوة؟\n\n#عموتة #الأهلي #الرجاء",
-    "status": "now",
+    "status": "published",
     "titel": "عموتة يطلب محلل أداء مصريا للأهلي قبل مواجهة الرجاء في الكونفدرالية",
-    "quelle_url": "https://ar.sport.le360.ma/football/BD7N6YBIJRDJRHFDHVI7AQ6GG4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/BD7N6YBIJRDJRHFDHVI7AQ6GG4/",
+    "meta_id": "122222231582577271",
+    "published_at": "2026-10-28T19:52:25.250872+00:00"
   },
   {
     "id": "20261028-2050-1-ig-reel",
@@ -4116,9 +4118,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-2050-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261028-2050-1.jpg",
     "caption": "🔍 عموتة يريد سلاحا جديدا في الأهلي!\n\nالمدرب المغربي الحسين عموتة يطلب تعزيز طاقمه الفني بمحلل أداء مصري، وإدارة النادي تدرس الاسم المناسب في الفترة المقبلة ⚽\n\nالغاية رفع جودة تحليل المباريات والاستعداد للقاء الرجاء في الكونفدرالية 📊\n\nما رأيكم في هذه الخطوة؟\n\n#عموتة #الأهلي_المصري #الرجاء #كأس_الكونفدرالية #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "عموتة يطلب محلل أداء مصريا للأهلي قبل مواجهة الرجاء في الكونفدرالية",
-    "quelle_url": "https://ar.sport.le360.ma/football/BD7N6YBIJRDJRHFDHVI7AQ6GG4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/BD7N6YBIJRDJRHFDHVI7AQ6GG4/",
+    "meta_id": "18072022637779944",
+    "published_at": "2026-10-28T19:52:25.250872+00:00"
   },
   {
     "id": "20261028-2050-1-fb-story",
@@ -4126,9 +4130,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-2050-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "عموتة يطلب محلل أداء مصريا للأهلي قبل مواجهة الرجاء في الكونفدرالية",
-    "quelle_url": "https://ar.sport.le360.ma/football/BD7N6YBIJRDJRHFDHVI7AQ6GG4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/BD7N6YBIJRDJRHFDHVI7AQ6GG4/",
+    "meta_id": "2147396042481597",
+    "published_at": "2026-10-28T19:52:25.250872+00:00"
   },
   {
     "id": "20261028-2050-1-ig-story",
@@ -4136,8 +4142,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-2050-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "عموتة يطلب محلل أداء مصريا للأهلي قبل مواجهة الرجاء في الكونفدرالية",
-    "quelle_url": "https://ar.sport.le360.ma/football/BD7N6YBIJRDJRHFDHVI7AQ6GG4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/BD7N6YBIJRDJRHFDHVI7AQ6GG4/",
+    "meta_id": "18121046333102202",
+    "published_at": "2026-10-28T19:52:25.250872+00:00"
   }
 ]
