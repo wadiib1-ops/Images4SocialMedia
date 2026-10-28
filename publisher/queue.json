@@ -3706,5 +3706,46 @@
     "status": "published",
     "meta_id": "18101688101077187",
     "published_at": "2026-10-28T10:21:58.331801+00:00"
+  },
+  {
+    "id": "20261028-1235-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/2URZWRV3PJBEXPRJJSSEZYEVF4.jpg%3Fauth%3Db167ec32cff4b629033a546ba98b459bb64318057a4a0c87ebd36697fa50910c%26smart%3Dtrue%26width%3D1216%26height%3D684",
+    "caption": "الوداد يسقط في مباراة ودية قبل موقعة التطواني\n\nخسر الوداد بهدف لاثنين أمام وفاء الوداد من القسم الوطني للهواة\n\nأقيمت المباراة الثلاثاء استعدادا للقاء التطواني في الجولة السادسة\n\nوأراد المدرب نبي اختبار جاهزية لاعبيه\n\nهل الودية مجرد تحضير أم جرس إنذار للوداد؟\n\n#الوداد #البطولة_الاحترافية #كرة_القدم_المغربية",
+    "titel": "الوداد ينهزم أمام فريق من الهواة قبل مواجهة المغرب التطواني",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/E2V4JTMYOBEPPFCVH32WE4AFAU/",
+    "status": "now"
+  },
+  {
+    "id": "20261028-1235-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-1235-1-reel-text.mp4",
+    "caption": "😮 الوداد يتعثر قبل الموعد المهم!\n\nسقط الفريق الأحمر 1-2 في ودية أمام وفاء الوداد، أحد أندية القسم الوطني للهواة ⚽\n\nالمدرب نصر الدين نبي أراد اختبار جاهزية اللاعبين قبل استقبال المغرب التطواني في الجولة السادسة من البطولة 🔴\n\nترى هل ينجح الوداد في تصحيح المسار؟ 💬\n\n#الوداد_الرياضي #نصر_الدين_نبي #البطولة_الاحترافية #المغرب_التطواني #كرة_القدم_المغربية",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261028-1235-1.jpg",
+    "titel": "الوداد ينهزم أمام فريق من الهواة قبل مواجهة المغرب التطواني",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/E2V4JTMYOBEPPFCVH32WE4AFAU/",
+    "status": "now"
+  },
+  {
+    "id": "20261028-1235-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-1235-1-story-text.mp4",
+    "caption": "",
+    "titel": "الوداد ينهزم أمام فريق من الهواة قبل مواجهة المغرب التطواني",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/E2V4JTMYOBEPPFCVH32WE4AFAU/",
+    "status": "now"
+  },
+  {
+    "id": "20261028-1235-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-1235-1-story-text.mp4",
+    "caption": "",
+    "titel": "الوداد ينهزم أمام فريق من الهواة قبل مواجهة المغرب التطواني",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/E2V4JTMYOBEPPFCVH32WE4AFAU/",
+    "status": "now"
   }
 ]
