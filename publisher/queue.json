@@ -4343,5 +4343,46 @@
     "quelle_url": "https://kifache.com/%d9%85%d9%86-%d8%a7%d9%84%d8%aa%d9%87%d9%85%d9%8a%d8%b4-%d8%a5%d9%84%d9%89-%d9%85%d9%86%d8%a7%d9%81%d8%b3%d8%a9-%d9%85%d8%a8%d8%a7%d8%a8%d9%8a-%d9%8a%d8%a7%d8%b3%d8%b1-%d8%b2%d8%a7%d8%a8%d9%8a%d8%b1/",
     "meta_id": "17970406236175819",
     "published_at": "2026-10-28T23:03:53.369694+00:00"
+  },
+  {
+    "id": "20261029-0030-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://assets.kooora.com/images/v3/getty-2301929678/crop/MM5DGMBXGI5DCNZSHA5G433XMU5DGOJTHIYA%3D%3D%3D%3D/GettyImages-2301929678.jpg",
+    "caption": "الصيباري يتألق مع بايرن ميونخ في كأس ألمانيا\n\nفاز بايرن ميونخ على ماغديبورغ بستة أهداف مقابل هدف في الدور الثاني من الكأس على ملعب أليانز أرينا.\n\nصنع المغربي إسماعيل الصيباري الهدف الأول لأوليسي في الدقيقة العاشرة، ثم سجل بنفسه هدف التقدم في الدقيقة الحادية والعشرين.\n\nكيف تقيمون أداء الصيباري في هذه المباراة؟\n\n#الصيباري #بايرن_ميونخ #كرة_القدم_المغربية",
+    "titel": "الصيباري يسجل ويصنع في فوز بايرن ميونخ الكبير على ماغديبورغ في كأس ألمانيا",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/سداسية-بافارية-صيباري-وأوليسي-يقودان-مهرجان-أهداف-بايرن-ميونخ-في-الكأس/blt5f5b869b0b3fc498",
+    "status": "now"
+  },
+  {
+    "id": "20261029-0030-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-0030-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261029-0030-1.jpg",
+    "caption": "🔥 الصيباري يترك بصمته في ليلة بافارية!\n\nبايرن ميونخ يكتسح ماغديبورغ 6-1 في كأس ألمانيا ⚽\nابن المغرب يمرر الكرة الحاسمة لأوليسي في الدقيقة 10، ثم يسجل بنفسه في الدقيقة 21 💪\nأداء يؤكد حضوره القوي في فريق كبير\n\n#الصيباري #بايرن_ميونخ #كأس_ألمانيا #الأسود #كرة_القدم_المغربية",
+    "titel": "الصيباري يسجل ويصنع في فوز بايرن ميونخ الكبير على ماغديبورغ في كأس ألمانيا",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/سداسية-بافارية-صيباري-وأوليسي-يقودان-مهرجان-أهداف-بايرن-ميونخ-في-الكأس/blt5f5b869b0b3fc498",
+    "status": "now"
+  },
+  {
+    "id": "20261029-0030-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-0030-1-story-text.mp4",
+    "caption": "",
+    "titel": "الصيباري يسجل ويصنع في فوز بايرن ميونخ الكبير على ماغديبورغ في كأس ألمانيا",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/سداسية-بافارية-صيباري-وأوليسي-يقودان-مهرجان-أهداف-بايرن-ميونخ-في-الكأس/blt5f5b869b0b3fc498",
+    "status": "now"
+  },
+  {
+    "id": "20261029-0030-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-0030-1-story-text.mp4",
+    "caption": "",
+    "titel": "الصيباري يسجل ويصنع في فوز بايرن ميونخ الكبير على ماغديبورغ في كأس ألمانيا",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/سداسية-بافارية-صيباري-وأوليسي-يقودان-مهرجان-أهداف-بايرن-ميونخ-في-الكأس/blt5f5b869b0b3fc498",
+    "status": "now"
   }
 ]
