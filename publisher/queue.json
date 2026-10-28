@@ -3657,5 +3657,46 @@
     "quelle_url": "https://ar.sport.le360.ma/football/MAXKAFHWN5BTNJN4FMKXSUOVCE/",
     "meta_id": "18114053399160629",
     "published_at": "2026-10-28T09:20:43.712552+00:00"
+  },
+  {
+    "id": "20261028-1120-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://cdn.alomksport.com/wp-content/uploads/2021/06/e1a008d9c8d6.jpg",
+    "caption": "الوداد الرياضي يغيّر ملعب مواجهته المقبلة أمام المغرب التطواني.\n\nالمباراة يوم السبت 31 أكتوبر ستقام في ملعب العربي الزاولي بدل مركب محمد الخامس بالدار البيضاء.\n\nالسبب أشغال الصيانة والتأهيل الجارية في المركب استعداداً لمباراة المنتخب الوطني الودية أمام النيجر، ضمن التحضير لنهائيات كأس إفريقيا 2027.\n\nالنادي اعتذر للجماهير وأكد احترام حقوق حاملي بطاقات الانخراط.\n\nهل ستحضرون المباراة في ملعب الزاولي؟\n\n#الوداد #البطولة_الاحترافية #كرة_القدم_المغربية",
+    "titel": "الوداد يغيّر ملعب مواجهته أمام المغرب التطواني",
+    "quelle_url": "https://alomksport.com/109837.html",
+    "status": "now"
+  },
+  {
+    "id": "20261028-1120-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-1120-1-reel-text.mp4",
+    "caption": "📢 تغيير مفاجئ في ملعب الوداد!\n\nالوداد سيستقبل المغرب التطواني يوم السبت 31 أكتوبر في ملعب العربي الزاولي، وليس في مركب محمد الخامس ⚽\n\nالأشغال الجارية في المركب لتجهيزه لودية الأسود أمام النيجر فرضت هذا القرار، قبل نهائيات كأس إفريقيا 2027 🦁\n\nإدارة النادي اعتذرت للأنصار وطمأنت أصحاب بطاقات الانخراط على حقوقهم 🔴\n\n#الوداد #البطولة_الاحترافية #المغرب_التطواني #الأسود #كأس_إفريقيا",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261028-1120-1.jpg",
+    "titel": "الوداد يغيّر ملعب مواجهته أمام المغرب التطواني",
+    "quelle_url": "https://alomksport.com/109837.html",
+    "status": "now"
+  },
+  {
+    "id": "20261028-1120-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-1120-1-story-text.mp4",
+    "caption": "",
+    "titel": "الوداد يغيّر ملعب مواجهته أمام المغرب التطواني",
+    "quelle_url": "https://alomksport.com/109837.html",
+    "status": "now"
+  },
+  {
+    "id": "20261028-1120-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-1120-1-story-text.mp4",
+    "caption": "",
+    "titel": "الوداد يغيّر ملعب مواجهته أمام المغرب التطواني",
+    "quelle_url": "https://alomksport.com/109837.html",
+    "status": "now"
   }
 ]
