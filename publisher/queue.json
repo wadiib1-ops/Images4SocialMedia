@@ -4245,5 +4245,46 @@
     "status": "published",
     "meta_id": "17994831882052562",
     "published_at": "2026-10-28T21:21:31.009993+00:00"
+  },
+  {
+    "id": "20261028-2330-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/ZXUDIOS7BFHVNEE7KFBRFZU6XU.jpeg%3Fauth%3D7f7253788653b6786ff5eb5b6b32f379b7be1190c23372050906c5853c595a66%26smart%3Dtrue%26width%3D1216%26height%3D684",
+    "caption": "الجيش الملكي يتغلب على اتحاد طنجة بهدفين دون رد في الجولة الخامسة من البطولة الاحترافية.\n\nظل التعادل السلبي قائما حتى نهاية الشوط الأول، بعدما أضاع يوسف الفحلي ركلة جزاء في الدقيقة 33.\n\nعوض الفحلي إخفاقه بتسجيل ركلة جزاء في الدقيقة 80، ثم أضاف عبد الفتاح حدراف الهدف الثاني في وقت متأخر.\n\nبهذا الفوز رفع الجيش رصيده إلى 7 نقاط واحتل المركز الخامس مع مباراتين مؤجلتين، بينما بقي اتحاد طنجة بالرصيد نفسه في المركز السادس.\n\nكيف تقيمون أداء الجيش الملكي في هذه المباراة؟\n\n#الجيش_الملكي #البطولة_الاحترافية #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "الجيش الملكي يتغلب على اتحاد طنجة بهدفين دون رد في الجولة الخامسة من البطولة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/DPZCV4IUZFAX5NW3CJ3JCLYGKA/"
+  },
+  {
+    "id": "20261028-2330-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-2330-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261028-2330-1.jpg",
+    "caption": "🔥 الجيش الملكي يعود بالنقاط الثلاث من مواجهة اتحاد طنجة!\n\nبعد ركلة جزاء ضائعة في الدقيقة 33، عاد يوسف الفحلي ليسجل من نقطة الجزاء في الدقيقة 80 ⚽\n\nوأنهى عبد الفتاح حدراف المباراة بهدف ثانٍ، لتنتهي بثنائية نظيفة 💪\n\nالجيش في المركز الخامس برصيد 7 نقاط ومباراتان مؤجلتان 📊\n\n#الجيش_الملكي #اتحاد_طنجة #البطولة_الاحترافية #كرة_القدم_المغربية #المغرب",
+    "status": "now",
+    "titel": "الجيش الملكي يتغلب على اتحاد طنجة بهدفين دون رد في الجولة الخامسة من البطولة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/DPZCV4IUZFAX5NW3CJ3JCLYGKA/"
+  },
+  {
+    "id": "20261028-2330-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-2330-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الجيش الملكي يتغلب على اتحاد طنجة بهدفين دون رد في الجولة الخامسة من البطولة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/DPZCV4IUZFAX5NW3CJ3JCLYGKA/"
+  },
+  {
+    "id": "20261028-2330-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-2330-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الجيش الملكي يتغلب على اتحاد طنجة بهدفين دون رد في الجولة الخامسة من البطولة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/DPZCV4IUZFAX5NW3CJ3JCLYGKA/"
   }
 ]
