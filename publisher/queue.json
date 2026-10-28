@@ -3566,9 +3566,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://lematin.ma/lematin/uploads/images/2026/10/27/570553.jpeg",
     "caption": "أسود الأطلس الصغار يواصلون التألق في كأس العالم لأقل من 15 سنة المقامة في باكو بأذربيجان.\n\nالمنتخب المغربي حقق فوزه الخامس بعد تغلبه على ليبيريا بخمسة أهداف مقابل هدف، ليضمن بطاقة العبور إلى الدور الثاني.\n\nوكان الناشئون قد تغلبوا من قبل على الفلبين وكوستاريكا وبليز، ثم اكتسحوا كوراساو بسبعة أهداف دون رد.\n\nهل تتوقعون أن يذهب أشبال الأطلس بعيدا في هذه النسخة الأولى من البطولة؟\n\n#أشبال_الأطلس #المنتخب_المغربي #كأس_العالم_تحت_15",
-    "status": "now",
+    "status": "published",
     "titel": "منتخب المغرب لأقل من 15 سنة يتأهل إلى الدور الثاني من مونديال الناشئين",
-    "quelle_url": "https://lematin.ma/sports/mondial-u15-le-maroc-qualifie-pour-le-deuxieme-tour-apres-cinq-victoires/372425"
+    "quelle_url": "https://lematin.ma/sports/mondial-u15-le-maroc-qualifie-pour-le-deuxieme-tour-apres-cinq-victoires/372425",
+    "meta_id": "122222149580577271",
+    "published_at": "2026-10-28T09:02:24.449126+00:00"
   },
   {
     "id": "20261028-1001-1-ig-reel",
@@ -3577,9 +3579,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-1001-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261028-1001-1.jpg",
     "caption": "🔥 أشبال الأطلس يعبرون إلى الدور الثاني في مونديال الناشئين!\n\nخمس مباريات وخمسة انتصارات للمغرب في باكو ⚽\nآخرها 5-1 أمام ليبيريا، وقبلها سبعة أهداف نظيفة في شباك كوراساو 💪\nقبل ذلك سقطت الفلبين وكوستاريكا وبليز أمام الجيل الصاعد.\n\nبداية قوية في أول نسخة من كأس العالم تحت 15 سنة 🌟\n\n#المغرب #أشبال_الأطلس #كرة_القدم_المغربية #مونديال_الناشئين #المنتخب_المغربي",
-    "status": "now",
+    "status": "published",
     "titel": "منتخب المغرب لأقل من 15 سنة يتأهل إلى الدور الثاني من مونديال الناشئين",
-    "quelle_url": "https://lematin.ma/sports/mondial-u15-le-maroc-qualifie-pour-le-deuxieme-tour-apres-cinq-victoires/372425"
+    "quelle_url": "https://lematin.ma/sports/mondial-u15-le-maroc-qualifie-pour-le-deuxieme-tour-apres-cinq-victoires/372425",
+    "meta_id": "17984384417897412",
+    "published_at": "2026-10-28T09:02:24.449126+00:00"
   },
   {
     "id": "20261028-1001-1-fb-story",
@@ -3587,9 +3591,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-1001-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "منتخب المغرب لأقل من 15 سنة يتأهل إلى الدور الثاني من مونديال الناشئين",
-    "quelle_url": "https://lematin.ma/sports/mondial-u15-le-maroc-qualifie-pour-le-deuxieme-tour-apres-cinq-victoires/372425"
+    "quelle_url": "https://lematin.ma/sports/mondial-u15-le-maroc-qualifie-pour-le-deuxieme-tour-apres-cinq-victoires/372425",
+    "meta_id": "1091642493696821",
+    "published_at": "2026-10-28T09:02:24.449126+00:00"
   },
   {
     "id": "20261028-1001-1-ig-story",
@@ -3597,8 +3603,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-1001-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "منتخب المغرب لأقل من 15 سنة يتأهل إلى الدور الثاني من مونديال الناشئين",
-    "quelle_url": "https://lematin.ma/sports/mondial-u15-le-maroc-qualifie-pour-le-deuxieme-tour-apres-cinq-victoires/372425"
+    "quelle_url": "https://lematin.ma/sports/mondial-u15-le-maroc-qualifie-pour-le-deuxieme-tour-apres-cinq-victoires/372425",
+    "meta_id": "18071845193771925",
+    "published_at": "2026-10-28T09:02:24.449126+00:00"
   }
 ]
