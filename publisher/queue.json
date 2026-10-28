@@ -4049,5 +4049,46 @@
     "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/مصطفى-حجي-لكووورة-وهبي-يلعب-بأسلوب-برشلونة--ويامال-دمه-مغربي/blt5f883ba7e7bf276a",
     "meta_id": "17991515966861173",
     "published_at": "2026-10-28T16:22:51.200745+00:00"
+  },
+  {
+    "id": "20261028-2025-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://www.lesiteinfo.com/wp-content/uploads/2024/09/akhomach.jpeg",
+    "caption": "بعد أوناحي، أخوماش يتعرض بدوره لإصابة عضلية.\n\nجناح فياريال شعر بآلام بعد مباراة فالنسيا فغاب عن تدريب الاثنين.\n\nولن يلعب الثلاثاء أمام مانّاكور في كأس الملك.\n\nالمدة غير معروفة بانتظار نتائج الفحوصات.\n\nهل تتمنون الشفاء العاجل لأخوماش؟\n\n#أخوماش #أسود_الأطلس #فياريال",
+    "status": "now",
+    "titel": "إصابة عضلية تبعد أخوماش عن مباراة فياريال في كأس الملك",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685648-lions-de-latlas-apres-ounahi-ilias-akhomach-a-son-tour-freine-par-une-blessure-musculaire.html"
+  },
+  {
+    "id": "20261028-2025-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-2025-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261028-2025-1.jpg",
+    "caption": "⚠️ إصابة جديدة تقلق الأسود!\n\nإلياس أخوماش يغيب عن مباراة فياريال في كأس الملك بعد مشكلة عضلية 🩹\n\nالجناح المغربي شعر بآلام عقب مواجهة فالنسيا، والأطباء ينتظرون نتائج الفحوصات لمعرفة مدة الغياب ⏳\n\nنتمنى له الشفاء العاجل 💪\n\n#أخوماش #أسود_الأطلس #فياريال #المغرب #كرة_القدم",
+    "status": "now",
+    "titel": "إصابة عضلية تبعد أخوماش عن مباراة فياريال في كأس الملك",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685648-lions-de-latlas-apres-ounahi-ilias-akhomach-a-son-tour-freine-par-une-blessure-musculaire.html"
+  },
+  {
+    "id": "20261028-2025-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-2025-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "إصابة عضلية تبعد أخوماش عن مباراة فياريال في كأس الملك",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685648-lions-de-latlas-apres-ounahi-ilias-akhomach-a-son-tour-freine-par-une-blessure-musculaire.html"
+  },
+  {
+    "id": "20261028-2025-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-2025-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "إصابة عضلية تبعد أخوماش عن مباراة فياريال في كأس الملك",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685648-lions-de-latlas-apres-ounahi-ilias-akhomach-a-son-tour-freine-par-une-blessure-musculaire.html"
   }
 ]
