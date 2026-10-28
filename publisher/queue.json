@@ -3958,9 +3958,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/AZXMV3FO7ZBTLK5W2YE7Z5LKII.JPG%3Fauth%3D588f065468b17e54c1fb368e50f7c737762c485e8110b9c129d8473febaba76a%26smart%3Dtrue%26width%3D1200%26height%3D630",
     "caption": "مسؤول أهلي طرابلس يصف مجموعته في الكونفدرالية بالمتوازنة\n\nويرى أن الجميع يملك الحظوظ نفسها وأن الجيش الملكي فريق كبير\n\nناديه جاهز تماما ويطمح لمنافسة قوية على اللقب\n\nتضم المجموعة أيضا أزام التنزاني ودوربان سيتي الجنوب إفريقي\n\nمن تتوقعه ليتصدر المجموعة؟\n\n#الجيش_الملكي #كأس_الكونفدرالية #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "مسؤول أهلي طرابلس يصف مجموعته في كأس الكونفدرالية بالمتوازنة",
-    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/NIVETOGLL5BEVEMIPPXTKFOU4M/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/NIVETOGLL5BEVEMIPPXTKFOU4M/",
+    "meta_id": "122222201312577271",
+    "published_at": "2026-10-28T15:23:50.176604+00:00"
   },
   {
     "id": "20261028-1625-1-ig-reel",
@@ -3969,9 +3971,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-1625-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261028-1625-1.jpg",
     "caption": "🔥 أهلي طرابلس يتحدث بثقة قبل مواجهة الجيش الملكي!\n\nمسؤول الفريق الليبي يرى أن المجموعة متكافئة والفرص متساوية للجميع، ويعترف بأن الجيش الملكي فريق كبير ⚽\n\nلكن طموح ناديه واضح: منافسة قوية حتى اللقب 🏆\n\nالمجموعة تجمع أيضا أزام ودوربان سيتي، والجولة الأولى بين 27 و29 نوفمبر 👀\n\n#الجيش_الملكي #كأس_الكونفدرالية #أهلي_طرابلس #الكاف #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "مسؤول أهلي طرابلس يصف مجموعته في كأس الكونفدرالية بالمتوازنة",
-    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/NIVETOGLL5BEVEMIPPXTKFOU4M/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/NIVETOGLL5BEVEMIPPXTKFOU4M/",
+    "meta_id": "17929978506179864",
+    "published_at": "2026-10-28T15:23:50.176604+00:00"
   },
   {
     "id": "20261028-1625-1-fb-story",
@@ -3979,9 +3983,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-1625-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "مسؤول أهلي طرابلس يصف مجموعته في كأس الكونفدرالية بالمتوازنة",
-    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/NIVETOGLL5BEVEMIPPXTKFOU4M/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/NIVETOGLL5BEVEMIPPXTKFOU4M/",
+    "meta_id": "1445596421086325",
+    "published_at": "2026-10-28T15:23:50.176604+00:00"
   },
   {
     "id": "20261028-1625-1-ig-story",
@@ -3989,8 +3995,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-1625-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "مسؤول أهلي طرابلس يصف مجموعته في كأس الكونفدرالية بالمتوازنة",
-    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/NIVETOGLL5BEVEMIPPXTKFOU4M/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/NIVETOGLL5BEVEMIPPXTKFOU4M/",
+    "meta_id": "18709627879047357",
+    "published_at": "2026-10-28T15:23:50.176604+00:00"
   }
 ]
