@@ -3468,9 +3468,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/HCOTO4MGNFCO7GB7CU35IFK3HA.jpg%3Fauth%3D166044175bf2d6bed49ab3cf6884659c9f2359cea71295e3c544189d78877838%26smart%3Dtrue%26width%3D1216%26height%3D684",
     "caption": "محمد الشيبي يتوج بجائزة أفضل لاعب محترف في الدوري المصري لموسم 2026 🏆\n\nاللاعب المغربي نال التتويج بفضل مستواه الثابت وأدائه المميز طوال الموسم.\n\nهل يستحق الشيبي مكانا في قائمة الأسود؟\n\n#الشيبي #بيراميدز #المنتخب_المغربي",
-    "status": "now",
+    "status": "published",
     "titel": "الشيبي أفضل لاعب محترف في الدوري المصري قبل قائمة وهبي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/54LWKB6HDNFY7ITYTQH3JCYUEY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/54LWKB6HDNFY7ITYTQH3JCYUEY/",
+    "meta_id": "122222092730577271",
+    "published_at": "2026-10-28T00:18:51.584039+00:00"
   },
   {
     "id": "20261028-0120-1-ig-reel",
@@ -3479,9 +3481,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-0120-1-reel-text.mp4",
     "caption": "نجم مغربي يتصدر المشهد في مصر 🔥⭐\n\nالشيبي، لاعب بيراميدز، اختير الأفضل بين المحترفين في الدوري المصري، قبل أيام من إعلان وهبي قائمة الأسود لمباراتي النيجر 🦁\n\n#الشيبي #بيراميدز #الأسود #كرة_القدم_المغربية #الدوري_المصري",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261028-0120-1.jpg",
-    "status": "now",
+    "status": "published",
     "titel": "الشيبي أفضل لاعب محترف في الدوري المصري قبل قائمة وهبي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/54LWKB6HDNFY7ITYTQH3JCYUEY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/54LWKB6HDNFY7ITYTQH3JCYUEY/",
+    "meta_id": "18110657726580185",
+    "published_at": "2026-10-28T00:18:51.584039+00:00"
   },
   {
     "id": "20261028-0120-1-fb-story",
@@ -3489,9 +3493,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-0120-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الشيبي أفضل لاعب محترف في الدوري المصري قبل قائمة وهبي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/54LWKB6HDNFY7ITYTQH3JCYUEY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/54LWKB6HDNFY7ITYTQH3JCYUEY/",
+    "meta_id": "28759902337001597",
+    "published_at": "2026-10-28T00:18:51.584039+00:00"
   },
   {
     "id": "20261028-0120-1-ig-story",
@@ -3499,8 +3505,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-0120-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الشيبي أفضل لاعب محترف في الدوري المصري قبل قائمة وهبي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/54LWKB6HDNFY7ITYTQH3JCYUEY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/54LWKB6HDNFY7ITYTQH3JCYUEY/",
+    "meta_id": "17969961911962972",
+    "published_at": "2026-10-28T00:18:51.584039+00:00"
   }
 ]
