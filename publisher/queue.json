@@ -3804,5 +3804,46 @@
     "status": "published",
     "meta_id": "18107653462976521",
     "published_at": "2026-10-28T12:04:14.634021+00:00"
+  },
+  {
+    "id": "20261028-1325-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://cdn.alomksport.com/wp-content/uploads/2026/10/b924e52f6c9e.jpeg",
+    "caption": "أمل موگادور يتأهل إلى ثمن نهائي كأس الفائزين العالمية\n\nبدأ بفوز على روستوك الألماني بخمسة أهداف مقابل هدفين\n\nثم اكتسح بونيهاد الهنغاري بنتيجة اثني عشر هدفا مقابل هدفين\n\nاليوم يواجه بارتيزان الأوكراني في الجولة الأخيرة\n\nهل يواصل الأمل التألق؟\n\n#كرة_القدم_الشاطئية #أمل_موگادور #المغرب",
+    "status": "now",
+    "titel": "أمل موگادور يتأهل إلى ثمن نهائي كأس الفائزين العالمية للكرة الشاطئية",
+    "quelle_url": "https://alomksport.com/109844.html"
+  },
+  {
+    "id": "20261028-1325-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-1325-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261028-1325-1.jpg",
+    "caption": "🏖️ المغرب يرفع رأسه في رمال تركيا!\n\nفريق أمل موگادور للكرة الشاطئية حجز مقعده في ثمن نهائي كأس الفائزين العالمية للأندية بعد فوزين متتاليين ⚽🔥\n\nانتصار أول على روستوك الألماني (5-2)، ثم اكتساح بونيهاد الهنغاري (12-2) 💪\n\nوتبقى مواجهة بارتيزان الأوكراني اليوم لإغلاق دور المجموعات.\n\n#كرة_شاطئية #أمل_موگادور #المغرب #المنتخب_المغربي #كأس_العالم_للأندية",
+    "status": "now",
+    "titel": "أمل موگادور يتأهل إلى ثمن نهائي كأس الفائزين العالمية للكرة الشاطئية",
+    "quelle_url": "https://alomksport.com/109844.html"
+  },
+  {
+    "id": "20261028-1325-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-1325-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "أمل موگادور يتأهل إلى ثمن نهائي كأس الفائزين العالمية للكرة الشاطئية",
+    "quelle_url": "https://alomksport.com/109844.html"
+  },
+  {
+    "id": "20261028-1325-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-1325-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "أمل موگادور يتأهل إلى ثمن نهائي كأس الفائزين العالمية للكرة الشاطئية",
+    "quelle_url": "https://alomksport.com/109844.html"
   }
 ]
