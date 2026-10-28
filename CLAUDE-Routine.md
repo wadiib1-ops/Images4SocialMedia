@@ -109,3 +109,6 @@ Die Anzeigedauer jedes Textabschnitts im Video (Reel-Abschnitte, Story-Schlagzei
 
 ## Logo 30 % kleiner (verbindlich, dauerhaft, Nutzerwunsch 27.10.2026, gilt für alle Beitragsarten)
 Das Logo ist überall 30 % kleiner: im Facebook-Foto sind Streifen (jetzt 15,4 % der Bildbreite, `$b_iw_mul_0.154`) und Logo (weiter 90 % der Streifenhöhe) 30 % kleiner, in allen Videos `scale=106:-1` statt 151. Position bleibt.
+
+## Sachliche Schlussfrage (verbindlich, dauerhaft, Nutzerwunsch 28.10.2026)
+Die Frage an die Leser im arabischen Text jedes Beitrags (Facebook-Text und, falls vorhanden, Instagram-Text) ist immer sachlich formuliert, nicht emotional: keine Gefühlswörter, keine Ausrufe, keine Emojis in der Frage. Beispiel: "Wie bewertet ihr die Leistung des Teams?" statt "Glaubt ihr an den Titel?!". Gilt für alle künftigen Läufe.
