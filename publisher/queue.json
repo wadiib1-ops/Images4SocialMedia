@@ -3517,9 +3517,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/ODCTX4VMR5G6HGDDIVTFSLGWRQ.jpg%3Fauth%3D9ffea8e9d4d5c813ec1f597fe60e15750da33eee4dd9548cfcd95b2a56ff57ed%26smart%3Dtrue%26width%3D1216%26height%3D684",
     "caption": "⚠️ قلق في معسكر الجيش الملكي بعد التأهل إلى دور مجموعات كأس الكونفدرالية الإفريقية.\n\nالفريق العسكري فاز على كورهوغو الإيفواري بهدفين لهدف في الرباط، لكن الفرحة لم تكتمل بعد إصابة يوسف الفحلي على مستوى الركبة.\n\nالطاقم الطبي ينتظر نتائج الفحوصات لمعرفة خطورة الإصابة، والمدرب بيدرو غونسالفيس ينتظر هذه النتائج قبل اتخاذ أي قرار.\n\nوأمام الفريق مباراة قريبة ضد اتحاد طنجة يوم الأربعاء، في مباراة مؤجلة من الدورة الخامسة من البطولة.\n\nهل ترون أن الجيش الملكي قادر على تجاوز غياب الفحلي؟\n\n#الجيش_الملكي #كأس_الكونفدرالية #البطولة_الاحترافية",
-    "status": "now",
+    "status": "published",
     "titel": "قلق في الجيش الملكي بعد إصابة الفحلي عقب التأهل الإفريقي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/5EVCWEANVRD5ZKG22KS3GG4UZE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/5EVCWEANVRD5ZKG22KS3GG4UZE/",
+    "meta_id": "122222098466577271",
+    "published_at": "2026-10-28T01:18:18.931281+00:00"
   },
   {
     "id": "20261028-0230-1-ig-reel",
@@ -3528,9 +3530,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-0230-1-reel-text.mp4",
     "caption": "🔴 فرحة التأهل ما كملاتش للجيش الملكي! 😟\n\nبعد الفوز بهدفين لهدف على كورهوغو وبلوغ دور المجموعات من الكونفدرالية، جاءت إصابة الركبة ليوسف الفحلي لتقلق الجميع ⚽\n\nالأطباء ينتظرون نتائج الفحوصات، والمدرب بيدرو غونسالفيس يترقب قبل أن يحسم الأمر 🩺\n\nالاختبار القادم: اتحاد طنجة يوم الأربعاء في الرباط 🔥\n\n#الجيش_الملكي #كأس_الكونفدرالية #كرة_القدم_المغربية #البطولة_الاحترافية #المغرب",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261028-0230-1.jpg",
-    "status": "now",
+    "status": "published",
     "titel": "قلق في الجيش الملكي بعد إصابة الفحلي عقب التأهل الإفريقي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/5EVCWEANVRD5ZKG22KS3GG4UZE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/5EVCWEANVRD5ZKG22KS3GG4UZE/",
+    "meta_id": "18087906200320264",
+    "published_at": "2026-10-28T01:18:18.931281+00:00"
   },
   {
     "id": "20261028-0230-1-fb-story",
@@ -3538,9 +3542,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-0230-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "قلق في الجيش الملكي بعد إصابة الفحلي عقب التأهل الإفريقي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/5EVCWEANVRD5ZKG22KS3GG4UZE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/5EVCWEANVRD5ZKG22KS3GG4UZE/",
+    "meta_id": "2053442662003036",
+    "published_at": "2026-10-28T01:18:18.931281+00:00"
   },
   {
     "id": "20261028-0230-1-ig-story",
@@ -3548,8 +3554,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261028-0230-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "قلق في الجيش الملكي بعد إصابة الفحلي عقب التأهل الإفريقي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/5EVCWEANVRD5ZKG22KS3GG4UZE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/5EVCWEANVRD5ZKG22KS3GG4UZE/",
+    "meta_id": "18499186816096749",
+    "published_at": "2026-10-28T01:18:18.931281+00:00"
   }
 ]
