@@ -4637,5 +4637,46 @@
     "quelle_url": "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88--%D9%81%D9%88%D8%B2%D9%8A-%D9%84%D9%82%D8%AC%D8%B9-%D9%8A%D8%B9%D9%84%D9%86-%D8%AD%D8%AC%D8%AA%D9%87-%D9%84%D8%AD%D8%B3%D9%85-%D8%B5%D8%B1%D8%A7%D8%B9-%D9%86%D9%87%D8%A7%D9%8A%D9%94%D9%8A-%D9%85%D9%88%D9%86%D8%AF%D9%8A%D8%A7%D9%84-2030/blt20c078a370af7499",
     "meta_id": "17915742222521409",
     "published_at": "2026-10-29T12:00:40.603441+00:00"
+  },
+  {
+    "id": "20261029-1345-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/KAK5XHPREJHUBBS76RZV3ET5LY.jpg%3Fauth%3D20a6976700beb8f9ae09c814a6d04f0d1209fc22d3d54017a87949074e02a914%26smart%3Dtrue%26width%3D1216%26height%3D684",
+    "caption": "باكو خيميز مدرب الرجاء يرى أن فريقه كان يستحق الفوز على حسنية أكادير\nالمباراة انتهت بالتعادل 1-1 ضمن الجولة الخامسة من البطولة\n\nالمدرب أشار إلى كثرة الفرص وإلى ضربة جزاء أضاعها الفريق في الدقيقة 92\nكما اعتبر أن العشب المرتفع في الملعب منع فريقه من فرض أسلوبه\n\nودعا الجماهير إلى عدم المبالغة في الانتقاد\nالرجاء في المركز العاشر بست نقاط مع مباراة مؤجلة أمام الجيش الملكي\n\nكيف تقيمون تفسيرات المدرب بعد هذه المباراة؟\n\n#الرجاء_الرياضي #البطولة_الاحترافية #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "خيميز يؤكد أن الرجاء كان يستحق الفوز على الحسنية",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/LABMICTREBB5LHGYJZE3ZTVHBM/"
+  },
+  {
+    "id": "20261029-1345-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1345-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261029-1345-1.jpg",
+    "caption": "🎙️ خيميز بعد التعادل: كان علينا أن نفوز\n\nمدرب الرجاء تحدث عن فرص كثيرة وضربة جزاء ضائعة في الدقيقة 92 ⚽\n\nوأرجع صعوبة فريقه إلى ارتفاع العشب في الملعب 🌱\n\nالرجاء يحتل المركز العاشر بست نقاط، وله مباراة مؤجلة أمام الجيش الملكي 🔥\n\nما رأيكم في تقييم المدرب لأداء الفريق؟\n\n#الرجاء #خيميز #البطولة_الاحترافية #حسنية_أكادير #كرة_القدم",
+    "status": "now",
+    "titel": "خيميز يؤكد أن الرجاء كان يستحق الفوز على الحسنية",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/LABMICTREBB5LHGYJZE3ZTVHBM/"
+  },
+  {
+    "id": "20261029-1345-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1345-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "خيميز يؤكد أن الرجاء كان يستحق الفوز على الحسنية",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/LABMICTREBB5LHGYJZE3ZTVHBM/"
+  },
+  {
+    "id": "20261029-1345-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1345-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "خيميز يؤكد أن الرجاء كان يستحق الفوز على الحسنية",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/LABMICTREBB5LHGYJZE3ZTVHBM/"
   }
 ]
