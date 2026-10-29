@@ -4889,9 +4889,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/6F3JOSLDZNH2BGQQMXY7XNPJFE.jpg%3Fauth%3D57e6bd5de988870245ce1226f3913bf81428112422c82379c90af5b2da9f95c9%26smart%3Dtrue%26width%3D1216%26height%3D684",
     "caption": "ستراسبورغ يمدد عقد المغربي سمير مرابط حتى 2031\n\nالنادي الفرنسي يحميه من اهتمام كبار أوروبا\n\nوكان قريبا من الرحيل الصيف الماضي\n\nكيف تقيمون هذه الخطوة بالنسبة لمستقبل اللاعب؟\n\n#سمير_مرابط #ستراسبورغ #المنتخب_المغربي",
-    "status": "now",
+    "status": "published",
     "titel": "ستراسبورغ يمدد عقد سمير مرابط حتى 2031",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/LE33LGQQLFCPTE4MPVHPMVWE3E/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/LE33LGQQLFCPTE4MPVHPMVWE3E/",
+    "meta_id": "122222343836577271",
+    "published_at": "2026-10-29T16:33:24.258874+00:00"
   },
   {
     "id": "20261029-1733-1-ig-reel",
@@ -4900,9 +4902,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1733-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261029-1733-1.jpg",
     "caption": "🔒 تجديد جديد لنجم مغربي في فرنسا!\n\nنادي ستراسبورغ يربط لاعبه المغربي سمير مرابط بعقد جديد يمتد حتى صيف 2031 ✍️\n\nالإدارة أرادت تحصين اللاعب من عروض كبار أوروبا، بعدما اقترب من مغادرة النادي الصيف الماضي ⚽\n\nثقة كبيرة في موهبة مغربية صاعدة\n\n#مرابط #ستراسبورغ #الأسود #كرة_القدم_المغربية #ليغ1",
-    "status": "now",
+    "status": "published",
     "titel": "ستراسبورغ يمدد عقد سمير مرابط حتى 2031",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/LE33LGQQLFCPTE4MPVHPMVWE3E/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/LE33LGQQLFCPTE4MPVHPMVWE3E/",
+    "meta_id": "18010803101776159",
+    "published_at": "2026-10-29T16:33:24.258874+00:00"
   },
   {
     "id": "20261029-1733-1-fb-story",
@@ -4910,9 +4914,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1733-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "ستراسبورغ يمدد عقد سمير مرابط حتى 2031",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/LE33LGQQLFCPTE4MPVHPMVWE3E/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/LE33LGQQLFCPTE4MPVHPMVWE3E/",
+    "meta_id": "1052637347826831",
+    "published_at": "2026-10-29T16:33:24.258874+00:00"
   },
   {
     "id": "20261029-1733-1-ig-story",
@@ -4920,8 +4926,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1733-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "ستراسبورغ يمدد عقد سمير مرابط حتى 2031",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/LE33LGQQLFCPTE4MPVHPMVWE3E/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/LE33LGQQLFCPTE4MPVHPMVWE3E/",
+    "meta_id": "18137105302572401",
+    "published_at": "2026-10-29T16:33:24.258874+00:00"
   }
 ]
