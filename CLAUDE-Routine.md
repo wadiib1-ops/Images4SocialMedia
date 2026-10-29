@@ -115,3 +115,6 @@ Die Frage an die Leser im arabischen Text jedes Beitrags (Facebook-Text und, fal
 
 ## Textabschnitte 1 Sekunde kürzer (verbindlich, dauerhaft, Nutzerwunsch 29.10.2026; gilt für Instagram-Reel, Facebook-Story und Instagram-Story)
 Jeder im Video eingeblendete Textabschnitt steht 1 Sekunde kürzer: statt 3,5 s je Abschnitt 2,5 s; bei der Lesezeit-Regel "1,5 s + 0,5 s × Wortzahl" ein Mindestwert von 2,5 s statt 3,5 s (Call to Action der Story mindestens 4 s statt 5 s). Videolänge D = Summe der Abschnittszeiten (bzw. Anzahl Abschnitte x 2,5), Mindestlänge 12 s und Obergrenzen (20 s bzw. 30 s) bleiben unverändert. Diese Regel ersetzt die jeweiligen Zeitangaben in den Abschnitten "Langer Text im Video" und "Lesezeit der Textabschnitte".
+
+## Zufällige Musikwahl (verbindlich, dauerhaft, Nutzerwunsch 29.10.2026)
+Der Musik-Track wird in jedem Lauf zufällig aus allen Dateien `Video/*.mp3` gewählt (`RANDOM % Anzahl`). Das ersetzt die Index-Regel in PROMPT.md Abschnitt 8 Schritt 4 (Startpunkt im Track bleibt ein Vielfaches von 8 Sekunden).
