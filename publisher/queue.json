@@ -5166,5 +5166,46 @@
     "quelle_url": "https://www.lesiteinfo.com/maroc/685824-mon-coeur-est-triste-achraf-hakimi-reagit-au-drame-ferroviaire-en-espagne.html",
     "meta_id": "17996142057018464",
     "published_at": "2026-10-29T18:24:10.598666+00:00"
+  },
+  {
+    "id": "20261029-2030-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://www.lesiteinfo.com/wp-content/uploads/2026/10/Oazzane.jpg",
+    "caption": "عبد الله وزان، موهبة أياكس المغربية، تحت أنظار ثلاثة أندية كبرى\n\nتفيد تقارير بأن ريال مدريد ويوفنتوس وميلان يتابعون اللاعب عن قرب.\n\nلكن لا يوجد حتى الآن أي عرض رسمي ولم تبدأ أي مفاوضات.\n\nوكان ريال مدريد قد اقترب من ضمه صيف 2025 لكن الصفقة لم تتم.\n\nكيف تقيّمون مستقبل اللاعب بين البقاء في أياكس والانتقال إلى نادٍ أكبر؟\n\n#عبد_الله_وزان #أياكس #المنتخب_المغربي",
+    "titel": "عبد الله وزان تحت أنظار ثلاثة أندية كبرى",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685790-abdellah-ouazzane-suivi-par-trois-geants-europeens.html",
+    "status": "now"
+  },
+  {
+    "id": "20261029-2030-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-2030-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261029-2030-1.jpg",
+    "caption": "👀 اسم جديد يلفت أنظار أكبر الأندية الأوروبية!\n\nالشاب المغربي عبد الله وزان، لاعب أياكس أمستردام، يتابعه ريال مدريد ويوفنتوس وميلان 🔴⚪⚫\n\nحتى الآن لا عرض رسمي ولا مفاوضات، لكن المتابعة مستمرة. والمثير أن ريال مدريد كان قريباً من ضمه في صيف 2025 قبل أن تتعثر الصفقة ⭐\n\nما رأيكم في مستقبل وزان بين أياكس وأندية القمة؟\n\n#وزان #أياكس #ريال_مدريد #كرة_القدم_المغربية #أسود_الأطلس",
+    "titel": "عبد الله وزان تحت أنظار ثلاثة أندية كبرى",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685790-abdellah-ouazzane-suivi-par-trois-geants-europeens.html",
+    "status": "now"
+  },
+  {
+    "id": "20261029-2030-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-2030-1-story-text.mp4",
+    "caption": "",
+    "titel": "عبد الله وزان تحت أنظار ثلاثة أندية كبرى",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685790-abdellah-ouazzane-suivi-par-trois-geants-europeens.html",
+    "status": "now"
+  },
+  {
+    "id": "20261029-2030-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-2030-1-story-text.mp4",
+    "caption": "",
+    "titel": "عبد الله وزان تحت أنظار ثلاثة أندية كبرى",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685790-abdellah-ouazzane-suivi-par-trois-geants-europeens.html",
+    "status": "now"
   }
 ]
