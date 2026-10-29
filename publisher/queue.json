@@ -5215,5 +5215,50 @@
     "status": "published",
     "meta_id": "18140927143548873",
     "published_at": "2026-10-29T19:22:04.062519+00:00"
+  },
+  {
+    "id": "20261029-2120-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://www.lesiteinfo.com/wp-content/uploads/2026/07/mas.jpg",
+    "caption": "تعادل المغرب الفاسي ونهضة بركان سلبياً بدون أهداف في الجولة الخامسة من البطولة الاحترافية إنوي.\n\nأقيمت المباراة مساء الخميس على ملعب البشير بالمحمدية.\n\nبهذه النتيجة يرتقي المغرب الفاسي إلى المركز الخامس برصيد ثماني نقاط.\n\nأما نهضة بركان فيحتل المركز الثالث عشر بأربع نقاط، بعد رابع تعادل له في أربع مباريات.\n\nكيف تقيّمون أداء الفريقين في هذه المباراة؟\n\n#البطولة_الاحترافية #المغرب_الفاسي #نهضة_بركان",
+    "status": "now",
+    "titel": "تعادل المغرب الفاسي ونهضة بركان سلبياً في الجولة الخامسة من البطولة",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685852-botola-le-mas-de-fes-et-la-renaissance-berkane-se-quittent-bons-amis-0-0.html",
+    "runde": "5"
+  },
+  {
+    "id": "20261029-2120-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-2120-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261029-2120-1.jpg",
+    "caption": "⚽ التعادل السلبي يحسم قمة الفاسي وبركان\n\nانتهت مواجهة المغرب الفاسي ونهضة بركان بلا أهداف ضمن الجولة 5 من البطولة الاحترافية إنوي 🏟️\n\nالفاسي يصعد إلى المركز الخامس بثماني نقاط 📈\nوبركان يبقى في المركز 13 بأربع نقاط بعد تعادله الرابع تواليا 🔒\n\n#البطولة_الاحترافية #المغرب_الفاسي #نهضة_بركان #كرة_القدم_المغربية #إنوي",
+    "status": "now",
+    "titel": "تعادل المغرب الفاسي ونهضة بركان سلبياً في الجولة الخامسة من البطولة",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685852-botola-le-mas-de-fes-et-la-renaissance-berkane-se-quittent-bons-amis-0-0.html",
+    "runde": "5"
+  },
+  {
+    "id": "20261029-2120-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-2120-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "تعادل المغرب الفاسي ونهضة بركان سلبياً في الجولة الخامسة من البطولة",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685852-botola-le-mas-de-fes-et-la-renaissance-berkane-se-quittent-bons-amis-0-0.html",
+    "runde": "5"
+  },
+  {
+    "id": "20261029-2120-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-2120-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "تعادل المغرب الفاسي ونهضة بركان سلبياً في الجولة الخامسة من البطولة",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685852-botola-le-mas-de-fes-et-la-renaissance-berkane-se-quittent-bons-amis-0-0.html",
+    "runde": "5"
   }
 ]
