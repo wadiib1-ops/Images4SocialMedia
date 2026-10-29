@@ -4693,9 +4693,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/V3UXP55JJNFPJHNB5VR4TVVORI.jpg%3Fauth%3D3b5e2f89aea2ab562703bf8d6d2a36e996a853ead06bd98e0326e48ee1720e30%26smart%3Dtrue%26width%3D1200%26height%3D630",
     "caption": "بايرن ميونخ يزور نيروبي في الخامس من يناير 2027 لمواجهة أياكس أمستردام وديا.\n\nالمباراة هي الافتتاح الرسمي لملعب رايلا أودينغا الدولي الجديد في العاصمة الكينية.\n\nوحسب بلاغ النادي البافاري ستحمل المواجهة نكهة مغربية.\n\nإسماعيل الصيباري لاعب بايرن سيلتقي مواطنيه سفيان أمرابط وعبد الله وزان لاعبي أياكس.\n\nما تقييمكم لحضور ثلاثة لاعبين مغاربة في هذه المباراة؟\n\n#الصيباري #أمرابط #بايرن_ميونخ",
-    "status": "now",
+    "status": "published",
     "titel": "بايرن ميونخ يواجه أياكس في نيروبي بحضور ثلاثة لاعبين مغاربة",
-    "quelle_url": "https://ar.sport.le360.ma/football/DHRMGXGBJVHRXP7JAKOJA75KVE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/DHRMGXGBJVHRXP7JAKOJA75KVE/",
+    "meta_id": "122222329742577271",
+    "published_at": "2026-10-29T13:25:17.110238+00:00"
   },
   {
     "id": "20261029-1425-1-ig-reel",
@@ -4704,9 +4706,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1425-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261029-1425-1.jpg",
     "caption": "⚽ موعد مغربي في نيروبي!\n\nيوم 5 يناير 2027 يلتقي بايرن ميونخ وأياكس أمستردام في مباراة ودية تفتتح رسميا ملعب رايلا أودينغا الدولي بكينيا 🏟️\n\nالصيباري مع بايرن في مواجهة مواطنيه أمرابط ووزان مع أياكس 🤝\n\nمباراة واحدة وثلاثة أسماء مغربية 🔥\n\n#الصيباري #أمرابط #وزان #بايرن_ميونخ #أياكس",
-    "status": "now",
+    "status": "published",
     "titel": "بايرن ميونخ يواجه أياكس في نيروبي بحضور ثلاثة لاعبين مغاربة",
-    "quelle_url": "https://ar.sport.le360.ma/football/DHRMGXGBJVHRXP7JAKOJA75KVE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/DHRMGXGBJVHRXP7JAKOJA75KVE/",
+    "meta_id": "18098821577547376",
+    "published_at": "2026-10-29T13:25:17.110238+00:00"
   },
   {
     "id": "20261029-1425-1-fb-story",
@@ -4714,9 +4718,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1425-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "بايرن ميونخ يواجه أياكس في نيروبي بحضور ثلاثة لاعبين مغاربة",
-    "quelle_url": "https://ar.sport.le360.ma/football/DHRMGXGBJVHRXP7JAKOJA75KVE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/DHRMGXGBJVHRXP7JAKOJA75KVE/",
+    "meta_id": "2932052800493660",
+    "published_at": "2026-10-29T13:25:17.110238+00:00"
   },
   {
     "id": "20261029-1425-1-ig-story",
@@ -4724,8 +4730,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1425-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "بايرن ميونخ يواجه أياكس في نيروبي بحضور ثلاثة لاعبين مغاربة",
-    "quelle_url": "https://ar.sport.le360.ma/football/DHRMGXGBJVHRXP7JAKOJA75KVE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/DHRMGXGBJVHRXP7JAKOJA75KVE/",
+    "meta_id": "18006628385795459",
+    "published_at": "2026-10-29T13:25:17.110238+00:00"
   }
 ]
