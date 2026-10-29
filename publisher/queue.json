@@ -4490,5 +4490,46 @@
     "quelle_url": "https://www.hespress.com/%d8%b7%d8%a7%d9%84%d8%a8%d9%8a-%d9%8a%d9%81%d8%aa%d8%aa%d8%ad-%d8%ab%d9%84%d8%a7%d8%ab%d9%8a%d8%a9-%d8%b3%d9%86%d8%af%d8%b1%d9%84%d8%a7%d9%86%d8%af-%d8%a3%d9%85%d8%a7%d9%85-%d8%a8%d8%b1%d9%86%d8%aa%d9%81%d9%88%d8%b1%d8%af-1830814.html",
     "meta_id": "18026333336872186",
     "published_at": "2026-10-29T01:20:21.887238+00:00"
+  },
+  {
+    "id": "20261029-1025-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/U3N5M5LHLZFOBFZSSRQJFANGNQ.jpg%3Fauth%3D016cd8f9807bcb1f3cb36c6a007d6a53f8669206bc7d42d948b0aafa74af1c05%26smart%3Dtrue%26width%3D1216%26height%3D684",
+    "caption": "تلقى الهلال خسارة جديدة أمام الشمال القطري في دوري أبطال آسيا.\n\nوجلس ياسين بونو على مقاعد البدلاء بسبب تناوب المدرب إنزاغي على الحراس.\n\nكل انتصارات الهلال هذا الموسم تحققت بوجود بونو في المرمى.\n\nكيف تقيمون أهمية وجود بونو في تشكيلة الهلال؟\n\n#بونو #الهلال #المنتخب_المغربي",
+    "status": "now",
+    "titel": "الهلال يخسر أمام الشمال في غياب بونو",
+    "quelle_url": "https://ar.sport.le360.ma/football/FQW6FPDP6RHQVD6WJ3AGNUASEE/"
+  },
+  {
+    "id": "20261029-1025-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1025-1-reel-text.mp4",
+    "caption": "⚽ الهلال بلا فوز وبلا تعادل حين يغيب بونو!\n\nخسر الفريق أمام الشمال القطري في دوري أبطال آسيا، وكان الحارس المغربي على دكة البدلاء 🧤\n\nوالأرقام تقول إن كل انتصارات الموسم جاءت وهو في المرمى 🔥\n\n#بونو #الهلال #أسود_الأطلس #كرة_القدم #المغرب",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261029-1025-1.jpg",
+    "status": "now",
+    "titel": "الهلال يخسر أمام الشمال في غياب بونو",
+    "quelle_url": "https://ar.sport.le360.ma/football/FQW6FPDP6RHQVD6WJ3AGNUASEE/"
+  },
+  {
+    "id": "20261029-1025-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1025-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الهلال يخسر أمام الشمال في غياب بونو",
+    "quelle_url": "https://ar.sport.le360.ma/football/FQW6FPDP6RHQVD6WJ3AGNUASEE/"
+  },
+  {
+    "id": "20261029-1025-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1025-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الهلال يخسر أمام الشمال في غياب بونو",
+    "quelle_url": "https://ar.sport.le360.ma/football/FQW6FPDP6RHQVD6WJ3AGNUASEE/"
   }
 ]
