@@ -4840,9 +4840,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/RRSYRQMGBRFZ7LK23TUUC5ACD4.jpg%3Fauth%3D9d603fb29d93b3d61e18e427e7e1e5919b33b6361e02666689d05f9cfc93896b%26smart%3Dtrue%26width%3D1216%26height%3D684",
     "caption": "أمل الصويرة يبلغ ربع نهائي كأس الفائزين العالمية للكرة الشاطئية\n\nحقق الفريق المغربي فوزا كبيرا على فريق سعودي\n\nبنتيجة ثلاثة عشر هدفا مقابل ثمانية\n\nبهذا الانتصار يضمن مكانه بين الثمانية الأوائل في البطولة العالمية للأندية\n\nكيف تقيمون أداء الفريق في البطولة؟\n\n#الكرة_الشاطئية #أمل_الصويرة #المغرب",
-    "status": "now",
+    "status": "published",
     "titel": "أمل الصويرة يبلغ ربع نهائي كأس الفائزين العالمية للكرة الشاطئية",
-    "quelle_url": "https://ar.sport.le360.ma/football/S5JH4M7D35B5VBTHZ2PV3MQCRI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/S5JH4M7D35B5VBTHZ2PV3MQCRI/",
+    "meta_id": "122222340446577271",
+    "published_at": "2026-10-29T15:57:41.995943+00:00"
   },
   {
     "id": "20261029-1656-1-ig-reel",
@@ -4851,9 +4853,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1656-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261029-1656-1.jpg",
     "caption": "🏖️ الصويرة تواصل المشوار العالمي!\n\nأمل الصويرة يتفوق على ممثل السعودية بثلاثة عشر هدفا مقابل ثمانية ويحجز مقعده في ربع نهائي كأس الفائزين العالمية للكرة الشاطئية ⚽🔥\n\nكيف تتوقعون مواصلة الفريق في الأدوار المقبلة؟\n\n#الكرة_الشاطئية #أمل_الصويرة #كأس_الفائزين #المغرب #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "أمل الصويرة يبلغ ربع نهائي كأس الفائزين العالمية للكرة الشاطئية",
-    "quelle_url": "https://ar.sport.le360.ma/football/S5JH4M7D35B5VBTHZ2PV3MQCRI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/S5JH4M7D35B5VBTHZ2PV3MQCRI/",
+    "meta_id": "17928719556434496",
+    "published_at": "2026-10-29T15:57:41.995943+00:00"
   },
   {
     "id": "20261029-1656-1-fb-story",
@@ -4861,9 +4865,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1656-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "أمل الصويرة يبلغ ربع نهائي كأس الفائزين العالمية للكرة الشاطئية",
-    "quelle_url": "https://ar.sport.le360.ma/football/S5JH4M7D35B5VBTHZ2PV3MQCRI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/S5JH4M7D35B5VBTHZ2PV3MQCRI/",
+    "meta_id": "1609311664279605",
+    "published_at": "2026-10-29T15:57:41.995943+00:00"
   },
   {
     "id": "20261029-1656-1-ig-story",
@@ -4871,8 +4877,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1656-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "أمل الصويرة يبلغ ربع نهائي كأس الفائزين العالمية للكرة الشاطئية",
-    "quelle_url": "https://ar.sport.le360.ma/football/S5JH4M7D35B5VBTHZ2PV3MQCRI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/S5JH4M7D35B5VBTHZ2PV3MQCRI/",
+    "meta_id": "18129499765864537",
+    "published_at": "2026-10-29T15:57:41.995943+00:00"
   }
 ]
