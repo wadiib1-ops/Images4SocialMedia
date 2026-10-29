@@ -112,3 +112,6 @@ Das Logo ist überall 30 % kleiner: im Facebook-Foto sind Streifen (jetzt 15,4 %
 
 ## Sachliche Schlussfrage (verbindlich, dauerhaft, Nutzerwunsch 28.10.2026)
 Die Frage an die Leser im arabischen Text jedes Beitrags (Facebook-Text und, falls vorhanden, Instagram-Text) ist immer sachlich formuliert, nicht emotional: keine Gefühlswörter, keine Ausrufe, keine Emojis in der Frage. Beispiel: "Wie bewertet ihr die Leistung des Teams?" statt "Glaubt ihr an den Titel?!". Gilt für alle künftigen Läufe.
+
+## Textabschnitte 1 Sekunde kürzer (verbindlich, dauerhaft, Nutzerwunsch 29.10.2026; gilt für Instagram-Reel, Facebook-Story und Instagram-Story)
+Jeder im Video eingeblendete Textabschnitt steht 1 Sekunde kürzer: statt 3,5 s je Abschnitt 2,5 s; bei der Lesezeit-Regel "1,5 s + 0,5 s × Wortzahl" ein Mindestwert von 2,5 s statt 3,5 s (Call to Action der Story mindestens 4 s statt 5 s). Videolänge D = Summe der Abschnittszeiten (bzw. Anzahl Abschnitte x 2,5), Mindestlänge 12 s und Obergrenzen (20 s bzw. 30 s) bleiben unverändert. Diese Regel ersetzt die jeweiligen Zeitangaben in den Abschnitten "Langer Text im Video" und "Lesezeit der Textabschnitte".
