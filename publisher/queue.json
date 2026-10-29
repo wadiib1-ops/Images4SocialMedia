@@ -5068,5 +5068,46 @@
     "caption": "",
     "meta_id": "17914574757500131",
     "published_at": "2026-10-29T17:47:21.114751+00:00"
+  },
+  {
+    "id": "20261029-1915-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://www.lesiteinfo.com/wp-content/uploads/2026/10/raja-3.jpg",
+    "caption": "تشير تقارير صحفية إلى أن إدارة الرجاء البيضاوي تتجه إلى إنهاء مهمة المدرب الإسباني باكو خيمينيز، بعد التعادل أمام حسنية أكادير بهدف لمثله في الجولة الخامسة من البطولة.\n\nوبحسب مصادر إعلامية، طلب المدير الرياضي ماتياس روجيريو لقاء عاجلا مع المدرب وأبلغه برغبة النادي في إنهاء التعاون، دون صدور بيان رسمي حتى الآن.\n\nوأضافت التقارير أن الرجاء أهدر ضربة جزاء في المباراة، وأن الأداء والنتائج الأخيرة أثارت انتقادات الجماهير.\n\nوتتحدث مصادر عن رضوان الحيمر، لاعب الرجاء السابق، كأحد المرشحين لخلافته.\n\nكيف تقيمون نتائج الفريق في المباريات الأخيرة؟\n\n#الرجاء_البيضاوي #البطولة_الاحترافية #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "الرجاء يتجه لإنهاء مهمة المدرب باكو خيمينيز بعد التعادل أمام الحسنية",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685805-raja-lentraineur-paco-jemez-sur-le-depart.html"
+  },
+  {
+    "id": "20261029-1915-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1915-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261029-1915-1.jpg",
+    "caption": "🚨 هل اقتربت نهاية مرحلة باكو خيمينيز مع الرجاء؟\n\nبعد التعادل 1-1 أمام حسنية أكادير، تقول تقارير إعلامية إن النادي الأخضر يرغب في إنهاء التعاون مع المدرب الإسباني.\n\n📌 المدير الرياضي ماتياس روجيريو التقى المدرب وأبلغه برغبة النادي، بحسب مصادر، ولم يصدر أي بيان رسمي حتى الآن.\n⚽ ضربة جزاء ضائعة وأداء أثار انتقاد المدرجات زادا الضغط على الإدارة.\n🔄 اسم رضوان الحيمر، ابن النادي، يتردد بين المرشحين للخلافة.\n\nما تقييمكم لأداء الفريق منذ بداية الموسم؟\n\n#الرجاء #البطولة_الاحترافية #كرة_القدم_المغربية #الدوري_المغربي #خيمينيز",
+    "status": "now",
+    "titel": "الرجاء يتجه لإنهاء مهمة المدرب باكو خيمينيز بعد التعادل أمام الحسنية",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685805-raja-lentraineur-paco-jemez-sur-le-depart.html"
+  },
+  {
+    "id": "20261029-1915-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1915-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الرجاء يتجه لإنهاء مهمة المدرب باكو خيمينيز بعد التعادل أمام الحسنية",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685805-raja-lentraineur-paco-jemez-sur-le-depart.html"
+  },
+  {
+    "id": "20261029-1915-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1915-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الرجاء يتجه لإنهاء مهمة المدرب باكو خيمينيز بعد التعادل أمام الحسنية",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685805-raja-lentraineur-paco-jemez-sur-le-depart.html"
   }
 ]
