@@ -4980,5 +4980,38 @@
     "quelle_url": "https://kifache.com/%d8%b2%d9%83%d8%b1%d9%8a%d8%a7%d8%a1-%d8%a7%d9%84%d9%88%d8%a7%d8%ad%d8%af%d9%8a-%d9%8a%d9%83%d8%b4%d9%81-%d8%b7%d9%85%d9%88%d8%ad%d9%87-%d9%85%d8%b9-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af-%d9%88%d9%87/",
     "meta_id": "18113967671151896",
     "published_at": "2026-10-29T17:19:55.395730+00:00"
+  },
+  {
+    "id": "2026-10-29-botola-fb-feed",
+    "platform": "facebook",
+    "type": "video",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-10-29.mp4",
+    "caption": "🏆 نتائج الجولة 5 من البطولة الاحترافية إنوي\n📅 الأربعاء 28 أكتوبر 2026\n\n⚽ الرجاء الرياضي 1 - 1 حسنية أكادير\n⚽ الجيش الملكي 2 - 0 اتحاد طنجة\n\n⏳ المغرب الفاسي × نهضة بركان: لم تنتهِ بعد\n\n📊 الترتيب العام بعد الجولة 5 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#البطولة_الاحترافية #البطولة_الاحترافية_إنوي #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "نتائج الجولة 5 من البطولة الاحترافية إنوي",
+    "quelle_url": "https://www.eurosport.de/fussball/championnat-national-botola/zeitplan-kalender-ergebnisse.shtml",
+    "runde": 5
+  },
+  {
+    "id": "2026-10-29-botola-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-10-29.mp4",
+    "caption": "🏆 نتائج الجولة 5 من البطولة الاحترافية إنوي\n📅 الأربعاء 28 أكتوبر 2026\n\n⚽ الرجاء الرياضي 1 - 1 حسنية أكادير\n⚽ الجيش الملكي 2 - 0 اتحاد طنجة\n\n⏳ المغرب الفاسي × نهضة بركان: لم تنتهِ بعد\n\n📊 الترتيب العام بعد الجولة 5 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#البطولة_الاحترافية #البطولة_الاحترافية_إنوي #كرة_القدم_المغربية #الدوري_المغربي #Botola",
+    "status": "now",
+    "titel": "نتائج الجولة 5 من البطولة الاحترافية إنوي",
+    "quelle_url": "https://www.eurosport.de/fussball/championnat-national-botola/zeitplan-kalender-ergebnisse.shtml",
+    "runde": 5
+  },
+  {
+    "id": "2026-10-29-botola-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-10-29-story.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "نتائج الجولة 5 من البطولة الاحترافية إنوي",
+    "quelle_url": "https://www.eurosport.de/fussball/championnat-national-botola/zeitplan-kalender-ergebnisse.shtml",
+    "runde": 5
   }
 ]
