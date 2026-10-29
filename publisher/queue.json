@@ -5124,9 +5124,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://www.lesiteinfo.com/wp-content/uploads/2026/10/hakimi-2.jpg",
     "caption": "نجم المنتخب المغربي أشرف حكيمي عبّر عن تضامنه مع ضحايا الحادث الذي وقع في إسبانيا.\n\nوكتب اللاعب في قصة على إنستغرام أن قلبه حزين بعد الحادث الأليم في مدينة طليطلة، وقدّم تعازيه لأسر الضحايا وتمنى الشفاء العاجل للمصابين.\n\nوكان قطاران عاليا السرعة قد تصادما يوم الأربعاء قرب بلدة أوردا في إقليم طليطلة.\n\nوأكدت القنصلية العامة للمملكة المغربية في مدريد أن السلطات الإسبانية لم تسجل أي ضحايا مغاربة حتى الآن.\n\nكيف تقيّمون موقف اللاعب تجاه هذا الحادث؟\n\n#حكيمي #المنتخب_المغربي #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "حكيمي يعبّر عن تضامنه مع ضحايا حادث القطارين في إسبانيا",
-    "quelle_url": "https://www.lesiteinfo.com/maroc/685824-mon-coeur-est-triste-achraf-hakimi-reagit-au-drame-ferroviaire-en-espagne.html"
+    "quelle_url": "https://www.lesiteinfo.com/maroc/685824-mon-coeur-est-triste-achraf-hakimi-reagit-au-drame-ferroviaire-en-espagne.html",
+    "meta_id": "122222352944577271",
+    "published_at": "2026-10-29T18:24:10.598666+00:00"
   },
   {
     "id": "20261029-1923-1-ig-reel",
@@ -5135,9 +5137,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1923-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261029-1923-1.jpg",
     "caption": "💔 حكيمي يعلّق على فاجعة القطارين في إسبانيا\n\nكتب أشرف حكيمي في قصته على إنستغرام أن قلبه حزين بعد الحادث المؤلم في طليطلة 🕊️ وقدّم تعازيه لأسر الضحايا، متمنياً الشفاء لجميع المصابين 🙏\n\nالحادث وقع يوم الأربعاء عندما تصادم قطاران فائقا السرعة قرب أوردا 🚆 وبحسب القنصلية المغربية في مدريد، لا يوجد مغاربة بين الضحايا حتى الآن.\n\n#حكيمي #أسود_الأطلس #المنتخب_المغربي #باريس_سان_جيرمان #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "حكيمي يعبّر عن تضامنه مع ضحايا حادث القطارين في إسبانيا",
-    "quelle_url": "https://www.lesiteinfo.com/maroc/685824-mon-coeur-est-triste-achraf-hakimi-reagit-au-drame-ferroviaire-en-espagne.html"
+    "quelle_url": "https://www.lesiteinfo.com/maroc/685824-mon-coeur-est-triste-achraf-hakimi-reagit-au-drame-ferroviaire-en-espagne.html",
+    "meta_id": "18222980824349955",
+    "published_at": "2026-10-29T18:24:10.598666+00:00"
   },
   {
     "id": "20261029-1923-1-fb-story",
@@ -5145,9 +5149,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1923-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "حكيمي يعبّر عن تضامنه مع ضحايا حادث القطارين في إسبانيا",
-    "quelle_url": "https://www.lesiteinfo.com/maroc/685824-mon-coeur-est-triste-achraf-hakimi-reagit-au-drame-ferroviaire-en-espagne.html"
+    "quelle_url": "https://www.lesiteinfo.com/maroc/685824-mon-coeur-est-triste-achraf-hakimi-reagit-au-drame-ferroviaire-en-espagne.html",
+    "meta_id": "1327406316118985",
+    "published_at": "2026-10-29T18:24:10.598666+00:00"
   },
   {
     "id": "20261029-1923-1-ig-story",
@@ -5155,8 +5161,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1923-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "حكيمي يعبّر عن تضامنه مع ضحايا حادث القطارين في إسبانيا",
-    "quelle_url": "https://www.lesiteinfo.com/maroc/685824-mon-coeur-est-triste-achraf-hakimi-reagit-au-drame-ferroviaire-en-espagne.html"
+    "quelle_url": "https://www.lesiteinfo.com/maroc/685824-mon-coeur-est-triste-achraf-hakimi-reagit-au-drame-ferroviaire-en-espagne.html",
+    "meta_id": "17996142057018464",
+    "published_at": "2026-10-29T18:24:10.598666+00:00"
   }
 ]
