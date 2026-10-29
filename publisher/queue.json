@@ -4539,5 +4539,46 @@
     "quelle_url": "https://ar.sport.le360.ma/football/FQW6FPDP6RHQVD6WJ3AGNUASEE/",
     "meta_id": "18003643760806331",
     "published_at": "2026-10-29T09:22:48.571686+00:00"
+  },
+  {
+    "id": "20261029-1225-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://static.yabiladi.com/files/articles/yabiladi.206087_d8fd06467f830fae4daf85dbdd1d39e520261029111324_565.webp",
+    "caption": "سمير المرابط يمدد عقده مع ستراسبورغ حتى 2031\n\nأعلن نادي ستراسبورغ الفرنسي تمديد عقد لاعب الوسط المغربي البالغ 21 عاما.\n\nشارك اللاعب في 48 مباراة الموسم الماضي ولعب دورا مهما في مسيرة الفريق في دوري المؤتمر الأوروبي.\n\nوُلد المرابط في ستراسبورغ وتكوّن في أكاديمية النادي.\n\nخاض أول مباراة مع المنتخب الأول في مارس وله تسع مباريات دولية وشارك في كأس العالم هذا الصيف.\n\nكيف تقيمون هذه الخطوة في مسيرة اللاعب؟\n\n#سمير_المرابط #ستراسبورغ #المنتخب_المغربي",
+    "titel": "سمير المرابط يمدد عقده مع ستراسبورغ حتى 2031",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206088/marocain-samir-mourabet-prolonge-contrat.html",
+    "status": "now"
+  },
+  {
+    "id": "20261029-1225-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1225-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261029-1225-1.jpg",
+    "caption": "عقد جديد حتى 2031 لنجم المنتخب الشاب سمير المرابط ✍️\n\nابن ستراسبورغ يبقى في النادي الذي تكوّن فيه، وعمره 21 عاما فقط ⚽\n\n48 مباراة الموسم الماضي، ودور بارز في رحلة الفريق الأوروبية، ثم كأس العالم مع الأسود 🦁\n\nمسيرة صاعدة وتمثيل مشرّف لكرة القدم المغربية\n\n#المرابط #ستراسبورغ #أسود_الأطلس #كرة_القدم_المغربية #المغرب",
+    "titel": "سمير المرابط يمدد عقده مع ستراسبورغ حتى 2031",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206088/marocain-samir-mourabet-prolonge-contrat.html",
+    "status": "now"
+  },
+  {
+    "id": "20261029-1225-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1225-1-story-text.mp4",
+    "caption": "",
+    "titel": "سمير المرابط يمدد عقده مع ستراسبورغ حتى 2031",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206088/marocain-samir-mourabet-prolonge-contrat.html",
+    "status": "now"
+  },
+  {
+    "id": "20261029-1225-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-1225-1-story-text.mp4",
+    "caption": "",
+    "titel": "سمير المرابط يمدد عقده مع ستراسبورغ حتى 2031",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206088/marocain-samir-mourabet-prolonge-contrat.html",
+    "status": "now"
   }
 ]
