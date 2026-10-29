@@ -5268,5 +5268,46 @@
     "runde": "5",
     "meta_id": "18120012061988478",
     "published_at": "2026-10-29T20:20:46.025153+00:00"
+  },
+  {
+    "id": "20261029-2230-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://static.kifache.com/content/uploads/2026/10/IMG-20261029-WA0499.jpg",
+    "caption": "بايرن ميونخ يدخل سباق ضم الموهبة المغربية وائل محيا، لاعب وسط مونشنغلادباخ البالغ 17 عاماً.\n\nبدأ المسؤولان الرياضيان في بايرن اتصالات مع محيطه للاستفسار عن عقده وشروط الصفقة، ودورتموند وليفركوزن ولايبزيغ مهتمة أيضاً بخدماته.\n\nسجل هذا الموسم هدفين وصنع هدفاً في سبع مباريات بالبوندسليغا.\n\nالتقارير ترى أن انتقاله في الشتاء مستبعد، وسيتضح الوضع الصيف المقبل مع عقده حتى 2028.\n\nكيف تقيّمون مستقبل اللاعب بين البقاء والانتقال؟\n\n#وائل_محيا #بايرن_ميونخ #كرة_القدم_المغربية",
+    "titel": "بايرن ميونخ يدخل سباق ضم الموهبة المغربية وائل محيا",
+    "quelle_url": "https://kifache.com/%d9%88%d8%b3%d8%b7-%d8%b5%d8%b1%d8%a7%d8%b9-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a-%d8%a8%d8%a7%d9%8a%d8%b1%d9%86-%d9%85%d9%8a%d9%88%d9%86%d8%ae-%d9%8a%d8%aa%d8%ad%d8%b1%d9%83-%d9%84%d8%b6%d9%85/",
+    "status": "now"
+  },
+  {
+    "id": "20261029-2230-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-2230-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261029-2230-1.jpg",
+    "caption": "🔥 بايرن ميونخ يطرق باب وائل محيا!\n\nالموهبة المغربية البالغة 17 عاماً أصبحت هدفاً لعملاق بافاريا ⚽\nاتصالات أولية مع محيطه، ومعه دورتموند وليفركوزن ولايبزيغ في السباق 👀\nهدفان وتمريرة حاسمة في سبع مباريات بالبوندسليغا هذا الموسم 📈\nالحسم غالباً في الصيف، وعقده مع مونشنغلادباخ يمتد حتى 2028 ✍️\n\n#وائل_محيا #بايرن_ميونخ #مونشنغلادباخ #البوندسليغا #كرة_القدم_المغربية",
+    "titel": "بايرن ميونخ يدخل سباق ضم الموهبة المغربية وائل محيا",
+    "quelle_url": "https://kifache.com/%d9%88%d8%b3%d8%b7-%d8%b5%d8%b1%d8%a7%d8%b9-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a-%d8%a8%d8%a7%d9%8a%d8%b1%d9%86-%d9%85%d9%8a%d9%88%d9%86%d8%ae-%d9%8a%d8%aa%d8%ad%d8%b1%d9%83-%d9%84%d8%b6%d9%85/",
+    "status": "now"
+  },
+  {
+    "id": "20261029-2230-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-2230-1-story-text.mp4",
+    "caption": "",
+    "titel": "بايرن ميونخ يدخل سباق ضم الموهبة المغربية وائل محيا",
+    "quelle_url": "https://kifache.com/%d9%88%d8%b3%d8%b7-%d8%b5%d8%b1%d8%a7%d8%b9-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a-%d8%a8%d8%a7%d9%8a%d8%b1%d9%86-%d9%85%d9%8a%d9%88%d9%86%d8%ae-%d9%8a%d8%aa%d8%ad%d8%b1%d9%83-%d9%84%d8%b6%d9%85/",
+    "status": "now"
+  },
+  {
+    "id": "20261029-2230-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261029-2230-1-story-text.mp4",
+    "caption": "",
+    "titel": "بايرن ميونخ يدخل سباق ضم الموهبة المغربية وائل محيا",
+    "quelle_url": "https://kifache.com/%d9%88%d8%b3%d8%b7-%d8%b5%d8%b1%d8%a7%d8%b9-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a-%d8%a8%d8%a7%d9%8a%d8%b1%d9%86-%d9%85%d9%8a%d9%88%d9%86%d8%ae-%d9%8a%d8%aa%d8%ad%d8%b1%d9%83-%d9%84%d8%b6%d9%85/",
+    "status": "now"
   }
 ]
