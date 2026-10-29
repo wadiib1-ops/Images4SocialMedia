@@ -118,3 +118,6 @@ Jeder im Video eingeblendete Textabschnitt steht 1 Sekunde kürzer: statt 3,5 s 
 
 ## Zufällige Musikwahl (verbindlich, dauerhaft, Nutzerwunsch 29.10.2026)
 Der Musik-Track wird in jedem Lauf zufällig aus allen Dateien `Video/*.mp3` gewählt (`RANDOM % Anzahl`). Das ersetzt die Index-Regel in PROMPT.md Abschnitt 8 Schritt 4 (Startpunkt im Track bleibt ein Vielfaches von 8 Sekunden).
+
+## Textabschnitte 0,5 Sekunden länger, keine Obergrenze (verbindlich, dauerhaft, Nutzerwunsch 29.10.2026; gilt für Instagram-Reel, Facebook-Story und Instagram-Story)
+Jeder im Video eingeblendete Textabschnitt steht 0,5 Sekunden länger, also der Abstand zwischen allen aufeinanderfolgenden Abschnitten (vom ersten zum zweiten, zum dritten usw.): statt 2,5 s je Abschnitt 3,0 s; bei der Lesezeit-Regel "1,5 s + 0,5 s × Wortzahl" ein Mindestwert von 3,0 s (Call to Action der Story mindestens 4,5 s). Videolänge D = Summe der Abschnittszeiten (bzw. Anzahl Abschnitte x 3,0, erster Abschnitt ab 0,5 s, Ende des letzten = Videoende), Mindestlänge 12 s. Die Obergrenzen (20 s bzw. 30 s) entfallen vollständig: das Video wird so lang wie nötig. Diese Regel ersetzt die Zeitangaben in den Abschnitten "Langer Text im Video", "Lesezeit der Textabschnitte" und "Textabschnitte 1 Sekunde kürzer".
