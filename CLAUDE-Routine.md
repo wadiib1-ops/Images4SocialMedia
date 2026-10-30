@@ -124,3 +124,11 @@ Jeder im Video eingeblendete Textabschnitt steht 0,5 Sekunden länger, also der 
 
 ## Vollständige Dublettenprüfung (verbindlich, dauerhaft, Nutzerwunsch 30.10.2026)
 Vor dem Bauen von Medien und vor dem Anlegen von Einträgen wird jeder Kandidat per Stichwortsuche gegen die KOMPLETTE `publisher/queue.json` (alle Einträge, nicht nur die letzten) und `publisher/log.jsonl` geprüft: Teamnamen, Spielernamen, Gegner, Ergebnis und Wettbewerb, jeweils auf Arabisch, Französisch und Englisch (zum Beispiel `grep -i` oder Python über `titel` und `caption`). Ein Treffer zum selben Spiel, Spieler im selben Kontext oder derselben Aussage (auch mit anderer Quelle, anderem Titel oder Wortlaut) in den letzten 7 Tagen macht den Kandidaten zur Dublette: verwerfen, nächste Meldung suchen. Nie nur eine alphabetisch sortierte oder abgeschnittene Titelliste ansehen. Im Bericht die verwendeten Suchbegriffe nennen. Anlass: Am 30.10.2026 wurde das Spiel Marokko U15 gegen Venezuela (4:3) zweimal veröffentlicht.
+
+## Formate je Kanal (verbindlich, dauerhaft, Nutzerwunsch 30.10.2026)
+- Facebook-Feed: Hochformat 4:5 (1080x1350, Empfehlung), quadratisch 1:1 (1080x1080) oder Querformat/Link-Vorschau 1,91:1 (1200x630). Bild (JPG, PNG) oder Video (MP4, MOV; empfohlen 15-30 s, max. 4 GB).
+- Facebook-Story und Facebook-Reel: 9:16, 1080x1920 (bis 1440x2560). Story höchstens 60 s (in 15-s-Clips geteilt), Reel 15-90 s. Safe Zones: wichtige Texte und Logos nicht ganz am oberen und unteren Rand (UI-Elemente).
+- Instagram-Feed: 4:5 (1080x1350, Empfehlung), 3:4 (1080x1440), 1:1 (1080x1080) oder 1,91:1 (1080x566). Foto oder Video (MP4/MOV, H.264, höchstens 60 s).
+- Instagram-Story: 9:16, 1080x1920, insgesamt höchstens 60 s, in Abschnitten von höchstens 15 s.
+- Instagram-Reel: 9:16, 1080x1920, 15-90 s. Cover ebenfalls 9:16 (oder 1:1 fürs Raster).
+- Gilt für alle Medien dieser Routine (Meldungen und Botola-Vorschau). Bestehende Videos mit abweichendem Format (z. B. Vorschau-Video 9:16 und 38,5 s im Facebook-Feed) bei neuen Läufen entsprechend anpassen.
