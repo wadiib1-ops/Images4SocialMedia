@@ -6623,5 +6623,46 @@
     "status": "published",
     "meta_id": "18443250460183956",
     "published_at": "2026-10-30T23:18:48.296129+00:00"
+  },
+  {
+    "id": "20261031-0030-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/foto-20261031-0030-1.jpg",
+    "caption": "تعادل الدفاع الحسني الجديدي مع اتحاد تواركة بهدف لمثله، مساء الجمعة في افتتاح الجولة السادسة من البطولة الاحترافية.\n\nافتتح تواركة التسجيل عبر عمران دوب برأسية في الدقيقة 53، وعادل أصحاب الأرض عبر عبد الرزاق النقوس من ضربة جزاء في الدقيقة 67.\n\nوفي الدقيقة 70 أوقف الحكم بوسليم اللقاء نحو نصف ساعة بسبب الضباب الكثيف، كما طرد عمر العرجون لاعب تواركة بالبطاقة الحمراء بعد تدخل عنيف.\n\nما تقييمكم لأداء الفريقين في هذه المباراة؟\n\n#البطولة_الاحترافية #الدفاع_الحسني_الجديدي #اتحاد_تواركة",
+    "titel": "تعادل الدفاع الحسني الجديدي واتحاد تواركة 1-1 بعد توقف المباراة بسبب الضباب",
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d8%b6%d8%a8%d8%a7%d8%a8-%d9%8a%d8%ae%d9%8a%d9%85-%d8%b9%d9%84%d9%89-%d8%aa%d8%b9%d8%a7%d8%af%d9%84-%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d9%88%d8%aa%d9%88%d8%a7%d8%b1%d9%83%d8%a9-1832173.html",
+    "status": "now"
+  },
+  {
+    "id": "20261031-0030-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-0030-1-reel-text.mp4",
+    "caption": "⚽ ضباب كثيف أوقف المباراة نصف ساعة في الجديدة!\n\nالدفاع الحسني الجديدي واتحاد تواركة تقاسما النقاط بنتيجة 1-1 في افتتاح الجولة السادسة من البطولة. 🌫️\n\nتقدم الضيوف بهدف عمران دوب في الدقيقة 53، ثم رد النقوس بهدف من ضربة جزاء في الدقيقة 67. 🔥\n\nوانتهت المواجهة بطرد العرجون بعد تدخل قوي، بعد استئناف اللعب بقرار من الحكم بوسليم. 🟥\n\n#البطولة_الاحترافية #الدفاع_الحسني #تواركة #البطولة_المغربية #كرة_القدم",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261031-0030-1.jpg",
+    "titel": "تعادل الدفاع الحسني الجديدي واتحاد تواركة 1-1 بعد توقف المباراة بسبب الضباب",
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d8%b6%d8%a8%d8%a7%d8%a8-%d9%8a%d8%ae%d9%8a%d9%85-%d8%b9%d9%84%d9%89-%d8%aa%d8%b9%d8%a7%d8%af%d9%84-%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d9%88%d8%aa%d9%88%d8%a7%d8%b1%d9%83%d8%a9-1832173.html",
+    "status": "now"
+  },
+  {
+    "id": "20261031-0030-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-0030-1-story-text.mp4",
+    "caption": "",
+    "titel": "تعادل الدفاع الحسني الجديدي واتحاد تواركة 1-1 بعد توقف المباراة بسبب الضباب",
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d8%b6%d8%a8%d8%a7%d8%a8-%d9%8a%d8%ae%d9%8a%d9%85-%d8%b9%d9%84%d9%89-%d8%aa%d8%b9%d8%a7%d8%af%d9%84-%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d9%88%d8%aa%d9%88%d8%a7%d8%b1%d9%83%d8%a9-1832173.html",
+    "status": "now"
+  },
+  {
+    "id": "20261031-0030-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-0030-1-story-text.mp4",
+    "caption": "",
+    "titel": "تعادل الدفاع الحسني الجديدي واتحاد تواركة 1-1 بعد توقف المباراة بسبب الضباب",
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d8%b6%d8%a8%d8%a7%d8%a8-%d9%8a%d8%ae%d9%8a%d9%85-%d8%b9%d9%84%d9%89-%d8%aa%d8%b9%d8%a7%d8%af%d9%84-%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d9%88%d8%aa%d9%88%d8%a7%d8%b1%d9%83%d8%a9-1832173.html",
+    "status": "now"
   }
 ]
