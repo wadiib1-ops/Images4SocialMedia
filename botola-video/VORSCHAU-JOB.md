@@ -1,8 +1,10 @@
 # Botola-Vorschau-Job (kommender Spieltag)
 
-Läuft täglich als geplante Aufgabe in einer frischen Umgebung. Er erzeugt **einmal pro Runde** ein Vorschau-Video mit den
-Begegnungen der nächsten Runde der **Botola Pro Inwi**. Design und Musik sind dieselben wie beim Tagesvideo. Das Video wird über **Buffer**
-als Facebook-Feed-Video, Instagram-Reel (Feed) und Instagram-Story eingeplant (keine Facebook-Story). Gibt es nichts zu tun, passiert **nichts**.
+Läuft bei JEDER Ausführung (auch dem geplanten Prompt "Instagram-Story 5 Minuten nach dem Feed ..."): Zuerst wird immer nach den Begegnungen
+des kommenden Spieltags gesucht (Abschnitt 1), nie nur in der Queue nach einem fertigen Feed-Video. Daraus entsteht ein Vorschau-Video
+der **Botola Pro Inwi** mit den Begegnungen und den **marokkanischen Anstoßzeiten** (Ortszeit Marokko, wie in den Quellen). Design und Musik wie beim Tagesvideo.
+Veröffentlicht wird NICHT mehr über Buffer, sondern über `publisher/queue.json` und `publish.yml` (CLAUDE-Routine.md): je 1x Facebook-Feed (Video, höchstens 3 Hashtags),
+Instagram-Reel (höchstens 5), Facebook-Story und Instagram-Story (Text im Video, Begleittext leer). Kein Instagram-Feed. Ist die Vorschau der Runde schon gepostet oder der Spielplan nicht veröffentlicht, passiert nichts (kurze Meldung).
 
 Antworte dem Nutzer auf Deutsch, knapp. Erfinde nichts: keine Termine, Uhrzeiten oder Paarungen ohne Quelle.
 
@@ -10,7 +12,7 @@ Antworte dem Nutzer auf Deutsch, knapp. Erfinde nichts: keine Termine, Uhrzeiten
 
 1. Repo `wadiib1-ops/Images4SocialMedia` unter `/home/claude/images4socialmedia`. Fehlt es: `mcp__claude-code-remote__add_repo`
    (owner `wadiib1-ops`, repo `Images4SocialMedia`, access `push`), `git clone --depth 1` (großzügiges Timeout) und `register_repo_root`.
-2. Buffer-Tools laden (ToolSearch): `select:mcp__Buffer__list_posts,mcp__Buffer__create_post`
+2. Kein Buffer. Pillow ist im System defekt: venv wie in PROMPT.md Abschnitt 8 (pillow numpy scipy arabic-reshaper python-bidi).
 3. Prüfen: `ffmpeg -version`, `python3 -c "import PIL, numpy, scipy"`; fehlt etwas: `pip install --break-system-packages pillow numpy scipy`.
 4. Zeit: `TZ=Europe/Berlin date`.
 
@@ -24,9 +26,8 @@ Antworte dem Nutzer auf Deutsch, knapp. Erfinde nichts: keine Termine, Uhrzeiten
   Bei 403 oder 404 die nächste Quelle nehmen.
 - **Jede Paarung mit Datum und Uhrzeit muss in mindestens 2 unabhängigen Quellen stehen.** Bei Widerspruch gilt die Mehrheit.
   Maschinelle Übersetzungen verfälschen Vereinsnamen; daher die arabischen Originalnamen abfragen.
-- **Zeitpunkt:** Gepostet wird nur, wenn (a) der Spielplan veröffentlicht ist, (b) das erste Spiel der Runde N in höchstens 3 Tagen
-  (72 Stunden) beginnt und noch nicht angepfiffen ist, und (c) kein Spiel der Runde N-1 mehr nach dem jetzigen Zeitpunkt angesetzt ist
-  (verlegte Nachholspiele ausgenommen). Sonst **STOPP** mit kurzer Meldung (z. B. „Spielplan Runde N noch nicht veröffentlicht“ oder
+- **Zeitpunkt:** Gepostet wird, wenn (a) der Spielplan veröffentlicht ist und (b) das erste Spiel der Runde N noch nicht angepfiffen ist
+  (Nutzerwunsch 30.10.2026: bei jedem Lauf suchen, kein 72-Stunden-Limit mehr). Sonst **STOPP** mit kurzer Meldung (z. B. „Spielplan Runde N noch nicht veröffentlicht“ oder
   „Runde N beginnt erst am …“).
 - Fehlen Paarungen (nur Teil der Runde bestätigt): nur bestätigte Spiele aufnehmen, wenn es mindestens 6 sind, sonst **STOPP**.
 
@@ -59,12 +60,12 @@ Wie beim Tagesvideo (JOB.md Abschnitt 3), Dateiname `botola-vorschau-rundeN.mp4`
 (`botola-vorschau-runde*.mp4` mit kleinerer Nummer als N-2) mit `git rm` entfernen. Commit „Vorschauvideo Runde N“ plus Attributionszeilen.
 URL: `https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-vorschau-rundeN.mp4`, muss HTTP 200 liefern.
 
-## 4. Über Buffer einplanen
+## 4. Über die Queue einplanen (statt Buffer)
 
-Genau wie JOB.md Abschnitt 4 (feste IDs, Slot-Prüfung, Fehlerregeln), mit Video-URL aus Abschnitt 3:
-- **Facebook-Feed** und **Instagram-Reel** jetzt plus 10 Minuten, Text Facebook = `out/caption-vorschau-fb.txt` (3 Hashtags), Text Instagram-Reel = `out/caption-vorschau.txt` (5 Hashtags).
-- **Instagram-Story** 5 Minuten später, **ohne Begleittext**; der Text steht im Video (`story_text.py`, JOB.md Abschnitt 2b; Nutzerwunsch 13.10.2026).
-- Schlägt der Facebook-Feed endgültig fehl, die anderen Einträge nicht anlegen.
+Vier Einträge an `publisher/queue.json` anhängen (Format und Ablauf: CLAUDE-Routine.md), `status: "now"`, `titel` = Schlagzeile der Vorschau, `quelle_url` = eine Spielplan-Quelle, zusätzlich `runde`:
+- Facebook-Feed (`video`, Text `out/caption-vorschau-fb.txt`, 3 Hashtags), Instagram-Reel (Text `out/caption-vorschau.txt`, 5 Hashtags).
+- Facebook-Story und Instagram-Story: Story-Video mit eingebranntem Text (`python3 story_text.py --video <Vorschau-Video> --out-video <Story-Video> --out /tmp/st.png --title "<kurzer arabischer Titel>" --cta "<CTA>" --tags "<3 Hashtags>"`, Repo-Wurzel), `caption` leer.
+- Schlägt der Facebook-Feed endgültig fehl, die anderen Einträge nicht anlegen. Nach dem Push `publish.yml` per workflow_dispatch starten, `publisher/log.jsonl` prüfen.
 
 ## 5. Abschluss
 
@@ -82,5 +83,5 @@ Abschlussmeldung (3–5 Zeilen): Runde, Anzahl Spiele, Zeitraum, Veröffentlichu
 
 - Nur Botola Pro. Keine Quellen-Links in Bildunterschriften. Bei jedem STOPP: nichts posten, nichts pushen.
 - `season_results.json` wird von diesem Job **nicht** verändert (das macht der Tagesvideo-Job).
-- Die Buffer-Automatik und den Tagesvideo-Job nicht anfassen.
+- Den Tagesvideo-Job nicht anfassen.
 - Hashtag-Limit (Nutzerwunsch): Facebook (Feed, Reel, Story) höchstens 3 Hashtags, Instagram (Feed, Reel, Story) höchstens 5 Hashtags, pro Beitrag insgesamt, auch im Video eingeblendete.
