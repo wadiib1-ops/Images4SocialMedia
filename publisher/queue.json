@@ -5709,5 +5709,46 @@
     "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d8%af%d9%83%d9%8a%d9%83-%d8%ae%d8%b5%d9%85%d9%86%d8%a7-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d9%87%d9%88-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1831481.html",
     "meta_id": "18127208926900676",
     "published_at": "2026-10-30T11:24:47.873733+00:00"
+  },
+  {
+    "id": "20261030-1340-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/foto-20261030-1340-1.jpg",
+    "caption": "حقق منتخب المغرب لأقل من 15 سنة فوزا على فنزويلا بنتيجة 4-3 في مباراة تحديد المراتب بكأس العالم للناشئين.\n\nجرت المباراة يوم الخميس في باكو.\n\nسجل ياسين أجانا هدفين في الدقيقتين الخامسة والخامسة عشرة، وأضاف محمد أمين الزركاوي الهدف الثالث في الدقيقة 25، ثم سجل صفوان بلامين الهدف الرابع في الدقيقة 30.\n\nكيف تقيمون أداء المنتخب في هذه البطولة؟\n\n#المغرب #كرة_القدم #الناشئين",
+    "status": "now",
+    "titel": "منتخب المغرب لأقل من 15 سنة يفوز على فنزويلا 4-3 في مباراة تحديد المراتب",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206141/maroc-battent-venezuela-match-classement.html"
+  },
+  {
+    "id": "20261030-1340-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-1340-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261030-1340-1.jpg",
+    "caption": "⚽ أشبال الأطلس يحسمون مباراة مثيرة أمام فنزويلا!\n\nفوز مغربي 4-3 في باكو ضمن مباريات تحديد المراتب بمونديال الناشئين \nياسين أجانا يسجل هدفين مبكرين 🔥\nثم يضيف الزركاوي وبلامين هدفين آخرين ✨\n\n#المغرب #أشبال_الأطلس #كرة_القدم #كأس_العالم_للناشئين #U15",
+    "status": "now",
+    "titel": "منتخب المغرب لأقل من 15 سنة يفوز على فنزويلا 4-3 في مباراة تحديد المراتب",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206141/maroc-battent-venezuela-match-classement.html"
+  },
+  {
+    "id": "20261030-1340-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-1340-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "منتخب المغرب لأقل من 15 سنة يفوز على فنزويلا 4-3 في مباراة تحديد المراتب",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206141/maroc-battent-venezuela-match-classement.html"
+  },
+  {
+    "id": "20261030-1340-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-1340-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "منتخب المغرب لأقل من 15 سنة يفوز على فنزويلا 4-3 في مباراة تحديد المراتب",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206141/maroc-battent-venezuela-match-classement.html"
   }
 ]
