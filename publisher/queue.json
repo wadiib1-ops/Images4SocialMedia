@@ -6010,5 +6010,46 @@
     "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/أجراس-العودة-تدق-محمد-وهبي-يفتح-أبواب-منتخب-المغرب-قبل-معسكر-نوفمبر/blt4398eb7a177d684b",
     "meta_id": "18109330010195795",
     "published_at": "2026-10-30T15:29:12.270882+00:00"
+  },
+  {
+    "id": "20261030-1730-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "status": "now",
+    "titel": "رونالدو يعادل رقم يوسف النصيري في ترتيب هدافي الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/MQVMMC6IEBCOTEYW5EI5523LUU/",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/OE2JHALJINBHBIEMZGYIQ4C7UY.jpg%3Fauth%3De9f0d36f90fec1dc0c4ffc4174bddd50d26e7ef1c55e31792fbaa20725b1018b%26smart%3Dtrue%26width%3D1216%26height%3D684",
+    "caption": "سجّل كريستيانو رونالدو ثلاثية جديدة في الدوري السعودي وقاد النصر للفوز 5-3\n\nهذه ثلاثيته السابعة في المسابقة، وبها رفع رصيده إلى 7 أهداف\n\nيتقاسم رونالدو المركز الثالث في ترتيب الهدافين مع المغربي يوسف النصيري\n\nومعهما ماتيو ريتيغي، فيما يتصدر إيفان توني القائمة بـ13 هدفا\n\nيأتي تيجاني ريندرز ثانيا برصيد 8 أهداف\n\nكيف تقيمون مستوى يوسف النصيري في الدوري السعودي هذا الموسم؟\n\n#النصيري #الدوري_السعودي #المغرب"
+  },
+  {
+    "id": "20261030-1730-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "status": "now",
+    "titel": "رونالدو يعادل رقم يوسف النصيري في ترتيب هدافي الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/MQVMMC6IEBCOTEYW5EI5523LUU/",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-1730-1-reel-text.mp4",
+    "caption": "⚽ النصيري يلاحق الكبار في سباق الهدافين!\n\nرونالدو أنهى مباراة النصر بثلاثية، فبلغ 7 أهداف وانضم إلى النصيري وريتيغي في المركز الثالث 🔥\n\nتوني في الصدارة بـ13 هدفا وريندرز ثانيا بـ8 أهداف 📊\n\nما رأيكم في أرقام النصيري هذا الموسم؟\n\n#النصيري #يوسف_النصيري #الاتحاد #الدوري_السعودي #المغرب",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261030-1730-1.jpg"
+  },
+  {
+    "id": "20261030-1730-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "status": "now",
+    "titel": "رونالدو يعادل رقم يوسف النصيري في ترتيب هدافي الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/MQVMMC6IEBCOTEYW5EI5523LUU/",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-1730-1-story-text.mp4",
+    "caption": ""
+  },
+  {
+    "id": "20261030-1730-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "status": "now",
+    "titel": "رونالدو يعادل رقم يوسف النصيري في ترتيب هدافي الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/MQVMMC6IEBCOTEYW5EI5523LUU/",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-1730-1-story-text.mp4",
+    "caption": ""
   }
 ]
