@@ -132,3 +132,11 @@ Vor dem Bauen von Medien und vor dem Anlegen von Einträgen wird jeder Kandidat 
 - Instagram-Story: 9:16, 1080x1920, insgesamt höchstens 60 s, in Abschnitten von höchstens 15 s.
 - Instagram-Reel: 9:16, 1080x1920, 15-90 s. Cover ebenfalls 9:16 (oder 1:1 fürs Raster).
 - Gilt für alle Medien dieser Routine (Meldungen und Botola-Vorschau). Bestehende Videos mit abweichendem Format (z. B. Vorschau-Video 9:16 und 38,5 s im Facebook-Feed) bei neuen Läufen entsprechend anpassen.
+
+## Formate je Plattform (verbindlich, dauerhaft, Nutzerwunsch 30.10.2026; gilt für alle künftigen Läufe)
+- **Facebook-Feed:** Hochformat 4:5 (1080 × 1350 px, Empfehlung), quadratisch 1:1 (1080 × 1080) oder Querformat/Link-Vorschau 1,91:1 (1200 × 630). Bilder JPG/PNG, Videos MP4/MOV, empfohlen 15–30 s, max. 4 GB.
+- **Facebook-Story und Facebook-Reel:** 9:16, 1080 × 1920 px (bis 1440 × 2560). Story max. 60 s (in 15-s-Clips), Reel 15–90 s. Safe Zones: Text und Logos nicht ganz am oberen/unteren Rand (UI-Elemente der App).
+- **Instagram-Feed:** 4:5 (1080 × 1350, Empfehlung), 3:4 (1080 × 1440), 1:1 (1080 × 1080) oder 1,91:1 (1080 × 566). Fotos oder Videos (MP4/MOV, H.264, max. 60 s).
+- **Instagram-Story:** 9:16, 1080 × 1920 px, bis 60 s insgesamt, Abschnitte je max. 15 s.
+- **Instagram-Reel:** 9:16, 1080 × 1920 px, 15–90 s. Reel-Cover ebenfalls 9:16 (oder 1:1 für das Raster).
+- Beim Bauen jedes Mediums Format und Länge mit ffprobe prüfen. Passt ein Medium nicht (zum Beispiel ein 9:16-Video im Facebook-Feed, wo 4:5 empfohlen ist), vor dem Veröffentlichen ins passende Format umsetzen.
