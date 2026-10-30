@@ -623,3 +623,7 @@
 {"zeit": "30.10.2026 17:33:28", "aktion": "veröffentlicht", "beitrag": "20261030-1730-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1151203544131659"}
 {"zeit": "30.10.2026 17:34:14", "aktion": "veröffentlicht", "beitrag": "20261030-1730-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18127966672665640"}
 {"zeit": "30.10.2026 17:34:14", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "497 Einträge geprüft"}
+{"zeit": "30.10.2026 18:01:48", "aktion": "übersprungen", "beitrag": "2026-10-30-botola-fb-feed", "plattform": "facebook", "ergebnis": "fehler", "details": "Titel bereits am 2026-10-29T17:44:03.498803+00:00 veröffentlicht"}
+{"zeit": "30.10.2026 18:01:48", "aktion": "übersprungen", "beitrag": "2026-10-30-botola-ig-reel", "plattform": "instagram", "ergebnis": "fehler", "details": "Titel bereits am 2026-10-29T17:44:03.498803+00:00 veröffentlicht"}
+{"zeit": "30.10.2026 18:01:48", "aktion": "übersprungen", "beitrag": "2026-10-30-botola-ig-story", "plattform": "instagram", "ergebnis": "fehler", "details": "Titel bereits am 2026-10-29T17:44:03.498803+00:00 veröffentlicht"}
+{"zeit": "30.10.2026 18:01:48", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "500 Einträge geprüft"}
