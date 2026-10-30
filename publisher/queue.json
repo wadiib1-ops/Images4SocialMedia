@@ -5513,5 +5513,46 @@
     "quelle_url": "https://ar.sport.le360.ma/football/JMBLAMJ5ONDH5E57MERPVK5MBE/",
     "meta_id": "18426205939156375",
     "published_at": "2026-10-30T00:19:02.878250+00:00"
+  },
+  {
+    "id": "20261030-0145-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/LGU36OXBRNMSTMGMD23UAAZYQE.jpg%3Fauth%3D91091320afd8b806e369fa3acd9c955600fd7b4f22cf4b400a8b6998e078e271%26smart%3Dtrue%26width%3D1216%26height%3D684",
+    "caption": "يشارك المنتخب المغربي لأقل من 18 سنة في كرة القدم داخل القاعة في الألعاب الأولمبية للشباب بدكار من 1 إلى 12 نونبر.\n\nأوقعت القرعة المغرب في المجموعة الثانية مع البرتغال والباراغواي وجزر سليمان.\n\nيفتتح المنتخب مشواره يوم 2 نونبر أمام البرتغال، ثم يواجه الباراغواي يوم 4 نونبر، ويختتم دور المجموعات يوم 7 نونبر أمام جزر سليمان.\n\nاختار المدرب زكرياء كويري عشرة لاعبين لهذه المشاركة.\n\nكيف تقيّمون حظوظ المنتخب في هذه المجموعة؟\n\n#فوتسال #المغرب #دكار",
+    "status": "now",
+    "titel": "المنتخب المغربي للفوتسال لأقل من 18 سنة يشارك في الألعاب الأولمبية للشباب بدكار",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/EKC2RTAV6VA3NMCWY5OYZDNENE/"
+  },
+  {
+    "id": "20261030-0145-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-0145-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261030-0145-1.jpg",
+    "caption": "نسخة جديدة من الأطلس في دكار! ⚽🔥\n\nينتظر أشبال الفوتسال لأقل من 18 سنة موعد الألعاب الأولمبية للشباب بالعاصمة السنغالية، من 1 إلى 12 نونبر.\n\nالمجموعة الثانية تضم البرتغال والباراغواي وجزر سليمان.\n📅 2 نونبر: الافتتاح أمام البرتغال\n📅 4 نونبر: مواجهة الباراغواي\n📅 7 نونبر: ختام المجموعات أمام جزر سليمان\n\nيقود المدرب زكرياء كويري قائمة من عشرة لاعبين 💪\n\n#فوتسال #المغرب #أشبال_الأطلس #دكار #الألعاب_الأولمبية_للشباب",
+    "status": "now",
+    "titel": "المنتخب المغربي للفوتسال لأقل من 18 سنة يشارك في الألعاب الأولمبية للشباب بدكار",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/EKC2RTAV6VA3NMCWY5OYZDNENE/"
+  },
+  {
+    "id": "20261030-0145-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-0145-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "المنتخب المغربي للفوتسال لأقل من 18 سنة يشارك في الألعاب الأولمبية للشباب بدكار",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/EKC2RTAV6VA3NMCWY5OYZDNENE/"
+  },
+  {
+    "id": "20261030-0145-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-0145-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "المنتخب المغربي للفوتسال لأقل من 18 سنة يشارك في الألعاب الأولمبية للشباب بدكار",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/EKC2RTAV6VA3NMCWY5OYZDNENE/"
   }
 ]
