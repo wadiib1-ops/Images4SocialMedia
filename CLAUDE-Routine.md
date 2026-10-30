@@ -140,3 +140,11 @@ Vor dem Bauen von Medien und vor dem Anlegen von Einträgen wird jeder Kandidat 
 - **Instagram-Story:** 9:16, 1080 × 1920 px, bis 60 s insgesamt, Abschnitte je max. 15 s.
 - **Instagram-Reel:** 9:16, 1080 × 1920 px, 15–90 s. Reel-Cover ebenfalls 9:16 (oder 1:1 für das Raster).
 - Beim Bauen jedes Mediums Format und Länge mit ffprobe prüfen. Passt ein Medium nicht (zum Beispiel ein 9:16-Video im Facebook-Feed, wo 4:5 empfohlen ist), vor dem Veröffentlichen ins passende Format umsetzen.
+
+## Plattform-Formate (verbindlich, dauerhaft, Nutzerwunsch 30.10.2026; gilt für alle künftigen Läufe)
+Bild- und Videoformate richten sich nach diesen Vorgaben (bei Widerspruch zu älteren Angaben in PROMPT.md gelten diese):
+1. Facebook-Feed: Hochformat 4:5 (1080 x 1350 px, Empfehlung), quadratisch 1:1 (1080 x 1080 px) oder Querformat/Link-Vorschau 1,91:1 (1200 x 630 px). Medien: Bilder (JPG, PNG) oder Videos (MP4, MOV; empfohlen 15 bis 30 s, max. 4 GB).
+2. Facebook-Stories und -Reels: 9:16 Vollbild, 1080 x 1920 px (bis 1440 x 2560 px). Stories max. 60 s (in 15-s-Clips aufgeteilt), Reels 15 bis 90 s. Safe Zones: wichtige Texte oder Logos nicht ganz am oberen oder unteren Rand, dort liegen UI-Elemente der Apps.
+3. Instagram-Feed: 4:5 (1080 x 1350 px, Empfehlung), 3:4 (1080 x 1440 px), 1:1 (1080 x 1080 px) oder 1,91:1 (1080 x 566 px). Fotos oder Videos (MP4/MOV, H.264, max. 60 s).
+4. Instagram-Stories: 9:16, 1080 x 1920 px, bis 60 s insgesamt, in Abschnitten von höchstens 15 s.
+5. Instagram-Reels: 9:16, 1080 x 1920 px, 15 bis 90 s. Das Reel-Cover im Format 9:16 (oder 1:1 für das Raster).
