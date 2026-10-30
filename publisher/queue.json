@@ -6330,5 +6330,46 @@
     "status": "published",
     "meta_id": "18128384611843621",
     "published_at": "2026-10-30T19:17:35.605330+00:00"
+  },
+  {
+    "id": "20261030-2130-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/fifa-mazembe-raja-20261030-2130.jpg",
+    "caption": "الفيفا تُسقط مطالب مازيمبي ضد الرجاء الرياضي\n\nأصدرت غرفة فض المنازعات التابعة للفيفا قرارها برفض جميع المطالب المالية التي تقدم بها نادي تي بي مازيمبي الكونغولي ضد الرجاء.\n\nوكان مازيمبي يدّعي وجود مخالفات في انتقال اللاعب فيليبي بيني كينزومبي إلى الفريق الأخضر قبل موسمين، وطالب بتعويض على ذلك.\n\nواعتبرت الغرفة أن الصفقة تمت وفق القوانين المعمول بها، وبذلك يتفادى الرجاء دفع مبلغ يناهز 600 مليون سنتيم قبل نهاية الموسم الحالي.\n\nما تقييمكم لإدارة الرجاء لهذا الملف القانوني؟\n\n#الرجاء #الفيفا #البطولة_الاحترافية",
+    "status": "now",
+    "titel": "الفيفا ترفض مطالب مازيمبي ضد الرجاء وتجنبه خسارة بقيمة 600 مليون سنتيم",
+    "quelle_url": "https://ar.sport.le360.ma/football/NW37M3OBKZCSDBUUUYMN3365FA/"
+  },
+  {
+    "id": "20261030-2130-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-2130-1-reel-text.mp4",
+    "caption": "⚖️ انتصار قانوني للرجاء أمام مازيمبي!\n\nالفيفا قالت كلمتها: لا تعويض لنادي مازيمبي الكونغولي في قضية انتقال فيليبي بيني كينزومبي 🟢\n\nالغرفة وجدت أن الصفقة سليمة من الناحية القانونية، فنجا الرجاء من فاتورة بحوالي 6 ملايين درهم 💰\n\nالملف أُغلق لصالح النسر الأخضر قبل نهاية الموسم 🦅\n\n#الرجاء_الرياضي #الفيفا #مازيمبي #البطولة_الاحترافية #كرة_القدم_المغربية",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261030-2130-1.jpg",
+    "status": "now",
+    "titel": "الفيفا ترفض مطالب مازيمبي ضد الرجاء وتجنبه خسارة بقيمة 600 مليون سنتيم",
+    "quelle_url": "https://ar.sport.le360.ma/football/NW37M3OBKZCSDBUUUYMN3365FA/"
+  },
+  {
+    "id": "20261030-2130-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-2130-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الفيفا ترفض مطالب مازيمبي ضد الرجاء وتجنبه خسارة بقيمة 600 مليون سنتيم",
+    "quelle_url": "https://ar.sport.le360.ma/football/NW37M3OBKZCSDBUUUYMN3365FA/"
+  },
+  {
+    "id": "20261030-2130-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-2130-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الفيفا ترفض مطالب مازيمبي ضد الرجاء وتجنبه خسارة بقيمة 600 مليون سنتيم",
+    "quelle_url": "https://ar.sport.le360.ma/football/NW37M3OBKZCSDBUUUYMN3365FA/"
   }
 ]
