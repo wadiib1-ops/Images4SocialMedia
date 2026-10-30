@@ -6483,9 +6483,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://alyaoum24.com/content/uploads/2026/10/FB_IMG_1793288806027_edit_828941547598638.jpg",
     "caption": "وجّه حسنية أكادير رسالة رسمية إلى عبد السلام بلقشور رئيس العصبة الاحترافية.\nاحتج النادي على القرارات التحكيمية في مباراته أمام الرجاء.\nجرت المباراة يوم الأربعاء 28 أكتوبر على ملعب العربي الزاولي.\n\nيرى النادي أن الأخطاء التحكيمية المتكررة لم تعد زلات معزولة.\nويعتبر أنها تهدد تكافؤ الفرص ومصداقية البطولة الاحترافية.\nطالب النادي باتخاذ إجراءات تضمن منافسة شريفة بين جميع الأندية.\nوأشاد بجهود الجامعة الملكية في تطوير المنظومة، وينتظر ردا إيجابيا.\n\nكيف تقيّمون مستوى التحكيم في البطولة الاحترافية؟\n\n#حسنية_أكادير #البطولة_الاحترافية #الرجاء",
-    "status": "now",
+    "status": "published",
     "titel": "حسنية أكادير يراسل بلقشور احتجاجا على القرارات التحكيمية في مباراة الرجاء",
-    "quelle_url": "https://alyaoum24.com/2053975.html"
+    "quelle_url": "https://alyaoum24.com/2053975.html",
+    "meta_id": "122222484866577271",
+    "published_at": "2026-10-30T21:58:22.479362+00:00"
   },
   {
     "id": "20261030-2256-1-ig-reel",
@@ -6494,9 +6496,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-2256-1-reel-text.mp4",
     "caption": "⚖️ رسالة غاضبة من أكادير إلى العصبة الاحترافية!\n\nحسنية أكادير راسل رئيس العصبة عبد السلام بلقشور بعد مواجهة الرجاء 🔥\nالنادي يقول إن الأخطاء التحكيمية تكررت ولم تعد مجرد زلات معزولة.\nويحذر من تأثير ذلك على تكافؤ الفرص وعلى مصداقية البطولة 🏟️\nكما يطالب بإجراءات تضمن منافسة عادلة، مع إشادته بعمل الجامعة الملكية.\nالفريق ينتظر الآن جوابا إيجابيا من العصبة 🤝\n\n#الحسنية #الرجاء_البيضاوي #البطولة_الاحترافية #كرة_القدم_المغربية #التحكيم",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261030-2256-1.jpg",
-    "status": "now",
+    "status": "published",
     "titel": "حسنية أكادير يراسل بلقشور احتجاجا على القرارات التحكيمية في مباراة الرجاء",
-    "quelle_url": "https://alyaoum24.com/2053975.html"
+    "quelle_url": "https://alyaoum24.com/2053975.html",
+    "meta_id": "17882703225627903",
+    "published_at": "2026-10-30T21:58:22.479362+00:00"
   },
   {
     "id": "20261030-2256-1-fb-story",
@@ -6504,9 +6508,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-2256-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "حسنية أكادير يراسل بلقشور احتجاجا على القرارات التحكيمية في مباراة الرجاء",
-    "quelle_url": "https://alyaoum24.com/2053975.html"
+    "quelle_url": "https://alyaoum24.com/2053975.html",
+    "meta_id": "2379552916187600",
+    "published_at": "2026-10-30T21:58:22.479362+00:00"
   },
   {
     "id": "20261030-2256-1-ig-story",
@@ -6514,8 +6520,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-2256-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "حسنية أكادير يراسل بلقشور احتجاجا على القرارات التحكيمية في مباراة الرجاء",
-    "quelle_url": "https://alyaoum24.com/2053975.html"
+    "quelle_url": "https://alyaoum24.com/2053975.html",
+    "meta_id": "18092843615679959",
+    "published_at": "2026-10-30T21:58:22.479362+00:00"
   }
 ]
