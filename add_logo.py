@@ -8,23 +8,14 @@ Nur fuer Fotos aus externen Quellen verwenden, nicht fuer eigene Bilder
 (make_post_image.py) und nicht fuer Videos.
 """
 import argparse, os
-from PIL import Image, ImageDraw, ImageOps
+from PIL import Image, ImageOps
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-LOGO = os.path.join(HERE, "INSTA_Short_Image_dunkel.jpg")
-CX, CY, R = 468, 566, 286   # rundes Wappen im Quellbild (928x1152)
+LOGO = os.path.join(HERE, "botola-video", "assets", "logo.png")   # neues Logo (Nutzerwunsch 30.10.2026), transparent
 
 
 def emblem(logo_path=LOGO):
-    src = Image.open(logo_path).convert("RGB")
-    crop = src.crop((CX - R, CY - R, CX + R, CY + R))
-    s = 4  # Supersampling fuer einen glatten Rand
-    mask = Image.new("L", (crop.width * s, crop.height * s), 0)
-    ImageDraw.Draw(mask).ellipse((0, 0, mask.width - 1, mask.height - 1), fill=255)
-    mask = mask.resize(crop.size, Image.LANCZOS)
-    out = crop.convert("RGBA")
-    out.putalpha(mask)
-    return out
+    return Image.open(logo_path).convert("RGBA")
 
 
 def apply(photo_path, out_path, frac=0.14, margin=0.025):

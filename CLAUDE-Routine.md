@@ -148,3 +148,6 @@ Bild- und Videoformate richten sich nach diesen Vorgaben (bei Widerspruch zu äl
 3. Instagram-Feed: 4:5 (1080 x 1350 px, Empfehlung), 3:4 (1080 x 1440 px), 1:1 (1080 x 1080 px) oder 1,91:1 (1080 x 566 px). Fotos oder Videos (MP4/MOV, H.264, max. 60 s).
 4. Instagram-Stories: 9:16, 1080 x 1920 px, bis 60 s insgesamt, in Abschnitten von höchstens 15 s.
 5. Instagram-Reels: 9:16, 1080 x 1920 px, 15 bis 90 s. Das Reel-Cover im Format 9:16 (oder 1:1 für das Raster).
+
+## Neues Logo (verbindlich, dauerhaft, Nutzerwunsch 30.10.2026)
+Das Logo ist jetzt "MAROC KORA NEWS / أخبار الكرة المغربية" (rund, grün/rot, Fallrückzieher). Es ersetzt das alte Logo überall: `botola-video/assets/logo.png`, `botola2-video/assets/logo.png`, `add_logo.py` (Datei `images/logo-neu.png` ist dieselbe Vorlage). Das alte Logo nie mehr verwenden. Cloudinary-Asset `logo_wappen` (LOGO-URL in PROMPT.md) muss im Cloudinary-Konto durch `images/logo-neu.png` ersetzt werden; solange das nicht geschehen ist, Facebook-Fotos mit `add_logo.py` bauen statt mit der Cloudinary-LOGO-URL.
