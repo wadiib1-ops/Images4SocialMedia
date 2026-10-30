@@ -6095,5 +6095,38 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-10-30-story.mp4",
     "caption": "",
     "error": "Titel bereits am 2026-10-29T17:44:03.498803+00:00 veröffentlicht"
+  },
+  {
+    "id": "2026-10-30-botola-fb-feed-b",
+    "platform": "facebook",
+    "type": "video",
+    "status": "now",
+    "titel": "نتيجة المباراة المؤجلة: المغرب الفاسي ونهضة بركان 0-0",
+    "quelle_url": "https://aldar.ma/459887.html",
+    "runde": "5-nachgeholt",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-10-30.mp4",
+    "caption": "🏆 نتائج الجولة 5 من البطولة الاحترافية إنوي\n📅 الخميس 29 أكتوبر 2026\n\n⚽ المغرب الفاسي 0 - 0 نهضة بركان\n\n⏸️ الجيش الملكي × الرجاء الرياضي: مؤجلة\n⏸️ نهضة بركان × الجيش الملكي: مؤجلة\n\n📊 الترتيب العام بعد الجولة 5 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#البطولة_الاحترافية #البطولة_الاحترافية_إنوي #كرة_القدم_المغربية"
+  },
+  {
+    "id": "2026-10-30-botola-ig-reel-b",
+    "platform": "instagram",
+    "type": "reel",
+    "status": "now",
+    "titel": "نتيجة المباراة المؤجلة: المغرب الفاسي ونهضة بركان 0-0",
+    "quelle_url": "https://aldar.ma/459887.html",
+    "runde": "5-nachgeholt",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-10-30.mp4",
+    "caption": "🏆 نتائج الجولة 5 من البطولة الاحترافية إنوي\n📅 الخميس 29 أكتوبر 2026\n\n⚽ المغرب الفاسي 0 - 0 نهضة بركان\n\n⏸️ الجيش الملكي × الرجاء الرياضي: مؤجلة\n⏸️ نهضة بركان × الجيش الملكي: مؤجلة\n\n📊 الترتيب العام بعد الجولة 5 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#البطولة_الاحترافية #البطولة_الاحترافية_إنوي #كرة_القدم_المغربية #الدوري_المغربي #Botola"
+  },
+  {
+    "id": "2026-10-30-botola-ig-story-b",
+    "platform": "instagram",
+    "type": "story",
+    "status": "now",
+    "titel": "نتيجة المباراة المؤجلة: المغرب الفاسي ونهضة بركان 0-0",
+    "quelle_url": "https://aldar.ma/459887.html",
+    "runde": "5-nachgeholt",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-10-30-story.mp4",
+    "caption": ""
   }
 ]
