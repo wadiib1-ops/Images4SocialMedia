@@ -50,7 +50,7 @@ Jedes Foto aus einer externen Quelle bekommt oben einen Streifen in der Randfarb
 Foto-URL kodieren (nur Sonderzeichen wie ? & = # und Leerzeichen, "https://", Host und Pfad bleiben lesbar):
  python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1], safe=':/%'))" "<Foto-URL>"
 LOGO-URL:
- https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/<kodierte Foto-URL>
+ https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/<kodierte Foto-URL>
 Es ist immer dieselbe Foto-Adresse für alle URLs einer Meldung.
 
 6. TEXTE
