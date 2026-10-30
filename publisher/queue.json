@@ -5660,5 +5660,46 @@
     "quelle_url": "https://www.yabiladi.com/articles/details/206102/coupe-monde-2030-stade-hassan.html",
     "meta_id": "18147835720577550",
     "published_at": "2026-10-30T09:19:55.744989+00:00"
+  },
+  {
+    "id": "20261030-1230-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/foto-20261030-1230-1.jpg",
+    "caption": "هشام الدكيك، مدرب منتخب الفوتسال المغربي، يتحدث بعد اللقب الإفريقي الرابع على التوالي.\n\nالهدف الأكبر بالنسبة له هو التتويج بكأس العالم.\n\nولبلوغه يرى ضرورة تطوير اللاعبين المحليين والتكوين والبنية التحتية والاحترافية في الأندية.\n\nويقول إن الخصم الوحيد للمنتخب هو نفسه وإن أكبر المخاطر ذهنية مثل الغرور والضغط.\n\nويشير إلى أن مصر والجزائر وأنغولا تطورت بشكل واضح.\n\nوعن احتفال الأصابع الأربعة يوضح أنه جاء عفويا وغير مخطط له.\n\nكيف تقيمون مسيرة منتخب الفوتسال المغربي في السنوات الأخيرة؟\n\n#الفوتسال #المنتخب_المغربي #الدكيك",
+    "status": "now",
+    "titel": "الدكيك: حلمنا التتويج بكأس العالم للفوتسال والخصم الوحيد هو أنفسنا",
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d8%af%d9%83%d9%8a%d9%83-%d8%ae%d8%b5%d9%85%d9%86%d8%a7-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d9%87%d9%88-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1831481.html"
+  },
+  {
+    "id": "20261030-1230-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-1230-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261030-1230-1.jpg",
+    "caption": "🔥 مدرب أسود القاعة يضع كأس العالم هدفا أول!\n\nبعد اللقب الإفريقي الرابع تواليا، هشام الدكيك يرى أن العدو الحقيقي للمنتخب هو الغرور والضغط 🧠\nويدعو إلى الاهتمام باللاعب المحلي والتكوين والبنية التحتية والاحترافية في الأندية ⚽\nأما احتفال الأصابع الأربعة فكان عفويا بلا تخطيط ✌️\n\n#الفوتسال #أسود_القاعة #المغرب #الدكيك #كأس_العالم",
+    "status": "now",
+    "titel": "الدكيك: حلمنا التتويج بكأس العالم للفوتسال والخصم الوحيد هو أنفسنا",
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d8%af%d9%83%d9%8a%d9%83-%d8%ae%d8%b5%d9%85%d9%86%d8%a7-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d9%87%d9%88-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1831481.html"
+  },
+  {
+    "id": "20261030-1230-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-1230-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الدكيك: حلمنا التتويج بكأس العالم للفوتسال والخصم الوحيد هو أنفسنا",
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d8%af%d9%83%d9%8a%d9%83-%d8%ae%d8%b5%d9%85%d9%86%d8%a7-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d9%87%d9%88-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1831481.html"
+  },
+  {
+    "id": "20261030-1230-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-1230-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الدكيك: حلمنا التتويج بكأس العالم للفوتسال والخصم الوحيد هو أنفسنا",
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d8%af%d9%83%d9%8a%d9%83-%d8%ae%d8%b5%d9%85%d9%86%d8%a7-%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af-%d9%87%d9%88-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-1831481.html"
   }
 ]
