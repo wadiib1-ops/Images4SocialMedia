@@ -6281,5 +6281,46 @@
     "status": "published",
     "meta_id": "18111355478206767",
     "published_at": "2026-10-30T18:21:02.965257+00:00"
+  },
+  {
+    "id": "20261030-2017-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://www.lesiteinfo.com/wp-content/uploads/2026/10/HAKIMI-3.jpg",
+    "caption": "سجل أشرف حكيمي هدفا لباريس سان جيرمان في الدقيقة 28 أمام لوهافر.\n\nجاء الهدف ضمن الجولة التاسعة من الدوري الفرنسي.\n\nوبه يعيد الظهير المغربي تحريك رصيده التهديفي هذا الموسم.\n\nويواصل حكيمي تقديم أداء لافت بين المهام الدفاعية والمساهمة في الهجوم.\n\nكيف تقيمون أداء حكيمي هذا الموسم؟\n\n#حكيمي #الدوري_الفرنسي #المغرب",
+    "titel": "حكيمي يسجل لباريس سان جيرمان أمام لوهافر في الدوري الفرنسي",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685925-ligue-1-achraf-hakimi-relance-son-compteur-buts-face-au-havre-video.html",
+    "status": "now"
+  },
+  {
+    "id": "20261030-2017-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-2017-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261030-2017-1.jpg",
+    "caption": "هدف جديد لأشرف حكيمي مع باريس سان جيرمان ⚽🔥\n\nالظهير المغربي هز الشباك في الدقيقة 28 أمام لوهافر ضمن الجولة التاسعة من الليغ 1 \n\nبهذا الهدف يستعيد حكيمي حضوره التهديفي، وهو الذي يجمع بين القوة الدفاعية واللمسة الهجومية 💪\n\nما الذي يميز حكيمي برأيكم بين أظهرة العالم؟\n\n#حكيمي #باريس_سان_جيرمان #الليغ_1 #أسود_الأطلس #كرة_القدم_المغربية",
+    "titel": "حكيمي يسجل لباريس سان جيرمان أمام لوهافر في الدوري الفرنسي",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685925-ligue-1-achraf-hakimi-relance-son-compteur-buts-face-au-havre-video.html",
+    "status": "now"
+  },
+  {
+    "id": "20261030-2017-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-2017-1-story-text.mp4",
+    "caption": "",
+    "titel": "حكيمي يسجل لباريس سان جيرمان أمام لوهافر في الدوري الفرنسي",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685925-ligue-1-achraf-hakimi-relance-son-compteur-buts-face-au-havre-video.html",
+    "status": "now"
+  },
+  {
+    "id": "20261030-2017-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-2017-1-story-text.mp4",
+    "caption": "",
+    "titel": "حكيمي يسجل لباريس سان جيرمان أمام لوهافر في الدوري الفرنسي",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685925-ligue-1-achraf-hakimi-relance-son-compteur-buts-face-au-havre-video.html",
+    "status": "now"
   }
 ]
