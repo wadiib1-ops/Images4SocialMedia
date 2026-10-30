@@ -6134,5 +6134,46 @@
     "caption": "",
     "meta_id": "18431495056147630",
     "published_at": "2026-10-30T17:05:26.541270+00:00"
+  },
+  {
+    "id": "20261030-1830-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_logo_wappen/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/L5KZBP2KNFGTLHEDWJF3TH4HLM.webp%3Fauth%3D71b6715fda30a8cf439e635e88a78311dc9f31aa85e7295bdd7f6a29fd10364e%26smart%3Dtrue%26width%3D1216%26height%3D684",
+    "caption": "فاز منتخب المغرب لأقل من 15 سنة على مصر بنتيجة 3-1.\nالمباراة ضمن مباريات تحديد المراتب في كأس العالم للناشئين بباكو.\n\nسجل ياسين أجانا هدفين في الدقيقتين 27 و36.\nوأضاف آدم ميموني الهدف الثالث في الدقيقة 33.\n\nجاء الفوز بعد يوم واحد من الانتصار على فنزويلا بنتيجة 4-3.\n\nكيف تقيمون مشاركة المنتخب في هذه البطولة؟\n\n#المنتخب_المغربي #أشبال_الأطلس #كأس_العالم_للناشئين",
+    "status": "now",
+    "titel": "منتخب المغرب لأقل من 15 سنة يفوز على مصر 3-1 في مباراة تحديد المراتب",
+    "quelle_url": "https://ar.sport.le360.ma/football/CPJOQ3ZY6RH3PALTY5UHMPTKIY/"
+  },
+  {
+    "id": "20261030-1830-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-1830-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261030-1830-1.jpg",
+    "caption": "🔥 أشبال الأطلس يختتمون مبارياتهم في باكو بفوز على مصر!\n\nانتصر المنتخب المغربي لأقل من 15 سنة بثلاثة أهداف مقابل هدف في مباراة تحديد المراتب ⚽\nياسين أجانا سجل ثنائية في الدقيقتين 27 و36، وآدم ميموني زاد الثالث في الدقيقة 33 👏\nوكان الفوز قد سبقه انتصار على فنزويلا 4-3 قبل يوم\n\n#المغرب #أشبال_الأطلس #كأس_العالم_للناشئين #كرة_القدم #المنتخب_المغربي",
+    "status": "now",
+    "titel": "منتخب المغرب لأقل من 15 سنة يفوز على مصر 3-1 في مباراة تحديد المراتب",
+    "quelle_url": "https://ar.sport.le360.ma/football/CPJOQ3ZY6RH3PALTY5UHMPTKIY/"
+  },
+  {
+    "id": "20261030-1830-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-1830-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "منتخب المغرب لأقل من 15 سنة يفوز على مصر 3-1 في مباراة تحديد المراتب",
+    "quelle_url": "https://ar.sport.le360.ma/football/CPJOQ3ZY6RH3PALTY5UHMPTKIY/"
+  },
+  {
+    "id": "20261030-1830-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261030-1830-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "منتخب المغرب لأقل من 15 سنة يفوز على مصر 3-1 في مباراة تحديد المراتب",
+    "quelle_url": "https://ar.sport.le360.ma/football/CPJOQ3ZY6RH3PALTY5UHMPTKIY/"
   }
 ]
