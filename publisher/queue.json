@@ -5765,10 +5765,12 @@
     "type": "video",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-vorschau-runde6.mp4",
     "caption": "🔥 برنامج الجولة 6 من البطولة الاحترافية إنوي\n📅 من 30 أكتوبر إلى فاتح نونبر 2026 (بتوقيت المغرب)\n\nالجمعة 30 أكتوبر\n⚽ 20:00 الدفاع الحسني الجديدي × اتحاد تواركة\n\nالسبت 31 أكتوبر\n⚽ 16:00 أمل تيزنيت × الكوكب المراكشي\n⚽ 18:00 الوداد الرياضي × المغرب التطواني\n⚽ 20:00 الفتح الرباطي × حسنية أكادير\n\nالأحد 1 نونبر\n⚽ 16:00 وداد تمارة × المغرب الفاسي\n⚽ 18:00 النادي المكناسي × الجيش الملكي\n⚽ 18:00 اتحاد طنجة × نهضة الزمامرة\n⚽ 20:00 نهضة بركان × الرجاء الرياضي\n\n💬 من سيفوز في قمة نهضة بركان والرجاء الرياضي؟ شاركونا توقعاتكم في التعليقات\n\n#البطولة_الاحترافية #البطولة_الاحترافية_إنوي #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "برنامج الجولة 6 من البطولة الاحترافية إنوي",
     "quelle_url": "https://assabah.ma/956988.html",
-    "runde": "6-vorschau"
+    "runde": "6-vorschau",
+    "meta_id": "1425179869808505",
+    "published_at": "2026-10-30T13:18:12.709228+00:00"
   },
   {
     "id": "20261030-vorschau6-ig-reel",
@@ -5776,10 +5778,12 @@
     "type": "reel",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-vorschau-runde6.mp4",
     "caption": "🔥 برنامج الجولة 6 من البطولة الاحترافية إنوي\n📅 من 30 أكتوبر إلى فاتح نونبر 2026 (بتوقيت المغرب)\n\nالجمعة 30 أكتوبر\n⚽ 20:00 الدفاع الحسني الجديدي × اتحاد تواركة\n\nالسبت 31 أكتوبر\n⚽ 16:00 أمل تيزنيت × الكوكب المراكشي\n⚽ 18:00 الوداد الرياضي × المغرب التطواني\n⚽ 20:00 الفتح الرباطي × حسنية أكادير\n\nالأحد 1 نونبر\n⚽ 16:00 وداد تمارة × المغرب الفاسي\n⚽ 18:00 النادي المكناسي × الجيش الملكي\n⚽ 18:00 اتحاد طنجة × نهضة الزمامرة\n⚽ 20:00 نهضة بركان × الرجاء الرياضي\n\n💬 من سيفوز في قمة نهضة بركان والرجاء الرياضي؟ شاركونا توقعاتكم في التعليقات\n\n#البطولة_الاحترافية #البطولة_الاحترافية_إنوي #كرة_القدم_المغربية #الدوري_المغربي #Botola",
-    "status": "now",
+    "status": "published",
     "titel": "برنامج الجولة 6 من البطولة الاحترافية إنوي",
     "quelle_url": "https://assabah.ma/956988.html",
-    "runde": "6-vorschau"
+    "runde": "6-vorschau",
+    "meta_id": "18058733714571315",
+    "published_at": "2026-10-30T13:18:12.709228+00:00"
   },
   {
     "id": "20261030-vorschau6-fb-story",
@@ -5787,10 +5791,12 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-vorschau-runde6-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "برنامج الجولة 6 من البطولة الاحترافية إنوي",
     "quelle_url": "https://assabah.ma/956988.html",
-    "runde": "6-vorschau"
+    "runde": "6-vorschau",
+    "meta_id": "1675293180597490",
+    "published_at": "2026-10-30T13:18:12.709228+00:00"
   },
   {
     "id": "20261030-vorschau6-ig-story",
@@ -5798,9 +5804,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-vorschau-runde6-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "برنامج الجولة 6 من البطولة الاحترافية إنوي",
     "quelle_url": "https://assabah.ma/956988.html",
-    "runde": "6-vorschau"
+    "runde": "6-vorschau",
+    "meta_id": "18116340218037363",
+    "published_at": "2026-10-30T13:18:12.709228+00:00"
   }
 ]
