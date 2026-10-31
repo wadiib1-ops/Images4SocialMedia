@@ -6917,5 +6917,46 @@
     "quelle_url": "https://www.yabiladi.com/articles/details/206225/nouveau-tous-deux-consequences-pour.html",
     "meta_id": "17895930174613101",
     "published_at": "2026-10-31T11:20:29.809009+00:00"
+  },
+  {
+    "id": "20261031-1329-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://cdn.alomksport.com/wp-content/uploads/2026/10/29af5dc60f0b-scaled.webp",
+    "caption": "كشفت تقارير إعلامية إسبانية أن نادي برشلونة يتابع المغربي ياسر الزابيري بعد مستواه اللافت في الدوري الإسباني.\n\nبحسب موقع فيشاخيس، يتابع المدير الرياضي ديكو أداء اللاعب البالغ 21 عاما.\n\nسجل الزابيري ثمانية أهداف في عشر مباريات مع راسينغ سانتاندير المعار إليه.\n\nتقدر قيمته السوقية بنحو 20 مليون يورو، وعقده مع رين يمتد حتى 2029.\n\nلم يصدر أي عرض رسمي ولا مفاوضات حتى الآن، والأمر مجرد مراقبة.\n\nكيف تقيمون مستوى الزابيري هذا الموسم؟\n\n#الزابيري #المنتخب_المغربي #برشلونة",
+    "titel": "برشلونة يراقب ياسر الزابيري بعد تألقه في الدوري الإسباني",
+    "quelle_url": "https://alomksport.com/109962.html",
+    "status": "now"
+  },
+  {
+    "id": "20261031-1329-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1329-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261031-1329-1.jpg",
+    "caption": "🔥 اسم مغربي على رادار برشلونة!\n\nياسر الزابيري يلفت الأنظار في إسبانيا بثمانية أهداف في عشر مباريات مع راسينغ سانتاندير ⚽\n\nموقع فيشاخيس يقول إن ديكو يتابع اللاعب ذو الـ21 عاما، لكن لا عرض رسمي ولا مفاوضات بعد 👀\n\nقيمته تقارب 20 مليون يورو، وعقده مع رين ساري حتى 2029\n\n#الزابيري #أسود_الأطلس #برشلونة #راسينغ_سانتاندير #كرة_القدم",
+    "titel": "برشلونة يراقب ياسر الزابيري بعد تألقه في الدوري الإسباني",
+    "quelle_url": "https://alomksport.com/109962.html",
+    "status": "now"
+  },
+  {
+    "id": "20261031-1329-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1329-1-story-text.mp4",
+    "caption": "",
+    "titel": "برشلونة يراقب ياسر الزابيري بعد تألقه في الدوري الإسباني",
+    "quelle_url": "https://alomksport.com/109962.html",
+    "status": "now"
+  },
+  {
+    "id": "20261031-1329-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1329-1-story-text.mp4",
+    "caption": "",
+    "titel": "برشلونة يراقب ياسر الزابيري بعد تألقه في الدوري الإسباني",
+    "quelle_url": "https://alomksport.com/109962.html",
+    "status": "now"
   }
 ]
