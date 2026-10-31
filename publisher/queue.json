@@ -7418,9 +7418,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://alyaoum24.com/content/uploads/2026/10/FB_IMG_1793475069893_edit_925450907332160.jpg",
     "caption": "الوداد الرياضي يواصل صحوته ويفوز على المغرب التطواني بهدف نظيف\n\nجرت المباراة السبت على ملعب العربي الزاولي بالدار البيضاء ضمن الجولة السادسة من البطولة الاحترافية.\n\nجاء الهدف الوحيد من ركلة جزاء في الدقيقة 40 بعد شوط أول سيطر عليه الوداد.\n\nفي الشوط الثاني تبادل الفريقان الهجمات لكن التطواني عانى في إنهاء الفرص ولم ينجح الوداد في إضافة هدف ثان.\n\nبهذا الفوز يرتقي الوداد إلى المركز الثاني برصيد 11 نقطة.\n\nكيف تقيمون أداء الوداد في هذه المباراة؟\n\n#الوداد #البطولة_الاحترافية #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "الوداد الرياضي يواصل صحوته ويفوز على المغرب التطواني بهدف نظيف",
-    "quelle_url": "https://alyaoum24.com/2054467.html"
+    "quelle_url": "https://alyaoum24.com/2054467.html",
+    "meta_id": "122222606126577271",
+    "published_at": "2026-10-31T20:18:05.992781+00:00"
   },
   {
     "id": "20261031-2120-1-ig-reel",
@@ -7429,9 +7431,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-2120-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261031-2120-1.jpg",
     "caption": "⚽🔥 الوداد يفوز ويصعد إلى الوصافة!\n\nانتصار بهدف دون رد على المغرب التطواني في الدار البيضاء 🏟️ ركلة جزاء في الدقيقة 40 حسمت اللقاء، وبعدها حاول الفريقان دون تسجيل المزيد.\n\nالنتيجة ترفع رصيد الوداد إلى 11 نقطة وتمنحه المركز الثاني في الترتيب 💪🔴\n\n#الوداد #البطولة_الاحترافية #المغرب_التطواني #كرة_القدم #المغرب",
-    "status": "now",
+    "status": "published",
     "titel": "الوداد الرياضي يواصل صحوته ويفوز على المغرب التطواني بهدف نظيف",
-    "quelle_url": "https://alyaoum24.com/2054467.html"
+    "quelle_url": "https://alyaoum24.com/2054467.html",
+    "meta_id": "18127340260923184",
+    "published_at": "2026-10-31T20:18:05.992781+00:00"
   },
   {
     "id": "20261031-2120-1-fb-story",
@@ -7439,9 +7443,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-2120-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الوداد الرياضي يواصل صحوته ويفوز على المغرب التطواني بهدف نظيف",
-    "quelle_url": "https://alyaoum24.com/2054467.html"
+    "quelle_url": "https://alyaoum24.com/2054467.html",
+    "meta_id": "2183398395864717",
+    "published_at": "2026-10-31T20:18:05.992781+00:00"
   },
   {
     "id": "20261031-2120-1-ig-story",
@@ -7449,8 +7455,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-2120-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الوداد الرياضي يواصل صحوته ويفوز على المغرب التطواني بهدف نظيف",
-    "quelle_url": "https://alyaoum24.com/2054467.html"
+    "quelle_url": "https://alyaoum24.com/2054467.html",
+    "meta_id": "18119806460054217",
+    "published_at": "2026-10-31T20:18:05.992781+00:00"
   }
 ]
