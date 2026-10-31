@@ -7264,5 +7264,46 @@
     "quelle_url": "https://www.lesiteinfo.com/sport/685986-botola-changement-de-stade-pour-le-clasico-as-far-raja.html",
     "meta_id": "18118579367085348",
     "published_at": "2026-10-31T17:19:23.470834+00:00"
+  },
+  {
+    "id": "20261031-1838-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/PJCSPON2J5DVJKTOSE4RADM3VE.jpeg%3Fauth%3Db34380d51ca4c7c7aab7442c10f52efb6843b0f30ddefc100a69568eef77ba27%26smart%3Dtrue%26width%3D1216%26height%3D684",
+    "caption": "واصل أمين عدلي تألقه مع بورنموث بهدف جديد في الدوري الإنجليزي الممتاز.\n\nسجل الدولي المغربي الهدف الثاني في الدقيقة الخامسة من الوقت بدل الضائع.\n\nوانتهت المباراة بفوز بورنموث على ليدز يونايتد بهدفين دون رد. جاء ذلك في الجولة التاسعة على ملعب فيتاليتي. وكان إيفانيلسون قد افتتح التسجيل في الدقيقة 31.\n\nكيف تقيمون مستوى أمين عدلي هذا الموسم؟\n\n#أمين_عدلي #بورنموث #المنتخب_المغربي",
+    "titel": "أمين عدلي يسجل لبورنموث أمام ليدز في الدوري الإنجليزي",
+    "quelle_url": "https://ar.sport.le360.ma/football/premier-league/7JT4AF2PQZFPRKEQMIICX6LTCA/",
+    "status": "now"
+  },
+  {
+    "id": "20261031-1838-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1838-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261031-1838-1.jpg",
+    "caption": "⚽ عدلي يهز الشباك من جديد!\n\nهدف في الدقيقة 90+5 يختم به أمين عدلي فوز بورنموث 2-0 على ليدز يونايتد في الجولة التاسعة من الدوري الإنجليزي 🔥\n\nالدولي المغربي يواصل تقديم مستويات لافتة مع فريقه\n\nما رأيكم في مستوى أمين عدلي هذا الموسم؟\n\n#أمين_عدلي #بورنموث #الدوري_الإنجليزي #المنتخب_المغربي #كرة_القدم",
+    "titel": "أمين عدلي يسجل لبورنموث أمام ليدز في الدوري الإنجليزي",
+    "quelle_url": "https://ar.sport.le360.ma/football/premier-league/7JT4AF2PQZFPRKEQMIICX6LTCA/",
+    "status": "now"
+  },
+  {
+    "id": "20261031-1838-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1838-1-story-text.mp4",
+    "caption": "",
+    "titel": "أمين عدلي يسجل لبورنموث أمام ليدز في الدوري الإنجليزي",
+    "quelle_url": "https://ar.sport.le360.ma/football/premier-league/7JT4AF2PQZFPRKEQMIICX6LTCA/",
+    "status": "now"
+  },
+  {
+    "id": "20261031-1838-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1838-1-story-text.mp4",
+    "caption": "",
+    "titel": "أمين عدلي يسجل لبورنموث أمام ليدز في الدوري الإنجليزي",
+    "quelle_url": "https://ar.sport.le360.ma/football/premier-league/7JT4AF2PQZFPRKEQMIICX6LTCA/",
+    "status": "now"
   }
 ]
