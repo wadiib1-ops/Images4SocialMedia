@@ -6721,5 +6721,46 @@
     "quelle_url": "https://ar.sport.le360.ma/football/botola/N4QHDY22LBGVFHE7VMPHXPXVLQ/",
     "meta_id": "17939607042384800",
     "published_at": "2026-10-31T00:20:39.250001+00:00"
+  },
+  {
+    "id": "20261031-0222-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://www.lesiteinfo.com/wp-content/uploads/2026/10/Bouaddi-3.jpg",
+    "caption": "أيوب بوعدي خرج مع بداية الشوط الثاني في مباراة مانشستر سيتي وبرايتون.\n\nالمباراة جرت في ثمن نهائي كأس الرابطة الإنجليزية وانتهت 2-2 في الوقت الأصلي.\n\nمانشستر سيتي تأهل بعد الفوز بركلات الترجيح بنتيجة 4-3. المدرب إنزو ماريسكا أوضح أن التغيير لم يكن بسبب الخوف من بطاقة صفراء ثانية.\n\nوقال إن القرار تقني ويرتبط بتقييمه لأداء لاعب الوسط في الشوط الأول.\n\nكيف تقيّمون مشاركة بوعدي في هذه المباراة؟\n\n#أيوب_بوعدي #مانشستر_سيتي #المنتخب_المغربي",
+    "status": "now",
+    "titel": "ماريسكا يوضح سبب استبدال أيوب بوعدي في الشوط الثاني أمام برايتون",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685948-manchester-city-pourquoi-maresca-a-t-il-sorti-ayoub-bouaddi-a-la-pause-contre-brighton.html"
+  },
+  {
+    "id": "20261031-0222-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-0222-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261031-0222-1.jpg",
+    "caption": "🔄 لماذا خرج بوعدي بعد الشوط الأول؟\n\nمانشستر سيتي تجاوز برايتون بركلات الترجيح 4-3 بعد التعادل 2-2 في كأس الرابطة ⚽\n\nماريسكا نفى أن يكون التغيير خوفا من بطاقة صفراء ثانية، وأكد أنه قرار تقني بعد تقييمه لأداء اللاعب في أول 45 دقيقة 🎯\n\n#بوعدي #مانشستر_سيتي #ماريسكا #كأس_الرابطة #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "ماريسكا يوضح سبب استبدال أيوب بوعدي في الشوط الثاني أمام برايتون",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685948-manchester-city-pourquoi-maresca-a-t-il-sorti-ayoub-bouaddi-a-la-pause-contre-brighton.html"
+  },
+  {
+    "id": "20261031-0222-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-0222-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "ماريسكا يوضح سبب استبدال أيوب بوعدي في الشوط الثاني أمام برايتون",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685948-manchester-city-pourquoi-maresca-a-t-il-sorti-ayoub-bouaddi-a-la-pause-contre-brighton.html"
+  },
+  {
+    "id": "20261031-0222-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-0222-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "ماريسكا يوضح سبب استبدال أيوب بوعدي في الشوط الثاني أمام برايتون",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685948-manchester-city-pourquoi-maresca-a-t-il-sorti-ayoub-bouaddi-a-la-pause-contre-brighton.html"
   }
 ]
