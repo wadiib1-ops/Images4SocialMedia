@@ -7509,5 +7509,46 @@
     "status": "published",
     "meta_id": "18113205110465058",
     "published_at": "2026-10-31T21:19:13.018300+00:00"
+  },
+  {
+    "id": "20261031-2316-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/foto-20261031-2316-1.jpg",
+    "caption": "فاز فتح الرباط على حسنية أكادير بهدف دون رد مساء السبت.\n\nأقيمت المباراة على ملعب مولاي الحسن بالرباط ضمن الجولة السادسة من البطولة الاحترافية.\n\nحاول الحسنية العودة في النتيجة حتى النهاية لكنه لم ينجح في تسجيل التعادل.\n\nما تقييمكم لأداء الفريقين في هذه المباراة؟\n\n#البطولة_الاحترافية #فتح_الرباط #حسنية_أكادير",
+    "status": "now",
+    "titel": "فتح الرباط يتغلب على حسنية أكادير بهدف دون رد في البطولة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BXSLAYCF6REQHDMT2LQZAQSYSI/"
+  },
+  {
+    "id": "20261031-2316-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-2316-1-reel-text.mp4",
+    "caption": "⚽ انتصار ثمين للفتح في الرباط!\n\nحسم فتح الرباط مواجهته أمام حسنية أكادير بهدف نظيف ضمن الجولة السادسة من البطولة 🔥\n\nضغط الحسنية في الدقائق الأخيرة بحثا عن التعادل لكن النتيجة بقيت كما هي ✨\n\n#البطولة_الاحترافية #الفتح #حسنية_أكادير #الدوري_المغربي #كرة_القدم",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261031-2316-1.jpg",
+    "status": "now",
+    "titel": "فتح الرباط يتغلب على حسنية أكادير بهدف دون رد في البطولة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BXSLAYCF6REQHDMT2LQZAQSYSI/"
+  },
+  {
+    "id": "20261031-2316-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-2316-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "فتح الرباط يتغلب على حسنية أكادير بهدف دون رد في البطولة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BXSLAYCF6REQHDMT2LQZAQSYSI/"
+  },
+  {
+    "id": "20261031-2316-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-2316-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "فتح الرباط يتغلب على حسنية أكادير بهدف دون رد في البطولة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BXSLAYCF6REQHDMT2LQZAQSYSI/"
   }
 ]
