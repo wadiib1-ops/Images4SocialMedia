@@ -6875,9 +6875,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://static.yabiladi.com/files/articles/yabiladi.206224_95018f8b96e9b80d7fd9336354d0e34620261030181315_565.webp",
     "caption": "عاد كأس أمم إفريقيا إلى نظام النسخة كل سنتين بعد أن تراجع الاتحاد الإفريقي لكرة القدم عن قرار تنظيمه كل أربع سنوات.\n\nيرى الصحفي الرياضي سعيد العبادي أن القرار يمنح المنتخب المغربي فرصة أكبر للمنافسة على اللقب ويسمح للمدرب بتجربة لاعبين أكثر من البطولة المحلية ومزدوجي الجنسية.\n\nفي المقابل يحذر من ضغط المباريات والإرهاق وخطر الإصابات على المحترفين في أوروبا خصوصا أن النسخ الأخيرة أقيمت في الشتاء خلال الموسم الأوروبي.\n\nويرى أن التراجع عن القرار أضر بمصداقية الكاف.\n\nما رأيكم في عودة البطولة كل سنتين؟\n\n#المنتخب_المغربي #كأس_أمم_إفريقيا #الكاف",
-    "status": "now",
+    "status": "published",
     "titel": "كأس أمم إفريقيا يعود إلى نظام النسخة كل سنتين وتبعاته على المنتخب المغربي",
-    "quelle_url": "https://www.yabiladi.com/articles/details/206225/nouveau-tous-deux-consequences-pour.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/206225/nouveau-tous-deux-consequences-pour.html",
+    "meta_id": "122222546318577271",
+    "published_at": "2026-10-31T11:20:29.809009+00:00"
   },
   {
     "id": "20261031-1219-1-ig-reel",
@@ -6886,9 +6888,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1219-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261031-1219-1.jpg",
     "caption": "🏆 كأس أمم إفريقيا يعود إلى موعده كل سنتين\n\nقرر الاتحاد الإفريقي التخلي عن فكرة إقامة البطولة كل أربع سنوات، ما يعني مواعيد أكثر أمام الأسود للمنافسة على اللقب ⚽\n\nسيجد الناخب الوطني فرصة أوسع لتجريب أسماء من الدوري المحلي ولاعبين مزدوجي الجنسية\n\nلكن المحترفين في أوروبا سيواجهون روزنامة أثقل وخطر إرهاق أكبر 🔥\n\nما تقييمكم لهذا القرار؟\n\n#المنتخب_المغربي #كأس_أمم_إفريقيا #الكاف #أسود_الأطلس #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "كأس أمم إفريقيا يعود إلى نظام النسخة كل سنتين وتبعاته على المنتخب المغربي",
-    "quelle_url": "https://www.yabiladi.com/articles/details/206225/nouveau-tous-deux-consequences-pour.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/206225/nouveau-tous-deux-consequences-pour.html",
+    "meta_id": "18100301633432666",
+    "published_at": "2026-10-31T11:20:29.809009+00:00"
   },
   {
     "id": "20261031-1219-1-fb-story",
@@ -6896,9 +6900,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1219-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "كأس أمم إفريقيا يعود إلى نظام النسخة كل سنتين وتبعاته على المنتخب المغربي",
-    "quelle_url": "https://www.yabiladi.com/articles/details/206225/nouveau-tous-deux-consequences-pour.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/206225/nouveau-tous-deux-consequences-pour.html",
+    "meta_id": "2323377278478527",
+    "published_at": "2026-10-31T11:20:29.809009+00:00"
   },
   {
     "id": "20261031-1219-1-ig-story",
@@ -6906,8 +6912,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1219-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "كأس أمم إفريقيا يعود إلى نظام النسخة كل سنتين وتبعاته على المنتخب المغربي",
-    "quelle_url": "https://www.yabiladi.com/articles/details/206225/nouveau-tous-deux-consequences-pour.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/206225/nouveau-tous-deux-consequences-pour.html",
+    "meta_id": "17895930174613101",
+    "published_at": "2026-10-31T11:20:29.809009+00:00"
   }
 ]
