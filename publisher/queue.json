@@ -6679,9 +6679,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/foto-20261031-0119-1.jpg",
     "caption": "نهضة بركان يعلن فتح بيع تذاكر مباراته أمام الرجاء البيضاوي.\n\nالمباراة مقررة يوم الأحد فاتح نوفمبر على الثامنة مساء بالملعب البلدي في بركان، وتدخل ضمن الجولة السادسة من البطولة الاحترافية.\n\nسعر التذكرة 30 درهما للمنعرج الشمالي و40 درهما للمدرجات الشمالية، و150 درهما للمنصة المغطاة.\n\nانطلق البيع يوم الجمعة من الثالثة إلى السابعة مساء بالملعب البلدي وبالقاعة المغطاة الأمير مولاي الحسن، ويستمر حتى يوم المباراة.\n\nكيف تتوقعون نتيجة المباراة بين الفريقين؟\n\n#نهضة_بركان #الرجاء #البطولة_الاحترافية",
-    "status": "now",
+    "status": "published",
     "titel": "نهضة بركان يفتح بيع تذاكر مباراته أمام الرجاء بأسعار من 30 إلى 150 درهما",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/N4QHDY22LBGVFHE7VMPHXPXVLQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/N4QHDY22LBGVFHE7VMPHXPXVLQ/",
+    "meta_id": "122222492978577271",
+    "published_at": "2026-10-31T00:20:39.250001+00:00"
   },
   {
     "id": "20261031-0119-1-ig-reel",
@@ -6690,9 +6692,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-0119-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261031-0119-1.jpg",
     "caption": "🎟️ التذاكر جاهزة لقمة بركان!\n\nنهضة بركان فتح شبابيك البيع لمواجهة الرجاء البيضاوي ⚽🔥\n\n📍 الملعب البلدي ببركان\n🗓️ الأحد فاتح نوفمبر، الثامنة مساء\n🎫 المنعرج الشمالي: 30 درهما\n🎫 المدرجات الشمالية: 40 درهما\n🎫 المنصة المغطاة: 150 درهما\n\nالبيع متواصل بالملعب البلدي وبالقاعة المغطاة الأمير مولاي الحسن إلى غاية يوم المباراة 🏟️\n\n#نهضة_بركان #الرجاء #البطولة_الاحترافية #كرة_القدم_المغربية #بطولة_المغرب",
-    "status": "now",
+    "status": "published",
     "titel": "نهضة بركان يفتح بيع تذاكر مباراته أمام الرجاء بأسعار من 30 إلى 150 درهما",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/N4QHDY22LBGVFHE7VMPHXPXVLQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/N4QHDY22LBGVFHE7VMPHXPXVLQ/",
+    "meta_id": "17968717701214071",
+    "published_at": "2026-10-31T00:20:39.250001+00:00"
   },
   {
     "id": "20261031-0119-1-fb-story",
@@ -6700,9 +6704,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-0119-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "نهضة بركان يفتح بيع تذاكر مباراته أمام الرجاء بأسعار من 30 إلى 150 درهما",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/N4QHDY22LBGVFHE7VMPHXPXVLQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/N4QHDY22LBGVFHE7VMPHXPXVLQ/",
+    "meta_id": "1786136842504110",
+    "published_at": "2026-10-31T00:20:39.250001+00:00"
   },
   {
     "id": "20261031-0119-1-ig-story",
@@ -6710,8 +6716,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-0119-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "نهضة بركان يفتح بيع تذاكر مباراته أمام الرجاء بأسعار من 30 إلى 150 درهما",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/N4QHDY22LBGVFHE7VMPHXPXVLQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/N4QHDY22LBGVFHE7VMPHXPXVLQ/",
+    "meta_id": "17939607042384800",
+    "published_at": "2026-10-31T00:20:39.250001+00:00"
   }
 ]
