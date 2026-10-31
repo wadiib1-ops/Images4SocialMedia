@@ -7068,5 +7068,46 @@
     "runde": "6",
     "meta_id": "18016927886752557",
     "published_at": "2026-10-31T14:20:35.624499+00:00"
+  },
+  {
+    "id": "20261031-1558-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/foto-20261031-1558-1.jpg",
+    "caption": "يبقى مستقبل أشرف حكيمي مع باريس سان جيرمان محور اهتمام الصحافة الفرنسية بعد تألقه أمام لوهافر.\n\nسجل اللاعب ثلاثة أهداف وصنع هدفين في الفوز بخمسة أهداف مقابل هدف، وارتدى شارة القيادة في غياب ماركينيوس.\n\nووصفه المدرب لويس إنريكي بأفضل ظهير أيمن في العالم.\n\nوحسب صحيفة ليكيب، يرغب النادي في تمديد عقد اللاعب المرتبط به حتى صيف 2029، بينما يرى محيط اللاعب أن الوقت لا يزال مبكرا لهذه الخطوة.\n\nكيف تتوقعون مستقبل حكيمي مع باريس سان جيرمان؟\n\n#حكيمي #باريس_سان_جيرمان #المنتخب_المغربي",
+    "titel": "حكيمي بين تمديد العقد مع باريس سان جيرمان وتألقه أمام لوهافر",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/أشرف-حكيمي-يضع-باريس-سان-جيرمان-أمام-سؤال-صعب-عقد-جديد-أم-عودة-إلى-مدريد؟/blt0537827d2aabd43f",
+    "status": "now"
+  },
+  {
+    "id": "20261031-1558-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1558-1-reel-text.mp4",
+    "caption": "⭐ ثلاثية وصناعة هدفين.. أشرف حكيمي في قمة عطائه مع باريس!\n\nالقائد المؤقت للفريق قاد الأحمر والأزرق إلى فوز كبير بخمسة أهداف مقابل هدف أمام لوهافر 🔥\n\nلويس إنريكي لم يتردد وقال إنه أفضل ظهير أيمن في العالم 👏\n\nوالنادي يريد تمديد عقده حتى ما بعد 2029، فيما يعتبر محيطه أن الوقت مبكر ⏳\n\nكيف تتوقعون مستقبل حكيمي مع باريس سان جيرمان؟\n\n#حكيمي #أشرف_حكيمي #PSG #الأسود #كرة_القدم_المغربية",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261031-1558-1.jpg",
+    "titel": "حكيمي بين تمديد العقد مع باريس سان جيرمان وتألقه أمام لوهافر",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/أشرف-حكيمي-يضع-باريس-سان-جيرمان-أمام-سؤال-صعب-عقد-جديد-أم-عودة-إلى-مدريد؟/blt0537827d2aabd43f",
+    "status": "now"
+  },
+  {
+    "id": "20261031-1558-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1558-1-story-text.mp4",
+    "caption": "",
+    "titel": "حكيمي بين تمديد العقد مع باريس سان جيرمان وتألقه أمام لوهافر",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/أشرف-حكيمي-يضع-باريس-سان-جيرمان-أمام-سؤال-صعب-عقد-جديد-أم-عودة-إلى-مدريد؟/blt0537827d2aabd43f",
+    "status": "now"
+  },
+  {
+    "id": "20261031-1558-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1558-1-story-text.mp4",
+    "caption": "",
+    "titel": "حكيمي بين تمديد العقد مع باريس سان جيرمان وتألقه أمام لوهافر",
+    "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/أشرف-حكيمي-يضع-باريس-سان-جيرمان-أمام-سؤال-صعب-عقد-جديد-أم-عودة-إلى-مدريد؟/blt0537827d2aabd43f",
+    "status": "now"
   }
 ]
