@@ -6966,5 +6966,46 @@
     "status": "published",
     "meta_id": "18134630050668571",
     "published_at": "2026-10-31T12:30:57.641320+00:00"
+  },
+  {
+    "id": "20261031-1419-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://www.lesiteinfo.com/wp-content/uploads/2025/09/ballon-dor.jpg",
+    "caption": "صوّت الصحفي مصطفى بدري، ممثل المغرب في لجنة تحكيم الكرة الذهبية، لأشرف حكيمي في المركز الأول على قائمته.\n\nومن بين 100 محكّم، كان بدري الوحيد الذي منح حكيمي الصدارة.\n\nجاء كيليان مبابي ثانيا، ثم لامين يامال ثالثا، وخفيتشا كفاراتسخيليا رابعا، وحلّ عثمان ديمبيلي خامسا وهاري كين سادسا في ترتيبه.\n\nما تقييمكم لاختيار مصطفى بدري؟\n\n#حكيمي #الكرة_الذهبية #المنتخب_المغربي",
+    "status": "now",
+    "titel": "مصطفى بدري يمنح حكيمي المركز الأول في تصويته على الكرة الذهبية",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685972-ballon-dor-2026-voici-pour-qui-a-vote-le-maroc-classement.html"
+  },
+  {
+    "id": "20261031-1419-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1419-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261031-1419-1.jpg",
+    "caption": "صوت مغربي واحد فقط وضع حكيمي في القمة 🏆\n\nمصطفى بدري، الصحفي الممثل للمغرب في لجنة الكرة الذهبية، اختار أشرف حكيمي أولا ⚽\nوبين 100 محكّم، لم يمنحه الصدارة غيره\n\nبعد حكيمي جاء مبابي ثم يامال ثم كفاراتسخيليا ثم ديمبيلي، وفي المركز السادس هاري كين ✨\n\nما رأيكم في هذا الترتيب؟\n\n#حكيمي #الكرة_الذهبية #أسود_الأطلس #كرة_القدم #المغرب",
+    "status": "now",
+    "titel": "مصطفى بدري يمنح حكيمي المركز الأول في تصويته على الكرة الذهبية",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685972-ballon-dor-2026-voici-pour-qui-a-vote-le-maroc-classement.html"
+  },
+  {
+    "id": "20261031-1419-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1419-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "مصطفى بدري يمنح حكيمي المركز الأول في تصويته على الكرة الذهبية",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685972-ballon-dor-2026-voici-pour-qui-a-vote-le-maroc-classement.html"
+  },
+  {
+    "id": "20261031-1419-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1419-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "مصطفى بدري يمنح حكيمي المركز الأول في تصويته على الكرة الذهبية",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685972-ballon-dor-2026-voici-pour-qui-a-vote-le-maroc-classement.html"
   }
 ]
