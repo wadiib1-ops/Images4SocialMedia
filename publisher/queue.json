@@ -7215,5 +7215,46 @@
     "quelle_url": "https://ar.sport.le360.ma/football/T7YMONN3ERCMHMR3JKFGVN4IDA/",
     "meta_id": "18099584348417527",
     "published_at": "2026-10-31T16:19:21.047167+00:00"
+  },
+  {
+    "id": "20261031-1818-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/foto-20261031-1818-1.jpg",
+    "caption": "تغيير ملعب كلاسيكو الجيش الملكي والرجاء في البطولة الاحترافية.\n\nالمباراة المؤجلة ستجرى يوم الأربعاء المقبل بالملعب الأولمبي بالرباط بدلا من ملعب مولاي عبد الله حسب معطيات متداولة.\n\nالإعلان الرسمي عن القرار مرتقب خلال الساعات المقبلة، ولم يعلن عن تغيير موعد الانطلاق المحدد سابقا في الثامنة مساء.\n\nكيف تقيمون اختيار الملعب الأولمبي لهذه المباراة؟\n\n#البطولة_الاحترافية #الجيش_الملكي #الرجاء_الرياضي",
+    "status": "now",
+    "titel": "تغيير ملعب كلاسيكو الجيش الملكي والرجاء الأربعاء المقبل",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685986-botola-changement-de-stade-pour-le-clasico-as-far-raja.html"
+  },
+  {
+    "id": "20261031-1818-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1818-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261031-1818-1.jpg",
+    "caption": "🏟️ الكلاسيكو ينتقل إلى الرباط!\n\nمباراة الجيش الملكي والرجاء المؤجلة ستجرى الأربعاء المقبل في الملعب الأولمبي بدل ملعب مولاي عبد الله ⚽\n\nالقرار ينتظر إعلانا رسميا في الساعات القادمة 📢\n\nوالموعد الأصلي كان عند الثامنة مساء، ولم يظهر أي تعديل عليه حتى الآن ⏰\n\nما رأيكم في هذا التغيير؟\n\n#الجيش_الملكي #الرجاء_الرياضي #البطولة_الاحترافية #كرة_القدم_المغربية #الكلاسيكو",
+    "status": "now",
+    "titel": "تغيير ملعب كلاسيكو الجيش الملكي والرجاء الأربعاء المقبل",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685986-botola-changement-de-stade-pour-le-clasico-as-far-raja.html"
+  },
+  {
+    "id": "20261031-1818-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1818-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "تغيير ملعب كلاسيكو الجيش الملكي والرجاء الأربعاء المقبل",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685986-botola-changement-de-stade-pour-le-clasico-as-far-raja.html"
+  },
+  {
+    "id": "20261031-1818-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1818-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "تغيير ملعب كلاسيكو الجيش الملكي والرجاء الأربعاء المقبل",
+    "quelle_url": "https://www.lesiteinfo.com/sport/685986-botola-changement-de-stade-pour-le-clasico-as-far-raja.html"
   }
 ]
