@@ -7313,5 +7313,46 @@
     "status": "published",
     "meta_id": "18120602347995663",
     "published_at": "2026-10-31T17:38:11.897788+00:00"
+  },
+  {
+    "id": "20261031-1905-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/foto-20261031-1905-1.jpg",
+    "caption": "يقترب المهاجم المغربي عبد الرزاق حمد الله من الرقم القياسي لهدافي الدوري السعودي.\n\nسجل لاعب التعاون هدفا من ضربة جزاء في الدقيقة 26 أمام الاتفاق، ضمن الجولة 12 من الدوري السعودي للمحترفين.\n\nبهذا الهدف وصل رصيده إلى 160 هدفا في المسابقة، ويحتفظ السوري عمر السومة بالرقم القياسي برصيد 161 هدفا.\n\nويفصل حمد الله هدف واحد فقط عن معادلة هذا الرقم.\n\nكيف تقيمون مسيرة حمد الله في الدوري السعودي؟\n\n#حمد_الله #الدوري_السعودي #المنتخب_المغربي",
+    "titel": "حمد الله يقترب من الرقم القياسي لهدافي الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/autres-championnats/D7SA4GV22VEIND7LXRFF4RVRVY/",
+    "status": "now"
+  },
+  {
+    "id": "20261031-1905-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1905-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261031-1905-1.jpg",
+    "caption": "⚽ هدف جديد يقرب حمد الله من التاريخ!\n\nمهاجم التعاون المغربي سجل من علامة الجزاء في الدقيقة 26 أمام الاتفاق 🎯\n\nرصيده في الدوري السعودي بلغ 160 هدفا، والرقم القياسي بحوزة عمر السومة بـ 161 هدفا 🏆\n\nهدف واحد فقط يفصله عن معادلة الرقم 🔥\n\nهل يتمكن حمد الله من تحطيم الرقم القياسي قريبا؟\n\n#حمد_الله #الدوري_السعودي #التعاون #أسود_الأطلس #كرة_القدم",
+    "titel": "حمد الله يقترب من الرقم القياسي لهدافي الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/autres-championnats/D7SA4GV22VEIND7LXRFF4RVRVY/",
+    "status": "now"
+  },
+  {
+    "id": "20261031-1905-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1905-1-story-text.mp4",
+    "caption": "",
+    "titel": "حمد الله يقترب من الرقم القياسي لهدافي الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/autres-championnats/D7SA4GV22VEIND7LXRFF4RVRVY/",
+    "status": "now"
+  },
+  {
+    "id": "20261031-1905-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1905-1-story-text.mp4",
+    "caption": "",
+    "titel": "حمد الله يقترب من الرقم القياسي لهدافي الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/autres-championnats/D7SA4GV22VEIND7LXRFF4RVRVY/",
+    "status": "now"
   }
 ]
