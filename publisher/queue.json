@@ -6770,5 +6770,46 @@
     "quelle_url": "https://www.lesiteinfo.com/sport/685948-manchester-city-pourquoi-maresca-a-t-il-sorti-ayoub-bouaddi-a-la-pause-contre-brighton.html",
     "meta_id": "18131028898805874",
     "published_at": "2026-10-31T01:19:20.997473+00:00"
+  },
+  {
+    "id": "20261031-1016-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/3HNSCU2ZCFKCFDEM445MPBVZWY.jpg%3Fauth%3Ddf590bace5b3b62f5ca637983aac0eabd758909c2fcedee1c6ce79206fc8d6e2%26smart%3Dtrue%26width%3D1216%26height%3D684",
+    "caption": "المغرب سيستضيف النسخة الثانية من كأس العالم لكرة القدم لقصار القامة.\n\nستقام البطولة في الرباط من 20 إلى 30 نوفمبر، بمشاركة 16 منتخبا لأول مرة في تاريخها.\n\nالنسخة الأولى أقيمت في الأرجنتين بمشاركة 11 منتخبا، من بينها المنتخب المغربي.\n\nووفق اللجنة المنظمة، ستجرى القرعة يوم الأحد 8 نوفمبر لتحديد المجموعات.\n\nكيف تقيّمون تنظيم المغرب لهذه البطولة؟\n\n#كرة_القدم_المغربية #الرباط #المغرب",
+    "status": "now",
+    "titel": "المغرب يستضيف كأس العالم لكرة القدم لقصار القامة من 20 إلى 30 نوفمبر",
+    "quelle_url": "https://ar.sport.le360.ma/football/7YRHFDVWHFC25MBSKH36ZAIR5U/"
+  },
+  {
+    "id": "20261031-1016-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1016-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261031-1016-1.jpg",
+    "caption": "🌍 الرباط تستعد لمونديال جديد!\n\nالمغرب يحتضن النسخة الثانية من كأس العالم لكرة القدم لقصار القامة ⚽\n\nمن 20 إلى 30 نوفمبر، و16 منتخبا في رقم قياسي، والقرعة يوم 8 نوفمبر 🎯\n\n#مونديال #الرباط #المغرب #كرة_القدم #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "المغرب يستضيف كأس العالم لكرة القدم لقصار القامة من 20 إلى 30 نوفمبر",
+    "quelle_url": "https://ar.sport.le360.ma/football/7YRHFDVWHFC25MBSKH36ZAIR5U/"
+  },
+  {
+    "id": "20261031-1016-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1016-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "المغرب يستضيف كأس العالم لكرة القدم لقصار القامة من 20 إلى 30 نوفمبر",
+    "quelle_url": "https://ar.sport.le360.ma/football/7YRHFDVWHFC25MBSKH36ZAIR5U/"
+  },
+  {
+    "id": "20261031-1016-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1016-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "المغرب يستضيف كأس العالم لكرة القدم لقصار القامة من 20 إلى 30 نوفمبر",
+    "quelle_url": "https://ar.sport.le360.ma/football/7YRHFDVWHFC25MBSKH36ZAIR5U/"
   }
 ]
