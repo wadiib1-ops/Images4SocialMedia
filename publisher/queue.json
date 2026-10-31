@@ -6826,9 +6826,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://cdn.alomksport.com/wp-content/uploads/2026/10/a97a600e2d8d.jpg",
     "caption": "أمل الصويرة يبلغ نصف نهائي كأس العالم للأندية للكرة الشاطئية ⚽\n\nتغلب الفريق المغربي على القادسية الكويتي بستة أهداف مقابل هدفين في ربع النهائي.\n\nبهذا الفوز يضمن النادي مكانا بين الأربعة الكبار في البطولة العالمية.\n\nكيف تقيمون مسيرة الفريق المغربي في هذه البطولة؟\n\n#الكرة_الشاطئية #أمل_الصويرة #المغرب",
-    "status": "now",
+    "status": "published",
     "titel": "أمل الصويرة يبلغ نصف نهائي كأس العالم للأندية للكرة الشاطئية بعد الفوز على القادسية الكويتي 6-2",
-    "quelle_url": "https://alomksport.com/109975.html"
+    "quelle_url": "https://alomksport.com/109975.html",
+    "meta_id": "122222540870577271",
+    "published_at": "2026-10-31T10:18:15.511154+00:00"
   },
   {
     "id": "20261031-1117-1-ig-reel",
@@ -6837,9 +6839,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1117-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261031-1117-1.jpg",
     "caption": "🔥 ستة أهداف تقود الصويرة إلى المربع الذهبي العالمي!\n\nأمل الصويرة يكسب القادسية الكويتي 6-2 ويتأهل إلى نصف نهائي كأس العالم للأندية للكرة الشاطئية 🏖️\n\nالفريق المغربي يواصل الحلم على الرمال ⚽\n\n#الكرة_الشاطئية #أمل_الصويرة #المغرب #كأس_العالم_للأندية #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "أمل الصويرة يبلغ نصف نهائي كأس العالم للأندية للكرة الشاطئية بعد الفوز على القادسية الكويتي 6-2",
-    "quelle_url": "https://alomksport.com/109975.html"
+    "quelle_url": "https://alomksport.com/109975.html",
+    "meta_id": "17977961804934735",
+    "published_at": "2026-10-31T10:18:15.511154+00:00"
   },
   {
     "id": "20261031-1117-1-fb-story",
@@ -6847,9 +6851,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1117-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "أمل الصويرة يبلغ نصف نهائي كأس العالم للأندية للكرة الشاطئية بعد الفوز على القادسية الكويتي 6-2",
-    "quelle_url": "https://alomksport.com/109975.html"
+    "quelle_url": "https://alomksport.com/109975.html",
+    "meta_id": "1148376871000798",
+    "published_at": "2026-10-31T10:18:15.511154+00:00"
   },
   {
     "id": "20261031-1117-1-ig-story",
@@ -6857,8 +6863,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261031-1117-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "أمل الصويرة يبلغ نصف نهائي كأس العالم للأندية للكرة الشاطئية بعد الفوز على القادسية الكويتي 6-2",
-    "quelle_url": "https://alomksport.com/109975.html"
+    "quelle_url": "https://alomksport.com/109975.html",
+    "meta_id": "18435702580177087",
+    "published_at": "2026-10-31T10:18:15.511154+00:00"
   }
 ]
