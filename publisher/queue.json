@@ -7859,9 +7859,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://cdn.alomksport.com/wp-content/uploads/2026/11/9e97c3185808.webp",
     "caption": "أشاد النجم البرازيلي السابق كافو بالحارس ياسين بونو في حوار مع موقع العمق.\n\nواعتبره واحدا من أفضل حراس المرمى في العالم، وربط ذلك بأدائه القوي في كأس العالم 2026.\n\nوتحدث كافو أيضا عن هشام مستور ووصفه بلاعب موهوب يملك إمكانيات كبيرة، لكن تجربته مع ميلان لم تنجح كما كان متوقعا. وأكد أنه قادر على النجاح مع فريق آخر وأن انتقاله الحالي أمر طبيعي.\n\nوقال كافو إن هذه رابع زيارة له إلى المغرب.\n\nكيف تقيمون كلام كافو عن بونو ومستور؟\n\n#كافو #بونو #المنتخب_المغربي",
-    "status": "now",
+    "status": "published",
     "titel": "كافو: بونو من أفضل حراس المرمى في العالم",
-    "quelle_url": "https://alomksport.com/110002.html"
+    "quelle_url": "https://alomksport.com/110002.html",
+    "meta_id": "122222675912577271",
+    "published_at": "2026-11-01T12:19:55.108943+00:00"
   },
   {
     "id": "20261101-1319-1-ig-reel",
@@ -7870,9 +7872,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1319-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261101-1319-1.jpg",
     "caption": "🧤 كافو يتحدث عن حارس المنتخب المغربي!\n\nالأسطورة البرازيلية كافو وصف ياسين بونو بأنه من أفضل الحراس في العالم، مشيرا إلى مستواه القوي في كأس العالم 2026 ⚽\n\nكما تطرق إلى هشام مستور، فاعتبره لاعبا موهوبا لم تنجح تجربته في ميلان، لكنه قادر على التألق مع فريق آخر 🌟\n\nوهذه رابع زيارة لكافو إلى المغرب\n\nما تقييمكم لهذه الشهادة في حق بونو؟\n\n#كافو #ياسين_بونو #هشام_مستور #الأسود #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "كافو: بونو من أفضل حراس المرمى في العالم",
-    "quelle_url": "https://alomksport.com/110002.html"
+    "quelle_url": "https://alomksport.com/110002.html",
+    "meta_id": "18120940819766806",
+    "published_at": "2026-11-01T12:19:55.108943+00:00"
   },
   {
     "id": "20261101-1319-1-fb-story",
@@ -7880,9 +7884,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1319-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "كافو: بونو من أفضل حراس المرمى في العالم",
-    "quelle_url": "https://alomksport.com/110002.html"
+    "quelle_url": "https://alomksport.com/110002.html",
+    "meta_id": "1463240482406483",
+    "published_at": "2026-11-01T12:19:55.108943+00:00"
   },
   {
     "id": "20261101-1319-1-ig-story",
@@ -7890,8 +7896,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1319-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "كافو: بونو من أفضل حراس المرمى في العالم",
-    "quelle_url": "https://alomksport.com/110002.html"
+    "quelle_url": "https://alomksport.com/110002.html",
+    "meta_id": "18011395112776107",
+    "published_at": "2026-11-01T12:19:55.108943+00:00"
   }
 ]
