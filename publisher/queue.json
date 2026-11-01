@@ -8315,5 +8315,46 @@
     "quelle_url": "https://ar.sport.le360.ma/football/DRMUHLGWGJB7HNXCAJB4NWD5CI/",
     "meta_id": "17997629886048408",
     "published_at": "2026-11-01T18:19:51.391417+00:00"
+  },
+  {
+    "id": "20261101-1958-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/BGZQ2TCD7JEQVPF2RAHD3JBLE4.jpg%3Fauth%3D4bdd138bcb9ccbd518c982b180d670c7be93ba4acf852e9a45af2171912bda6d%26smart%3Dtrue%26width%3D1216%26height%3D684",
+    "caption": "تحدث المدرب جمال سلامي عن وضع الفتح بعد خسارته أمام الهلال بهدفين دون رد في الجولة الثانية عشرة من الدوري السعودي.\n\nأشاد سلامي بالأداء الدفاعي أمام فريق قوي، لكنه أقر بأن فريقه افتقد إلى الخطورة الهجومية.\n\nوأوضح أنه قبل تدريب الفتح عن قناعة بعد نقاشات مع المسؤولين، ويرى أن الفريق يحتاج إلى التعزيز في المرحلة المقبلة، وأن منطقة الأحساء خزان للمواهب مع ضرورة إعداد الشباب بدنيا.\n\nكيف تقيمون مهمة المدرب سلامي مع الفتح؟\n\n#سلامي #الفتح #الدوري_السعودي",
+    "status": "now",
+    "titel": "سلامي يكشف الحلول لإنقاذ الفتح من الهبوط في الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BDDK4B42DJFUREP3X7YRK6FBFU/"
+  },
+  {
+    "id": "20261101-1958-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1958-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261101-1958-1.jpg",
+    "caption": "المدرب المغربي سلامي يضع خطته لإنقاذ الفتح 🔥\n\nبعد السقوط أمام الهلال بهدفين نظيفين، رأى سلامي أن دفاع فريقه كان جيدا، لكن الهجوم غاب عنه الحسم ⚽\n\nالمدرب يريد تعزيزات في الفريق ويراهن على مواهب الأحساء، مع عمل بدني خاص للاعبين الشباب 💪\n\nتولى المهمة عن اقتناع بعد حوار مع إدارة النادي، ويدرك أن الطريق صعب\n\n#جمال_سلامي #نادي_الفتح #دوري_روشن #مدربون_مغاربة #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "سلامي يكشف الحلول لإنقاذ الفتح من الهبوط في الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BDDK4B42DJFUREP3X7YRK6FBFU/"
+  },
+  {
+    "id": "20261101-1958-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1958-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "سلامي يكشف الحلول لإنقاذ الفتح من الهبوط في الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BDDK4B42DJFUREP3X7YRK6FBFU/"
+  },
+  {
+    "id": "20261101-1958-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1958-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "سلامي يكشف الحلول لإنقاذ الفتح من الهبوط في الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BDDK4B42DJFUREP3X7YRK6FBFU/"
   }
 ]
