@@ -8364,5 +8364,46 @@
     "quelle_url": "https://ar.sport.le360.ma/football/botola/BDDK4B42DJFUREP3X7YRK6FBFU/",
     "meta_id": "18122895589736495",
     "published_at": "2026-11-01T18:58:14.373958+00:00"
+  },
+  {
+    "id": "20261101-2030-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://static.yabiladi.com/files/articles/206437_3c86afae44e0c1ec4985f2b0306c309120261101174042_565.webp",
+    "caption": "المدرب المغربي عبد السلام وادو يقود أورلاندو بيراتس إلى الفوز في ديربي سويتو\n\nحقق أورلاندو بيراتس فوزا على كايزر تشيفز بنتيجة 2-1 في الديربي الشهير بملعب إف إن بي في جوهانسبرغ، ضمن الدوري الجنوب إفريقي.\n\nافتتح مبوتوما التسجيل في الدقيقة 24، وعدّل مودي النتيجة بعد ست دقائق، ثم سجل موريمي هدف الحسم في الدقيقة 55.\n\nبهذا الانتصار تصدر أورلاندو بيراتس الترتيب برصيد 25 نقطة من تسع مباريات، ولا يزال دون هزيمة في البطولة.\n\nكيف تقيّمون مسيرة عبد السلام وادو مع أورلاندو بيراتس؟\n\n#وادو #أورلاندو_بيراتس #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "وادو يقود أورلاندو بيراتس للفوز في ديربي سويتو ويتصدر الدوري الجنوب إفريقي",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206437/afrique-abdeslam-ouaddou-remporte-derby.html"
+  },
+  {
+    "id": "20261101-2030-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-2030-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261101-2030-1.jpg",
+    "caption": "مدرب مغربي يتصدر الدوري الجنوب إفريقي 🔥\n\nعبد السلام وادو يحقق مع أورلاندو بيراتس انتصارا جديدا على الغريم كايزر تشيفز في ديربي سويتو ⚽\n\nانتهت المواجهة 2-1 بعد تسجيل مبوتوما ثم تعادل مودي، قبل أن يحسمها موريمي في الدقيقة 55 👏\n\nوبرصيد 25 نقطة من تسع جولات، يعتلي الفريق الصدارة دون أي خسارة 🏆\n\n#وادو #أورلاندو_بيراتس #ديربي_سويتو #مدربون_مغاربة #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "وادو يقود أورلاندو بيراتس للفوز في ديربي سويتو ويتصدر الدوري الجنوب إفريقي",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206437/afrique-abdeslam-ouaddou-remporte-derby.html"
+  },
+  {
+    "id": "20261101-2030-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-2030-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "وادو يقود أورلاندو بيراتس للفوز في ديربي سويتو ويتصدر الدوري الجنوب إفريقي",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206437/afrique-abdeslam-ouaddou-remporte-derby.html"
+  },
+  {
+    "id": "20261101-2030-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-2030-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "وادو يقود أورلاندو بيراتس للفوز في ديربي سويتو ويتصدر الدوري الجنوب إفريقي",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206437/afrique-abdeslam-ouaddou-remporte-derby.html"
   }
 ]
