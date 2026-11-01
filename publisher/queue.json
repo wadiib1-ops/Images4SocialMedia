@@ -7614,9 +7614,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/foto-20261101-0122-1.jpeg",
     "caption": "فاز الهلال السعودي على ضيفه الفتح بهدفين دون رد في الجولة الثانية عشرة من الدوري السعودي.\n\nسجل أولي واتكينز الهدف الأول في الدقيقة 12، وأضاف روبن نيفيس الهدف الثاني من ركلة جزاء في الدقيقة 90.\n\nوشارك ياسين بونو حارسا لمرمى الهلال دون أن تهتز شباكه.\n\nكيف تقيمون أداء الهلال في هذه المباراة؟\n\n#بونو #الهلال #الدوري_السعودي",
-    "status": "now",
+    "status": "published",
     "titel": "الهلال يتغلب على الفتح بهدفين دون رد بحضور بونو في الدوري السعودي",
-    "quelle_url": "https://ar.sport.le360.ma/football/APOTQPYWFRDWXIUCET5QXRUPVE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/APOTQPYWFRDWXIUCET5QXRUPVE/",
+    "meta_id": "122222621138577271",
+    "published_at": "2026-11-01T00:18:28.155186+00:00"
   },
   {
     "id": "20261101-0122-1-ig-reel",
@@ -7625,9 +7627,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-0122-1-reel-text.mp4",
     "caption": "🧤 بونو وشباك نظيفة مع الهلال!\n\n⚽ واتكينز افتتح التسجيل مبكرا في الدقيقة 12، ونيفيس حسم اللقاء بركلة جزاء في الدقيقة 90.\n\n🏟️ فوز جديد للهلال على الفتح في الجولة 12 من الدوري السعودي.\n\n🔥 المباراة انتهت 2-0.\n\n#بونو #الهلال #الدوري_السعودي #كرة_القدم #المغرب",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261101-0122-1.jpg",
-    "status": "now",
+    "status": "published",
     "titel": "الهلال يتغلب على الفتح بهدفين دون رد بحضور بونو في الدوري السعودي",
-    "quelle_url": "https://ar.sport.le360.ma/football/APOTQPYWFRDWXIUCET5QXRUPVE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/APOTQPYWFRDWXIUCET5QXRUPVE/",
+    "meta_id": "18452457856124734",
+    "published_at": "2026-11-01T00:18:28.155186+00:00"
   },
   {
     "id": "20261101-0122-1-fb-story",
@@ -7635,9 +7639,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-0122-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الهلال يتغلب على الفتح بهدفين دون رد بحضور بونو في الدوري السعودي",
-    "quelle_url": "https://ar.sport.le360.ma/football/APOTQPYWFRDWXIUCET5QXRUPVE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/APOTQPYWFRDWXIUCET5QXRUPVE/",
+    "meta_id": "1390460836492532",
+    "published_at": "2026-11-01T00:18:28.155186+00:00"
   },
   {
     "id": "20261101-0122-1-ig-story",
@@ -7645,8 +7651,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-0122-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الهلال يتغلب على الفتح بهدفين دون رد بحضور بونو في الدوري السعودي",
-    "quelle_url": "https://ar.sport.le360.ma/football/APOTQPYWFRDWXIUCET5QXRUPVE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/APOTQPYWFRDWXIUCET5QXRUPVE/",
+    "meta_id": "18344136679260402",
+    "published_at": "2026-11-01T00:18:28.155186+00:00"
   }
 ]
