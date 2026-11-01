@@ -854,3 +854,8 @@
 {"zeit": "01.11.2026 18:47:49", "aktion": "veröffentlicht", "beitrag": "20261101-1847-url-ig-feed", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18042965975839641"}
 {"zeit": "01.11.2026 18:48:00", "aktion": "veröffentlicht", "beitrag": "20261101-1847-url-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18131503084890020"}
 {"zeit": "01.11.2026 18:48:00", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "673 Einträge geprüft"}
+{"zeit": "01.11.2026 18:50:43", "aktion": "veröffentlicht", "beitrag": "20261101-1900-1-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122222710640577271"}
+{"zeit": "01.11.2026 18:50:49", "aktion": "fehlgeschlagen", "beitrag": "20261101-1900-1-ig-reel", "plattform": "instagram", "ergebnis": "fehler", "details": "Instagram-Verarbeitung: ERROR (Error: Media upload has failed with error code 2207052)"}
+{"zeit": "01.11.2026 18:51:00", "aktion": "veröffentlicht", "beitrag": "20261101-1900-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 980880455092997"}
+{"zeit": "01.11.2026 18:51:40", "aktion": "veröffentlicht", "beitrag": "20261101-1900-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18134131885683279"}
+{"zeit": "01.11.2026 18:51:40", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "677 Einträge geprüft"}
