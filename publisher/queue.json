@@ -8266,5 +8266,46 @@
     "quelle_url": "https://ar.sport.le360.ma/football/ABQZCLZF5FFALAFDROVLIFVCCU/",
     "meta_id": "18134131885683279",
     "published_at": "2026-11-01T17:50:39.716861+00:00"
+  },
+  {
+    "id": "20261101-1925-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/OSY3PRJKARDUNPC7DEKQL2VZEM.jpg%3Fauth%3D902a1069fe3cd8851f599a56a622290e9e7302206f987b1f83dd7aa4f757e25d%26smart%3Dtrue%26width%3D1216%26height%3D684",
+    "caption": "وداد تمارة يفاجئ حامل اللقب في البطولة الاحترافية\n\nفاز وداد تمارة الصاعد حديثا بهدف دون رد على المغرب الفاسي.\n\nأقيمت المباراة في الملعب الأولمبي بالرباط ضمن الجولة السادسة.\n\nسجل زكرياء أولبينة الهدف الوحيد في الدقيقة 13.\n\nصعد الفريق إلى المركز الرابع برصيد 9 نقاط.\n\nوتوقف رصيد المغرب الفاسي عند 8 نقاط في المركز الثامن.\n\nكيف تقيمون أداء وداد تمارة في بداية الموسم؟\n\n#البطولة_الاحترافية #وداد_تمارة #المغرب_الفاسي",
+    "status": "now",
+    "titel": "وداد تمارة يهزم المغرب الفاسي بهدف دون رد في البطولة الاحترافية",
+    "quelle_url": "https://ar.sport.le360.ma/football/DRMUHLGWGJB7HNXCAJB4NWD5CI/"
+  },
+  {
+    "id": "20261101-1925-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1925-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261101-1925-1.jpg",
+    "caption": "مفاجأة في الرباط! 🔥\n\nوداد تمارة يسقط المغرب الفاسي بهدف نظيف ⚽\n\nزكرياء أولبينة يوقع الهدف الوحيد في الدقيقة 13 🎯\n\nالفوز رفع الصاعد حديثا إلى المركز الرابع بتسع نقاط 📈 بينما بقي المغرب الفاسي ثامنا بثماني نقاط.\n\n#البطولة_الاحترافية #وداد_تمارة #المغرب_الفاسي #الكرة_المغربية #البطولة_برو",
+    "status": "now",
+    "titel": "وداد تمارة يهزم المغرب الفاسي بهدف دون رد في البطولة الاحترافية",
+    "quelle_url": "https://ar.sport.le360.ma/football/DRMUHLGWGJB7HNXCAJB4NWD5CI/"
+  },
+  {
+    "id": "20261101-1925-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1925-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "وداد تمارة يهزم المغرب الفاسي بهدف دون رد في البطولة الاحترافية",
+    "quelle_url": "https://ar.sport.le360.ma/football/DRMUHLGWGJB7HNXCAJB4NWD5CI/"
+  },
+  {
+    "id": "20261101-1925-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1925-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "وداد تمارة يهزم المغرب الفاسي بهدف دون رد في البطولة الاحترافية",
+    "quelle_url": "https://ar.sport.le360.ma/football/DRMUHLGWGJB7HNXCAJB4NWD5CI/"
   }
 ]
