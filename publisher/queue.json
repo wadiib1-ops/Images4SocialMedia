@@ -8571,9 +8571,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/XZ3IB7N7J5BMBOZYKGUYYC3LVQ.jpg%3Fauth%3D258bb0d407986d3133a1826a1d190f5880f8fe6d8f5c5ae6fbe6f704e37cc235%26smart%3Dtrue%26width%3D1216%26height%3D684",
     "caption": "اتحاد يعقوب المنصور يحافظ على صدارة القسم الثاني بعد الجولة السادسة.\n\nفاز الفريق على شباب المسيرة بهدفين لهدف ورفع رصيده إلى 14 نقطة.\n\nوفاز وداد فاس على شباب بنجرير 3-1 ويملك 13 نقطة، وانتصر أولمبيك الدشيرة 3-2 خارج ملعبه على اتحاد أبي الجعد.\n\nوتعادل اتحاد الزموري للخميسات مع شباب السوالم 1-1.\n\nما تقييمكم لمنافسة الصعود في القسم الثاني؟\n\n#القسم_الثاني #البطولة_الاحترافية #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "اتحاد يعقوب المنصور يحافظ على صدارة القسم الثاني بعد الجولة السادسة",
-    "quelle_url": "https://ar.sport.le360.ma/football/JF7CNSRVQVECVBWI2GSCGVYWNE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/JF7CNSRVQVECVBWI2GSCGVYWNE/",
+    "meta_id": "122222760824577271",
+    "published_at": "2026-11-01T23:18:57.412537+00:00"
   },
   {
     "id": "20261102-0018-1-ig-reel",
@@ -8582,9 +8584,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261102-0018-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261102-0018-1.jpg",
     "caption": "🔥 القمة لا تزال في يد يعقوب المنصور!\n\n⚽ في الجولة السادسة من القسم الثاني، تغلب اتحاد يعقوب المنصور على شباب المسيرة 2-1 وبلغ 14 نقطة في الصدارة.\n\n📈 خلفه وداد فاس وأولمبيك الدشيرة واتحاد الزموري للخميسات بـ13 نقطة لكل منهم.\n\nما رأيكم في ترتيب المقدمة بعد ست جولات؟\n\n#القسم_الثاني #البطولة_الاحترافية #كرة_القدم_المغربية #المغرب #الدوري_المغربي",
-    "status": "now",
+    "status": "published",
     "titel": "اتحاد يعقوب المنصور يحافظ على صدارة القسم الثاني بعد الجولة السادسة",
-    "quelle_url": "https://ar.sport.le360.ma/football/JF7CNSRVQVECVBWI2GSCGVYWNE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/JF7CNSRVQVECVBWI2GSCGVYWNE/",
+    "meta_id": "18361241569223682",
+    "published_at": "2026-11-01T23:18:57.412537+00:00"
   },
   {
     "id": "20261102-0018-1-fb-story",
@@ -8592,9 +8596,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261102-0018-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "اتحاد يعقوب المنصور يحافظ على صدارة القسم الثاني بعد الجولة السادسة",
-    "quelle_url": "https://ar.sport.le360.ma/football/JF7CNSRVQVECVBWI2GSCGVYWNE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/JF7CNSRVQVECVBWI2GSCGVYWNE/",
+    "meta_id": "4551452428476925",
+    "published_at": "2026-11-01T23:18:57.412537+00:00"
   },
   {
     "id": "20261102-0018-1-ig-story",
@@ -8602,8 +8608,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261102-0018-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "اتحاد يعقوب المنصور يحافظ على صدارة القسم الثاني بعد الجولة السادسة",
-    "quelle_url": "https://ar.sport.le360.ma/football/JF7CNSRVQVECVBWI2GSCGVYWNE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/JF7CNSRVQVECVBWI2GSCGVYWNE/",
+    "meta_id": "18646430383016144",
+    "published_at": "2026-11-01T23:18:57.412537+00:00"
   }
 ]
