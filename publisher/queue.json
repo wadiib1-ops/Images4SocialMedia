@@ -8413,5 +8413,50 @@
     "quelle_url": "https://www.yabiladi.com/articles/details/206437/afrique-abdeslam-ouaddou-remporte-derby.html",
     "meta_id": "17999899644035891",
     "published_at": "2026-11-01T19:20:08.859966+00:00"
+  },
+  {
+    "id": "20261101-2119-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://alyaoum24.com/content/uploads/2026/11/InCollage_20261101_190217152-scaled.jpg",
+    "caption": "حقق اتحاد طنجة فوزا بهدف دون رد على نهضة الزمامرة في الجولة السادسة من البطولة الاحترافية، على أرضية ملعب طنجة الكبير.\n\nجاء الهدف الوحيد من ركلة جزاء نفذها إبراهيما ديانيه في الدقيقة 76.\n\nوفي مباراة أخرى من الجولة نفسها، انتهت مواجهة الجيش الملكي والنادي المكناسي بالتعادل السلبي في ملعب الشرائع بمكناس.\n\nما تقييمكم لأداء الفريقين في هذه الجولة؟\n\n#البطولة_الاحترافية #اتحاد_طنجة #الجيش_الملكي",
+    "status": "now",
+    "titel": "اتحاد طنجة يتغلب على نهضة الزمامرة بهدف دون رد والجيش الملكي يتعادل مع النادي المكناسي",
+    "quelle_url": "https://alyaoum24.com/2054683.html",
+    "runde": 6
+  },
+  {
+    "id": "20261101-2119-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-2119-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261101-2119-1.jpg",
+    "caption": "⚽🔥 ثلاث نقاط ثمينة لطنجة في الجولة السادسة!\n\nاتحاد طنجة يتغلب على نهضة الزمامرة بهدف نظيف، ركلة جزاء ديانيه في الدقيقة 76 كانت الحاسمة 🎯\n\nوفي مكناس، الجيش الملكي يكتفي بالتعادل بدون أهداف أمام النادي المكناسي 🤝\n\n#البطولة_الاحترافية #اتحاد_طنجة #الجيش_الملكي #المغرب #كرة_القدم",
+    "status": "now",
+    "titel": "اتحاد طنجة يتغلب على نهضة الزمامرة بهدف دون رد والجيش الملكي يتعادل مع النادي المكناسي",
+    "quelle_url": "https://alyaoum24.com/2054683.html",
+    "runde": 6
+  },
+  {
+    "id": "20261101-2119-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-2119-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "اتحاد طنجة يتغلب على نهضة الزمامرة بهدف دون رد والجيش الملكي يتعادل مع النادي المكناسي",
+    "quelle_url": "https://alyaoum24.com/2054683.html",
+    "runde": 6
+  },
+  {
+    "id": "20261101-2119-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-2119-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "اتحاد طنجة يتغلب على نهضة الزمامرة بهدف دون رد والجيش الملكي يتعادل مع النادي المكناسي",
+    "quelle_url": "https://alyaoum24.com/2054683.html",
+    "runde": 6
   }
 ]
