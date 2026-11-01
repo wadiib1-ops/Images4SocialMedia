@@ -7761,9 +7761,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/KNQRYF3HXZCBPLYVJCG2XFJDK4.jfif%3Fauth%3D4a5310ff6691a5be3eec21cc5dc5ad627fe9d04e7ba3620a9060100ecece97ed%26smart%3Dtrue%26width%3D1216%26height%3D684",
     "caption": "أعلن المدرب المغربي طارق السكيتيوي لائحة من 28 لاعباً لمنتخب عمان استعداداً لمعسكر داخلي في مسقط من 5 إلى 7 نوفمبر.\n\nتضم القائمة تسعة وجوه جديدة تستدعى لأول مرة إلى المنتخب.\n\nوكان السكيتيوي قد قاد عمان إلى نصف نهائي آخر نسخة من كأس الخليج.\n\nكيف تقيّمون مسيرة السكيتيوي مع منتخب عمان؟\n\n#السكيتيوي #منتخب_عمان #المغرب",
-    "status": "now",
+    "status": "published",
     "titel": "السكيتيوي يعلن لائحة منتخب عمان لمعسكر مسقط",
-    "quelle_url": "https://ar.sport.le360.ma/football/QF3D25BCUNFMTNMWTN5VCI7XYY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/QF3D25BCUNFMTNMWTN5VCI7XYY/",
+    "meta_id": "122222666288577271",
+    "published_at": "2026-11-01T10:18:51.043287+00:00"
   },
   {
     "id": "20261101-1117-1-ig-reel",
@@ -7772,9 +7774,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1117-1-reel-text.mp4",
     "caption": "🎙️ مدرب مغربي يواصل التحضير في الخليج!\n\nطارق السكيتيوي كشف عن قائمة من 28 لاعباً لمنتخب عمان ⚽\n\nالمعسكر ينطلق في مسقط من 5 حتى 7 نوفمبر، وتسعة لاعبين ينضمون إلى المنتخب لأول مرة 🔥\n\nالسكيتيوي سبق أن وصل بعمان إلى نصف نهائي كأس الخليج الأخيرة 🏆\n\n#السكيتيوي #عمان #المغرب #كرة_القدم #كأس_الخليج",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261101-1117-1.jpg",
-    "status": "now",
+    "status": "published",
     "titel": "السكيتيوي يعلن لائحة منتخب عمان لمعسكر مسقط",
-    "quelle_url": "https://ar.sport.le360.ma/football/QF3D25BCUNFMTNMWTN5VCI7XYY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/QF3D25BCUNFMTNMWTN5VCI7XYY/",
+    "meta_id": "18123575252060338",
+    "published_at": "2026-11-01T10:18:51.043287+00:00"
   },
   {
     "id": "20261101-1117-1-fb-story",
@@ -7782,9 +7786,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1117-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "السكيتيوي يعلن لائحة منتخب عمان لمعسكر مسقط",
-    "quelle_url": "https://ar.sport.le360.ma/football/QF3D25BCUNFMTNMWTN5VCI7XYY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/QF3D25BCUNFMTNMWTN5VCI7XYY/",
+    "meta_id": "1875896616735099",
+    "published_at": "2026-11-01T10:18:51.043287+00:00"
   },
   {
     "id": "20261101-1117-1-ig-story",
@@ -7792,8 +7798,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1117-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "السكيتيوي يعلن لائحة منتخب عمان لمعسكر مسقط",
-    "quelle_url": "https://ar.sport.le360.ma/football/QF3D25BCUNFMTNMWTN5VCI7XYY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/QF3D25BCUNFMTNMWTN5VCI7XYY/",
+    "meta_id": "18420800398166298",
+    "published_at": "2026-11-01T10:18:51.043287+00:00"
   }
 ]
