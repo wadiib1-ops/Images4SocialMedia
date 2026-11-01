@@ -8466,5 +8466,46 @@
     "runde": 6,
     "meta_id": "18128138845928237",
     "published_at": "2026-11-01T20:20:12.228340+00:00"
+  },
+  {
+    "id": "20261101-2310-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://static.yabiladi.com/files/articles/206425_7fb3c01d8602eef87a0809364865051020261101140528_565.webp",
+    "caption": "الصحفي المغربي مصطفى بدري، المدير العام لمجموعة المنتخب، يقول إنه تعرض لضغوط قبل التصويت في الكرة الذهبية.\n\nبدري وضع أشرف حكيمي في صدارة قائمته، وقال إن أشخاصا اتصلوا به لإقناعه بالتخلي عن حكيمي لصالح لاعب آخر لم يذكر اسمه.\n\nوأكد أنه لم يتراجع، موضحا أن الأمر يخص تصويت 2025 وليس 2026. وعن مصدر الضغط اكتفى بالقول إنه جاء من نادٍ.\n\nكيف تقيمون هذه التصريحات؟\n\n#حكيمي #الكرة_الذهبية #المغرب",
+    "status": "now",
+    "titel": "مصطفى بدري يتحدث عن ضغوط قبل التصويت لحكيمي في الكرة الذهبية",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206425/journaliste-marocain-avoir-subi-pressions.html"
+  },
+  {
+    "id": "20261101-2310-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-2310-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261101-2310-1.jpg",
+    "caption": "🏆 تصريح يثير النقاش حول الكرة الذهبية!\n\nالصحفي المغربي مصطفى بدري يكشف أنه وضع أشرف حكيمي في المركز الأول بقائمته، ثم تلقى اتصالات تطلب منه تغيير اختياره لصالح لاعب آخر.\n\nبدري شدد على أنه ثبت على موقفه، وأن القصة تعود إلى تصويت 2025 وليس 2026، دون أن يحدد سوى أن الضغط جاء من نادٍ. ⚽\n\n#حكيمي #الكرة_الذهبية #المنتخب_المغربي #كرة_القدم #المغرب",
+    "status": "now",
+    "titel": "مصطفى بدري يتحدث عن ضغوط قبل التصويت لحكيمي في الكرة الذهبية",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206425/journaliste-marocain-avoir-subi-pressions.html"
+  },
+  {
+    "id": "20261101-2310-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-2310-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "مصطفى بدري يتحدث عن ضغوط قبل التصويت لحكيمي في الكرة الذهبية",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206425/journaliste-marocain-avoir-subi-pressions.html"
+  },
+  {
+    "id": "20261101-2310-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-2310-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "مصطفى بدري يتحدث عن ضغوط قبل التصويت لحكيمي في الكرة الذهبية",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206425/journaliste-marocain-avoir-subi-pressions.html"
   }
 ]
