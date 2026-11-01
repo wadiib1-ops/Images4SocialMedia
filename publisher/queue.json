@@ -8140,9 +8140,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/3QIDZ3BRU5C77KRHJQMCZOU6SQ.jpg%3Fauth%3D07b60706d736e45903339b2239ec58198766f05547be1ed7bca700bb5bf0697f%26smart%3Dtrue%26width%3D1216%26height%3D684",
     "caption": "سجل اللاعب المغربي ياسين جسيم هدفين في الدقيقتين 77 و85 خلال فوز ستراسبورغ الكبير على أوكسير بخمسة أهداف مقابل هدف في الجولة التاسعة من الدوري الفرنسي.\n\nوجاء الفوز بعد طرد لاعب أوكسير في الدقيقة 74، ليصعد ستراسبورغ إلى المركز الثاني عشر برصيد 10 نقاط.\n\nكيف تقيمون مستوى ياسين جسيم هذا الموسم؟\n\n#جسيم #ستراسبورغ #أسود_الأطلس",
-    "status": "now",
+    "status": "published",
     "titel": "جسيم يعيد ستراسبورغ إلى سكة الانتصارات بثنائية",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/UEDDAFUNFZGG3EIJL37ZL2GVOY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/UEDDAFUNFZGG3EIJL37ZL2GVOY/",
+    "meta_id": "122222701010577271",
+    "published_at": "2026-11-01T17:18:58.426701+00:00"
   },
   {
     "id": "20261101-1816-1-ig-reel",
@@ -8151,9 +8153,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1816-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261101-1816-1.jpg",
     "caption": "⚽ ثنائية مغربية في فرنسا! 🔥\n\nياسين جسيم يهز الشباك مرتين في الدقيقتين 77 و85 ويقود ستراسبورغ لاكتساح أوكسير 5-1 في الدوري الفرنسي 🏟️\n\nالفوز رفع الفريق إلى المركز 12 برصيد 10 نقاط ⭐\n\nما تقييمكم لأداء جسيم في هذه المباراة؟\n\n#جسيم #ستراسبورغ #Ligue1 #أسود_الأطلس #الكرة_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "جسيم يعيد ستراسبورغ إلى سكة الانتصارات بثنائية",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/UEDDAFUNFZGG3EIJL37ZL2GVOY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/UEDDAFUNFZGG3EIJL37ZL2GVOY/",
+    "meta_id": "18069526553766669",
+    "published_at": "2026-11-01T17:18:58.426701+00:00"
   },
   {
     "id": "20261101-1816-1-fb-story",
@@ -8161,9 +8165,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1816-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "جسيم يعيد ستراسبورغ إلى سكة الانتصارات بثنائية",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/UEDDAFUNFZGG3EIJL37ZL2GVOY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/UEDDAFUNFZGG3EIJL37ZL2GVOY/",
+    "meta_id": "1829113498123633",
+    "published_at": "2026-11-01T17:18:58.426701+00:00"
   },
   {
     "id": "20261101-1816-1-ig-story",
@@ -8171,8 +8177,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1816-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "جسيم يعيد ستراسبورغ إلى سكة الانتصارات بثنائية",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/UEDDAFUNFZGG3EIJL37ZL2GVOY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/UEDDAFUNFZGG3EIJL37ZL2GVOY/",
+    "meta_id": "17933267655424394",
+    "published_at": "2026-11-01T17:18:58.426701+00:00"
   }
 ]
