@@ -7661,41 +7661,49 @@
     "id": "20261101-0142-1-fb-feed",
     "platform": "facebook",
     "type": "photo",
-    "status": "now",
+    "status": "published",
     "titel": "الرجاء يفتقد أربعة لاعبين أمام نهضة بركان",
     "quelle_url": "https://ar.sport.le360.ma/football/G6PEHYRYLVD65BBZ4LVXIC6W6E/",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://ar.sport.le360.ma/resizer/v2/7XWAAAO3BBECHC3I6RRHB2ATKQ.jpg%3Fauth%3Df7e1af958037c905b5336778bf009be89a123ca1f09cb5bc9faa477a0f8c9ca9%26smart%3Dtrue%26width%3D1216%26height%3D684",
-    "caption": "يدخل الرجاء الرياضي مباراة نهضة بركان يوم الأحد وهو يفتقد أربعة لاعبين.\n\nعادل بلطيب ومنعم الإدريسي لم يستعيدا لياقتهما بعد الإصابة، وموقف أيمن برقوق غير مؤكد قبل اللقاء.\n\nكما استبعد المدرب آدم النفاتي من القائمة لأسباب تقنية. ولم يحقق الفريق أي فوز في آخر ثلاث مباريات بالبطولة.\n\nكيف تقيمون وضع قائمة الرجاء قبل هذه المباراة؟\n\n#الرجاء #البطولة_الاحترافية #كرة_القدم"
+    "caption": "يدخل الرجاء الرياضي مباراة نهضة بركان يوم الأحد وهو يفتقد أربعة لاعبين.\n\nعادل بلطيب ومنعم الإدريسي لم يستعيدا لياقتهما بعد الإصابة، وموقف أيمن برقوق غير مؤكد قبل اللقاء.\n\nكما استبعد المدرب آدم النفاتي من القائمة لأسباب تقنية. ولم يحقق الفريق أي فوز في آخر ثلاث مباريات بالبطولة.\n\nكيف تقيمون وضع قائمة الرجاء قبل هذه المباراة؟\n\n#الرجاء #البطولة_الاحترافية #كرة_القدم",
+    "meta_id": "122222623094577271",
+    "published_at": "2026-11-01T00:43:16.441550+00:00"
   },
   {
     "id": "20261101-0142-1-ig-reel",
     "platform": "instagram",
     "type": "reel",
-    "status": "now",
+    "status": "published",
     "titel": "الرجاء يفتقد أربعة لاعبين أمام نهضة بركان",
     "quelle_url": "https://ar.sport.le360.ma/football/G6PEHYRYLVD65BBZ4LVXIC6W6E/",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-0142-1-reel-text.mp4",
     "caption": "غيابات تضرب الرجاء قبل مواجهة بركان ⚽🟢\n\nأربعة لاعبين خارج حسابات المدرب في لقاء الأحد: بلطيب والإدريسي لم يتعافيا تماما، وبرقوق موقفه غير محسوم، والنفاتي خارج القائمة لقرار تقني 🔥\n\nوكان الفريق قد مر بثلاث مباريات دون فوز في البطولة 📉\n\n#الرجاء_البيضاوي #نهضة_بركان #البطولة_الاحترافية #المغرب #كرة_القدم",
-    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261101-0142-1.jpg"
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261101-0142-1.jpg",
+    "meta_id": "18348687265269606",
+    "published_at": "2026-11-01T00:43:16.441550+00:00"
   },
   {
     "id": "20261101-0142-1-fb-story",
     "platform": "facebook",
     "type": "story",
-    "status": "now",
+    "status": "published",
     "titel": "الرجاء يفتقد أربعة لاعبين أمام نهضة بركان",
     "quelle_url": "https://ar.sport.le360.ma/football/G6PEHYRYLVD65BBZ4LVXIC6W6E/",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-0142-1-story-text.mp4",
-    "caption": ""
+    "caption": "",
+    "meta_id": "1914163266234459",
+    "published_at": "2026-11-01T00:43:16.441550+00:00"
   },
   {
     "id": "20261101-0142-1-ig-story",
     "platform": "instagram",
     "type": "story",
-    "status": "now",
+    "status": "published",
     "titel": "الرجاء يفتقد أربعة لاعبين أمام نهضة بركان",
     "quelle_url": "https://ar.sport.le360.ma/football/G6PEHYRYLVD65BBZ4LVXIC6W6E/",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-0142-1-story-text.mp4",
-    "caption": ""
+    "caption": "",
+    "meta_id": "18340759429274049",
+    "published_at": "2026-11-01T00:43:16.441550+00:00"
   }
 ]
