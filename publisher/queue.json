@@ -7957,9 +7957,11 @@
     "type": "photo",
     "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://alyaoum24.com/content/uploads/2026/11/FB_IMG_1793535994339_edit_957363215883754.jpg",
     "caption": "خضع لاعب المنتخب المغربي إسماعيل الصيباري لعملية جراحية ناجحة في الكاحل الأيمن، بحسب ما أعلنه بايرن ميونخ.\n\nالإصابة عبارة عن تمزق في الرباط الخارجي للكاحل، وقد تعرض لها اللاعب خلال التعادل 2-2 أمام بوروسيا دورتموند.\n\nوبذلك سيغيب الصيباري عن المنتخب المغربي في التوقف الدولي المقبل، ومنه مباراتا النيجر يومي 13 و17 نوفمبر ضمن تصفيات كأس أمم إفريقيا.\n\nلم يحدد النادي مدة الغياب بدقة بعد.\n\nكيف تقيمون تأثير غياب الصيباري على خيارات المدرب وهبي؟\n\n#الصيباري #المنتخب_المغربي #بايرن_ميونخ",
-    "status": "now",
+    "status": "published",
     "titel": "الصيباري يخضع لعملية جراحية في الكاحل ويغيب عن المنتخب المغربي في التوقف الدولي المقبل",
-    "quelle_url": "https://alyaoum24.com/2054578.html"
+    "quelle_url": "https://alyaoum24.com/2054578.html",
+    "meta_id": "122222686370577271",
+    "published_at": "2026-11-01T14:21:48.428300+00:00"
   },
   {
     "id": "20261101-1540-1-ig-reel",
@@ -7968,9 +7970,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1540-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261101-1540-1.jpg",
     "caption": "🚨 إسماعيل الصيباري تحت مشرط الجراحة!\n\nأعلن بايرن ميونخ نجاح العملية في الكاحل الأيمن، بعد تمزق في الرباط الخارجي أصيب به اللاعب أمام دورتموند ⚽\n\nالنتيجة بالنسبة للأسود: غياب في التوقف الدولي المقبل، أي عن لقاءي النيجر يومي 13 و17 نوفمبر \n\nمدة الغياب الكاملة لم تُحدد بعد، وننتظر مزيدا من التفاصيل من النادي 🙏\n\n#الصيباري #أسود_الأطلس #بايرن_ميونخ #كرة_القدم_المغربية #تصفيات_كأس_إفريقيا",
-    "status": "now",
+    "status": "published",
     "titel": "الصيباري يخضع لعملية جراحية في الكاحل ويغيب عن المنتخب المغربي في التوقف الدولي المقبل",
-    "quelle_url": "https://alyaoum24.com/2054578.html"
+    "quelle_url": "https://alyaoum24.com/2054578.html",
+    "meta_id": "18287214901292681",
+    "published_at": "2026-11-01T14:21:48.428300+00:00"
   },
   {
     "id": "20261101-1540-1-fb-story",
@@ -7978,9 +7982,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1540-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الصيباري يخضع لعملية جراحية في الكاحل ويغيب عن المنتخب المغربي في التوقف الدولي المقبل",
-    "quelle_url": "https://alyaoum24.com/2054578.html"
+    "quelle_url": "https://alyaoum24.com/2054578.html",
+    "meta_id": "1094759206526657",
+    "published_at": "2026-11-01T14:21:48.428300+00:00"
   },
   {
     "id": "20261101-1540-1-ig-story",
@@ -7988,8 +7994,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261101-1540-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الصيباري يخضع لعملية جراحية في الكاحل ويغيب عن المنتخب المغربي في التوقف الدولي المقبل",
-    "quelle_url": "https://alyaoum24.com/2054578.html"
+    "quelle_url": "https://alyaoum24.com/2054578.html",
+    "meta_id": "18109295747250597",
+    "published_at": "2026-11-01T14:21:48.428300+00:00"
   }
 ]
