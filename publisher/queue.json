@@ -8613,5 +8613,46 @@
     "quelle_url": "https://ar.sport.le360.ma/football/JF7CNSRVQVECVBWI2GSCGVYWNE/",
     "meta_id": "18646430383016144",
     "published_at": "2026-11-01T23:18:57.412537+00:00"
+  },
+  {
+    "id": "20261102-0227-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://static.yabiladi.com/files/articles/206476_7e7765965c3f0c725db06bb9416b467f20261102014734_565.webp",
+    "caption": "سجل المغربي أمين حارث هدف الافتتاح في الدقيقة الثانية، ليقود مرسيليا إلى الفوز على تولوز بهدفين دون رد على ملعب فيلودروم ضمن الجولة التاسعة من الدوري الفرنسي.\n\nجاء الهدف بعد عمل من أمين غويري، الذي أضاف الهدف الثاني في الدقيقة 25. واختير حارث أفضل لاعب في المباراة.\n\nهذا هو الفوز الرابع على التوالي لمرسيليا في الدوري، ليصعد الفريق إلى المركز السادس، بينما بقي تولوز في المركز 11 برصيد 10 نقاط.\n\nكيف تقيمون مستوى أمين حارث مع مرسيليا هذا الموسم؟\n\n#أمين_حارث #مرسيليا #الدوري_الفرنسي",
+    "status": "now",
+    "titel": "أمين حارث يسجل ويقود مرسيليا للفوز على تولوز بهدفين دون رد",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206476/ligue-marseille-toulouse-amine-harit.html"
+  },
+  {
+    "id": "20261102-0227-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261102-0227-1-reel-text.mp4",
+    "caption": "⚽ بعد دقيقتين فقط كان أمين حارث قد سجل!\n\nابن المغرب افتتح التسجيل في فيلودروم وتوج أفضل لاعب في اللقاء، ومرسيليا حسم المواجهة أمام تولوز 2-0 بفضل هدف ثان لأمين غويري في الدقيقة 25 🔥\n\nانتصار رابع على التوالي في الدوري الفرنسي يضع الفريق في المركز السادس 💪\n\n#حارث #مرسيليا #الدوري_الفرنسي #أسود_الأطلس #كرة_القدم_المغربية",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261102-0227-1.jpg",
+    "status": "now",
+    "titel": "أمين حارث يسجل ويقود مرسيليا للفوز على تولوز بهدفين دون رد",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206476/ligue-marseille-toulouse-amine-harit.html"
+  },
+  {
+    "id": "20261102-0227-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261102-0227-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "أمين حارث يسجل ويقود مرسيليا للفوز على تولوز بهدفين دون رد",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206476/ligue-marseille-toulouse-amine-harit.html"
+  },
+  {
+    "id": "20261102-0227-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261102-0227-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "أمين حارث يسجل ويقود مرسيليا للفوز على تولوز بهدفين دون رد",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206476/ligue-marseille-toulouse-amine-harit.html"
   }
 ]
