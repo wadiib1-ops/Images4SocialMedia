@@ -45,13 +45,8 @@ Rückfälle (je Eintrag, nur wenn der Eintrag nicht anlegbar ist; das Scheitern 
  - Reel und Story: Video nicht baubar oder nicht hostbar: Eintrag weglassen und im Bericht melden.
 Musste der Facebook-Eintrag ohne Logo auskommen, trägt das Video trotzdem das Logo (Abschnitt 8). Das Logo wird nie doppelt aufgesetzt.
 
-5. BILD-URLS (CLOUDINARY, NUR FACEBOOK-FOTO)
-Jedes Foto aus einer externen Quelle bekommt oben einen Streifen in der Randfarbe des Fotos (Cloudinary b_auto:border, wirkt wie transparent; echte Transparenz ist bei JPEG nicht möglich), dessen Höhe 15,4 % der Bildbreite beträgt (bei 1216 px Breite etwa 187 px); darin sitzt das runde Seitenlogo links oben (90 % der Streifenhöhe; Streifen und Logo 30 % kleiner seit 27.10.2026, dauerhaft). Das Logo verdeckt dadurch nie einen Teil des Fotos (Nutzerwunsch 27.10.2026, dauerhaft; Logo doppelt so groß wie in der 11-%-Fassung; das Foto wird nie beschnitten und bleibt vollständig sichtbar). Den Streifen und das Logo setzt Cloudinary (Cloud-Name gc0qxb3y, Logo-Public-ID logo_wappen). Die URL wird nur gebaut und per curl -sIL auf HTTP 200 und image/jpeg geprüft.
-Foto-URL kodieren (nur Sonderzeichen wie ? & = # und Leerzeichen, "https://", Host und Pfad bleiben lesbar):
- python3 -c "import urllib.parse,sys; print(urllib.parse.quote(sys.argv[1], safe=':/%'))" "<Foto-URL>"
-LOGO-URL:
- https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/<kodierte Foto-URL>
-Es ist immer dieselbe Foto-Adresse für alle URLs einer Meldung.
+5. BILD-URLS (Cloudinary-Logo entfällt, Nutzerwunsch 02.11.2026)
+Der Cloudinary-Logo-Streifen (Asset `logo_wappen`) wird NIE mehr benutzt, weil dort noch das alte Logo liegt. Das alte Logo darf nirgends mehr erscheinen. Foto-Beiträge entstehen nach den Feed-Vorlagen in CLAUDE-Routine.md (Vorlage 4, neues Logo). Das Foto wird als Datei in `images/` auf main gehostet und per curl auf HTTP 200 geprüft.
 
 6. TEXTE
 Texte umformulieren (Pflicht, vor dem Anlegen der Einträge): Zuerst aus den Fakten der Quelle einen arabischen Rohentwurf mit Titel und Body in eigenen Worten schreiben, dann umformulieren und daraus die Texte erstellen. Sprache: Modern Standard Arabic, leicht verständlich; Beitragstexte zusätzlich auf Französisch (Abschnitt 9).

@@ -11,7 +11,7 @@ import arabic_reshaper
 from bidi.algorithm import get_display
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-LOGO = os.path.join(HERE, "INSTA_Short_Image_dunkel.jpg")
+LOGO = os.path.join(HERE, "botola-video", "assets", "logo.png")   # neues Logo MAROC KORA NEWS; das alte darf nie benutzt werden
 FONT_B = os.path.join(HERE, "fonts", "Tajawal-Bold.ttf")
 FONT_R = os.path.join(HERE, "fonts", "Tajawal-Regular.ttf")
 THEMES = {
@@ -50,16 +50,7 @@ def wrap(text, font, maxw, draw):
 
 
 def emblem(diam):
-    im = Image.open(LOGO).convert("RGB")
-    cx, cy, r = 467, 572, 292
-    crop = im.crop((cx - r, cy - r, cx + r, cy + r)).resize((diam, diam), Image.LANCZOS)
-    mask = Image.new("L", (diam * 4, diam * 4), 0)
-    ImageDraw.Draw(mask).ellipse((0, 0, diam * 4 - 1, diam * 4 - 1), fill=255)
-    mask = mask.resize((diam, diam), Image.LANCZOS)
-    out = Image.new("RGBA", (diam, diam))
-    out.paste(crop, (0, 0))
-    out.putalpha(mask)
-    return out
+    return Image.open(LOGO).convert("RGBA").resize((diam, diam), Image.LANCZOS)
 
 
 def make(title, fmt, out, tag=None, theme="rot"):
@@ -102,7 +93,7 @@ def make(title, fmt, out, tag=None, theme="rot"):
         d.text(((w - d.textlength(tag, font=ft)) / 2, y + 50), tag, font=ft, fill=GOLD)
 
     fn = ImageFont.truetype(FONT_R, 30)
-    name = "Morocco Football & Futsal News"
+    name = "MoroccanFootballAndFutsal"
     ny = h - (70 if fmt == "feed" else 270)
     d.text(((w - d.textlength(name, font=fn)) / 2, ny), name, font=fn, fill=NAMEC)
     img.save(out, quality=90)
