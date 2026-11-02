@@ -8751,5 +8751,56 @@
     "status": "published",
     "meta_id": "17995932480102773",
     "published_at": "2026-11-02T08:07:23.547629+00:00"
+  },
+  {
+    "id": "20261102-1120-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "status": "now",
+    "titel": "كامبور يهزم غو أهيد إيغلز برباعية بتألق بعوف والأرغيوي",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206486/eredivisie-ouazane-decisif-baouf-arguioui.html",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://static.yabiladi.com/files/articles/206486_6b2d25b8b8e21e7f493c8750d9f6b22620261102030051_565.webp",
+    "caption": "فاز كامبور على غو أهيد إيغلز برباعية نظيفة في الدوري الهولندي، وكان للمغاربة حضور لافت في المباراة.\n\nافتتح إسماعيل بعوف التسجيل برأسية بعد ركنية نفذها رفيق الأرغيوي، وكان ذلك ثاني أهدافه هذا الموسم، واختير أفضل لاعب في المباراة.\n\nوسجل الأرغيوي الهدف الرابع بعدما تجاوز الحارس سيلسن بكرة ساقطة.\n\nوبلغ رصيد الأرغيوي ستة أهداف وتمريرة حاسمة في إحدى عشرة مباراة هذا الموسم.\n\nكيف تقيّمون مستوى اللاعبين المغاربة مع كامبور هذا الموسم؟\n\n#كامبور #الدوري_الهولندي #المغرب"
+  },
+  {
+    "id": "20261102-1120-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "status": "now",
+    "titel": "كامبور يهزم غو أهيد إيغلز برباعية بتألق بعوف والأرغيوي",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206486/eredivisie-ouazane-decisif-baouf-arguioui.html",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://static.yabiladi.com/files/articles/206486_6b2d25b8b8e21e7f493c8750d9f6b22620261102030051_565.webp",
+    "caption": "مغربيان يصنعان الفرق في هولندا 🔥\n\nكامبور يكتسح غو أهيد إيغلز 4-0 في الدوري الهولندي ⚽\nإسماعيل بعوف يفتتح التسجيل برأسية بعد ركنية من رفيق الأرغيوي، ويتوج أفضل لاعب في اللقاء 👏\nوالأرغيوي يختم المهرجان بالهدف الرابع، ويرفع رصيده إلى ستة أهداف هذا الموسم 🎯\n\n#إسماعيل_بعوف #رفيق_الأرغيوي #كامبور #الدوري_الهولندي #كرة_القدم_المغربية"
+  },
+  {
+    "id": "20261102-1120-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "status": "now",
+    "titel": "كامبور يهزم غو أهيد إيغلز برباعية بتألق بعوف والأرغيوي",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206486/eredivisie-ouazane-decisif-baouf-arguioui.html",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261102-1120-1-reel-text.mp4",
+    "caption": "رباعية نظيفة ومغربيان في الواجهة 🔥\n\nكامبور يكتسح غو أهيد إيغلز 4-0 في الدوري الهولندي ⚽\nإسماعيل بعوف يفتتح التسجيل برأسية بعد ركنية من رفيق الأرغيوي، ويتوج أفضل لاعب في اللقاء 👏\nوالأرغيوي يختم المهرجان بالهدف الرابع، ويرفع رصيده إلى ستة أهداف هذا الموسم 🎯\n\n#إسماعيل_بعوف #رفيق_الأرغيوي #كامبور #الدوري_الهولندي #كرة_القدم_المغربية",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261102-1120-1.jpg"
+  },
+  {
+    "id": "20261102-1120-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "status": "now",
+    "titel": "كامبور يهزم غو أهيد إيغلز برباعية بتألق بعوف والأرغيوي",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206486/eredivisie-ouazane-decisif-baouf-arguioui.html",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261102-1120-1-story-text.mp4",
+    "caption": ""
+  },
+  {
+    "id": "20261102-1120-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "status": "now",
+    "titel": "كامبور يهزم غو أهيد إيغلز برباعية بتألق بعوف والأرغيوي",
+    "quelle_url": "https://www.yabiladi.com/articles/details/206486/eredivisie-ouazane-decisif-baouf-arguioui.html",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261102-1120-1-story-text.mp4",
+    "caption": ""
   }
 ]
