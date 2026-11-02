@@ -9044,5 +9044,56 @@
     "quelle_url": "https://www.lesiteinfo.com/sport/686081-raja-casablanca-reunion-durgence-apres-la-defaite-face-a-la-rs-berkane.html",
     "meta_id": "17995306754883401",
     "published_at": "2026-11-02T15:15:05.262972+00:00"
+  },
+  {
+    "id": "20261102-1740-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/feed-20261102-1740-1.jpg",
+    "caption": "الجيش الملكي للسيدات يستهل الدفاع عن لقبه القاري بخسارة أمام كاويمبي الأوغندي\n\nخسر الجيش الملكي للسيدات حامل اللقب أمام كاويمبي مسلم ليديز الأوغندي بنتيجة 3-2 في الجولة الأولى من المجموعة الثانية بدوري أبطال إفريقيا للسيدات.\n\nتقام المنافسات في مصر، ويشارك الفريق المغربي في كل النسخ منذ عام 2021.\n\nما تقييمكم لأداء الفريق في أول مباراة؟\n\n#الجيش_الملكي #دوري_أبطال_إفريقيا_للسيدات #كرة_القدم_النسائية",
+    "status": "now",
+    "titel": "الجيش الملكي للسيدات يخسر 3-2 أمام كاويمبي الأوغندي في افتتاح دوري أبطال إفريقيا",
+    "quelle_url": "https://ar.sport.le360.ma/football/CB24KHKEBZC5FNELPVSPICTDVE/"
+  },
+  {
+    "id": "20261102-1740-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/feed-20261102-1740-1.jpg",
+    "caption": "⚽ بداية صعبة لحامل اللقب!\n\nسقط الجيش الملكي للسيدات أمام كاويمبي الأوغندي 3-2 في أولى مباريات المجموعة الثانية بدوري أبطال إفريقيا للسيدات 💔\n\n🏆 الفريق المغربي هو الوحيد الذي حضر في كل النسخ منذ 2021، والبطولة تقام هذه المرة في مصر 📍\n\nالفرصة لا تزال قائمة لتعويض البداية في الجولات المقبلة 💪\n\n#الجيش_الملكي #كرة_نسوية #دوري_أبطال_إفريقيا #المغرب #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "الجيش الملكي للسيدات يخسر 3-2 أمام كاويمبي الأوغندي في افتتاح دوري أبطال إفريقيا",
+    "quelle_url": "https://ar.sport.le360.ma/football/CB24KHKEBZC5FNELPVSPICTDVE/"
+  },
+  {
+    "id": "20261102-1740-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261102-1740-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261102-1740-1.jpg",
+    "caption": "⚽ بداية صعبة لحامل اللقب!\n\nسقط الجيش الملكي للسيدات أمام كاويمبي الأوغندي 3-2 في أولى مباريات المجموعة الثانية بدوري أبطال إفريقيا للسيدات 💔\n\n🏆 الفريق المغربي هو الوحيد الذي حضر في كل النسخ منذ 2021، والبطولة تقام هذه المرة في مصر 📍\n\nالفرصة لا تزال قائمة لتعويض البداية في الجولات المقبلة 💪\n\n#الجيش_الملكي #كرة_نسوية #دوري_أبطال_إفريقيا #المغرب #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "الجيش الملكي للسيدات يخسر 3-2 أمام كاويمبي الأوغندي في افتتاح دوري أبطال إفريقيا",
+    "quelle_url": "https://ar.sport.le360.ma/football/CB24KHKEBZC5FNELPVSPICTDVE/"
+  },
+  {
+    "id": "20261102-1740-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261102-1740-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الجيش الملكي للسيدات يخسر 3-2 أمام كاويمبي الأوغندي في افتتاح دوري أبطال إفريقيا",
+    "quelle_url": "https://ar.sport.le360.ma/football/CB24KHKEBZC5FNELPVSPICTDVE/"
+  },
+  {
+    "id": "20261102-1740-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261102-1740-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الجيش الملكي للسيدات يخسر 3-2 أمام كاويمبي الأوغندي في افتتاح دوري أبطال إفريقيا",
+    "quelle_url": "https://ar.sport.le360.ma/football/CB24KHKEBZC5FNELPVSPICTDVE/"
   }
 ]
