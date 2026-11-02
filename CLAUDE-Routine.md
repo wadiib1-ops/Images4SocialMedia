@@ -151,3 +151,6 @@ Bild- und Videoformate richten sich nach diesen Vorgaben (bei Widerspruch zu äl
 
 ## Neues Logo (verbindlich, dauerhaft, Nutzerwunsch 30.10.2026)
 Das Logo ist jetzt "MAROC KORA NEWS / أخبار الكرة المغربية" (rund, grün/rot, Fallrückzieher). Es ersetzt das alte Logo überall: `botola-video/assets/logo.png`, `botola2-video/assets/logo.png`, `add_logo.py` (Datei `images/logo-neu.png` ist dieselbe Vorlage). Das alte Logo nie mehr verwenden. Die LOGO-URL in PROMPT.md lädt das neue Logo direkt von `images/logo-neu.png` (main) per Cloudinary `l_fetch`, am 30.10.2026 getestet; das alte Cloudinary-Asset `logo_wappen` wird nicht mehr verwendet und im Cloudinary-Konto ist nichts zu tun. `images/logo-neu.png` darf deshalb nie gelöscht oder umbenannt werden.
+
+## Instagram-Feed wieder aktiv (verbindlich, dauerhaft, Nutzerwunsch 02.11.2026; ersetzt "Instagram-Feed entfällt" in dieser Datei, PROMPT.md und CLAUDE.md)
+Pro Meldung wird zusätzlich ein Instagram-Feed-Eintrag (Foto) angelegt: `platform: "instagram"`, `type: "photo"`, gleiche Foto-URL wie der Facebook-Feed (LOGO-URL), Text INSTAGRAM-TEXT (arabisch, genau 5 Hashtags, unter 2200 Zeichen), gleiche Zeit, `quelle_url` und `titel`. Bei Quell-Video entfällt der Eintrag (nur Foto-Meldungen). Reihenfolge: 1. FB-Feed, 2. IG-Feed, 3. IG-Reel, 4. FB-Story, 5. IG-Story, also fünf Einträge pro Meldung.
