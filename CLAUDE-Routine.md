@@ -154,3 +154,11 @@ Das Logo ist jetzt "MAROC KORA NEWS / أخبار الكرة المغربية" (r
 
 ## Instagram-Feed wieder aktiv (verbindlich, dauerhaft, Nutzerwunsch 02.11.2026; ersetzt "Instagram-Feed entfällt" in dieser Datei, PROMPT.md und CLAUDE.md)
 Pro Meldung wird zusätzlich ein Instagram-Feed-Eintrag (Foto) angelegt: `platform: "instagram"`, `type: "photo"`, gleiche Foto-URL wie der Facebook-Feed (LOGO-URL), Text INSTAGRAM-TEXT (arabisch, genau 5 Hashtags, unter 2200 Zeichen), gleiche Zeit, `quelle_url` und `titel`. Bei Quell-Video entfällt der Eintrag (nur Foto-Meldungen). Reihenfolge: 1. FB-Feed, 2. IG-Feed, 3. IG-Reel, 4. FB-Story, 5. IG-Story, also fünf Einträge pro Meldung.
+
+## Layout-Vorlagen (verbindlich, dauerhaft, Nutzerwunsch 02.11.2026; gilt für alle künftigen Läufe)
+Vier Vorlagen liegen als Referenzbilder in `templates/` (Platzhalter für Foto und Text; Marke: Logo "MAROC KORA NEWS", Handle `MoroccanFootballAndFutsal`, roter Balken unten, Schrift fett, Farben Rot #C1272D, Dunkelgrau, Cremeweiß):
+- `templates/vorlage-4.png` (1080x1350, 4:5): FEED-Vorlage für Facebook-Feed und Instagram-Feed. Foto oben (1080x860), schräge dunkle Fläche darunter, oben rechts roter Themen-Tag (z. B. "الدوري المغربي"), arabische Schlagzeile (max. 2 Zeilen), darunter eine kurze Zeile Zusatzinfo, unten Logo links und Handle rechts.
+- `templates/vorlage-3.png` (1080x1920, 9:16): Foto oben (1080x1100), schräge dunkle Fläche, roter Tag, Schlagzeile (max. 3 Zeilen), Zusatzzeile, Logo und Handle.
+- `templates/vorlage-1.png` (1080x1920, 9:16): roter Kopfbereich mit großer Schlagzeile, darunter dunkler Bereich mit Foto (936x880), unten Logo links und Handle rechts.
+- `templates/vorlage-2.png` (1080x1920, 9:16): Vollbild-Foto ohne Text, nur Logo unten links und roter Balken (Layout fürs Foto-Video ohne Textabschnitte).
+Regel: Der Feed-Beitrag (Facebook-Feed und Instagram-Feed, Foto) wird ab sofort nach `vorlage-4.png` als 1080x1350-Bild gebaut (Foto, Tag, Schlagzeile = Titel der Meldung, Zusatzzeile, Logo, Handle; keine Quelle, keine URL, keine Hashtags im Bild) und per `images/` auf main gehostet; der Logo-Streifen per Cloudinary entfällt für dieses Bild. Die 9:16-Vorlagen 1 bis 3 dienen als Layout-Vorbild für Reel und Stories. Die Schlagzeile und Zusatzzeile werden aus dem arabischen Text der Meldung abgeleitet, nicht erfunden.
