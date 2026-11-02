@@ -8995,5 +8995,46 @@
     "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/5XHGXFMUKJESVIQ64XTZR2E2MA/",
     "meta_id": "18131809427498965",
     "published_at": "2026-11-02T14:19:47.389689+00:00"
+  },
+  {
+    "id": "20261102-1614-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://www.lesiteinfo.com/wp-content/uploads/2026/11/ZIYAT.jpg",
+    "caption": "عقد المكتب المسير للرجاء البيضاوي اجتماعا طارئا برئاسة جواد الزيات بعد الخسارة أمام نهضة بركان.\n\nوحسب المعطيات المتداولة، يناقش الاجتماع الاختيارات التكتيكية للمدرب باكو خيميز ومستوى الفريق في الفترة الأخيرة، إضافة إلى حصيلة الانتدابات وتركيبة المجموعة.\n\nكما يشمل النقاش مسؤولية المدير الرياضي عن النتائج. ولم يُعلن حتى الآن عن أي قرار رسمي.\n\nكيف تقيمون وضع الفريق في المرحلة الحالية؟\n\n#الرجاء_البيضاوي #البطولة_الاحترافية #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "الرجاء يعقد اجتماعا طارئا بعد الخسارة أمام نهضة بركان",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686081-raja-casablanca-reunion-durgence-apres-la-defaite-face-a-la-rs-berkane.html"
+  },
+  {
+    "id": "20261102-1614-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261102-1614-1-reel-text.mp4",
+    "caption": "🚨 اجتماع طارئ في بيت الرجاء بعد السقوط أمام بركان!\n\nاجتمع المكتب المسير للفريق الأخضر برئاسة جواد الزيات لتقييم المرحلة الصعبة 🟢\n\nعلى الطاولة: خيارات المدرب باكو خيميز، مردود المجموعة، حصيلة الانتدابات ومسؤولية المدير الرياضي 📋\n\nوحتى الآن، لم يصدر أي قرار رسمي ⏳\n\n#الرجاء #الرجاء_البيضاوي #البطولة_الاحترافية #المغرب #كرة_القدم",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261102-1614-1.jpg",
+    "status": "now",
+    "titel": "الرجاء يعقد اجتماعا طارئا بعد الخسارة أمام نهضة بركان",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686081-raja-casablanca-reunion-durgence-apres-la-defaite-face-a-la-rs-berkane.html"
+  },
+  {
+    "id": "20261102-1614-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261102-1614-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الرجاء يعقد اجتماعا طارئا بعد الخسارة أمام نهضة بركان",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686081-raja-casablanca-reunion-durgence-apres-la-defaite-face-a-la-rs-berkane.html"
+  },
+  {
+    "id": "20261102-1614-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261102-1614-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الرجاء يعقد اجتماعا طارئا بعد الخسارة أمام نهضة بركان",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686081-raja-casablanca-reunion-durgence-apres-la-defaite-face-a-la-rs-berkane.html"
   }
 ]
