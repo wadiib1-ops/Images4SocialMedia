@@ -151,3 +151,11 @@ Bild- und Videoformate richten sich nach diesen Vorgaben (bei Widerspruch zu äl
 
 ## Neues Logo (verbindlich, dauerhaft, Nutzerwunsch 30.10.2026)
 Das Logo ist jetzt "MAROC KORA NEWS / أخبار الكرة المغربية" (rund, grün/rot, Fallrückzieher). Es ersetzt das alte Logo überall: `botola-video/assets/logo.png`, `botola2-video/assets/logo.png`, `add_logo.py` (Datei `images/logo-neu.png` ist dieselbe Vorlage). Das alte Logo nie mehr verwenden. Die LOGO-URL in PROMPT.md lädt das neue Logo direkt von `images/logo-neu.png` (main) per Cloudinary `l_fetch`, am 30.10.2026 getestet; das alte Cloudinary-Asset `logo_wappen` wird nicht mehr verwendet und im Cloudinary-Konto ist nichts zu tun. `images/logo-neu.png` darf deshalb nie gelöscht oder umbenannt werden.
+
+## Bildvorlagen (Nutzerwunsch 02.11.2026, dauerhaft, für alle künftigen Läufe)
+Für Feed- und Story-Bilder dieser Routine gelten diese 4 Vorlagen in `images/vorlagen/` (Platzhalter-Bild und Platzhalter-Text werden ersetzt, Logo und Handle `MoroccanFootballAndFutsal` bleiben, neues Logo):
+1. `story-titel-oben-1080x1920.png` – 9:16, roter Kopf mit Titel oben, Bild darunter (936x880).
+2. `story-ohne-text-1080x1920.png` – 9:16, nur Bild (1080x1920) mit Logo unten links, ohne Text.
+3. `story-titel-unten-1080x1920.png` – 9:16, Bild oben (1080x1100), Rubrik-Label, Titel (max. 3 Zeilen) und Untertitel unten.
+4. `feed-4x5-1080x1350.png` – 4:5 Feed, Bild oben (1080x860), Rubrik-Label, Titel (max. 2 Zeilen), Untertitel unten.
+Feed-Beiträge (Facebook-Feed) nutzen Vorlage 4; Stories Vorlage 1, 2 oder 3. Texte Arabisch, Schrift aus `fonts/`.
