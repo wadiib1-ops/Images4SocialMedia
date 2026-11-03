@@ -10507,5 +10507,56 @@
     "status": "published",
     "meta_id": "18109864004191635",
     "published_at": "2026-11-03T19:30:00+00:00"
+  },
+  {
+    "id": "20261103-2125-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "status": "now",
+    "titel": "النصيري يعود وبلحيان في الحسابات قبل لائحة وهبي",
+    "quelle_url": "https://alyaoum24.com/2054928.html",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261103-2125-1-fb.jpg",
+    "caption": "يعلن مدرب المنتخب المغربي محمد وهبي غدا الأربعاء لائحة اللاعبين المعنيين بمباراتي النيجر.\n\nويُنتظر أن تشهد اللائحة عودة المهاجم يوسف النصيري إلى صفوف الأسود، وتتحدث مصادر مقربة عن اتصال وهبي بلاعب لاتسيو رضا بلحيان، الذي يوجد ضمن الخيارات المطروحة.\n\nويواجه الطاقم التقني غيابات بسبب الإصابة، منها سايباري والكعبي وأوناحي وشادي رياض.\n\nيلعب المغرب أمام النيجر يوم 13 نونبر بالدار البيضاء، ثم يوم 17 نونبر بالرباط.\n\nكيف تقيمون الخيارات الهجومية المتاحة أمام وهبي؟\n\n#المنتخب_المغربي #أسود_الأطلس #وهبي"
+  },
+  {
+    "id": "20261103-2125-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "status": "now",
+    "titel": "النصيري يعود وبلحيان في الحسابات قبل لائحة وهبي",
+    "quelle_url": "https://alyaoum24.com/2054928.html",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261103-2125-1-ig.jpg",
+    "caption": "لائحة الأسود تقترب 🦁\n\nغدا الأربعاء يكشف محمد وهبي أسماء المدعوين لمواجهتي النيجر، والأنظار تتجه إلى عودة النصيري واحتمال حضور بلحيان ⚽🔥\n\nالغيابات بسبب الإصابة تفرض نفسها على الطاقم التقني، والجماهير تنتظر الأسماء الجديدة.\n\nالموعد الأول يوم 13 نونبر بالدار البيضاء، والثاني يوم 17 نونبر بالرباط \n\n#المنتخب_المغربي #أسود_الأطلس #وهبي #النصيري #تصفيات_كأس_إفريقيا"
+  },
+  {
+    "id": "20261103-2125-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "status": "now",
+    "titel": "النصيري يعود وبلحيان في الحسابات قبل لائحة وهبي",
+    "quelle_url": "https://alyaoum24.com/2054928.html",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-2125-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261103-2125-1.jpg",
+    "caption": "لائحة الأسود تقترب 🦁\n\nغدا الأربعاء يكشف محمد وهبي أسماء المدعوين لمواجهتي النيجر، والأنظار تتجه إلى عودة النصيري واحتمال حضور بلحيان ⚽🔥\n\nالغيابات بسبب الإصابة تفرض نفسها على الطاقم التقني، والجماهير تنتظر الأسماء الجديدة.\n\nالموعد الأول يوم 13 نونبر بالدار البيضاء، والثاني يوم 17 نونبر بالرباط \n\n#المنتخب_المغربي #أسود_الأطلس #وهبي #النصيري #تصفيات_كأس_إفريقيا"
+  },
+  {
+    "id": "20261103-2125-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "status": "now",
+    "titel": "النصيري يعود وبلحيان في الحسابات قبل لائحة وهبي",
+    "quelle_url": "https://alyaoum24.com/2054928.html",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-2125-1-fbstory-text.mp4",
+    "caption": ""
+  },
+  {
+    "id": "20261103-2125-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "status": "now",
+    "titel": "النصيري يعود وبلحيان في الحسابات قبل لائحة وهبي",
+    "quelle_url": "https://alyaoum24.com/2054928.html",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-2125-1-story-text.mp4",
+    "caption": ""
   }
 ]
