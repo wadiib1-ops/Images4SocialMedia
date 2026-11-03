@@ -1059,3 +1059,9 @@
 {"zeit": "03.11.2026 15:23:27", "aktion": "veröffentlicht", "beitrag": "20261103-1520-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1137198652009547"}
 {"zeit": "03.11.2026 15:24:04", "aktion": "veröffentlicht", "beitrag": "20261103-1520-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 17993716623067647"}
 {"zeit": "03.11.2026 15:24:04", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "835 Einträge geprüft"}
+{"zeit": "03.11.2026 15:29:41", "aktion": "veröffentlicht", "beitrag": "20261103-1550-1-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122223044072577271"}
+{"zeit": "03.11.2026 15:29:56", "aktion": "veröffentlicht", "beitrag": "20261103-1550-1-ig-feed", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18182391151432388"}
+{"zeit": "03.11.2026 15:30:39", "aktion": "veröffentlicht", "beitrag": "20261103-1550-1-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18123884923940016"}
+{"zeit": "03.11.2026 15:30:48", "aktion": "veröffentlicht", "beitrag": "20261103-1550-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1779353049966380"}
+{"zeit": "03.11.2026 15:31:36", "aktion": "fehlgeschlagen", "beitrag": "20261103-1550-1-ig-story", "plattform": "instagram", "ergebnis": "fehler", "details": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":2207032,\"is_transient\":false,\"error_user_title\":\"Medien k\\u00f6nnen nicht erstellt werden\",\"error_user_msg\":\"Fehler beim Erstellen der Medien. Bitte versuche die Medien erneut zu erstellen\",\"fbtrace_id\":\"A8R1KsE3mIVVhpsBi9NjBYv\"}}"}
+{"zeit": "03.11.2026 15:31:36", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "840 Einträge geprüft"}
