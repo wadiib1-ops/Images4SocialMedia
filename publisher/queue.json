@@ -10446,5 +10446,56 @@
     "status": "published",
     "meta_id": "18115568975094258",
     "published_at": "2026-11-03T17:19:54.635402+00:00"
+  },
+  {
+    "id": "20261103-2045-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/202611032045-1-fb.jpg",
+    "caption": "أعلن الاتحاد الإفريقي لكرة القدم عن المرشحين لجوائز «الكاف» 2026، وسجل المغرب حضوره في أربع فئات خاصة بكرة القدم النسوية.\n\nالمنتخب المغربي للسيدات مرشح لجائزة أفضل منتخب نسوي في إفريقيا.\n\nوالمدافعة هنان آيت الحاج، لاعبة ديبورتيفو ألافيس الإسباني، مرشحة لجائزة أفضل لاعبة في القارة.\n\nكما تحضر كوثر أزرف ضمن المرشحات لجائزة أفضل لاعبة شابة، وخديجة الرميشي ضمن المرشحات لجائزة أفضل حارسة مرمى.\n\nومن المنتظر أن يقام حفل التتويج يوم 7 دجنبر المقبل بنيجيريا.\n\nكيف تقيمون حظوظ المغرب في هذه الجوائز؟\n\n#المنتخب_المغربي_للسيدات #جوائز_الكاف #كرة_القدم_النسوية",
+    "titel": "المغرب حاضر في أربع فئات من ترشيحات جوائز الكاف 2026 للكرة النسوية",
+    "quelle_url": "https://alyaoum24.com/2054995.html",
+    "status": "now"
+  },
+  {
+    "id": "20261103-2045-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/202611032045-1-ig.jpg",
+    "caption": "🏆 أربع ترشيحات مغربية في جوائز الكاف 2026!\n\nالكرة النسوية المغربية تفرض نفسها قاريا ✨\n\n▪️ المنتخب المغربي للسيدات: أفضل منتخب نسوي\n▪️ هنان آيت الحاج: أفضل لاعبة في إفريقيا\n▪️ كوثر أزرف: أفضل لاعبة شابة\n▪️ خديجة الرميشي: أفضل حارسة مرمى\n\nحفل التتويج يوم 7 دجنبر بنيجيريا 📍\n\nمن تتوقعون أن تفوز من بين المرشحات؟\n\n#جوائز_الكاف #المغرب #كرة_القدم_النسوية #لبؤات_الأطلس #moroccanfootball",
+    "titel": "المغرب حاضر في أربع فئات من ترشيحات جوائز الكاف 2026 للكرة النسوية",
+    "quelle_url": "https://alyaoum24.com/2054995.html",
+    "status": "now"
+  },
+  {
+    "id": "20261103-2045-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-2045-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261103-2045-1.jpg",
+    "caption": "🏆 أربع ترشيحات مغربية في جوائز الكاف 2026!\n\nالكرة النسوية المغربية تفرض نفسها قاريا ✨\n\n▪️ المنتخب المغربي للسيدات: أفضل منتخب نسوي\n▪️ هنان آيت الحاج: أفضل لاعبة في إفريقيا\n▪️ كوثر أزرف: أفضل لاعبة شابة\n▪️ خديجة الرميشي: أفضل حارسة مرمى\n\nحفل التتويج يوم 7 دجنبر بنيجيريا 📍\n\nمن تتوقعون أن تفوز من بين المرشحات؟\n\n#جوائز_الكاف #المغرب #كرة_القدم_النسوية #لبؤات_الأطلس #moroccanfootball",
+    "titel": "المغرب حاضر في أربع فئات من ترشيحات جوائز الكاف 2026 للكرة النسوية",
+    "quelle_url": "https://alyaoum24.com/2054995.html",
+    "status": "now"
+  },
+  {
+    "id": "20261103-2045-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-2045-1-fbstory-text.mp4",
+    "caption": "",
+    "titel": "المغرب حاضر في أربع فئات من ترشيحات جوائز الكاف 2026 للكرة النسوية",
+    "quelle_url": "https://alyaoum24.com/2054995.html",
+    "status": "now"
+  },
+  {
+    "id": "20261103-2045-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-2045-1-story-text.mp4",
+    "caption": "",
+    "titel": "المغرب حاضر في أربع فئات من ترشيحات جوائز الكاف 2026 للكرة النسوية",
+    "quelle_url": "https://alyaoum24.com/2054995.html",
+    "status": "now"
   }
 ]
