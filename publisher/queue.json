@@ -10263,5 +10263,56 @@
     "titel": "الجيناني يراهن على عودة ثلاثة لاعبين لقيادة الرجاء أمام الجيش الملكي",
     "quelle_url": "https://ar.sport.le360.ma/football/B5P3HRRSCNF27MPI3FMRJTXJXU/",
     "error": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":2207032,\"is_transient\":false,\"error_user_title\":\"Medien k\\u00f6nnen nicht erstellt werden\",\"error_user_msg\":\"Fehler beim Erstellen der Medien. Bitte versuche die Medien erneut zu erstellen\",\"fbtrace_id\":\"A8R1KsE3mIVVhpsBi9NjBYv\"}}"
+  },
+  {
+    "id": "20261103-1630-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/feed-20261103-1630-1-fb.jpg",
+    "caption": "أنقذ اللاعب الدولي المغربي أشرف بنشرقي الأهلي المصري بهدف الفوز أمام المقاولون العرب (1-0)، ضمن الجولة الثانية من دور المجموعات في كأس عاصمة مصر.\n\nسجل بنشرقي الهدف برأسية في الدقائق الأخيرة من عرضية دقيقة لمحمد هاني.\n\nالفوز يخفف الضغط عن المدرب المغربي الحسين عموتة، الذي ينتقده الجمهور بسبب تذبذب النتائج، ويتأخر الأهلي بأربع نقاط عن بيراميدز متصدر الدوري المصري.\n\nكيف تقيمون مساهمة بنشرقي مع الأهلي في هذه المرحلة؟\n\n#بنشرقي #الأهلي #عموتة",
+    "status": "now",
+    "titel": "بنشرقي ينقذ عموتة بهدف الفوز للأهلي أمام المقاولون العرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/LSNEDEENOJHRXPZPV3HFYAOVZU/"
+  },
+  {
+    "id": "20261103-1630-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/feed-20261103-1630-1-ig.jpg",
+    "caption": "رأسية في اللحظات الأخيرة تصنع الفارق ⚽️\n\nأشرف بنشرقي يمنح الأهلي فوزا بهدف دون رد على المقاولون العرب في كأس عاصمة مصر 🔴\n\nالهدف جاء من عرضية محمد هاني، ويمنح متنفسا للمدرب المغربي الحسين عموتة وسط ضغط الجماهير\n\nالأهلي يتأخر بأربع نقاط عن بيراميدز متصدر الدوري المصري.\n\nكيف تقيمون مساهمة بنشرقي مع الأهلي في هذه المرحلة؟ 💪\n\n#بنشرقي #الأهلي #عموتة #المحترفون_المغاربة #كرة_القدم",
+    "status": "now",
+    "titel": "بنشرقي ينقذ عموتة بهدف الفوز للأهلي أمام المقاولون العرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/LSNEDEENOJHRXPZPV3HFYAOVZU/"
+  },
+  {
+    "id": "20261103-1630-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-1630-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261103-1630-1.jpg",
+    "caption": "رأسية في اللحظات الأخيرة تصنع الفارق ⚽️\n\nأشرف بنشرقي يمنح الأهلي فوزا بهدف دون رد على المقاولون العرب في كأس عاصمة مصر 🔴\n\nالهدف جاء من عرضية محمد هاني، ويمنح متنفسا للمدرب المغربي الحسين عموتة وسط ضغط الجماهير\n\nالأهلي يتأخر بأربع نقاط عن بيراميدز متصدر الدوري المصري.\n\nكيف تقيمون مساهمة بنشرقي مع الأهلي في هذه المرحلة؟ 💪\n\n#بنشرقي #الأهلي #عموتة #المحترفون_المغاربة #كرة_القدم",
+    "status": "now",
+    "titel": "بنشرقي ينقذ عموتة بهدف الفوز للأهلي أمام المقاولون العرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/LSNEDEENOJHRXPZPV3HFYAOVZU/"
+  },
+  {
+    "id": "20261103-1630-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-1630-1-fbstory-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "بنشرقي ينقذ عموتة بهدف الفوز للأهلي أمام المقاولون العرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/LSNEDEENOJHRXPZPV3HFYAOVZU/"
+  },
+  {
+    "id": "20261103-1630-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-1630-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "بنشرقي ينقذ عموتة بهدف الفوز للأهلي أمام المقاولون العرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/LSNEDEENOJHRXPZPV3HFYAOVZU/"
   }
 ]
