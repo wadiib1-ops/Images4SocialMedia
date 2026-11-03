@@ -10751,5 +10751,56 @@
     "status": "published",
     "meta_id": "18115078574149201",
     "published_at": "2026-11-03T22:25:07.223110+00:00"
+  },
+  {
+    "id": "20261104-0030-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261104-0030-1-fb.jpg",
+    "caption": "يتعرض المهاجم المغربي زكرياء أبو خلال لموجة تعليقات عدائية على مواقع التواصل.\n\nجاء ذلك بعد احتكاك أصيب فيه لاعب فروزينوني أنطونيو رايموندو في الكاحل، وتفيد تقارير صحفية بأنه سيغيب نحو ثلاثة أشهر.\n\nوبحسب موقع فوت ميركاتو، تضمنت بعض التعليقات إهانات عنصرية، وطالبه آخرون بالاعتزال. وكان اللاعب قد اعتذر للمصاب وقال إنه لم يكن يقصد إيذاءه.\n\nكيف تقيمون التعامل مع الانتقادات الموجهة للاعبين عبر مواقع التواصل؟\n\n#أبو_خلال #الأسود_المغاربة #كرة_القدم",
+    "status": "now",
+    "titel": "زكرياء أبو خلال يتعرض لتعليقات عنصرية بعد إصابة لاعب فروزينوني",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686233-zakaria-aboukhlal-vise-par-des-insultes-racistes.html"
+  },
+  {
+    "id": "20261104-0030-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261104-0030-1-ig.jpg",
+    "caption": "ما بدأ احتكاكا في الملعب تحول إلى حملة تعليقات على مواقع التواصل 💬\n\nالمهاجم المغربي زكرياء أبو خلال وجد نفسه هدفا لتعليقات عدائية بعد إصابة لاعب فروزينوني أنطونيو رايموندو في الكاحل ⚽ وتتحدث التقارير عن غياب نحو ثلاثة أشهر.\n\nبحسب فوت ميركاتو، احتوت بعض الرسائل على إهانات عنصرية 🚫 فيما دعاه آخرون إلى الاعتزال. اللاعب كان قد اعتذر وأكد أنه لم يقصد إيذاء زميله في الميدان 🤝\n\nما رأيكم في الحد الفاصل بين النقد وتجاوز الحدود تجاه اللاعبين؟\n\n#زكرياء_أبو_خلال #الأسود_المغاربة #تورينو #المحترفون_المغاربة #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "زكرياء أبو خلال يتعرض لتعليقات عنصرية بعد إصابة لاعب فروزينوني",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686233-zakaria-aboukhlal-vise-par-des-insultes-racistes.html"
+  },
+  {
+    "id": "20261104-0030-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261104-0030-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261104-0030-1.jpg",
+    "caption": "ما بدأ احتكاكا في الملعب تحول إلى حملة تعليقات على مواقع التواصل 💬\n\nالمهاجم المغربي زكرياء أبو خلال وجد نفسه هدفا لتعليقات عدائية بعد إصابة لاعب فروزينوني أنطونيو رايموندو في الكاحل ⚽ وتتحدث التقارير عن غياب نحو ثلاثة أشهر.\n\nبحسب فوت ميركاتو، احتوت بعض الرسائل على إهانات عنصرية 🚫 فيما دعاه آخرون إلى الاعتزال. اللاعب كان قد اعتذر وأكد أنه لم يقصد إيذاء زميله في الميدان 🤝\n\nما رأيكم في الحد الفاصل بين النقد وتجاوز الحدود تجاه اللاعبين؟\n\n#زكرياء_أبو_خلال #الأسود_المغاربة #تورينو #المحترفون_المغاربة #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "زكرياء أبو خلال يتعرض لتعليقات عنصرية بعد إصابة لاعب فروزينوني",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686233-zakaria-aboukhlal-vise-par-des-insultes-racistes.html"
+  },
+  {
+    "id": "20261104-0030-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261104-0030-1-fbstory-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "زكرياء أبو خلال يتعرض لتعليقات عنصرية بعد إصابة لاعب فروزينوني",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686233-zakaria-aboukhlal-vise-par-des-insultes-racistes.html"
+  },
+  {
+    "id": "20261104-0030-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261104-0030-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "زكرياء أبو خلال يتعرض لتعليقات عنصرية بعد إصابة لاعب فروزينوني",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686233-zakaria-aboukhlal-vise-par-des-insultes-racistes.html"
   }
 ]
