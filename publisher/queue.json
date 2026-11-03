@@ -9781,5 +9781,56 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-0952-1-story-text.mp4",
     "meta_id": "17885392836522838",
     "published_at": "2026-11-03T08:56:08.512108+00:00"
+  },
+  {
+    "id": "20261103-1030-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261103-1030-1-fb.jpg",
+    "caption": "المكتب المديري للجامعة الملكية المغربية لكرة القدم يعقد اجتماعا يوم الاثنين 9 نونبر 2026 عند منتصف النهار بمقر الجامعة في الرباط.\n\nأوضحت الجامعة في بلاغ رسمي أن الاجتماع سيتناول مواضيع تهم كرة القدم الوطنية، دون الكشف عن جدول الأعمال أو تفاصيل النقاط المطروحة.\n\nآخر اجتماع للمكتب المديري انعقد يوم 3 غشت بالرباط أيضا.\n\nما رأيكم في المواضيع التي ينبغي أن يناقشها هذا الاجتماع؟\n\n#الجامعة_الملكية #كرة_القدم_المغربية #المكتب_المديري",
+    "status": "now",
+    "titel": "المكتب المديري للجامعة يعقد اجتماعا حاسما يوم 9 نونبر",
+    "quelle_url": "https://ar.sport.le360.ma/football/CGN7D7ERDNGRHEMEYA5WQC35EM/"
+  },
+  {
+    "id": "20261103-1030-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261103-1030-1-ig.jpg",
+    "caption": "📢 موعد مهم في أروقة الجامعة: الاثنين 9 نونبر عند الثانية عشرة زوالا.\n\nالمكتب المديري للجامعة الملكية المغربية لكرة القدم يجتمع بمقر الجامعة في الرباط 🏛️ البلاغ الرسمي تحدث عن مواضيع تهم كرة القدم الوطنية، لكن دون تحديد جدول الأعمال.\n\nاللقاء السابق للمكتب كان في 3 غشت، وها هو يعود إلى الواجهة ⚽\n\nما الملف الذي تتمنون أن يتصدر النقاش؟ 👇\n\n#الجامعة_الملكية #كرة_القدم_المغربية #المكتب_المديري #المنتخب_المغربي #الرباط",
+    "status": "now",
+    "titel": "المكتب المديري للجامعة يعقد اجتماعا حاسما يوم 9 نونبر",
+    "quelle_url": "https://ar.sport.le360.ma/football/CGN7D7ERDNGRHEMEYA5WQC35EM/"
+  },
+  {
+    "id": "20261103-1030-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-1030-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261103-1030-1.jpg",
+    "caption": "📢 موعد مهم في أروقة الجامعة: الاثنين 9 نونبر عند الثانية عشرة زوالا.\n\nالمكتب المديري للجامعة الملكية المغربية لكرة القدم يجتمع بمقر الجامعة في الرباط 🏛️ البلاغ الرسمي تحدث عن مواضيع تهم كرة القدم الوطنية، لكن دون تحديد جدول الأعمال.\n\nاللقاء السابق للمكتب كان في 3 غشت، وها هو يعود إلى الواجهة ⚽\n\nما الملف الذي تتمنون أن يتصدر النقاش؟ 👇\n\n#الجامعة_الملكية #كرة_القدم_المغربية #المكتب_المديري #المنتخب_المغربي #الرباط",
+    "status": "now",
+    "titel": "المكتب المديري للجامعة يعقد اجتماعا حاسما يوم 9 نونبر",
+    "quelle_url": "https://ar.sport.le360.ma/football/CGN7D7ERDNGRHEMEYA5WQC35EM/"
+  },
+  {
+    "id": "20261103-1030-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-1030-1-fbstory-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "المكتب المديري للجامعة يعقد اجتماعا حاسما يوم 9 نونبر",
+    "quelle_url": "https://ar.sport.le360.ma/football/CGN7D7ERDNGRHEMEYA5WQC35EM/"
+  },
+  {
+    "id": "20261103-1030-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-1030-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "المكتب المديري للجامعة يعقد اجتماعا حاسما يوم 9 نونبر",
+    "quelle_url": "https://ar.sport.le360.ma/football/CGN7D7ERDNGRHEMEYA5WQC35EM/"
   }
 ]
