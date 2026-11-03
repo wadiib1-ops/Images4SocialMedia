@@ -176,3 +176,6 @@ Das alte Logo ("Morocco Football & Futsal News", auch als Datei `INSTA_Short_Ima
 
 ## Endstand Vorlage (verbindlich, dauerhaft, Nutzerwunsch 03.11.2026; ergänzt "MKN-06-Vorlagen Al Muntakhab")
 `mkn_template.py` setzt den Endstand automatisch um (Funktion `patched`, Vorlagendateien bleiben unverändert): Das Themen-Etikett "المنتخب الوطني" sitzt 48 px weiter rechts als in der Vorlage; das Logo bleibt oben links über dem Foto (Vorlagenposition, NICHT im Footer). Gilt für Feed-Bild (4:5) und Videos (9:16). Foto-Fenster, Farben und Texte unverändert (keine Verschiebung oder Verkleinerung des Fotos). Alle künftigen Läufe bauen Feed-Bild und Videos nur noch so.
+
+## Themen-Etikett oben rechts (verbindlich, dauerhaft, Nutzerwunsch 03.11.2026; ersetzt das feste Etikett "المنتخب الوطني")
+Das Etikett oben rechts in Feed-Bild und Videos nennt das Thema der Meldung und wird mit `mkn_template.py ... --tag "<Thema>"` gesetzt (bei feed und video, Pflicht). Themen zum Beispiel: المنتخب الوطني, الأندية المغربية, البطولة برو, البطولة برو 2, المنتخب النسوي, البطولة الوطنية للسيدات, بطولة إفريقيا للأندية البطلة (ähnlich für Futsal, Jugend, Auslandsprofis). Nur Arabisch, kurz (höchstens ca. 3 Wörter).
