@@ -10142,5 +10142,56 @@
     "status": "published",
     "meta_id": "18130441477695785",
     "published_at": "2026-11-03T13:23:59.796166+00:00"
+  },
+  {
+    "id": "20261103-1520-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261103-1520-1-fb.jpg",
+    "caption": "إصابة جديدة تقلق الجهاز الفني للمنتخب المغربي قبل الإعلان عن اللائحة.\n\nتعرض اللاعب سنادي، لاعب أتلتيك بلباو، لإصابة خلال مباراة فريقه أمام ريال سوسييداد، وتلقى العلاج على أرضية الملعب قبل أن يغادر المباراة.\n\nيتخوف المحيط الفني والجماهير من خطورة الإصابة، ومن المنتظر أن يخضع اللاعب لفحوصات طبية لتحديد نوعها ومدة غيابه.\n\nتأتي الإصابة قبل ساعات من إعلان المدرب محمد وهبي لائحة المنتخب، المقرر أن تلتحق بمعسكر يبدأ يوم 9 نونبر استعدادا لمباراتين أمام النيجر يومي 13 و17 نونبر.\n\nما رأيكم في أهمية الفحوصات الطبية قبل اختيار اللاعبين؟\n\n#المنتخب_المغربي #أسود_الأطلس #سنادي",
+    "status": "now",
+    "titel": "إصابة سنادي تقلق المنتخب المغربي قبل إعلان لائحة الأسود",
+    "quelle_url": "https://ar.sport.le360.ma/football/can/TMEFZEXD7BEPTEQ2NXHNIPJ6AA/"
+  },
+  {
+    "id": "20261103-1520-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261103-1520-1-ig.jpg",
+    "caption": "⚠️ إصابة تقلق الجهاز الفني للأسود قبل لائحة المنتخب\n\nسنادي، لاعب أتلتيك بلباو، غادر مباراة ريال سوسييداد بعد تلقيه العلاج على أرضية الملعب 😟\n\nينتظر أن تحدد الفحوصات الطبية نوع الإصابة ومدة الغياب، فيما يستعد المدرب محمد وهبي للإعلان عن اللائحة قبل معسكر 9 نونبر ومباراتي النيجر يومي 13 و17 نونبر 🦁\n\n#المنتخب_المغربي #أسود_الأطلس #سنادي #أتلتيك_بلباو #وهبي",
+    "status": "now",
+    "titel": "إصابة سنادي تقلق المنتخب المغربي قبل إعلان لائحة الأسود",
+    "quelle_url": "https://ar.sport.le360.ma/football/can/TMEFZEXD7BEPTEQ2NXHNIPJ6AA/"
+  },
+  {
+    "id": "20261103-1520-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-1520-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261103-1520-1.jpg",
+    "caption": "⚠️ إصابة تقلق الجهاز الفني للأسود قبل لائحة المنتخب\n\nسنادي، لاعب أتلتيك بلباو، غادر مباراة ريال سوسييداد بعد تلقيه العلاج على أرضية الملعب 😟\n\nينتظر أن تحدد الفحوصات الطبية نوع الإصابة ومدة الغياب، فيما يستعد المدرب محمد وهبي للإعلان عن اللائحة قبل معسكر 9 نونبر ومباراتي النيجر يومي 13 و17 نونبر 🦁\n\n#المنتخب_المغربي #أسود_الأطلس #سنادي #أتلتيك_بلباو #وهبي",
+    "status": "now",
+    "titel": "إصابة سنادي تقلق المنتخب المغربي قبل إعلان لائحة الأسود",
+    "quelle_url": "https://ar.sport.le360.ma/football/can/TMEFZEXD7BEPTEQ2NXHNIPJ6AA/"
+  },
+  {
+    "id": "20261103-1520-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-1520-1-fbstory-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "إصابة سنادي تقلق المنتخب المغربي قبل إعلان لائحة الأسود",
+    "quelle_url": "https://ar.sport.le360.ma/football/can/TMEFZEXD7BEPTEQ2NXHNIPJ6AA/"
+  },
+  {
+    "id": "20261103-1520-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261103-1520-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "إصابة سنادي تقلق المنتخب المغربي قبل إعلان لائحة الأسود",
+    "quelle_url": "https://ar.sport.le360.ma/football/can/TMEFZEXD7BEPTEQ2NXHNIPJ6AA/"
   }
 ]
