@@ -23,6 +23,19 @@ PAGE = {"fb": "كرة القدم المغربية", "ig": "@moroccanfootballandf
 GEO = {"4x5": dict(win=760, line=1224, ty=905, foff=61), "9x16": dict(win=900, line=1567, ty=1190, foff=75)}
 
 
+def patched(key):
+    """Endstand 03.11.2026: Etikett 48 px nach rechts, Logo aus dem Kopf entfernt und im Footer mittig
+    (senkrecht genau zwischen goldener Linie und unterem Rand). Vorlagendatei bleibt unveraendert."""
+    o = Image.open(OV[key]).convert("RGBA"); g = GEO[key]
+    tag = o.crop((717, 82, 1008, 140))
+    o.paste(Image.new("RGBA", (300, 80), (0, 0, 0, 0)), (717, 70)); o.paste(Image.new("RGBA", (120, 120), (0, 0, 0, 0)), (60, 50))
+    o.paste(tag, (717 + 48, 82))
+    bottom = 1350 if key == "4x5" else 1896
+    lg = Image.open(os.path.join(HERE, "botola-video", "assets", "logo.png")).convert("RGBA").resize((84, 84), Image.LANCZOS)
+    o.alpha_composite(lg, (540 - 42, (g["line"] + bottom) // 2 - 42))
+    return o
+
+
 def today():
     return datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=1))).strftime("%d.%m.%Y")
 
@@ -37,7 +50,7 @@ def footer(d, geo, page, date):
 
 
 def feed(photo, out, title, sub, page, date):
-    o = Image.open(OV["4x5"]).convert("RGBA"); g = GEO["4x5"]
+    o = patched("4x5"); g = GEO["4x5"]
     c = Image.new("RGBA", o.size, GREEN)
     c.paste(ImageOps.fit(Image.open(photo).convert("RGB"), (1080, g["win"]), Image.LANCZOS), (0, 0))
     c.alpha_composite(o); d = ImageDraw.Draw(c)
@@ -52,7 +65,7 @@ def feed(photo, out, title, sub, page, date):
 
 def section_png(text, out, page, date):
     """Transparentes 1080x1920-PNG: Vorlage (Fenster durchsichtig) + Abschnittstext + Footer."""
-    c = Image.open(OV["9x16"]).convert("RGBA"); g = GEO["9x16"]; d = ImageDraw.Draw(c)
+    c = patched("9x16"); g = GEO["9x16"]; d = ImageDraw.Draw(c)
     f = ImageFont.truetype(ft.FONT, 64); lines = ft.wrap(d, text, f, 936)[:5]
     area_top, area_bot = g["win"] + 40, g["line"] - 40
     h = len(lines) * 86; y = area_top + (area_bot - area_top - h) // 2
