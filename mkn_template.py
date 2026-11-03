@@ -24,15 +24,12 @@ GEO = {"4x5": dict(win=760, line=1224, ty=905, foff=61), "9x16": dict(win=900, l
 
 
 def patched(key):
-    """Endstand 03.11.2026: Etikett 48 px nach rechts, Logo aus dem Kopf entfernt und im Footer mittig
-    (senkrecht genau zwischen goldener Linie und unterem Rand). Vorlagendatei bleibt unveraendert."""
+    """Endstand 03.11.2026: Etikett 48 px nach rechts; Logo bleibt oben links auf dem Foto.
+    Vorlagendatei bleibt unveraendert."""
     o = Image.open(OV[key]).convert("RGBA"); g = GEO[key]
     tag = o.crop((717, 82, 1008, 140))
-    o.paste(Image.new("RGBA", (300, 80), (0, 0, 0, 0)), (717, 70)); o.paste(Image.new("RGBA", (120, 120), (0, 0, 0, 0)), (60, 50))
+    o.paste(Image.new("RGBA", (300, 80), (0, 0, 0, 0)), (717, 70))
     o.paste(tag, (717 + 48, 82))
-    bottom = 1350 if key == "4x5" else 1896
-    lg = Image.open(os.path.join(HERE, "botola-video", "assets", "logo.png")).convert("RGBA").resize((84, 84), Image.LANCZOS)
-    o.alpha_composite(lg, (540 - 42, (g["line"] + bottom) // 2 - 42))
     return o
 
 
