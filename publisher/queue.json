@@ -11361,5 +11361,56 @@
     "status": "published",
     "meta_id": "18116391542590524",
     "published_at": "2026-11-04T16:39:58.258180+00:00"
+  },
+  {
+    "id": "20261104-1830-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261104-1830-1-fb.jpg",
+    "caption": "استدعى المدرب محمد وهبي الجناح أيوب أوفقير لأول مرة إلى صفوف المنتخب المغربي.\n\nوُلد اللاعب في روتردام يوم 4 يناير 2006 ويبلغ 20 عاما، ويلعب في الجهة اليمنى من الهجوم، ويلقبونه بـ«زياش الجديد».\n\nبدأ مشواره في نادي دي بيتروكن سبارتان ثم في أكاديمية سبارتا روتردام، وانضم إلى الفريق الأول عام 2024. وفي يناير 2026 التحق بنادي ألكمار الهولندي.\n\nمع منتخب هولندا تحت 19 سنة سجل 7 أهداف في 14 مباراة، ومع تحت 21 سنة هدفين في 4 مباريات.\n\nكيف تقيمون استدعاء أيوب أوفقير إلى المنتخب المغربي؟\n\n#المنتخب_المغربي #أسود_الأطلس #أيوب_أوفقير",
+    "titel": "أيوب أوفقير أول استدعاء للأسود",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686314-lions-de-latlas-qui-est-ayoub-oufkir-le-nouveau-ziyech-convoque-par-ouahbi.html",
+    "status": "now"
+  },
+  {
+    "id": "20261104-1830-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261104-1830-1-ig.jpg",
+    "caption": "🦁 لاعب جديد يطرق باب الأسود!\n\nأيوب أوفقير، جناح أيمن من مواليد روتردام (2006)، نال أول دعوة من وهبي للمنتخب المغربي ⚽\n\nمسيرته: سبارتا روتردام ثم ألكمار منذ يناير 2026، مع 7 أهداف في 14 مباراة مع هولندا تحت 19 سنة.\n\nما رأيكم في هذه الدعوة الأولى؟ 👇\n\n#أسود_الأطلس #أوفقير #المنتخب_المغربي #كرة_القدم #المغرب",
+    "titel": "أيوب أوفقير أول استدعاء للأسود",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686314-lions-de-latlas-qui-est-ayoub-oufkir-le-nouveau-ziyech-convoque-par-ouahbi.html",
+    "status": "now"
+  },
+  {
+    "id": "20261104-1830-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261104-1830-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261104-1830-1.jpg",
+    "caption": "🦁 لاعب جديد يطرق باب الأسود!\n\nأيوب أوفقير، جناح أيمن من مواليد روتردام (2006)، نال أول دعوة من وهبي للمنتخب المغربي ⚽\n\nمسيرته: سبارتا روتردام ثم ألكمار منذ يناير 2026، مع 7 أهداف في 14 مباراة مع هولندا تحت 19 سنة.\n\nما رأيكم في هذه الدعوة الأولى؟ 👇\n\n#أسود_الأطلس #أوفقير #المنتخب_المغربي #كرة_القدم #المغرب",
+    "titel": "أيوب أوفقير أول استدعاء للأسود",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686314-lions-de-latlas-qui-est-ayoub-oufkir-le-nouveau-ziyech-convoque-par-ouahbi.html",
+    "status": "now"
+  },
+  {
+    "id": "20261104-1830-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261104-1830-1-fbstory-text.mp4",
+    "caption": "",
+    "titel": "أيوب أوفقير أول استدعاء للأسود",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686314-lions-de-latlas-qui-est-ayoub-oufkir-le-nouveau-ziyech-convoque-par-ouahbi.html",
+    "status": "now"
+  },
+  {
+    "id": "20261104-1830-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261104-1830-1-story-text.mp4",
+    "caption": "",
+    "titel": "أيوب أوفقير أول استدعاء للأسود",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686314-lions-de-latlas-qui-est-ayoub-oufkir-le-nouveau-ziyech-convoque-par-ouahbi.html",
+    "status": "now"
   }
 ]
