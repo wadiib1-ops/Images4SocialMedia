@@ -21,12 +21,17 @@ GREEN = (11, 61, 46, 255); CREAM = (244, 237, 225); GREY = (190, 185, 178); TAGC
 PAGE = {"fb": "كرة القدم المغربية", "ig": "@moroccanfootballandfutsal"}
 # Geometrie: Fensterhöhe, Linie y, Text-Start y (Feed), Footer-Versatz
 GEO = {"4x5": dict(win=760, line=1224, ty=905, foff=61), "9x16": dict(win=900, line=1567, ty=1190, foff=75)}
+# Kleinerer Textblock (Nutzerwunsch 04.11.2026, dauerhaft): Foto-Fenster waechst um GROW px, gruener Block schrumpft von oben.
+GROW = {"4x5": 100, "9x16": 140}
+for _k in GEO:
+    GEO[_k]["orig"] = GEO[_k]["win"]; GEO[_k]["win"] += GROW[_k]; GEO[_k]["ty"] += GROW[_k] - 60 if _k == "4x5" else 0
 
 
 def patched(key, tag=None):
     """Endstand 03.11.2026: Etikett 48 px nach rechts; Logo bleibt oben links auf dem Foto.
     Vorlagendatei bleibt unveraendert."""
     o = Image.open(OV[key]).convert("RGBA"); g = GEO[key]
+    o.paste(Image.new("RGBA", (o.width, GROW[key]), (0, 0, 0, 0)), (0, g["orig"]))
     tag_img = o.crop((717, 82, 1008, 140))
     o.paste(Image.new("RGBA", (300, 80), (0, 0, 0, 0)), (717, 70))
     if not tag:
@@ -59,7 +64,7 @@ def feed(photo, out, title, sub, page, date, tag=None):
     c.paste(ImageOps.fit(Image.open(photo).convert("RGB"), (1080, g["win"]), Image.LANCZOS), (0, 0))
     c.alpha_composite(o); d = ImageDraw.Draw(c)
     f = ImageFont.truetype(ft.FONT, 70); fs = ImageFont.truetype(ft.FONT_REG, 38); y = g["ty"]
-    for l in ft.wrap(d, title, f, 936)[:3]:
+    for l in ft.wrap(d, title, f, 936)[:2]:
         ft.right_text(d, 1008, y, l, f, CREAM); y += 92
     if sub:
         ft.right_text(d, 1008, y + 20, sub, fs, GREY)
@@ -84,9 +89,10 @@ def video(photo, track, start, sections, page, date, out, tag=None):
     pngs = []
     for i, (t, _) in enumerate(sections, 1):
         p = f"{tmp}-s{i}.png"; section_png(t, p, page, date, tag); pngs.append(p)
+    W = GEO["9x16"]["win"]
     ins = []; fc = [
-        "[0:v]scale=1080:900:force_original_aspect_ratio=increase,crop=1080:900,scale=2160:1800,"
-        "zoompan=z='1+0.35*exp(-7*on/25)+0.045*lt(on,50)*pow(abs(sin(PI*on/25*2)),12)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s=1080x900:fps=25[ph]",
+        f"[0:v]scale=1080:{W}:force_original_aspect_ratio=increase,crop=1080:{W},scale=2160:{2*W},"
+        f"zoompan=z='1+0.35*exp(-7*on/25)+0.045*lt(on,50)*pow(abs(sin(PI*on/25*2)),12)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s=1080x{W}:fps=25[ph]",
         f"[1:v][ph]overlay=0:0[b0]"]
     prev = "b0"; t0 = 0.5
     for i, (_, d_) in enumerate(sections):

@@ -179,3 +179,6 @@ Das alte Logo ("Morocco Football & Futsal News", auch als Datei `INSTA_Short_Ima
 
 ## Themen-Etikett oben rechts (verbindlich, dauerhaft, Nutzerwunsch 03.11.2026; ersetzt das feste Etikett "المنتخب الوطني")
 Das Etikett oben rechts in Feed-Bild und Videos nennt das Thema der Meldung und wird mit `mkn_template.py ... --tag "<Thema>"` gesetzt (bei feed und video, Pflicht). Themen zum Beispiel: المنتخب الوطني, الأندية المغربية, البطولة برو, البطولة برو 2, المنتخب النسوي, البطولة الوطنية للسيدات, بطولة إفريقيا للأندية البطلة (ähnlich für Futsal, Jugend, Auslandsprofis). Nur Arabisch, kurz (höchstens ca. 3 Wörter).
+
+## Kleinerer Textblock (verbindlich, dauerhaft, Nutzerwunsch 04.11.2026; gilt für alle künftigen Läufe)
+Der grüne Textblock mit dem weißen Text ist kleiner, damit mehr vom Foto sichtbar ist: Foto-Fenster im Feed-Bild (4:5) 100 px höher (860 statt 760), im Video (9:16) 140 px höher (1040 statt 900). Umgesetzt in `mkn_template.py` (`GROW`), Vorlagendateien bleiben unverändert. Feed-Schlagzeile höchstens 2 Zeilen. Alle künftigen Läufe bauen Feed-Bild und Videos nur noch so.
