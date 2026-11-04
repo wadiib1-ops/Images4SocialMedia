@@ -21,10 +21,10 @@ GREEN = (11, 61, 46, 255); CREAM = (244, 237, 225); GREY = (190, 185, 178); TAGC
 PAGE = {"fb": "كرة القدم المغربية", "ig": "@moroccanfootballandfutsal"}
 # Geometrie: Fensterhöhe, Linie y, Text-Start y (Feed), Footer-Versatz
 GEO = {"4x5": dict(win=760, line=1224, ty=905, foff=61), "9x16": dict(win=900, line=1567, ty=1190, foff=75)}
-# Kleinerer Textblock (Nutzerwunsch 04.11.2026, dauerhaft): Foto-Fenster waechst um GROW px, gruener Block schrumpft von oben.
-GROW = {"4x5": 100, "9x16": 140}
+# Kleinerer Textblock (Nutzerwunsch 04.11.2026, dauerhaft, nochmals kleiner am selben Tag): Foto-Fenster waechst um GROW px, gruener Block schrumpft von oben.
+GROW = {"4x5": 160, "9x16": 200}
 for _k in GEO:
-    GEO[_k]["orig"] = GEO[_k]["win"]; GEO[_k]["win"] += GROW[_k]; GEO[_k]["ty"] += GROW[_k] - 60 if _k == "4x5" else 0
+    GEO[_k]["orig"] = GEO[_k]["win"]; GEO[_k]["win"] += GROW[_k]; GEO[_k]["ty"] += 60 if _k == "4x5" else 0
 
 
 def patched(key, tag=None):

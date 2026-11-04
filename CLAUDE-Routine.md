@@ -182,3 +182,6 @@ Das Etikett oben rechts in Feed-Bild und Videos nennt das Thema der Meldung und 
 
 ## Kleinerer Textblock (verbindlich, dauerhaft, Nutzerwunsch 04.11.2026; gilt für alle künftigen Läufe)
 Der grüne Textblock mit dem weißen Text ist kleiner, damit mehr vom Foto sichtbar ist: Foto-Fenster im Feed-Bild (4:5) 100 px höher (860 statt 760), im Video (9:16) 140 px höher (1040 statt 900). Umgesetzt in `mkn_template.py` (`GROW`), Vorlagendateien bleiben unverändert. Feed-Schlagzeile höchstens 2 Zeilen. Alle künftigen Läufe bauen Feed-Bild und Videos nur noch so.
+
+## Noch kleinerer Textblock (verbindlich, dauerhaft, Nutzerwunsch 04.11.2026; ersetzt die Maße in "Kleinerer Textblock")
+Der grüne Textblock ist nochmals kleiner, das Foto wird größer: Foto-Fenster im Feed-Bild (4:5) 160 px höher (920 statt 760), im Video (9:16) 200 px höher (1100 statt 900). Umgesetzt in `mkn_template.py` (`GROW`), Vorlagendateien bleiben unverändert. Alle künftigen Läufe bauen Feed-Bild und Videos nur noch so.
