@@ -11551,10 +11551,12 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/kawkab-wydad-20261104-2040-1-fb.jpg",
     "caption": "قمة الجولة السابعة من البطولة الاحترافية بين الكوكب المراكشي والوداد الرياضي.\n\nتقام المباراة يوم السبت 7 نونبر.\n\nالكوكب يتصدر الترتيب برصيد 13 نقطة بقيادة المدرب يوسف السفري.\n\nوالوداد يدخل المباراة بعد فوزين متتاليين تحت قيادة التونسي نصر الدين نابي.\n\nوتنطلق الجولة الجمعة بلقاء حسنية أكادير ونهضة بركان، وتُختتم الأحد بمواجهة الرجاء واتحاد طنجة.\n\nكيف تتوقعون نتيجة مباراة الكوكب والوداد؟\n\n#البطولة_الاحترافية #الكوكب_المراكشي #الوداد",
-    "status": "now",
+    "status": "published",
     "titel": "قمة الكوكب المراكشي والوداد في الجولة السابعة",
     "quelle_url": "https://ar.sport.le360.ma/football/botola/N3BXCET5RBFJLLMELQA2456V4M/",
-    "runde": "7"
+    "runde": "7",
+    "meta_id": "122223301022577271",
+    "published_at": "2026-11-04T19:21:34.597812+00:00"
   },
   {
     "id": "20261104-2040-1-ig-feed",
@@ -11562,10 +11564,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/kawkab-wydad-20261104-2040-1-ig.jpg",
     "caption": "⚽🔥 موعد مع القمة يوم السبت!\n\nالكوكب المراكشي، متصدر الترتيب بـ13 نقطة، يستقبل الوداد الرياضي في الجولة السابعة من البطولة الاحترافية 🏟️\n\nالمدرب يوسف السفري يقود الكوكب، بينما يعتمد الوداد على خبرة التونسي نصر الدين نابي بعد فوزين متتاليين 💪\n\nالجولة تبدأ الجمعة بلقاء حسنية أكادير ونهضة بركان، وتنتهي الأحد بمواجهة الرجاء واتحاد طنجة 📅\n\nمن برأيكم الأقرب إلى الفوز في مراكش؟\n\n#البطولة_الاحترافية #الكوكب_المراكشي #الوداد_الرياضي #كرة_القدم_المغربية #البطولة_برو",
-    "status": "now",
+    "status": "failed",
     "titel": "قمة الكوكب المراكشي والوداد في الجولة السابعة",
     "quelle_url": "https://ar.sport.le360.ma/football/botola/N3BXCET5RBFJLLMELQA2456V4M/",
-    "runde": "7"
+    "runde": "7",
+    "error": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Medien-Download fehlgeschlagen. Die Medien-URI entspricht nicht unseren Anforderungen.\",\"error_user_msg\":\"Die Mediendatei konnte nicht von dieser URI abgerufen werden: https:\\/\\/raw.githubusercontent.com\\/wadiib1-ops\\/Images4SocialMedia\\/main\\/images\\/kawkab-wydad-20261104-2040-1-ig.jpg.Weitere Informationen findest du im Ab"
   },
   {
     "id": "20261104-2040-1-ig-reel",
@@ -11574,10 +11577,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261104-2040-1-reel-text.mp4",
     "caption": "⚽🔥 موعد مع القمة يوم السبت!\n\nالكوكب المراكشي، متصدر الترتيب بـ13 نقطة، يستقبل الوداد الرياضي في الجولة السابعة من البطولة الاحترافية 🏟️\n\nالمدرب يوسف السفري يقود الكوكب، بينما يعتمد الوداد على خبرة التونسي نصر الدين نابي بعد فوزين متتاليين 💪\n\nالجولة تبدأ الجمعة بلقاء حسنية أكادير ونهضة بركان، وتنتهي الأحد بمواجهة الرجاء واتحاد طنجة 📅\n\nمن برأيكم الأقرب إلى الفوز في مراكش؟\n\n#البطولة_الاحترافية #الكوكب_المراكشي #الوداد_الرياضي #كرة_القدم_المغربية #البطولة_برو",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261104-2040-1.jpg",
-    "status": "now",
+    "status": "published",
     "titel": "قمة الكوكب المراكشي والوداد في الجولة السابعة",
     "quelle_url": "https://ar.sport.le360.ma/football/botola/N3BXCET5RBFJLLMELQA2456V4M/",
-    "runde": "7"
+    "runde": "7",
+    "meta_id": "18040345646851948",
+    "published_at": "2026-11-04T19:21:34.597812+00:00"
   },
   {
     "id": "20261104-2040-1-fb-story",
@@ -11585,10 +11590,12 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261104-2040-1-fbstory-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "قمة الكوكب المراكشي والوداد في الجولة السابعة",
     "quelle_url": "https://ar.sport.le360.ma/football/botola/N3BXCET5RBFJLLMELQA2456V4M/",
-    "runde": "7"
+    "runde": "7",
+    "meta_id": "1507907494481282",
+    "published_at": "2026-11-04T19:21:34.597812+00:00"
   },
   {
     "id": "20261104-2040-1-ig-story",
@@ -11596,9 +11603,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261104-2040-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "قمة الكوكب المراكشي والوداد في الجولة السابعة",
     "quelle_url": "https://ar.sport.le360.ma/football/botola/N3BXCET5RBFJLLMELQA2456V4M/",
-    "runde": "7"
+    "runde": "7",
+    "meta_id": "18035166380886692",
+    "published_at": "2026-11-04T19:21:34.597812+00:00"
   }
 ]
