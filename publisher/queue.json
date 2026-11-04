@@ -11300,5 +11300,56 @@
     "status": "published",
     "meta_id": "18116546752855218",
     "published_at": "2026-11-04T16:22:53.509960+00:00"
+  },
+  {
+    "id": "20261104-1745-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261104-1745-1-fb.jpg",
+    "caption": "أسفرت قرعة كأس أمم إفريقيا للكرة الشاطئية عن وقوع المنتخب المغربي في المجموعة الثانية إلى جانب موريتانيا ومالاوي وأنغولا.\n\nوتضم المجموعة الأولى منتخبات السنغال والموزمبيق وأوغندا وغانا.\n\nوتستضيف السنغال البطولة في الفترة من 28 نونبر إلى 6 دجنبر 2026.\n\nكيف تقيمون حظوظ المنتخب المغربي في هذه المجموعة؟\n\n#الكرة_الشاطئية #المغرب #كأس_إفريقيا",
+    "titel": "قرعة الكرة الشاطئية: المغرب مع موريتانيا ومالاوي وأنغولا",
+    "quelle_url": "https://www.hespress.com/%d9%86%d8%aa%d9%8a%d8%ac%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%81%d9%8a-%d9%82%d8%b1%d8%b9%d8%a9-%d9%83%d8%a7%d9%86-%d8%a7%d9%84%d8%b4%d8%a7%d8%b7%d8%a6-1834626.html",
+    "status": "now"
+  },
+  {
+    "id": "20261104-1745-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261104-1745-1-ig.jpg",
+    "caption": "المنتخب المغربي للكرة الشاطئية يعرف خصومه في كأس إفريقيا 🏖️\n\nالقرعة وضعت المغرب في المجموعة الثانية أمام موريتانيا ومالاوي وأنغولا ⚽\n\nوفي المجموعة الأولى تلتقي السنغال والموزمبيق وأوغندا وغانا.\n\nتنطلق البطولة في السنغال يوم 28 نونبر وتستمر حتى 6 دجنبر 2026 📅\n\nكيف تقيمون حظوظ المنتخب المغربي في هذه المجموعة؟\n\n#المغرب #الكرة_الشاطئية #كأس_إفريقيا #المنتخب_المغربي #السنغال",
+    "titel": "قرعة الكرة الشاطئية: المغرب مع موريتانيا ومالاوي وأنغولا",
+    "quelle_url": "https://www.hespress.com/%d9%86%d8%aa%d9%8a%d8%ac%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%81%d9%8a-%d9%82%d8%b1%d8%b9%d8%a9-%d9%83%d8%a7%d9%86-%d8%a7%d9%84%d8%b4%d8%a7%d8%b7%d8%a6-1834626.html",
+    "status": "now"
+  },
+  {
+    "id": "20261104-1745-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261104-1745-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261104-1745-1.jpg",
+    "caption": "المنتخب المغربي للكرة الشاطئية يعرف خصومه في كأس إفريقيا 🏖️\n\nالقرعة وضعت المغرب في المجموعة الثانية أمام موريتانيا ومالاوي وأنغولا ⚽\n\nوفي المجموعة الأولى تلتقي السنغال والموزمبيق وأوغندا وغانا.\n\nتنطلق البطولة في السنغال يوم 28 نونبر وتستمر حتى 6 دجنبر 2026 📅\n\nكيف تقيمون حظوظ المنتخب المغربي في هذه المجموعة؟\n\n#المغرب #الكرة_الشاطئية #كأس_إفريقيا #المنتخب_المغربي #السنغال",
+    "titel": "قرعة الكرة الشاطئية: المغرب مع موريتانيا ومالاوي وأنغولا",
+    "quelle_url": "https://www.hespress.com/%d9%86%d8%aa%d9%8a%d8%ac%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%81%d9%8a-%d9%82%d8%b1%d8%b9%d8%a9-%d9%83%d8%a7%d9%86-%d8%a7%d9%84%d8%b4%d8%a7%d8%b7%d8%a6-1834626.html",
+    "status": "now"
+  },
+  {
+    "id": "20261104-1745-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261104-1745-1-fbstory-text.mp4",
+    "caption": "",
+    "titel": "قرعة الكرة الشاطئية: المغرب مع موريتانيا ومالاوي وأنغولا",
+    "quelle_url": "https://www.hespress.com/%d9%86%d8%aa%d9%8a%d8%ac%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%81%d9%8a-%d9%82%d8%b1%d8%b9%d8%a9-%d9%83%d8%a7%d9%86-%d8%a7%d9%84%d8%b4%d8%a7%d8%b7%d8%a6-1834626.html",
+    "status": "now"
+  },
+  {
+    "id": "20261104-1745-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261104-1745-1-reel-text.mp4",
+    "caption": "",
+    "titel": "قرعة الكرة الشاطئية: المغرب مع موريتانيا ومالاوي وأنغولا",
+    "quelle_url": "https://www.hespress.com/%d9%86%d8%aa%d9%8a%d8%ac%d8%a9-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%81%d9%8a-%d9%82%d8%b1%d8%b9%d8%a9-%d9%83%d8%a7%d9%86-%d8%a7%d9%84%d8%b4%d8%a7%d8%b7%d8%a6-1834626.html",
+    "status": "now"
   }
 ]
