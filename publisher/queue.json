@@ -12339,5 +12339,56 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261105-1810-1-story-text.mp4",
     "meta_id": "18111677429620453",
     "published_at": "2026-11-05T17:13:08.946160+00:00"
+  },
+  {
+    "platform": "facebook",
+    "type": "photo",
+    "caption": "أعلن هشام الدكيك، مدرب المنتخب المغربي للفوتسال، عن لائحة من 20 لاعبا لخوض مباراتين وديتين أمام منتخب اليابان.\n\nتقام المباراتان يومي 6 و8 نونبر 2026 بمدينة أويتا اليابانية.\n\nالأولى يوم الجمعة 6 نونبر على الساعة 11:00 بتوقيت المغرب، والثانية يوم الأحد 8 نونبر على الساعة 05:00 بتوقيت المغرب.\n\nكيف تقيّمون اختيارات المدرب لهذه المواجهتين؟\n\n#الفوتسال #المنتخب_المغربي #اليابان",
+    "titel": "الدكيك يعلن لائحة من 20 لاعبا لمواجهتي اليابان وديا",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/4HJFK5OSURFS7NGNKDPA5RZGUU/?v=2",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261105-1835-1-fb.jpg",
+    "id": "20261105-1835-1-fb-feed",
+    "status": "now"
+  },
+  {
+    "platform": "instagram",
+    "type": "photo",
+    "caption": "⚽ الفوتسال المغربي يتوجه إلى اليابان! 🥅\n\nالدكيك كشف عن لائحة من 20 لاعبا لمباراتين وديتين أمام اليابان في مدينة أويتا ⚡\n\n📅 الجمعة 6 نونبر، 11:00 بتوقيت المغرب\n📅 الأحد 8 نونبر، 05:00 بتوقيت المغرب\n\nاستعدادات جديدة للمنتخب 🔥\n\n#فوتسال #المغرب #أسود_الأطلس #اليابان #كرة_القدم",
+    "titel": "الدكيك يعلن لائحة من 20 لاعبا لمواجهتي اليابان وديا",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/4HJFK5OSURFS7NGNKDPA5RZGUU/?v=2",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261105-1835-1-ig.jpg",
+    "id": "20261105-1835-1-ig-feed",
+    "status": "now"
+  },
+  {
+    "platform": "instagram",
+    "type": "reel",
+    "caption": "⚽ الفوتسال المغربي يتوجه إلى اليابان! 🥅\n\nالدكيك كشف عن لائحة من 20 لاعبا لمباراتين وديتين أمام اليابان في مدينة أويتا ⚡\n\n📅 الجمعة 6 نونبر، 11:00 بتوقيت المغرب\n📅 الأحد 8 نونبر، 05:00 بتوقيت المغرب\n\nاستعدادات جديدة للمنتخب 🔥\n\n#فوتسال #المغرب #أسود_الأطلس #اليابان #كرة_القدم",
+    "titel": "الدكيك يعلن لائحة من 20 لاعبا لمواجهتي اليابان وديا",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/4HJFK5OSURFS7NGNKDPA5RZGUU/?v=2",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261105-1835-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261105-1835-1.jpg",
+    "id": "20261105-1835-1-ig-reel",
+    "status": "now"
+  },
+  {
+    "platform": "facebook",
+    "type": "story",
+    "caption": "",
+    "titel": "الدكيك يعلن لائحة من 20 لاعبا لمواجهتي اليابان وديا",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/4HJFK5OSURFS7NGNKDPA5RZGUU/?v=2",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261105-1835-1-fbstory-text.mp4",
+    "id": "20261105-1835-1-fb-story",
+    "status": "now"
+  },
+  {
+    "platform": "instagram",
+    "type": "story",
+    "caption": "",
+    "titel": "الدكيك يعلن لائحة من 20 لاعبا لمواجهتي اليابان وديا",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/4HJFK5OSURFS7NGNKDPA5RZGUU/?v=2",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261105-1835-1-story-text.mp4",
+    "id": "20261105-1835-1-ig-story",
+    "status": "now"
   }
 ]
