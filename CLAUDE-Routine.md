@@ -191,3 +191,6 @@ Instagram-Reel, Facebook-Story und Instagram-Story zeigen oben im grünen Textbl
 
 ## Footer weit unten im Video (verbindlich, dauerhaft, Nutzerwunsch 05.11.2026)
 Datum und Seitenname im Footer der 9:16-Videos (Reel, Facebook-Story, Instagram-Story) stehen weit unten (y = 1810, über dem roten Balken). Umgesetzt in `mkn_template.py` (`foff` 243). Das Feed-Bild (4:5) bleibt unverändert.
+
+## Text weiter unten im grünen Band (verbindlich, dauerhaft, Nutzerwunsch 05.11.2026)
+In Reel und Stories beginnt der Abschnittstext 70 px tiefer unter der Abschnitts-Anzeige (Zähler/Punktreihe), damit er nicht an sie stößt (`area_top` = Fenster + 110 in `mkn_template.py`).

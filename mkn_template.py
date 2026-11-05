@@ -76,7 +76,7 @@ def section_png(text, out, page, date, tag=None, idx=None, total=None):
     """Transparentes 1080x1920-PNG: Vorlage (Fenster durchsichtig) + Abschnittstext + Footer."""
     c = patched("9x16", tag); g = GEO["9x16"]; d = ImageDraw.Draw(c)
     f = ImageFont.truetype(ft.FONT, 64); lines = ft.wrap(d, text, f, 936)[:5]
-    area_top, area_bot = g["win"] + 40, g["line"] - 40
+    area_top, area_bot = g["win"] + 110, g["line"] - 30
     h = len(lines) * 86; y = area_top + (area_bot - area_top - h) // 2
     for l in lines:
         ft.right_text(d, 1008, y, l, f, CREAM); y += 86
