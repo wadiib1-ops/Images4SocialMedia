@@ -12348,7 +12348,9 @@
     "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/4HJFK5OSURFS7NGNKDPA5RZGUU/?v=2",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261105-1835-1-fb.jpg",
     "id": "20261105-1835-1-fb-feed",
-    "status": "now"
+    "status": "published",
+    "meta_id": "122223481454577271",
+    "published_at": "2026-11-05T17:23:32.658066+00:00"
   },
   {
     "platform": "instagram",
@@ -12358,7 +12360,9 @@
     "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/4HJFK5OSURFS7NGNKDPA5RZGUU/?v=2",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261105-1835-1-ig.jpg",
     "id": "20261105-1835-1-ig-feed",
-    "status": "now"
+    "status": "published",
+    "meta_id": "18133913593750761",
+    "published_at": "2026-11-05T17:23:32.658066+00:00"
   },
   {
     "platform": "instagram",
@@ -12369,7 +12373,9 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261105-1835-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261105-1835-1.jpg",
     "id": "20261105-1835-1-ig-reel",
-    "status": "now"
+    "status": "published",
+    "meta_id": "18142851703712695",
+    "published_at": "2026-11-05T17:23:32.658066+00:00"
   },
   {
     "platform": "facebook",
@@ -12379,7 +12385,9 @@
     "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/4HJFK5OSURFS7NGNKDPA5RZGUU/?v=2",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261105-1835-1-fbstory-text.mp4",
     "id": "20261105-1835-1-fb-story",
-    "status": "now"
+    "status": "published",
+    "meta_id": "1032630903182716",
+    "published_at": "2026-11-05T17:23:32.658066+00:00"
   },
   {
     "platform": "instagram",
@@ -12389,6 +12397,8 @@
     "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/4HJFK5OSURFS7NGNKDPA5RZGUU/?v=2",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261105-1835-1-story-text.mp4",
     "id": "20261105-1835-1-ig-story",
-    "status": "now"
+    "status": "published",
+    "meta_id": "18110278583294853",
+    "published_at": "2026-11-05T17:23:32.658066+00:00"
   }
 ]
