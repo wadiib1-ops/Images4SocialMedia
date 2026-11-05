@@ -20,7 +20,7 @@ OV = {"4x5": os.path.join(HERE, "vorlagen", "MKN_06_AlMuntakhab_4x5_Overlay.png"
 GREEN = (11, 61, 46, 255); CREAM = (244, 237, 225); GREY = (190, 185, 178); TAGCOL = (10, 60, 45, 255)
 PAGE = {"fb": "كرة القدم المغربية", "ig": "@moroccanfootballandfutsal"}
 # Geometrie: Fensterhöhe, Linie y, Text-Start y (Feed), Footer-Versatz
-GEO = {"4x5": dict(win=760, line=1224, ty=905, foff=61), "9x16": dict(win=900, line=1567, ty=1190, foff=75)}
+GEO = {"4x5": dict(win=760, line=1224, ty=905, foff=61), "9x16": dict(win=900, line=1567, ty=1190, foff=243)}
 # Kleinerer Textblock (Nutzerwunsch 04.11.2026, dauerhaft, nochmals kleiner am selben Tag): Foto-Fenster waechst um GROW px, gruener Block schrumpft von oben.
 GROW = {"4x5": 160, "9x16": 200}
 for _k in GEO:

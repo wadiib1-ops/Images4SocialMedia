@@ -188,3 +188,6 @@ Der grüne Textblock ist nochmals kleiner, das Foto wird größer: Foto-Fenster 
 
 ## Abschnitts-Anzeige in Reel und Stories (verbindlich, dauerhaft, Nutzerwunsch 05.11.2026; gilt für alle künftigen Läufe)
 Instagram-Reel, Facebook-Story und Instagram-Story zeigen oben im grünen Textblock, welcher Textabschnitt gerade läuft: links ein Zähler "k/n" (z. B. 2/5), rechts eine Punktreihe mit n Punkten, der aktuelle Punkt rot und größer. Umgesetzt in `mkn_template.py` (`section_png`, automatisch bei `video`; bei nur einem Abschnitt entfällt die Anzeige). Nicht am Feed-Bild.
+
+## Footer weit unten im Video (verbindlich, dauerhaft, Nutzerwunsch 05.11.2026)
+Datum und Seitenname im Footer der 9:16-Videos (Reel, Facebook-Story, Instagram-Story) stehen weit unten (y = 1810, über dem roten Balken). Umgesetzt in `mkn_template.py` (`foff` 243). Das Feed-Bild (4:5) bleibt unverändert.
