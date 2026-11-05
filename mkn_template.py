@@ -72,7 +72,7 @@ def feed(photo, out, title, sub, page, date, tag=None):
     c.convert("RGB").save(out, quality=92)
 
 
-def section_png(text, out, page, date, tag=None):
+def section_png(text, out, page, date, tag=None, idx=None, total=None):
     """Transparentes 1080x1920-PNG: Vorlage (Fenster durchsichtig) + Abschnittstext + Footer."""
     c = patched("9x16", tag); g = GEO["9x16"]; d = ImageDraw.Draw(c)
     f = ImageFont.truetype(ft.FONT, 64); lines = ft.wrap(d, text, f, 936)[:5]
@@ -81,6 +81,14 @@ def section_png(text, out, page, date, tag=None):
     for l in lines:
         ft.right_text(d, 1008, y, l, f, CREAM); y += 86
     footer(d, g, PAGE[page], date)
+    if idx and total and total > 1:  # Abschnitts-Anzeige (Nutzerwunsch 05.11.2026): Zaehler "k/n" + Punktreihe
+        yy = g["win"] + 14; cf = ImageFont.truetype(ft.FONT, 30)
+        d.text((72, yy - 6), f"{idx}/{total}", font=cf, fill=GREY)
+        r = 9; gap = 34; x0 = 1008 - (total - 1) * gap - r
+        for k in range(total):
+            cx = x0 + k * gap; cy = yy + 14
+            if k == idx - 1: d.ellipse((cx - r, cy - r, cx + r, cy + r), fill=(193, 39, 45, 255))
+            else: d.ellipse((cx - r + 2, cy - r + 2, cx + r - 2, cy + r - 2), fill=GREY)
     c.save(out)
 
 
@@ -88,7 +96,7 @@ def video(photo, track, start, sections, page, date, out, tag=None):
     D = 0.5 + sum(s[1] for s in sections); tmp = os.path.splitext(out)[0]
     pngs = []
     for i, (t, _) in enumerate(sections, 1):
-        p = f"{tmp}-s{i}.png"; section_png(t, p, page, date, tag); pngs.append(p)
+        p = f"{tmp}-s{i}.png"; section_png(t, p, page, date, tag, i, len(sections)); pngs.append(p)
     W = GEO["9x16"]["win"]
     ins = []; fc = [
         f"[0:v]scale=1080:{W}:force_original_aspect_ratio=increase,crop=1080:{W},scale=2160:{2*W},"
