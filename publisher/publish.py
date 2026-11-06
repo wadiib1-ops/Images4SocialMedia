@@ -131,11 +131,38 @@ def publish_facebook_video_upload(entry, token, edge, **finish):
     return video_id
 
 
+def set_facebook_thumbnail(video_id, cover_url, token):
+    """Titelbild (Thumbnail) fuer ein Facebook-Reel setzen (Fehler brechen die Veroeffentlichung nicht ab)."""
+    try:
+        ptoken = page_token(token)
+        with urllib.request.urlopen(urllib.request.Request(
+                cover_url, headers={"User-Agent": "Mozilla/5.0"}), timeout=60) as r:
+            img = r.read()
+        b = "----cover" + str(int(time.time()))
+        parts = []
+        for k, v in (("is_preferred", "true"), ("access_token", ptoken)):
+            parts.append(f'--{b}\r\nContent-Disposition: form-data; name="{k}"\r\n\r\n{v}\r\n'.encode())
+        parts.append((f'--{b}\r\nContent-Disposition: form-data; name="source"; filename="cover.jpg"\r\n'
+                      'Content-Type: image/jpeg\r\n\r\n').encode() + img + b"\r\n")
+        parts.append(f"--{b}--\r\n".encode())
+        req = urllib.request.Request(
+            f"https://graph.facebook.com/v21.0/{video_id}/thumbnails", data=b"".join(parts), method="POST",
+            headers={"Content-Type": f"multipart/form-data; boundary={b}"})
+        with urllib.request.urlopen(req, timeout=120) as r:
+            r.read()
+    except Exception as e:
+        print("Thumbnail-Fehler:", str(e).replace(token, "***")[:200])
+
+
 def publish_facebook(entry, token):
     if entry["type"] == "reel":
-        return publish_facebook_video_upload(
+        vid = publish_facebook_video_upload(
             entry, token, "video_reels", video_state="PUBLISHED",
             description=entry.get("caption", ""))
+        if entry.get("cover_url"):
+            time.sleep(20)
+            set_facebook_thumbnail(vid, entry["cover_url"], token)
+        return vid
     if entry["type"] == "story":
         return publish_facebook_video_upload(entry, token, "video_stories")
     if entry["type"] == "video":
