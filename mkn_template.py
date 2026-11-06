@@ -51,7 +51,7 @@ def today():
 
 # Platz fuer die Facebook-Buttons (Like, Kommentar, Teilen) rechts im 9:16-Video (Nutzerwunsch 06.11.2026, dauerhaft):
 # Text im gruenen Balken, goldene Linie, Footer und Punktreihe enden bei x = RX statt 1008.
-RX = 856
+RX = 932
 
 
 def footer(d, geo, page, date, rx=1008):
