@@ -200,3 +200,6 @@ Pro Meldung wird zusätzlich ein Facebook-Reel angelegt: `platform: "facebook"`,
 
 ## Einladendes Reel-Titelbild für ALLE Reels (verbindlich, dauerhaft, Nutzerwunsch 06.11.2026; erweitert "Reel-Titelbild")
 Jedes Reel (Instagram UND Facebook) bekommt `cover_url`: ein einladendes Standbild bei Sekunde 4 aus dem jeweiligen Reel-Video (Foto, Logo, Themen-Etikett und Textabschnitt sichtbar, 1080x1920), nie das erste Videobild (das ist der weiße Start-Blitz = weiße Seite). Beim `fb-reel`-Eintrag Cover aus `...-fbstory-text.mp4`, beim `ig-reel`-Eintrag aus `...-reel-text.mp4`; Dateien `images/cover-<Zeit>-<n>.jpg` bzw. `images/cover-<Zeit>-<n>-fb.jpg`, per curl auf HTTP 200 prüfen. Bild vor dem Eintrag ansehen: keine weiße oder leere Fläche. `publish.py` setzt das Facebook-Thumbnail nach dem Hochladen per `/{video_id}/thumbnails` (is_preferred).
+
+## Platz für Facebook-Buttons rechts (verbindlich, dauerhaft, Nutzerwunsch 06.11.2026; gilt für alle 9:16-Videos: Reels und Stories)
+Der Text im grünen Balken, die goldene Linie darunter, der Footer-Text (Seitenname rechts) und die Punktreihe der Abschnitts-Anzeige enden rechts bei x = 856 statt 1008, damit Like-, Kommentar- und Teilen-Buttons von Facebook frei bleiben. Umgesetzt in `mkn_template.py` (`RX`); das Datum links bleibt. Feed-Bild (4:5) unverändert.

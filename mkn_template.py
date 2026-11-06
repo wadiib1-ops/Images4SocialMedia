@@ -49,12 +49,17 @@ def today():
     return datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=1))).strftime("%d.%m.%Y")
 
 
-def footer(d, geo, page, date):
+# Platz fuer die Facebook-Buttons (Like, Kommentar, Teilen) rechts im 9:16-Video (Nutzerwunsch 06.11.2026, dauerhaft):
+# Text im gruenen Balken, goldene Linie, Footer und Punktreihe enden bei x = RX statt 1008.
+RX = 856
+
+
+def footer(d, geo, page, date, rx=1008):
     ff = ImageFont.truetype(ft.FONT, 34); fy = geo["line"] + geo["foff"]
     if page.startswith("@"):
-        d.text((1008 - d.textlength(page, font=ff), fy), page, font=ff, fill=CREAM)
+        d.text((rx - d.textlength(page, font=ff), fy), page, font=ff, fill=CREAM)
     else:
-        ft.right_text(d, 1008, fy, page, ff, CREAM)
+        ft.right_text(d, rx, fy, page, ff, CREAM)
     d.text((72, fy), date, font=ff, fill=GREY)
 
 
@@ -75,16 +80,17 @@ def feed(photo, out, title, sub, page, date, tag=None):
 def section_png(text, out, page, date, tag=None, idx=None, total=None):
     """Transparentes 1080x1920-PNG: Vorlage (Fenster durchsichtig) + Abschnittstext + Footer."""
     c = patched("9x16", tag); g = GEO["9x16"]; d = ImageDraw.Draw(c)
-    f = ImageFont.truetype(ft.FONT, 64); lines = ft.wrap(d, text, f, 936)[:5]
+    d.rectangle((RX + 1, g["line"] - 4, 1079, g["line"] + 4), fill=GREEN)  # goldene Linie endet bei RX
+    f = ImageFont.truetype(ft.FONT, 64); lines = ft.wrap(d, text, f, RX - 72)[:5]
     area_top, area_bot = g["win"] + 110, g["line"] - 30
     h = len(lines) * 86; y = area_top + (area_bot - area_top - h) // 2
     for l in lines:
-        ft.right_text(d, 1008, y, l, f, CREAM); y += 86
-    footer(d, g, PAGE[page], date)
+        ft.right_text(d, RX, y, l, f, CREAM); y += 86
+    footer(d, g, PAGE[page], date, RX)
     if idx and total and total > 1:  # Abschnitts-Anzeige (Nutzerwunsch 05.11.2026): Zaehler "k/n" + Punktreihe
         yy = g["win"] + 14; cf = ImageFont.truetype(ft.FONT, 30)
         d.text((72, yy - 6), f"{idx}/{total}", font=cf, fill=GREY)
-        r = 9; gap = 34; x0 = 1008 - (total - 1) * gap - r
+        r = 9; gap = 34; x0 = RX - (total - 1) * gap - r
         for k in range(total):
             cx = x0 + k * gap; cy = yy + 14
             if k == idx - 1: d.ellipse((cx - r, cy - r, cx + r, cy + r), fill=(193, 39, 45, 255))
