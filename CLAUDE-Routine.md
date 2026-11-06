@@ -203,3 +203,6 @@ Jedes Reel (Instagram UND Facebook) bekommt `cover_url`: ein einladendes Standbi
 
 ## Platz für Facebook-Buttons rechts (verbindlich, dauerhaft, Nutzerwunsch 06.11.2026; gilt für alle 9:16-Videos: Reels und Stories)
 Der Text im grünen Balken, die goldene Linie darunter, der Footer-Text (Seitenname rechts) und die Punktreihe der Abschnitts-Anzeige enden rechts bei x = 932 statt 1008 (Nutzerwunsch 06.11.2026: halber Versatz, vorher 856), damit Like-, Kommentar- und Teilen-Buttons von Facebook frei bleiben. Umgesetzt in `mkn_template.py` (`RX`); das Datum links bleibt. Feed-Bild (4:5) unverändert.
+
+## Logo und Themen-Etikett oben im Video 70 px tiefer (verbindlich, dauerhaft, Nutzerwunsch 06.11.2026; gilt für alle 9:16-Videos: Reels und Stories)
+Logo (links) und Themen-Etikett (rechts) ganz oben stehen 70 px weiter unten, damit Such-Symbol und Button der App oben frei bleiben. Umgesetzt in `mkn_template.py` (`TOPDY`, Funktion `patched`); Feed-Bild (4:5) und Vorlagendateien unverändert.

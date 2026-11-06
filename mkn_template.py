@@ -27,21 +27,29 @@ for _k in GEO:
     GEO[_k]["orig"] = GEO[_k]["win"]; GEO[_k]["win"] += GROW[_k]; GEO[_k]["ty"] += 60 if _k == "4x5" else 0
 
 
+TOPDY = 70  # Versatz von Logo und Etikett im 9:16-Video
+
+
 def patched(key, tag=None):
     """Endstand 03.11.2026: Etikett 48 px nach rechts; Logo bleibt oben links auf dem Foto.
     Vorlagendatei bleibt unveraendert."""
     o = Image.open(OV[key]).convert("RGBA"); g = GEO[key]
     o.paste(Image.new("RGBA", (o.width, GROW[key]), (0, 0, 0, 0)), (0, g["orig"]))
+    # Logo und Themen-Etikett oben im 9:16-Video minimal nach unten (Nutzerwunsch 06.11.2026, dauerhaft):
+    # damit Such-Symbol und Button der App oben frei bleiben. Feed-Bild (4:5) unveraendert.
+    dy = TOPDY if key == "9x16" else 0
+    if dy:
+        logo = o.crop((30, 20, 260, 175)); o.paste(Image.new("RGBA", logo.size, (0, 0, 0, 0)), (30, 20)); o.alpha_composite(logo, (30, 20 + dy))
     tag_img = o.crop((717, 82, 1008, 140))
     o.paste(Image.new("RGBA", (300, 80), (0, 0, 0, 0)), (717, 70))
     if not tag:
-        o.paste(tag_img, (717 + 48, 82))
+        o.paste(tag_img, (717 + 48, 82 + dy))
         return o
     # Generisches Themen-Etikett (Nutzerwunsch 03.11.2026): Thema der Meldung, rechtsbündig bei x=1056
     d = ImageDraw.Draw(o); f = ImageFont.truetype(ft.FONT, 34)
     w = int(d.textlength(tag, font=f, direction="rtl", language="ar")) + 48
-    box = Image.new("RGBA", (w, 58), (244, 239, 230, 255)); o.paste(box, (1056 - w, 82))
-    ImageDraw.Draw(o).text((1056 - 24 - (w - 48), 82 + 8), tag, font=f, fill=TAGCOL, direction="rtl", language="ar")
+    box = Image.new("RGBA", (w, 58), (244, 239, 230, 255)); o.paste(box, (1056 - w, 82 + dy))
+    ImageDraw.Draw(o).text((1056 - 24 - (w - 48), 82 + dy + 8), tag, font=f, fill=TAGCOL, direction="rtl", language="ar")
     return o
 
 
