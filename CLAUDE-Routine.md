@@ -206,3 +206,6 @@ Der Text im grünen Balken, die goldene Linie darunter, der Footer-Text (Seitenn
 
 ## Logo und Themen-Etikett oben im Video 70 px tiefer (verbindlich, dauerhaft, Nutzerwunsch 06.11.2026; gilt für alle 9:16-Videos: Reels und Stories)
 Logo (links) und Themen-Etikett (rechts) ganz oben stehen 70 px weiter unten, damit Such-Symbol und Button der App oben frei bleiben. Umgesetzt in `mkn_template.py` (`TOPDY`, Funktion `patched`); Feed-Bild (4:5) und Vorlagendateien unverändert.
+
+## Facebook-Reel eine Stunde nach dem Facebook-Feed (verbindlich, dauerhaft, Nutzerwunsch 06.11.2026; Ausnahme zu "SOFORT VERÖFFENTLICHEN")
+Der `fb-reel`-Eintrag bekommt NICHT `status: "now"`, sondern `status: "scheduled"` mit `publish_at` = Veröffentlichungszeit des Facebook-Feeds + 1 Stunde (Berliner Zeit mit Zeitzonen-Versatz, z. B. `+01:00`). Alle anderen Einträge der Meldung (FB-Feed, IG-Feed, IG-Reel, FB-Story, IG-Story) bleiben `status: "now"`. Die Verzögerung übernimmt der 15-Minuten-Takt von `publish.yml`; das Reel-Video und das Cover müssen bis dahin erreichbar bleiben (Videos nach über 2 Tagen, Bilder nach über 3 Tagen löschen, also unkritisch). Im Bericht die geplante Reel-Zeit nennen und den Status des Reels erst nach dem Fälligkeitszeitpunkt prüfen.
