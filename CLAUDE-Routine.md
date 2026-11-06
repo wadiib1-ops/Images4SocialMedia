@@ -194,3 +194,6 @@ Datum und Seitenname im Footer der 9:16-Videos (Reel, Facebook-Story, Instagram-
 
 ## Text weiter unten im grünen Band (verbindlich, dauerhaft, Nutzerwunsch 05.11.2026)
 In Reel und Stories beginnt der Abschnittstext 70 px tiefer unter der Abschnitts-Anzeige (Zähler/Punktreihe), damit er nicht an sie stößt (`area_top` = Fenster + 110 in `mkn_template.py`).
+
+## Facebook-Reel wieder aktiv (verbindlich, dauerhaft, Nutzerwunsch 06.11.2026; ersetzt "Facebook-Reel entfällt" in dieser Datei, PROMPT.md und CLAUDE.md)
+Pro Meldung wird zusätzlich ein Facebook-Reel angelegt: `platform: "facebook"`, `type: "reel"`, `video_url` = `musik-<Zeit>-<n>-fbstory-text.mp4` (Video mit `--page fb`), `caption` = FACEBOOK-TEXT (arabisch, höchstens 3 Hashtags), gleiche `quelle_url`, `titel`, Zeit (`status: "now"`). Reihenfolge: 1. FB-Feed, 2. IG-Feed, 3. FB-Reel, 4. IG-Reel, 5. FB-Story, 6. IG-Story, also sechs Einträge pro Meldung (bei Quell-Video: FB-Feed, FB-Reel, IG-Reel, Stories). Format Facebook-Reel (zwingend): 9:16 Vollbild, 1080 x 1920 px, Länge 15 bis 90 s (Videolänge per ffprobe prüfen, bei mehr als 90 s die unwichtigsten Textabschnitte weglassen; unter 15 s auf 15 s verlängern), MP4/H.264 + AAC, 25 fps; Text und Logo außerhalb der Safe Zones (nicht ganz oben/unten). `publish.py` unterstützt `fb` + `reel` (video_reels).
