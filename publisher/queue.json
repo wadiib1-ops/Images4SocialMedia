@@ -15840,5 +15840,66 @@
     "quelle_url": "https://ar.sport.le360.ma/football/botola/UNJKIXHJRJAIVDBZDNPOK5YH2M/",
     "meta_id": "18027728975877512",
     "published_at": "2026-11-08T00:11:28.117080+00:00"
+  },
+  {
+    "id": "20261108-0210-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261108-0210-1-fb.jpg",
+    "caption": "أعلن المدرب الجزائري نبيل نيغيز لائحة منتخب النيجر لمواجهة المنتخب المغربي.\n\nتقام المباراتان يومي 13 و17 نونبر بالدار البيضاء والرباط، ضمن تصفيات كأس إفريقيا.\n\nتضم اللائحة 25 لاعباً، بينهم عشرة لاعبين من الدوري المحلي.\n\nكيف تقيمون حظوظ المنتخب المغربي في المباراتين؟\n\n#المنتخب_المغربي #أسود_الأطلس #كأس_إفريقيا",
+    "status": "now",
+    "titel": "نيغيز يكشف لائحة النيجر لمواجهة المغرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/CT7ABYDDGNFRBCKU7GF2P56JCM/"
+  },
+  {
+    "id": "20261108-0210-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261108-0210-1-ig.jpg",
+    "caption": "🦁 النيجر تكشف أوراقها قبل مواجهة أسود الأطلس!\n\nالمدرب الجزائري نبيل نيغيز اختار 25 لاعباً لمباراتين أمام المغرب يومي 13 و17 نونبر في تصفيات كأس إفريقيا ⚽\n\nعشرة منهم ينشطون في الدوري المحلي 🔥\n\n#أسود_الأطلس #المنتخب_المغربي #النيجر #تصفيات_كأس_إفريقيا #كرة_القدم",
+    "status": "now",
+    "titel": "نيغيز يكشف لائحة النيجر لمواجهة المغرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/CT7ABYDDGNFRBCKU7GF2P56JCM/"
+  },
+  {
+    "id": "20261108-0210-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261108-0210-1-fbstory-text.mp4",
+    "caption": "أعلن المدرب الجزائري نبيل نيغيز لائحة منتخب النيجر لمواجهة المنتخب المغربي.\n\nتقام المباراتان يومي 13 و17 نونبر بالدار البيضاء والرباط، ضمن تصفيات كأس إفريقيا.\n\nتضم اللائحة 25 لاعباً، بينهم عشرة لاعبين من الدوري المحلي.\n\nكيف تقيمون حظوظ المنتخب المغربي في المباراتين؟\n\n#المنتخب_المغربي #أسود_الأطلس #كأس_إفريقيا",
+    "status": "now",
+    "titel": "نيغيز يكشف لائحة النيجر لمواجهة المغرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/CT7ABYDDGNFRBCKU7GF2P56JCM/"
+  },
+  {
+    "id": "20261108-0210-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261108-0210-1-reel-text.mp4",
+    "caption": "🦁 النيجر تكشف أوراقها قبل مواجهة أسود الأطلس!\n\nالمدرب الجزائري نبيل نيغيز اختار 25 لاعباً لمباراتين أمام المغرب يومي 13 و17 نونبر في تصفيات كأس إفريقيا ⚽\n\nعشرة منهم ينشطون في الدوري المحلي 🔥\n\n#أسود_الأطلس #المنتخب_المغربي #النيجر #تصفيات_كأس_إفريقيا #كرة_القدم",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261108-0210-1.jpg",
+    "status": "now",
+    "titel": "نيغيز يكشف لائحة النيجر لمواجهة المغرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/CT7ABYDDGNFRBCKU7GF2P56JCM/"
+  },
+  {
+    "id": "20261108-0210-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261108-0210-1-fbstory-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "نيغيز يكشف لائحة النيجر لمواجهة المغرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/CT7ABYDDGNFRBCKU7GF2P56JCM/"
+  },
+  {
+    "id": "20261108-0210-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261108-0210-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "نيغيز يكشف لائحة النيجر لمواجهة المغرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/CT7ABYDDGNFRBCKU7GF2P56JCM/"
   }
 ]
