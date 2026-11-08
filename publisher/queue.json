@@ -16165,5 +16165,68 @@
     "status": "published",
     "meta_id": "18439202116196260",
     "published_at": "2026-11-08T09:10:24.426107+00:00"
+  },
+  {
+    "id": "20261108-1215-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261108-1215-1-fb.jpg",
+    "caption": "حقق المنتخب المغربي لكرة القدم داخل القاعة فوزا ثانيا على نظيره الياباني اليوم الأحد، هذه المرة بأربعة أهداف دون رد.\n\nسجل الأهداف محمد رضا مديح وسفيان المسرار وبلال بقالي وسفيان الشعراوي.\n\nوكان المنتخب قد فاز في اللقاء الودي الأول يوم الجمعة بهدف دون رد، ليختتم بذلك مباراتيه في اليابان بانتصارين.\n\nكيف تقيمون أداء المنتخب في المباراتين الوديتين؟\n\n#الفوتسال #المنتخب_المغربي #أسود_القاعة",
+    "status": "now",
+    "titel": "المنتخب المغربي للفوتسال يجدد الفوز على اليابان 4-0 وديا",
+    "quelle_url": "https://alomksport.com/110275.html"
+  },
+  {
+    "id": "20261108-1215-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261108-1215-1-ig.jpg",
+    "caption": "انتصار ثان في اليابان! 🔥⚽\nأسود القاعة يكررون الفوز على اليابان بنتيجة 4-0 في ودية جديدة.\nأهداف مديح والمسرار وبقالي والشعراوي حسمت اللقاء، بعد الفوز الأول بهدف نظيف يوم الجمعة.\nرحلة ناجحة بانتصارين متتاليين 👏\n\n#فوتسال #المغرب #أسود_القاعة #كرة_القدم_المغربية #المنتخب_المغربي",
+    "status": "now",
+    "titel": "المنتخب المغربي للفوتسال يجدد الفوز على اليابان 4-0 وديا",
+    "quelle_url": "https://alomksport.com/110275.html"
+  },
+  {
+    "id": "20261108-1215-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261108-1215-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261108-1215-1-fb.jpg",
+    "caption": "حقق المنتخب المغربي لكرة القدم داخل القاعة فوزا ثانيا على نظيره الياباني اليوم الأحد، هذه المرة بأربعة أهداف دون رد.\n\nسجل الأهداف محمد رضا مديح وسفيان المسرار وبلال بقالي وسفيان الشعراوي.\n\nوكان المنتخب قد فاز في اللقاء الودي الأول يوم الجمعة بهدف دون رد، ليختتم بذلك مباراتيه في اليابان بانتصارين.\n\nكيف تقيمون أداء المنتخب في المباراتين الوديتين؟\n\n#الفوتسال #المنتخب_المغربي #أسود_القاعة",
+    "status": "scheduled",
+    "titel": "المنتخب المغربي للفوتسال يجدد الفوز على اليابان 4-0 وديا",
+    "quelle_url": "https://alomksport.com/110275.html",
+    "publish_at": "2026-11-08T13:31:00+01:00"
+  },
+  {
+    "id": "20261108-1215-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261108-1215-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261108-1215-1.jpg",
+    "caption": "انتصار ثان في اليابان! 🔥⚽\nأسود القاعة يكررون الفوز على اليابان بنتيجة 4-0 في ودية جديدة.\nأهداف مديح والمسرار وبقالي والشعراوي حسمت اللقاء، بعد الفوز الأول بهدف نظيف يوم الجمعة.\nرحلة ناجحة بانتصارين متتاليين 👏\n\n#فوتسال #المغرب #أسود_القاعة #كرة_القدم_المغربية #المنتخب_المغربي",
+    "status": "now",
+    "titel": "المنتخب المغربي للفوتسال يجدد الفوز على اليابان 4-0 وديا",
+    "quelle_url": "https://alomksport.com/110275.html"
+  },
+  {
+    "id": "20261108-1215-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261108-1215-1-fbstory-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "المنتخب المغربي للفوتسال يجدد الفوز على اليابان 4-0 وديا",
+    "quelle_url": "https://alomksport.com/110275.html"
+  },
+  {
+    "id": "20261108-1215-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261108-1215-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "المنتخب المغربي للفوتسال يجدد الفوز على اليابان 4-0 وديا",
+    "quelle_url": "https://alomksport.com/110275.html"
   }
 ]
