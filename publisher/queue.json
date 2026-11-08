@@ -15975,7 +15975,9 @@
     "titel": "نتائج الجولة 7 من البطولة الاحترافية للقسم الثاني",
     "quelle_url": "https://www.eurosport.de/fussball/gnf-ii/zeitplan-kalender-ergebnisse.shtml",
     "runde": "Botola2-7",
-    "status": "now"
+    "status": "published",
+    "meta_id": "4709543755857403",
+    "published_at": "2026-11-08T03:52:25.320346+00:00"
   },
   {
     "id": "2026-11-08-botola2-fb-reel-r2",
@@ -15986,7 +15988,9 @@
     "titel": "نتائج الجولة 7 من البطولة الاحترافية للقسم الثاني",
     "quelle_url": "https://www.eurosport.de/fussball/gnf-ii/zeitplan-kalender-ergebnisse.shtml",
     "runde": "Botola2-7",
-    "status": "now"
+    "status": "published",
+    "meta_id": "1791373698802534",
+    "published_at": "2026-11-08T03:52:25.320346+00:00"
   },
   {
     "id": "2026-11-08-botola2-ig-story-r2",
@@ -15997,7 +16001,9 @@
     "titel": "نتائج الجولة 7 من البطولة الاحترافية للقسم الثاني",
     "quelle_url": "https://www.eurosport.de/fussball/gnf-ii/zeitplan-kalender-ergebnisse.shtml",
     "runde": "Botola2-7",
-    "status": "now"
+    "status": "published",
+    "meta_id": "18140189401648500",
+    "published_at": "2026-11-08T03:52:25.320346+00:00"
   },
   {
     "id": "2026-11-08-botola2-ig-reel-r2",
@@ -16008,6 +16014,8 @@
     "titel": "نتائج الجولة 7 من البطولة الاحترافية للقسم الثاني",
     "quelle_url": "https://www.eurosport.de/fussball/gnf-ii/zeitplan-kalender-ergebnisse.shtml",
     "runde": "Botola2-7",
-    "status": "now"
+    "status": "published",
+    "meta_id": "18108313481207707",
+    "published_at": "2026-11-08T03:52:25.320346+00:00"
   }
 ]
