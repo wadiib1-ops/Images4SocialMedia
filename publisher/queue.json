@@ -15924,10 +15924,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola2-2026-11-08-story.mp4",
     "caption": "",
-    "status": "now",
+    "status": "failed",
     "titel": "نتائج الجولة 7 من البطولة الاحترافية للقسم الثاني",
     "quelle_url": "https://www.eurosport.de/fussball/gnf-ii/zeitplan-kalender-ergebnisse.shtml",
-    "runde": 7
+    "runde": 7,
+    "error": "Runde '7' bereits veröffentlicht"
   },
   {
     "id": "2026-11-08-botola2-fb-reel",
@@ -15935,10 +15936,11 @@
     "type": "reel",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola2-2026-11-08.mp4",
     "caption": "🏆 نتائج الجولة 7 من البطولة الاحترافية إنوي للقسم الثاني\n📅 السبت 7 نونبر 2026\n\n⚽ شباب بن جرير 0 - 1 النادي القنيطري\n⚽ سطاد المغربي 2 - 1 أولمبيك آسفي\n⚽ الاتحاد الزموري للخميسات 4 - 0 شباب المحمدية\n⚽ الاتحاد الإسلامي الوجدي 0 - 0 اتحاد أبي الجعد\n\n🕒 أولمبيك الدشيرة × اتحاد يعقوب المنصور: لم تُلعب بعد\n🕒 شباب أطلس خنيفرة × الشباب السالمي: لم تُلعب بعد\n🕒 أولمبيك خريبكة × مولودية وجدة: لم تُلعب بعد\n🕒 شباب المسيرة × وداد فاس: لم تُلعب بعد\n\n📊 الترتيب العام بعد الجولة 7 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#القسم_الثاني #البطولة_الاحترافية_2 #البطولة_الاحترافية_إنوي",
-    "status": "now",
+    "status": "failed",
     "titel": "نتائج الجولة 7 من البطولة الاحترافية للقسم الثاني",
     "quelle_url": "https://www.eurosport.de/fussball/gnf-ii/zeitplan-kalender-ergebnisse.shtml",
-    "runde": 7
+    "runde": 7,
+    "error": "Runde '7' bereits veröffentlicht"
   },
   {
     "id": "2026-11-08-botola2-ig-story",
@@ -15946,10 +15948,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola2-2026-11-08-story.mp4",
     "caption": "",
-    "status": "now",
+    "status": "failed",
     "titel": "نتائج الجولة 7 من البطولة الاحترافية للقسم الثاني",
     "quelle_url": "https://www.eurosport.de/fussball/gnf-ii/zeitplan-kalender-ergebnisse.shtml",
-    "runde": 7
+    "runde": 7,
+    "error": "Runde '7' bereits veröffentlicht"
   },
   {
     "id": "2026-11-08-botola2-ig-reel",
@@ -15957,9 +15960,10 @@
     "type": "reel",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola2-2026-11-08.mp4",
     "caption": "🏆 نتائج الجولة 7 من البطولة الاحترافية إنوي للقسم الثاني\n📅 السبت 7 نونبر 2026\n\n⚽ شباب بن جرير 0 - 1 النادي القنيطري\n⚽ سطاد المغربي 2 - 1 أولمبيك آسفي\n⚽ الاتحاد الزموري للخميسات 4 - 0 شباب المحمدية\n⚽ الاتحاد الإسلامي الوجدي 0 - 0 اتحاد أبي الجعد\n\n🕒 أولمبيك الدشيرة × اتحاد يعقوب المنصور: لم تُلعب بعد\n🕒 شباب أطلس خنيفرة × الشباب السالمي: لم تُلعب بعد\n🕒 أولمبيك خريبكة × مولودية وجدة: لم تُلعب بعد\n🕒 شباب المسيرة × وداد فاس: لم تُلعب بعد\n\n📊 الترتيب العام بعد الجولة 7 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#القسم_الثاني #البطولة_الاحترافية_2 #البطولة_الاحترافية_إنوي #الدوري_المغربي #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "failed",
     "titel": "نتائج الجولة 7 من البطولة الاحترافية للقسم الثاني",
     "quelle_url": "https://www.eurosport.de/fussball/gnf-ii/zeitplan-kalender-ergebnisse.shtml",
-    "runde": 7
+    "runde": 7,
+    "error": "Runde '7' bereits veröffentlicht"
   }
 ]
