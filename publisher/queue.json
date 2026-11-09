@@ -17099,10 +17099,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261109-1430-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261109-1430-fb.jpg",
     "caption": "حقق فريق الرجاء الرياضي فوزًا على اتحاد طنجة بهدفين دون رد مساء الأحد.\n\nجرت المباراة على ملعب العربي الزاولي بالدار البيضاء ضمن الجولة السابعة من البطولة الاحترافية.\n\nافتتح أيمن برقوق التسجيل في الدقيقة السابعة من ركلة جزاء.\n\nوأضاف أيوب العملود الهدف الثاني قبل نهاية الشوط الأول.\n\nبهذا الفوز يرتقي الرجاء إلى المركز الثالث برصيد 12 نقطة، بينما يملك اتحاد طنجة 10 نقاط.\n\nكيف تقيّمون أداء الرجاء في هذه المباراة؟\n\n#الرجاء #اتحاد_طنجة #البطولة_الاحترافية",
-    "status": "scheduled",
+    "status": "published",
     "titel": "الرجاء يفوز على اتحاد طنجة بهدفين دون رد في البطولة الاحترافية",
     "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1-%d9%8a%d9%81%d9%88%d8%b2-%d8%b9%d9%84%d9%89-%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%b7%d9%86%d8%ac%d8%a9-%d8%a8%d8%ab%d9%86%d8%a7%d8%a6%d9%8a%d8%a9-1836800.html",
-    "publish_at": "2026-11-09T15:35:00+01:00"
+    "publish_at": "2026-11-09T15:35:00+01:00",
+    "meta_id": "1072427439177526",
+    "published_at": "2026-11-09T14:57:07.216655+00:00"
   },
   {
     "id": "20261109-1430-1-ig-reel",
@@ -17330,10 +17332,12 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola2-2026-11-09-story.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "نتائج الجولة 7 والترتيب العام - البطولة الاحترافية إنوي للقسم الثاني",
     "quelle_url": "https://www.flashscore.de/fussball/marokko/botola-2/ergebnisse/",
-    "runde": 7
+    "runde": 7,
+    "meta_id": "1285806260398127",
+    "published_at": "2026-11-09T14:57:07.216655+00:00"
   },
   {
     "id": "2026-11-09-botola2-fb-reel",
@@ -17341,10 +17345,12 @@
     "type": "reel",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola2-2026-11-09.mp4",
     "caption": "🏆 نتائج الجولة 7 من البطولة الاحترافية إنوي للقسم الثاني\n📅 الأحد 8 نونبر 2026\n\n⚽ شباب بن جرير 0 - 1 النادي القنيطري\n⚽ سطاد المغربي 2 - 1 أولمبيك آسفي\n⚽ الاتحاد الإسلامي الوجدي 0 - 0 اتحاد أبي الجعد\n⚽ الاتحاد الزموري للخميسات 4 - 0 شباب المحمدية\n⚽ شباب أطلس خنيفرة 0 - 1 الشباب السالمي\n⚽ شباب المسيرة 0 - 1 وداد فاس\n⚽ أولمبيك الدشيرة 1 - 0 اتحاد يعقوب المنصور\n⚽ أولمبيك خريبكة 2 - 0 مولودية وجدة\n\n📊 الترتيب العام بعد الجولة 7 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#القسم_الثاني #البطولة_الاحترافية_2 #البطولة_الاحترافية_إنوي",
-    "status": "now",
+    "status": "published",
     "titel": "نتائج الجولة 7 والترتيب العام - البطولة الاحترافية إنوي للقسم الثاني",
     "quelle_url": "https://www.flashscore.de/fussball/marokko/botola-2/ergebnisse/",
-    "runde": 7
+    "runde": 7,
+    "meta_id": "1887025649329461",
+    "published_at": "2026-11-09T14:57:07.216655+00:00"
   },
   {
     "id": "2026-11-09-botola2-ig-story",
@@ -17352,10 +17358,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola2-2026-11-09-story.mp4",
     "caption": "",
-    "status": "now",
+    "status": "failed",
     "titel": "نتائج الجولة 7 والترتيب العام - البطولة الاحترافية إنوي للقسم الثاني",
     "quelle_url": "https://www.flashscore.de/fussball/marokko/botola-2/ergebnisse/",
-    "runde": 7
+    "runde": 7,
+    "error": "Runde '7' bereits veröffentlicht"
   },
   {
     "id": "2026-11-09-botola2-ig-reel",
@@ -17363,9 +17370,10 @@
     "type": "reel",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola2-2026-11-09.mp4",
     "caption": "🏆 نتائج الجولة 7 من البطولة الاحترافية إنوي للقسم الثاني\n📅 الأحد 8 نونبر 2026\n\n⚽ شباب بن جرير 0 - 1 النادي القنيطري\n⚽ سطاد المغربي 2 - 1 أولمبيك آسفي\n⚽ الاتحاد الإسلامي الوجدي 0 - 0 اتحاد أبي الجعد\n⚽ الاتحاد الزموري للخميسات 4 - 0 شباب المحمدية\n⚽ شباب أطلس خنيفرة 0 - 1 الشباب السالمي\n⚽ شباب المسيرة 0 - 1 وداد فاس\n⚽ أولمبيك الدشيرة 1 - 0 اتحاد يعقوب المنصور\n⚽ أولمبيك خريبكة 2 - 0 مولودية وجدة\n\n📊 الترتيب العام بعد الجولة 7 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#القسم_الثاني #البطولة_الاحترافية_2 #البطولة_الاحترافية_إنوي #الدوري_المغربي #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "failed",
     "titel": "نتائج الجولة 7 والترتيب العام - البطولة الاحترافية إنوي للقسم الثاني",
     "quelle_url": "https://www.flashscore.de/fussball/marokko/botola-2/ergebnisse/",
-    "runde": 7
+    "runde": 7,
+    "error": "Runde '7' bereits veröffentlicht"
   }
 ]
