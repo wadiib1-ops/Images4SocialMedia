@@ -17145,10 +17145,12 @@
     "type": "video",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-11-09.mp4",
     "caption": "🏆 نتائج الجولة 7 من البطولة الاحترافية إنوي\n📅 الأحد 8 نونبر 2026\n\n⚽ الجيش الملكي 3 - 1 الدفاع الحسني الجديدي\n⚽ نهضة الزمامرة 1 - 1 وداد تمارة\n⚽ الرجاء الرياضي 2 - 0 اتحاد طنجة\n\n📊 الترتيب العام بعد الجولة 7 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#البطولة_الاحترافية #البطولة_الاحترافية_إنوي #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "نتائج الجولة 7 من البطولة الاحترافية إنوي",
     "quelle_url": "https://www.20minutes.ma/sport/173472.html",
-    "runde": 7
+    "runde": 7,
+    "meta_id": "2557896958024214",
+    "published_at": "2026-11-09T13:33:18.796342+00:00"
   },
   {
     "id": "2026-11-09-botola-ig-reel",
@@ -17156,10 +17158,12 @@
     "type": "reel",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-11-09.mp4",
     "caption": "🏆 نتائج الجولة 7 من البطولة الاحترافية إنوي\n📅 الأحد 8 نونبر 2026\n\n⚽ الجيش الملكي 3 - 1 الدفاع الحسني الجديدي\n⚽ نهضة الزمامرة 1 - 1 وداد تمارة\n⚽ الرجاء الرياضي 2 - 0 اتحاد طنجة\n\n📊 الترتيب العام بعد الجولة 7 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#البطولة_الاحترافية #البطولة_الاحترافية_إنوي #كرة_القدم_المغربية #الدوري_المغربي #Botola",
-    "status": "now",
+    "status": "published",
     "titel": "نتائج الجولة 7 من البطولة الاحترافية إنوي",
     "quelle_url": "https://www.20minutes.ma/sport/173472.html",
-    "runde": 7
+    "runde": 7,
+    "meta_id": "17918371377538162",
+    "published_at": "2026-11-09T13:33:18.796342+00:00"
   },
   {
     "id": "2026-11-09-botola-ig-story",
@@ -17167,9 +17171,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-11-09-story.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "نتائج الجولة 7 من البطولة الاحترافية إنوي",
     "quelle_url": "https://www.20minutes.ma/sport/173472.html",
-    "runde": 7
+    "runde": 7,
+    "meta_id": "18119257673006009",
+    "published_at": "2026-11-09T13:33:18.796342+00:00"
   }
 ]
