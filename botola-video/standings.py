@@ -16,8 +16,8 @@ def compute(path=None):
         else: h["d"] += 1; a["d"] += 1; h["pts"] += 1; a["pts"] += 1
     rows = list(t.values())
     for x in rows: x["gd"] = x["gf"] - x["ga"]
-    # Gleichstand: Punkte, Tordifferenz, erzielte Tore (Näherung – offizielle Regel kann abweichen)
-    rows.sort(key=lambda x: (-x["pts"], -x["gd"], -x["gf"], x["team"]))
+    # Gleichstand (an Sofascore angepasst): Punkte, Siege, Tordifferenz, erzielte Tore
+    rows.sort(key=lambda x: (-x["pts"], -x["w"], -x["gd"], -x["gf"], x["team"]))
     last_round = max(r["round"] for r in d["results"])
     return rows, last_round, d.get("pending", [])
 
