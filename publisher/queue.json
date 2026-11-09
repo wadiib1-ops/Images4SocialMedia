@@ -17138,5 +17138,38 @@
     "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1-%d9%8a%d9%81%d9%88%d8%b2-%d8%b9%d9%84%d9%89-%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%b7%d9%86%d8%ac%d8%a9-%d8%a8%d8%ab%d9%86%d8%a7%d8%a6%d9%8a%d8%a9-1836800.html",
     "meta_id": "18007367717922092",
     "published_at": "2026-11-09T13:30:03.503494+00:00"
+  },
+  {
+    "id": "2026-11-09-botola-fb-feed",
+    "platform": "facebook",
+    "type": "video",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-11-09.mp4",
+    "caption": "🏆 نتائج الجولة 7 من البطولة الاحترافية إنوي\n📅 الأحد 8 نونبر 2026\n\n⚽ الجيش الملكي 3 - 1 الدفاع الحسني الجديدي\n⚽ نهضة الزمامرة 1 - 1 وداد تمارة\n⚽ الرجاء الرياضي 2 - 0 اتحاد طنجة\n\n📊 الترتيب العام بعد الجولة 7 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#البطولة_الاحترافية #البطولة_الاحترافية_إنوي #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "نتائج الجولة 7 من البطولة الاحترافية إنوي",
+    "quelle_url": "https://www.20minutes.ma/sport/173472.html",
+    "runde": 7
+  },
+  {
+    "id": "2026-11-09-botola-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-11-09.mp4",
+    "caption": "🏆 نتائج الجولة 7 من البطولة الاحترافية إنوي\n📅 الأحد 8 نونبر 2026\n\n⚽ الجيش الملكي 3 - 1 الدفاع الحسني الجديدي\n⚽ نهضة الزمامرة 1 - 1 وداد تمارة\n⚽ الرجاء الرياضي 2 - 0 اتحاد طنجة\n\n📊 الترتيب العام بعد الجولة 7 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#البطولة_الاحترافية #البطولة_الاحترافية_إنوي #كرة_القدم_المغربية #الدوري_المغربي #Botola",
+    "status": "now",
+    "titel": "نتائج الجولة 7 من البطولة الاحترافية إنوي",
+    "quelle_url": "https://www.20minutes.ma/sport/173472.html",
+    "runde": 7
+  },
+  {
+    "id": "2026-11-09-botola-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-11-09-story.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "نتائج الجولة 7 من البطولة الاحترافية إنوي",
+    "quelle_url": "https://www.20minutes.ma/sport/173472.html",
+    "runde": 7
   }
 ]
