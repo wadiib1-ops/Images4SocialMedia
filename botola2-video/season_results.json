@@ -486,32 +486,43 @@
     0,
     0
    ]
-  }
- ],
- "pending": [
+  },
   {
    "round": 7,
    "home": "أولمبيك الدشيرة",
    "away": "اتحاد يعقوب المنصور",
-   "status": "not_played"
+   "score": [
+    1,
+    0
+   ]
   },
   {
    "round": 7,
    "home": "شباب أطلس خنيفرة",
    "away": "الشباب السالمي",
-   "status": "not_played"
+   "score": [
+    0,
+    1
+   ]
   },
   {
    "round": 7,
    "home": "أولمبيك خريبكة",
    "away": "مولودية وجدة",
-   "status": "not_played"
+   "score": [
+    2,
+    0
+   ]
   },
   {
    "round": 7,
    "home": "شباب المسيرة",
    "away": "وداد فاس",
-   "status": "not_played"
+   "score": [
+    0,
+    1
+   ]
   }
- ]
+ ],
+ "pending": []
 }
