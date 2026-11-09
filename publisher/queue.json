@@ -17256,9 +17256,11 @@
     "type": "video",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-11-09-v2.mp4",
     "caption": "🏆 نتائج الجولة 7 من البطولة الاحترافية إنوي\n📅 الأحد 8 نونبر 2026\n\n⚽ الجيش الملكي 3 - 1 الدفاع الحسني الجديدي\n⚽ نهضة الزمامرة 1 - 1 وداد تمارة\n⚽ الرجاء الرياضي 2 - 0 اتحاد طنجة\n\n📊 الترتيب العام بعد الجولة 7 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#البطولة_الاحترافية #البطولة_الاحترافية_إنوي #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "نتائج الجولة 7 والترتيب العام المحدث - البطولة الاحترافية إنوي",
-    "quelle_url": "https://www.sofascore.com/de/football/tournament/morocco/botola-pro/937"
+    "quelle_url": "https://www.sofascore.com/de/football/tournament/morocco/botola-pro/937",
+    "meta_id": "1820829809226189",
+    "published_at": "2026-11-09T14:10:50.162422+00:00"
   },
   {
     "id": "2026-11-09-botola-v4-ig-reel",
@@ -17266,9 +17268,11 @@
     "type": "reel",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-11-09-v2.mp4",
     "caption": "🏆 نتائج الجولة 7 من البطولة الاحترافية إنوي\n📅 الأحد 8 نونبر 2026\n\n⚽ الجيش الملكي 3 - 1 الدفاع الحسني الجديدي\n⚽ نهضة الزمامرة 1 - 1 وداد تمارة\n⚽ الرجاء الرياضي 2 - 0 اتحاد طنجة\n\n📊 الترتيب العام بعد الجولة 7 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#البطولة_الاحترافية #البطولة_الاحترافية_إنوي #كرة_القدم_المغربية #الدوري_المغربي #Botola",
-    "status": "now",
+    "status": "published",
     "titel": "نتائج الجولة 7 والترتيب العام المحدث - البطولة الاحترافية إنوي",
-    "quelle_url": "https://www.sofascore.com/de/football/tournament/morocco/botola-pro/937"
+    "quelle_url": "https://www.sofascore.com/de/football/tournament/morocco/botola-pro/937",
+    "meta_id": "17992961705865727",
+    "published_at": "2026-11-09T14:10:50.162422+00:00"
   },
   {
     "id": "2026-11-09-botola-v4-ig-story",
@@ -17276,8 +17280,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola-2026-11-09-v2-story.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "نتائج الجولة 7 والترتيب العام المحدث - البطولة الاحترافية إنوي",
-    "quelle_url": "https://www.sofascore.com/de/football/tournament/morocco/botola-pro/937"
+    "quelle_url": "https://www.sofascore.com/de/football/tournament/morocco/botola-pro/937",
+    "meta_id": "18347385145273016",
+    "published_at": "2026-11-09T14:10:50.162422+00:00"
   }
 ]
