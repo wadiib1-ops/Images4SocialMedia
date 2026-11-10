@@ -19779,5 +19779,69 @@
     "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/34IA2VSX3NFEJII62DQDOLSNYU/",
     "meta_id": "18341996986275444",
     "published_at": "2026-11-10T22:25:45.838764+00:00"
+  },
+  {
+    "id": "20261111-0009-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/ramzi-20261111-0009-fb.jpg",
+    "caption": "عادل رمزي يرد على الاتهامات: لم أحاول إقناع أي لاعب باللعب لهولندا\n\nنفى المدرب المغربي عادل رمزي، مساعد تشافي هيرنانديز في المنتخب الهولندي، الاتهامات حول محاولته إقناع لاعبين مزدوجي الجنسية باختيار هولندا بدل المغرب.\n\nوأكد رمزي أنه لم يجالس أي لاعب لهذا الغرض، متحديا من يثبت العكس.\n\nوشدد على أن اختيار المنتخب لا يخضع للضغط أو المساومة، مؤكدا أن الوطن مثل الأم، وأنه يفتخر بالمغرب أينما كان.\n\nواستغرب الجدل، فكثير من اللاعبين اختاروا المغرب رغم إمكانية تمثيل منتخبات أخرى.\n\nما رأيكم في توضيحات عادل رمزي حول هذا الملف؟\n\n#عادل_رمزي #المنتخب_المغربي #أسود_الأطلس",
+    "status": "now",
+    "titel": "عادل رمزي ينفي محاولة إقناع لاعبين مزدوجي الجنسية باللعب لهولندا",
+    "quelle_url": "https://www.hespress.com/%d8%b9%d8%a7%d8%af%d9%84-%d8%b1%d9%85%d8%b2%d9%8a-%d9%8a%d9%86%d9%81%d9%8a-%d8%a5%d9%82%d9%86%d8%a7%d8%b9-%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86-%d8%a8%d8%aa%d9%85%d8%ab%d9%8a%d9%84-%d9%87%d9%88%d9%84-1837478.html"
+  },
+  {
+    "id": "20261111-0009-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/ramzi-20261111-0009-ig.jpg",
+    "caption": "عادل رمزي يكسر صمته ويرد بوضوح 🗣️\n\nالمدرب المغربي ومساعد تشافي في منتخب هولندا ينفي أن يكون قد حاول إقناع لاعبين مزدوجي الجنسية باختيار هولندا بدل أسود الأطلس 🦁\n\nرمزي يتحدى أي شخص أن يثبت أنه جلس مع لاعب لهذا الهدف، ويؤكد أن اختيار المنتخب قرار لا يقبل الضغط ❌\n\nوبكلمات واضحة: الوطن مثل الأم، والفخر بالمغرب يرافقه في كل مكان ❤️\n\nكيف تقيمون رد عادل رمزي على هذه الاتهامات؟\n\n#عادل_رمزي #المغرب #أسود_الأطلس #هولندا #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "عادل رمزي ينفي محاولة إقناع لاعبين مزدوجي الجنسية باللعب لهولندا",
+    "quelle_url": "https://www.hespress.com/%d8%b9%d8%a7%d8%af%d9%84-%d8%b1%d9%85%d8%b2%d9%8a-%d9%8a%d9%86%d9%81%d9%8a-%d8%a5%d9%82%d9%86%d8%a7%d8%b9-%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86-%d8%a8%d8%aa%d9%85%d8%ab%d9%8a%d9%84-%d9%87%d9%88%d9%84-1837478.html"
+  },
+  {
+    "id": "20261111-0009-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-0009-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-0009-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-11T01:15:30+01:00",
+    "titel": "عادل رمزي ينفي محاولة إقناع لاعبين مزدوجي الجنسية باللعب لهولندا",
+    "quelle_url": "https://www.hespress.com/%d8%b9%d8%a7%d8%af%d9%84-%d8%b1%d9%85%d8%b2%d9%8a-%d9%8a%d9%86%d9%81%d9%8a-%d8%a5%d9%82%d9%86%d8%a7%d8%b9-%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86-%d8%a8%d8%aa%d9%85%d8%ab%d9%8a%d9%84-%d9%87%d9%88%d9%84-1837478.html"
+  },
+  {
+    "id": "20261111-0009-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-0009-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-0009-1.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "عادل رمزي ينفي محاولة إقناع لاعبين مزدوجي الجنسية باللعب لهولندا",
+    "quelle_url": "https://www.hespress.com/%d8%b9%d8%a7%d8%af%d9%84-%d8%b1%d9%85%d8%b2%d9%8a-%d9%8a%d9%86%d9%81%d9%8a-%d8%a5%d9%82%d9%86%d8%a7%d8%b9-%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86-%d8%a8%d8%aa%d9%85%d8%ab%d9%8a%d9%84-%d9%87%d9%88%d9%84-1837478.html"
+  },
+  {
+    "id": "20261111-0009-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-0009-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-0009-1-fb.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "عادل رمزي ينفي محاولة إقناع لاعبين مزدوجي الجنسية باللعب لهولندا",
+    "quelle_url": "https://www.hespress.com/%d8%b9%d8%a7%d8%af%d9%84-%d8%b1%d9%85%d8%b2%d9%8a-%d9%8a%d9%86%d9%81%d9%8a-%d8%a5%d9%82%d9%86%d8%a7%d8%b9-%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86-%d8%a8%d8%aa%d9%85%d8%ab%d9%8a%d9%84-%d9%87%d9%88%d9%84-1837478.html"
+  },
+  {
+    "id": "20261111-0009-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-0009-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "عادل رمزي ينفي محاولة إقناع لاعبين مزدوجي الجنسية باللعب لهولندا",
+    "quelle_url": "https://www.hespress.com/%d8%b9%d8%a7%d8%af%d9%84-%d8%b1%d9%85%d8%b2%d9%8a-%d9%8a%d9%86%d9%81%d9%8a-%d8%a5%d9%82%d9%86%d8%a7%d8%b9-%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86-%d8%a8%d8%aa%d9%85%d8%ab%d9%8a%d9%84-%d9%87%d9%88%d9%84-1837478.html"
   }
 ]
