@@ -215,3 +215,6 @@ Facebook-Reel und Instagram-Reel werden mit leerem `caption` angelegt (kein Begl
 
 ## Dauerhafte Freigabe (verbindlich, dauerhaft, Nutzerwunsch 10.11.2026; gilt für alle künftigen Läufe)
 Der Nutzer erteilt seine Freigabe immer im Voraus. Wartet ein Lauf an irgendeiner Stelle auf eine Freigabe, Bestätigung oder Rückfrage des Nutzers (zum Beispiel vor dem Push, dem Veröffentlichen oder dem Starten von `publish.yml`), gilt sie als erteilt: nicht warten, nicht nachfragen, sondern sofort weitermachen. Das gilt nur für die in dieser Datei und in PROMPT.md beschriebenen Schritte, nicht für neue Zusatzaktionen außerhalb davon.
+
+## Story-/Reel-Vorschau (verbindlich, dauerhaft, Nutzerwunsch 10.11.2026)
+Das erste Videobild zeigt jetzt schon Foto, Logo, Etikett und den ersten Textabschnitt (kein weißer Blitz, kein Glitch und keine Vergrößerung in den ersten ca. 0,16 s; umgesetzt in `mkn_template.py`), damit jede automatisch gewählte Vorschau lesbar ist. Der `fb-story`-Eintrag bekommt zusätzlich `cover_url` (gleiches Cover wie beim `fb-reel`, `images/cover-<Zeit>-<n>-fb.jpg`); `publish.py` setzt das Thumbnail auch bei Facebook-Stories (mit einer Wiederholung nach 20 s und einer Warnung im Log, wenn es scheitert). Instagram-Stories erlauben per API kein Cover.

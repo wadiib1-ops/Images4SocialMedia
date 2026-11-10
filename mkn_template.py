@@ -114,16 +114,22 @@ def video(photo, track, start, sections, page, date, out, tag=None):
     W = GEO["9x16"]["win"]
     ins = []; fc = [
         f"[0:v]scale=1080:{W}:force_original_aspect_ratio=increase,crop=1080:{W},scale=2160:{2*W},"
-        f"zoompan=z='1+0.35*exp(-7*on/25)+0.045*lt(on,50)*pow(abs(sin(PI*on/25*2)),12)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s=1080x{W}:fps=25[ph]",
+        f"zoompan=z='1+0.35*exp(-7*on/25)*gte(on,4)+0.045*lt(on,50)*pow(abs(sin(PI*on/25*2)),12)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s=1080x{W}:fps=25[ph]",
         f"[1:v][ph]overlay=0:0[b0]"]
     prev = "b0"; t0 = 0.5
     for i, (_, d_) in enumerate(sections):
         st, en = t0, t0 + d_; t0 = en; n = 4 + i
         ins += ["-loop", "1", "-framerate", "25", "-t", str(D), "-i", pngs[i]]
-        fc.append(f"[{n}:v]format=rgba,fade=t=in:st={st}:d=0.4:alpha=1[a{i}]")
+        # Vorschau-Fix (10.11.2026): erster Abschnitt ab Frame 0 sichtbar, ohne Einblendung und ohne weissen Blitz,
+        # damit jedes Vorschaubild (auch das erste Videobild) Foto, Logo, Etikett und Text zeigt.
+        if i == 0:
+            st = 0
+            fc.append(f"[{n}:v]format=rgba[a{i}]")
+        else:
+            fc.append(f"[{n}:v]format=rgba,fade=t=in:st={st}:d=0.4:alpha=1[a{i}]")
         fc.append(f"[{prev}][a{i}]overlay=0:0:enable='between(t,{st},{en})'[o{i}]"); prev = f"o{i}"
-    fc.append(f"[{prev}][3:v]overlay=x='-1080+1080*t/{D}':y=1896,rgbashift=rh=-14:bh=14:enable='lt(t,0.5)',"
-              f"fade=t=in:st=0:d=0.35:color=white,format=yuv420p[v]")
+    fc.append(f"[{prev}][3:v]overlay=x='-1080+1080*t/{D}':y=1896,rgbashift=rh=-14:bh=14:enable='between(t,0.16,0.5)',"
+              f"format=yuv420p[v]")
     fc.append(f"[2:a]atrim=0:{D},afade=t=in:d=0.8,afade=t=out:st={D-2}:d=2,loudnorm=I=-14:TP=-1.5:LRA=7[a]")
     cmd = ["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-framerate", "25", "-t", str(D), "-i", photo,
            "-f", "lavfi", "-i", f"color=c=0x0B3D2E:s=1080x1920:r=25:d={D}",

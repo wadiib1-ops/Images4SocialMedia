@@ -152,6 +152,19 @@ def set_facebook_thumbnail(video_id, cover_url, token):
             r.read()
     except Exception as e:
         print("Thumbnail-Fehler:", str(e).replace(token, "***")[:200])
+        return False
+    return True
+
+
+def set_facebook_thumbnail_retry(video_id, cover_url, token):
+    """Thumbnail setzen, bei Fehler nach 20 s einmal wiederholen; Warnung im Log (Meldung bricht nie ab)."""
+    for versuch in (1, 2):
+        if set_facebook_thumbnail(video_id, cover_url, token):
+            return True
+        if versuch == 1:
+            time.sleep(20)
+    print("WARNUNG: Facebook-Thumbnail konnte nicht gesetzt werden (Video", video_id, ")")
+    return False
 
 
 def publish_facebook(entry, token):
@@ -161,10 +174,14 @@ def publish_facebook(entry, token):
             description=entry.get("caption", ""))
         if entry.get("cover_url"):
             time.sleep(20)
-            set_facebook_thumbnail(vid, entry["cover_url"], token)
+            set_facebook_thumbnail_retry(vid, entry["cover_url"], token)
         return vid
     if entry["type"] == "story":
-        return publish_facebook_video_upload(entry, token, "video_stories")
+        vid = publish_facebook_video_upload(entry, token, "video_stories")
+        if entry.get("cover_url"):
+            time.sleep(20)
+            set_facebook_thumbnail_retry(vid, entry["cover_url"], token)
+        return vid
     if entry["type"] == "video":
         res = call("POST", f"{PAGE_ID}/videos", token,
                    file_url=entry["video_url"], description=entry.get("caption", ""))
