@@ -18905,10 +18905,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1515-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261110-1515-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "titel": "سانشيز: دور إسبانيا في 2030 والقرار بيد الفيفا",
     "quelle_url": "https://www.kooora.com/كرة-القدم/أخبار/رئيس-وزراء-اسبانيا-يشعل-حرب-نهائي-مونديال-2030-مع-المغرب/bltf869bcd04d833559",
-    "publish_at": "2026-11-10T16:15:00+01:00"
+    "publish_at": "2026-11-10T16:15:00+01:00",
+    "meta_id": "2350161185830015",
+    "published_at": "2026-11-10T16:11:53.556564+00:00"
   },
   {
     "id": "20261110-1515-1-ig-reel",
@@ -19026,9 +19028,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261110-1720-1-fb.jpg",
     "caption": "انهزم المنتخب المغربي لأقل من 17 سنة أمام نظيره الجزائري بهدف دون رد\n\nجرت المباراة على الملعب الأولمبي بمدينة سوسة التونسية\n\nسجل إلياس زيان هدف اللقاء الوحيد في الدقيقة 41\n\nكانت هذه أولى مباريات التصفيات المؤهلة إلى كأس إفريقيا للناشئين 2027\n\nيواجه أشبال الأطلس مصر يوم 13 نونبر ثم تونس يوم 16 نونبر\n\nويتأهل إلى النهائيات المنتخبان صاحبا أفضل ترتيب في التصفيات\n\nكيف تقيّمون بداية المنتخب المغربي في هذه التصفيات؟\n\n#المنتخب_المغربي #أشبال_الأطلس #كأس_إفريقيا_للناشئين",
-    "status": "now",
+    "status": "published",
     "titel": "انهزام أشبال الأطلس أمام الجزائر بهدف دون رد",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/NMH4PIOBZFGPTHBMUQWOBFT23I/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/NMH4PIOBZFGPTHBMUQWOBFT23I/",
+    "meta_id": "122224226858577271",
+    "published_at": "2026-11-10T16:11:53.556564+00:00"
   },
   {
     "id": "20261110-1720-1-ig-feed",
@@ -19036,9 +19040,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261110-1720-1-ig.jpg",
     "caption": "🔥 البداية لم تكن كما أراد أشبال الأطلس في تونس\n\nخسر المنتخب المغربي لأقل من 17 سنة بهدف نظيف أمام الجزائر في افتتاح التصفيات، بعدما سجل إلياس زيان في الدقيقة 41 ⚽\n\nاللقاء أقيم على الملعب الأولمبي بسوسة، وهو أول اختبار في طريق كأس إفريقيا للناشئين 2027\n\nالموعد التالي أمام مصر في 13 نونبر، ثم تونس في 16 نونبر. المتأهلان إلى النهائيات هما صاحبا أفضل ترتيب 🏆\n\n#أشبال_الأطلس #المنتخب_المغربي #كأس_إفريقيا_للناشئين #كرة_القدم_المغربية #U17",
-    "status": "now",
+    "status": "published",
     "titel": "انهزام أشبال الأطلس أمام الجزائر بهدف دون رد",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/NMH4PIOBZFGPTHBMUQWOBFT23I/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/NMH4PIOBZFGPTHBMUQWOBFT23I/",
+    "meta_id": "17916057939560211",
+    "published_at": "2026-11-10T16:11:53.556564+00:00"
   },
   {
     "id": "20261110-1720-1-fb-reel",
@@ -19059,9 +19065,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1720-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261110-1720-1.jpg",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "انهزام أشبال الأطلس أمام الجزائر بهدف دون رد",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/NMH4PIOBZFGPTHBMUQWOBFT23I/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/NMH4PIOBZFGPTHBMUQWOBFT23I/",
+    "meta_id": "18640631680060704",
+    "published_at": "2026-11-10T16:11:53.556564+00:00"
   },
   {
     "id": "20261110-1720-1-fb-story",
@@ -19069,9 +19077,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1720-1-fbstory-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "انهزام أشبال الأطلس أمام الجزائر بهدف دون رد",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/NMH4PIOBZFGPTHBMUQWOBFT23I/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/NMH4PIOBZFGPTHBMUQWOBFT23I/",
+    "meta_id": "1758407021921777",
+    "published_at": "2026-11-10T16:11:53.556564+00:00"
   },
   {
     "id": "20261110-1720-1-ig-story",
@@ -19079,8 +19089,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1720-1-reel-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "انهزام أشبال الأطلس أمام الجزائر بهدف دون رد",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/NMH4PIOBZFGPTHBMUQWOBFT23I/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/NMH4PIOBZFGPTHBMUQWOBFT23I/",
+    "meta_id": "18031364549913443",
+    "published_at": "2026-11-10T16:11:53.556564+00:00"
   }
 ]
