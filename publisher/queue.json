@@ -19625,5 +19625,69 @@
     "quelle_url": "https://kifache.com/%d8%b4%d8%b1%d9%8a%d9%81-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1-%d8%ad%d9%83%d9%8a%d9%85%d9%8a-%d8%a7%d9%84%d8%a3%d8%ad%d9%82-%d8%a8%d8%a7%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b0/",
     "meta_id": "18005278665008664",
     "published_at": "2026-11-10T21:00:22.128087+00:00"
+  },
+  {
+    "id": "20261110-2211-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/berkane-20261110-2211-1-fb.jpg",
+    "caption": "تلقى نهضة بركان ضربة موجعة في سباق المنافسة على لقب البطولة الاحترافية، بعد تأكد غياب لاعبه منير الشويعر لفترة تقارب أربعة أسابيع.\n\nوكشفت الفحوصات الطبية التي أجراها النادي أن الشويعر يعاني من تمزق في العضلة الخلفية للفخذ، تعرض له خلال مواجهة حسنية أكادير في الجولة السابعة.\n\nوسيخضع اللاعب لمتابعة طبية لتقييم تطور حالته.\n\nكيف سيؤثر غياب الشويعر على نتائج نهضة بركان في الجولات المقبلة؟\n\n#نهضة_بركان #البطولة_الاحترافية #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "نهضة بركان يفقد منير الشويعر لأربعة أسابيع بسبب الإصابة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ADM7NDYT2FHGFJMFEHPKEYY6FQ/"
+  },
+  {
+    "id": "20261110-2211-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/berkane-20261110-2211-1-ig.jpg",
+    "caption": "🚑 خبر غير سار في بركان!\n\nمنير الشويعر سيغيب عن نهضة بركان قرابة أربعة أسابيع، بعد إصابته بتمزق في العضلة الخلفية للفخذ 🩺\n\nالإصابة جاءت خلال لقاء حسنية أكادير في الجولة السابعة من البطولة الاحترافية، وأكدتها الفحوصات الطبية للنادي ⚽\n\nالطاقم الطبي سيتابع حالة اللاعب عن قرب لتقييم مدى تعافيه 📋\n\nمن اللاعب الأنسب لتعويض الشويعر في تشكيلة بركان؟\n\n#نهضة_بركان #البطولة_الاحترافية #منير_الشويعر #كرة_القدم_المغربية #المغرب",
+    "status": "now",
+    "titel": "نهضة بركان يفقد منير الشويعر لأربعة أسابيع بسبب الإصابة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ADM7NDYT2FHGFJMFEHPKEYY6FQ/"
+  },
+  {
+    "id": "20261110-2211-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-2211-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261110-2211-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-10T23:13:48+01:00",
+    "titel": "نهضة بركان يفقد منير الشويعر لأربعة أسابيع بسبب الإصابة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ADM7NDYT2FHGFJMFEHPKEYY6FQ/"
+  },
+  {
+    "id": "20261110-2211-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-2211-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261110-2211-1.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "نهضة بركان يفقد منير الشويعر لأربعة أسابيع بسبب الإصابة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ADM7NDYT2FHGFJMFEHPKEYY6FQ/"
+  },
+  {
+    "id": "20261110-2211-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-2211-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261110-2211-1-fb.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "نهضة بركان يفقد منير الشويعر لأربعة أسابيع بسبب الإصابة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ADM7NDYT2FHGFJMFEHPKEYY6FQ/"
+  },
+  {
+    "id": "20261110-2211-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-2211-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "نهضة بركان يفقد منير الشويعر لأربعة أسابيع بسبب الإصابة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ADM7NDYT2FHGFJMFEHPKEYY6FQ/"
   }
 ]
