@@ -19281,10 +19281,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1915-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261110-1915-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-10T20:12:25+01:00",
     "titel": "اتحاد يعقوب المنصور ينتخب مجيد خلوة رئيسا جديدا خلفا لبنسعيد",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/AGVHHIT6BFAP3NDJEEYO2S5JVU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/AGVHHIT6BFAP3NDJEEYO2S5JVU/",
+    "meta_id": "1168329822427533",
+    "published_at": "2026-11-10T19:16:31.151626+00:00"
   },
   {
     "id": "20261110-1915-1-ig-reel",
@@ -19404,9 +19406,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261110-2015-1-fb.jpg",
     "caption": "نفى الاتحاد الأردني لكرة القدم الأنباء عن رحيل المدرب المغربي بادو الزاكي. وربطت تقارير المنصب بالمدرب المصري حسام حسن.\n\nوأكد نائب رئيس الاتحاد مروان جمعة أن هذه الأخبار لا أساس لها. ويرتبط الزاكي بعقد مع الاتحاد الأردني يسري إلى غاية صيف 2027.\n\nوتولى المهمة قبل أشهر خلفا لمواطنه جمال السلامي، الذي قاد الأردن إلى كأس العالم 2026 لأول مرة في تاريخه.\n\nوسبق للزاكي تدريب منتخب النيجر والمنتخب المغربي في فترتين، وبلغ مع أسود الأطلس نهائي كأس أمم إفريقيا 2004.\n\nكيف تقيمون تجربة المدربين المغاربة مع المنتخبات العربية؟\n\n#بادو_الزاكي #منتخب_الأردن #الكرة_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "الاتحاد الأردني ينفي رحيل المدرب المغربي بادو الزاكي",
-    "quelle_url": "https://alomksport.com/110354.html"
+    "quelle_url": "https://alomksport.com/110354.html",
+    "meta_id": "122224243376577271",
+    "published_at": "2026-11-10T19:16:31.151626+00:00"
   },
   {
     "id": "20261110-2015-1-ig-feed",
@@ -19414,9 +19418,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261110-2015-1-ig.jpg",
     "caption": "🛡️ الزاكي باق على رأس منتخب الأردن\n\nحسم الاتحاد الأردني الجدل حول مستقبل الإطار المغربي بادو الزاكي، ووصف الحديث عن تعويضه بحسام حسن بأنه بلا أساس ✋\n\nعقد الزاكي مستمر حتى صيف 2027، بعدما خلف مواطنه جمال السلامي الذي صنع التاريخ بقيادة الأردن إلى مونديال 2026 🌍\n\nمدرب أسود الأطلس السابق ووصيف كأس أمم إفريقيا 2004 يواصل مشواره مع النشامى ⚽\n\nما أبرز تحد ينتظر الزاكي مع منتخب الأردن؟\n\n#بادو_الزاكي #منتخب_الأردن #مدربون_مغاربة #الكرة_المغربية #أسود_الأطلس",
-    "status": "now",
+    "status": "published",
     "titel": "الاتحاد الأردني ينفي رحيل المدرب المغربي بادو الزاكي",
-    "quelle_url": "https://alomksport.com/110354.html"
+    "quelle_url": "https://alomksport.com/110354.html",
+    "meta_id": "18044682506839284",
+    "published_at": "2026-11-10T19:16:31.151626+00:00"
   },
   {
     "id": "20261110-2015-1-fb-reel",
@@ -19437,9 +19443,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-2015-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261110-2015-1.jpg",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الاتحاد الأردني ينفي رحيل المدرب المغربي بادو الزاكي",
-    "quelle_url": "https://alomksport.com/110354.html"
+    "quelle_url": "https://alomksport.com/110354.html",
+    "meta_id": "18440650693194222",
+    "published_at": "2026-11-10T19:16:31.151626+00:00"
   },
   {
     "id": "20261110-2015-1-fb-story",
@@ -19448,9 +19456,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-2015-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261110-2015-1-fb.jpg",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الاتحاد الأردني ينفي رحيل المدرب المغربي بادو الزاكي",
-    "quelle_url": "https://alomksport.com/110354.html"
+    "quelle_url": "https://alomksport.com/110354.html",
+    "meta_id": "1155398297038724",
+    "published_at": "2026-11-10T19:16:31.151626+00:00"
   },
   {
     "id": "20261110-2015-1-ig-story",
@@ -19458,8 +19468,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-2015-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الاتحاد الأردني ينفي رحيل المدرب المغربي بادو الزاكي",
-    "quelle_url": "https://alomksport.com/110354.html"
+    "quelle_url": "https://alomksport.com/110354.html",
+    "meta_id": "18201429577390172",
+    "published_at": "2026-11-10T19:16:31.151626+00:00"
   }
 ]
