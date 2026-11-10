@@ -212,3 +212,6 @@ Der `fb-reel`-Eintrag bekommt NICHT `status: "now"`, sondern `status: "scheduled
 
 ## Reels ohne Begleittext (verbindlich, dauerhaft, Nutzerwunsch 10.11.2026; ersetzt alle Caption-Angaben für Reels in dieser Datei und PROMPT.md)
 Facebook-Reel und Instagram-Reel werden mit leerem `caption` angelegt (kein Begleittext, auch keine Hashtags), wie die Stories. Der Text im Video (grüner Block, Zähler, Punktreihe) bleibt unverändert. Feed-Beiträge behalten ihre Texte und Hashtags.
+
+## Dauerhafte Freigabe (verbindlich, dauerhaft, Nutzerwunsch 10.11.2026; gilt für alle künftigen Läufe)
+Der Nutzer erteilt seine Freigabe immer im Voraus. Wartet ein Lauf an irgendeiner Stelle auf eine Freigabe, Bestätigung oder Rückfrage des Nutzers (zum Beispiel vor dem Push, dem Veröffentlichen oder dem Starten von `publish.yml`), gilt sie als erteilt: nicht warten, nicht nachfragen, sondern sofort weitermachen. Das gilt nur für die in dieser Datei und in PROMPT.md beschriebenen Schritte, nicht für neue Zusatzaktionen außerhalb davon.
