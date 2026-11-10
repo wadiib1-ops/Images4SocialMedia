@@ -37,7 +37,7 @@ Alle vier tragen dieselbe `quelle_url`, denselben `titel` und dieselbe Zeit. Hin
 - `id` eindeutig, `caption` leer lassen bei Stories.
 - `titel` und `quelle_url` immer setzen (Doppelschutz 24 h), bei Botola zusätzlich `runde`.
 - Medien-URLs: Bilder aus `main/images/`, Videos aus Branch `video-out` (Raw-URLs wie in PROMPT.md), vor dem Eintrag per curl prüfen (HTTP 200).
-- Videos erst nach über 2 Tagen löschen (das Aufräumen übernimmt der Workflow `delete-videos.yml` auf `video-out`), Bilder in `images/` nach über 3 Tagen, weil sie zum Veröffentlichungszeitpunkt abgerufen werden.
+- Videos nach über 24 Stunden löschen (das Aufräumen übernimmt der Workflow `delete-videos.yml` auf `video-out`, stündlich; siehe Abschnitt "Videos nach 24 Stunden löschen"), Bilder in `images/` nach über 3 Tagen, weil sie zum Veröffentlichungszeitpunkt abgerufen werden.
 
 ## Ablauf am Ende des Laufs
 1. Medien wie in PROMPT.md erzeugen und pushen (images/ auf main, Videos auf video-out).
@@ -53,7 +53,7 @@ Facebook höchstens 3, Instagram höchstens 5 Hashtags pro Beitrag, im Text und 
 Die Erinnerung eine Woche vor Ablauf des `META_USER_TOKEN` übernimmt eine eigene Routine des Nutzers. Im Lauf und im Bericht NICHT darauf hinweisen. Nur wenn das Veröffentlichen mit einem Token-Fehler scheitert, den Fehler melden.
 
 ## Musik und Dateien im Ordner Video/ (nie löschen)
-Dateien im Ordner `Video/` auf `main` (die Musik-Tracks `.mp3` und alle anderen Dateien) werden NIE gelöscht, umbenannt oder verändert, von keiner Routine und keinem Workflow. Aufgeräumt werden nur die erzeugten Videos `musik-<Zeit>-<n>-….mp4` auf dem Branch `video-out` (nach über 2 Tagen).
+Dateien im Ordner `Video/` auf `main` (die Musik-Tracks `.mp3` und alle anderen Dateien) werden NIE gelöscht, umbenannt oder verändert, von keiner Routine und keinem Workflow. Aufgeräumt werden nur die erzeugten Videos `musik-<Zeit>-<n>-….mp4` auf dem Branch `video-out` (nach über 24 Stunden).
 
 ## Benachrichtigung
 Meldungen an den Besitzer gehen per PushNotification, keine E-Mails und keine Gmail-Werkzeuge. In Dateien dieses Repos stehen keine E-Mail-Adressen (das Repo ist öffentlich).
@@ -218,3 +218,7 @@ Der Nutzer erteilt seine Freigabe immer im Voraus. Wartet ein Lauf an irgendeine
 
 ## Story-/Reel-Vorschau (verbindlich, dauerhaft, Nutzerwunsch 10.11.2026)
 Das erste Videobild zeigt jetzt schon Foto, Logo, Etikett und den ersten Textabschnitt (kein weißer Blitz, kein Glitch und keine Vergrößerung in den ersten ca. 0,16 s; umgesetzt in `mkn_template.py`), damit jede automatisch gewählte Vorschau lesbar ist. Der `fb-story`-Eintrag bekommt zusätzlich `cover_url` (gleiches Cover wie beim `fb-reel`, `images/cover-<Zeit>-<n>-fb.jpg`); `publish.py` setzt das Thumbnail auch bei Facebook-Stories (mit einer Wiederholung nach 20 s und einer Warnung im Log, wenn es scheitert). Instagram-Stories erlauben per API kein Cover.
+
+## Videos nach 24 Stunden löschen, Fehler melden (verbindlich, dauerhaft, Nutzerwunsch 10.11.2026; ersetzt alle Angaben "nach über 2 Tagen" für Videos)
+- Der Workflow `delete-videos.yml` läuft stündlich (Minute 17) und löscht auf `video-out` jede `*.mp4`, deren letzter Commit älter als 24 Stunden ist. Ausgenommen sind Videos, auf die ein noch nicht veröffentlichter Eintrag in `publisher/queue.json` zeigt (`status` `scheduled` oder `now`). Musik und alles auf `main` bleiben unberührt.
+- Prüfung in JEDEM Lauf (am Ende, vor dem Bericht): `git fetch origin video-out` und für jede `*.mp4` auf `video-out` die Zeit des letzten Commits (`git log -1 --format=%ct origin/video-out -- <Datei>`) ermitteln. Liegt eine Datei über 26 Stunden zurück (24 h + Puffer für den Stundentakt) und ist nicht durch einen offenen Queue-Eintrag geschützt, oder ist der letzte Lauf von `delete-videos.yml` fehlgeschlagen (GitHub-Tool `actions_list`, Methode `list_workflow_runs`, `resource_id` `delete-videos.yml`; bei `conclusion` `failure` die Fehlermeldung per `get_job_logs` lesen), dann SOFORT per PushNotification melden: welche Dateien nicht gelöscht wurden und der Grund (Fehlermeldung aus dem Workflow-Log, z. B. Push abgelehnt, Workflow nicht gelaufen/deaktiviert, Berechtigung fehlt). Im Bericht nennen. Gibt es nichts zu beanstanden, keine Benachrichtigung.

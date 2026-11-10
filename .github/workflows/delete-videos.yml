@@ -1,8 +1,8 @@
-name: MP4 Videos automatisch loeschen
+name: MP4 Videos automatisch loeschen (aelter als 24 Stunden)
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Läuft jeden Tag um Mitternacht (UTC)
+    - cron: '17 * * * *' # Läuft stündlich (Nutzerwunsch 10.11.2026: Videos älter als 24 Stunden löschen)
   workflow_dispatch: # Erlaubt es, den Job jederzeit manuell zu starten
 
 concurrency:
@@ -25,17 +25,23 @@ jobs:
         ref: video-out
         fetch-depth: 0
 
-    - name: MP4 Dateien aelter als 2 Tage loeschen und protokollieren
+    - name: Noch geplante Videos aus der Warteschlange lesen (werden nicht geloescht)
+      run: |
+        git fetch -q origin main
+        git show origin/main:publisher/queue.json | python3 -c "import json,sys; [print(e['video_url'].rsplit('/',1)[-1]) for e in json.load(sys.stdin) if e.get('status') in ('scheduled','now') and 'video-out/' in (e.get('video_url') or '')]" | sort -u > /tmp/keep.txt
+        echo "Geschuetzt (noch nicht veroeffentlicht):"; cat /tmp/keep.txt
+
+    - name: MP4 Dateien aelter als 24 Stunden loeschen und protokollieren
       run: |
         export TZ="Europe/Berlin"
         LOG_FILE="cleanup_history.log"
-        LIMIT=$(( $(date +%s) - 2*24*3600 ))
+        LIMIT=$(( $(date +%s) - 24*3600 ))
         : > deleted_files.txt
 
         # Alter nach dem Zeitpunkt des letzten Commits der Datei (die Datei-Zeit nach dem Checkout ist immer "jetzt")
         git ls-files '*.mp4' | while IFS= read -r file; do
           ts=$(git log -1 --format=%ct -- "$file")
-          if [ -n "$ts" ] && [ "$ts" -lt "$LIMIT" ]; then
+          if [ -n "$ts" ] && [ "$ts" -lt "$LIMIT" ] && ! grep -qxF "$file" /tmp/keep.txt; then
             echo "$file" >> deleted_files.txt
           fi
         done
@@ -58,8 +64,13 @@ jobs:
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add -A
         if ! git diff --staged --quiet; then
-          git commit -m "System: MP4-Dateien älter als 2 Tage entfernt"
-          git push origin HEAD:video-out
+          git commit -m "System: MP4-Dateien älter als 24 Stunden entfernt"
+          # Bei Ablehnung (gleichzeitiger Push der Routine) neu holen, rebasen und bis zu 3x wiederholen
+          for i in 1 2 3; do
+            git push origin HEAD:video-out && exit 0
+            sleep $((i*10)); git pull --rebase origin video-out || true
+          done
+          echo "::error::Push nach video-out nach 3 Versuchen abgelehnt"; exit 1
         else
           echo "Keine Änderungen."
         fi
