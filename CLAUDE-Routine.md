@@ -209,3 +209,6 @@ Logo (links) und Themen-Etikett (rechts) ganz oben stehen 70 px weiter unten, da
 
 ## Facebook-Reel eine Stunde nach dem Facebook-Feed (verbindlich, dauerhaft, Nutzerwunsch 06.11.2026; Ausnahme zu "SOFORT VERÖFFENTLICHEN")
 Der `fb-reel`-Eintrag bekommt NICHT `status: "now"`, sondern `status: "scheduled"` mit `publish_at` = Veröffentlichungszeit des Facebook-Feeds + 1 Stunde (Berliner Zeit mit Zeitzonen-Versatz, z. B. `+01:00`). Alle anderen Einträge der Meldung (FB-Feed, IG-Feed, IG-Reel, FB-Story, IG-Story) bleiben `status: "now"`. Die Verzögerung übernimmt der 15-Minuten-Takt von `publish.yml`; das Reel-Video und das Cover müssen bis dahin erreichbar bleiben (Videos nach über 2 Tagen, Bilder nach über 3 Tagen löschen, also unkritisch). Im Bericht die geplante Reel-Zeit nennen und den Status des Reels erst nach dem Fälligkeitszeitpunkt prüfen.
+
+## Reels ohne Begleittext (verbindlich, dauerhaft, Nutzerwunsch 10.11.2026; ersetzt alle Caption-Angaben für Reels in dieser Datei und PROMPT.md)
+Facebook-Reel und Instagram-Reel werden mit leerem `caption` angelegt (kein Begleittext, auch keine Hashtags), wie die Stories. Der Text im Video (grüner Block, Zähler, Punktreihe) bleibt unverändert. Feed-Beiträge behalten ihre Texte und Hashtags.
