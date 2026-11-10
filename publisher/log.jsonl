@@ -1912,3 +1912,12 @@
 {"zeit": "10.11.2026 14:20:13", "aktion": "veröffentlicht", "beitrag": "20261110-1420-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1143397048448425"}
 {"zeit": "10.11.2026 14:20:56", "aktion": "fehlgeschlagen", "beitrag": "20261110-1420-1-ig-story", "plattform": "instagram", "ergebnis": "fehler", "details": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":2207032,\"is_transient\":false,\"error_user_title\":\"Medien k\\u00f6nnen nicht erstellt werden\",\"error_user_msg\":\"Fehler beim Erstellen der Medien. Bitte versuche die Medien erneut zu erstellen\",\"fbtrace_id\":\"A23T2i9u2PgMc3nRh0LaGVU\"}}"}
 {"zeit": "10.11.2026 14:20:56", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "1534 Einträge geprüft"}
+{"zeit": "10.11.2026 15:16:02", "aktion": "veröffentlicht", "beitrag": "20261110-1315-1-fb-reel", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1674925284343129"}
+{"zeit": "10.11.2026 15:16:32", "aktion": "veröffentlicht", "beitrag": "20261110-1115-1-fb-reel", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1149994197379600"}
+{"zeit": "10.11.2026 15:17:01", "aktion": "veröffentlicht", "beitrag": "20261110-1415-1-fb-reel", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 2217177182201530"}
+{"zeit": "10.11.2026 15:17:05", "aktion": "veröffentlicht", "beitrag": "20261110-1515-1-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122224209614577271"}
+{"zeit": "10.11.2026 15:17:15", "aktion": "veröffentlicht", "beitrag": "20261110-1515-1-ig-feed", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 17874019677642804"}
+{"zeit": "10.11.2026 15:17:54", "aktion": "veröffentlicht", "beitrag": "20261110-1515-1-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18116455127140590"}
+{"zeit": "10.11.2026 15:18:04", "aktion": "veröffentlicht", "beitrag": "20261110-1515-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 3019948315011432"}
+{"zeit": "10.11.2026 15:19:18", "aktion": "veröffentlicht", "beitrag": "20261110-1515-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18127613225486586"}
+{"zeit": "10.11.2026 15:19:18", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "1540 Einträge geprüft"}
