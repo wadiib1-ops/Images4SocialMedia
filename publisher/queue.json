@@ -19169,5 +19169,69 @@
     "quelle_url": "https://ar.sport.le360.ma/football/botola/2H7MFBLQGBFRTFZ7TPIVO4V7IU/",
     "meta_id": "18450232624123903",
     "published_at": "2026-11-10T16:38:07.233045+00:00"
+  },
+  {
+    "id": "20261110-1815-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261110-1815-1-fb.jpg",
+    "caption": "حسمت إدارة الرجاء الرياضي مستقبل الإطار عبد الكريم الجيناني على رأس الطاقم الفني للفريق الأول.\n\nقررت الإدارة منحه الثقة لمواصلة قيادة الفريق بصفة رسمية، بعد فترة أشرف خلالها على المجموعة بشكل مؤقت.\n\nجاء القرار عقب نتائج إيجابية، أبرزها فوزان مهمان على الجيش الملكي واتحاد طنجة.\n\nومن المرتقب أن يجتمع الجيناني بالمكتب المديري خلال الأيام المقبلة لتحديد أسماء الطاقم التقني المساعد وحاجيات الفريق.\n\nكيف تقيمون قرار تثبيت الجيناني مدربا للرجاء؟\n\n#الرجاء #البطولة_الاحترافية #الجيناني",
+    "status": "now",
+    "titel": "الرجاء يثبت الجيناني مدربا رسميا للفريق الأول",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/6P2WYMLXEBG33NQFJOXHRZK22Y/"
+  },
+  {
+    "id": "20261110-1815-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261110-1815-1-ig.jpg",
+    "caption": "💚 الجيناني رسميا على دكة الرجاء!\n\nبعد مرحلة مؤقتة ناجحة، قررت إدارة النسور الخضر منح عبد الكريم الجيناني الثقة لمواصلة قيادة الفريق الأول ✅\n\nفوزان مهمان على الجيش الملكي واتحاد طنجة كانا كافيين لكسب ثقة المسيرين والجماهير 🦅\n\nالخطوة المقبلة: اجتماع مع المكتب المديري في الأيام القادمة لاختيار المساعدين وترتيب الطاقم التقني 📋\n\nما تقييمكم لحصيلة الجيناني حتى الآن؟\n\n#الرجاء #الرجاء_الرياضي #البطولة_الاحترافية #الجيناني #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "الرجاء يثبت الجيناني مدربا رسميا للفريق الأول",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/6P2WYMLXEBG33NQFJOXHRZK22Y/"
+  },
+  {
+    "id": "20261110-1815-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1815-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261110-1815-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-10T19:12:52+01:00",
+    "titel": "الرجاء يثبت الجيناني مدربا رسميا للفريق الأول",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/6P2WYMLXEBG33NQFJOXHRZK22Y/"
+  },
+  {
+    "id": "20261110-1815-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1815-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261110-1815-1.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "الرجاء يثبت الجيناني مدربا رسميا للفريق الأول",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/6P2WYMLXEBG33NQFJOXHRZK22Y/"
+  },
+  {
+    "id": "20261110-1815-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1815-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261110-1815-1-fb.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "الرجاء يثبت الجيناني مدربا رسميا للفريق الأول",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/6P2WYMLXEBG33NQFJOXHRZK22Y/"
+  },
+  {
+    "id": "20261110-1815-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1815-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الرجاء يثبت الجيناني مدربا رسميا للفريق الأول",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/6P2WYMLXEBG33NQFJOXHRZK22Y/"
   }
 ]
