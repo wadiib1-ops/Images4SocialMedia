@@ -18865,5 +18865,68 @@
     "titel": "لقجع يشدد على الحزم في ملف التحكيم",
     "quelle_url": "https://ar.sport.le360.ma/football/botola/EWMQA5GNGZEH7FAPPKFLP4Y4QY/",
     "error": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":2207032,\"is_transient\":false,\"error_user_title\":\"Medien k\\u00f6nnen nicht erstellt werden\",\"error_user_msg\":\"Fehler beim Erstellen der Medien. Bitte versuche die Medien erneut zu erstellen\",\"fbtrace_id\":\"A23T2i9u2PgMc3nRh0LaGVU\"}}"
+  },
+  {
+    "id": "20261110-1515-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/sanchez-20261110-1515-1-fb.jpg",
+    "caption": "رئيس الحكومة الإسبانية بيدرو سانشيز أعاد فتح النقاش حول مكان نهائي كأس العالم 2030.\n\nوقال في حديث إذاعي إن إسبانيا فازت في جنوب إفريقيا ونيويورك، وإن الدور جاء الآن على إسبانيا في 2030، مضيفا أن القرار بيد الفيفا.\n\nوأوضح أن إسبانيا والبرتغال هما من طرحا فكرة التنظيم المشترك، وأن المغرب انضم إليهما كبلد شقيق، وأن إسبانيا ستحتضن أكبر عدد من المباريات.\n\nوذكرت تقارير أن زعيم الحزب الشعبي ألبيرتو نونيز فيخو يدرس سحب إسبانيا من التنظيم إن لم تنل النهائي، بينما استبعد رئيس الاتحاد الإسباني رافائيل لوسان ذلك ودعا إلى الهدوء.\n\nكيف تقيمون النقاش الدائر حول مكان نهائي مونديال 2030؟\n\n#مونديال2030 #المغرب #إسبانيا",
+    "status": "now",
+    "titel": "سانشيز: دور إسبانيا في 2030 والقرار بيد الفيفا",
+    "quelle_url": "https://www.kooora.com/كرة-القدم/أخبار/رئيس-وزراء-اسبانيا-يشعل-حرب-نهائي-مونديال-2030-مع-المغرب/bltf869bcd04d833559"
+  },
+  {
+    "id": "20261110-1515-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/sanchez-20261110-1515-1-ig.jpg",
+    "caption": "نهائي مونديال 2030 يعود إلى الواجهة ⚽🏆\n\nسانشيز يقول إن إسبانيا فازت في جنوب إفريقيا ونيويورك وإن الدور الآن على إسبانيا في 2030، لكنه يؤكد أن الكلمة الأخيرة للفيفا.\n\nويشير إلى أن المغرب انضم إلى مبادرة إسبانيا والبرتغال كبلد شقيق، وأن إسبانيا ستحتضن أكبر عدد من المباريات.\n\nفي المقابل يدرس فيخو سحب إسبانيا من التنظيم إن لم تنل النهائي، بينما يدعو رئيس الاتحاد الإسباني لوسان إلى الهدوء 🤝\n\n#مونديال2030 #المغرب #إسبانيا #الفيفا #كرة_القدم",
+    "status": "now",
+    "titel": "سانشيز: دور إسبانيا في 2030 والقرار بيد الفيفا",
+    "quelle_url": "https://www.kooora.com/كرة-القدم/أخبار/رئيس-وزراء-اسبانيا-يشعل-حرب-نهائي-مونديال-2030-مع-المغرب/bltf869bcd04d833559"
+  },
+  {
+    "id": "20261110-1515-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1515-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261110-1515-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "titel": "سانشيز: دور إسبانيا في 2030 والقرار بيد الفيفا",
+    "quelle_url": "https://www.kooora.com/كرة-القدم/أخبار/رئيس-وزراء-اسبانيا-يشعل-حرب-نهائي-مونديال-2030-مع-المغرب/bltf869bcd04d833559",
+    "publish_at": "2026-11-10T16:15:00+01:00"
+  },
+  {
+    "id": "20261110-1515-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1515-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261110-1515-1.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "سانشيز: دور إسبانيا في 2030 والقرار بيد الفيفا",
+    "quelle_url": "https://www.kooora.com/كرة-القدم/أخبار/رئيس-وزراء-اسبانيا-يشعل-حرب-نهائي-مونديال-2030-مع-المغرب/bltf869bcd04d833559"
+  },
+  {
+    "id": "20261110-1515-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1515-1-fbstory-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "سانشيز: دور إسبانيا في 2030 والقرار بيد الفيفا",
+    "quelle_url": "https://www.kooora.com/كرة-القدم/أخبار/رئيس-وزراء-اسبانيا-يشعل-حرب-نهائي-مونديال-2030-مع-المغرب/bltf869bcd04d833559"
+  },
+  {
+    "id": "20261110-1515-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1515-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "سانشيز: دور إسبانيا في 2030 والقرار بيد الفيفا",
+    "quelle_url": "https://www.kooora.com/كرة-القدم/أخبار/رئيس-وزراء-اسبانيا-يشعل-حرب-نهائي-مونديال-2030-مع-المغرب/bltf869bcd04d833559"
   }
 ]
