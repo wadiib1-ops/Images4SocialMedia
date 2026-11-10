@@ -19094,5 +19094,68 @@
     "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/NMH4PIOBZFGPTHBMUQWOBFT23I/",
     "meta_id": "18031364549913443",
     "published_at": "2026-11-10T16:11:53.556564+00:00"
+  },
+  {
+    "id": "20261110-1735-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261110-1735-1-fb.jpg",
+    "caption": "العسري ينفي وجود أي اتصال مع الأهلي بشأن سفيان بنجديد\n\nرئيس الوداد تحدث لموقع كورة بلس المصري\n\nأكد أن الوداد لم يقدم أي عرض رسمي أو شفهي للاعب\n\nكانت أنباء قد ربطت الوداد بالمهاجم خلال سوق الانتقالات الشتوية\n\nانضم بنجديد إلى الأهلي الصيف الماضي قادما من المغرب الفاسي\n\nووقع عقدا لمدة ثلاثة مواسم مع النادي المصري\n\nكيف تقيّمون موقف الوداد من هذا الملف؟\n\n#الوداد #بنجديد #البطولة_الاحترافية",
+    "status": "now",
+    "titel": "العسري ينفي أي اتصال بالأهلي بشأن بنجديد",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/2H7MFBLQGBFRTFZ7TPIVO4V7IU/"
+  },
+  {
+    "id": "20261110-1735-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261110-1735-1-ig.jpg",
+    "caption": "🔥 الوداد يغلق باب الشائعات حول بنجديد\n\nنفى رئيس الوداد العسري أي تواصل مع الأهلي المصري بشأن المهاجم سفيان بنجديد، مؤكدا في تصريح لموقع كورة بلس أنه لا يوجد أي عرض رسمي أو شفهي ⚽\n\nوكانت أنباء قد تحدثت عن اهتمام الوداد به في سوق الانتقالات الشتوية. بنجديد انضم إلى الأهلي الصيف الماضي من المغرب الفاسي بعقد لثلاثة مواسم 📝\n\n#الوداد #بنجديد #الأهلي #الانتقالات #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "العسري ينفي أي اتصال بالأهلي بشأن بنجديد",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/2H7MFBLQGBFRTFZ7TPIVO4V7IU/"
+  },
+  {
+    "id": "20261110-1735-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1735-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261110-1735-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-10T18:37:42+01:00",
+    "titel": "العسري ينفي أي اتصال بالأهلي بشأن بنجديد",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/2H7MFBLQGBFRTFZ7TPIVO4V7IU/"
+  },
+  {
+    "id": "20261110-1735-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1735-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261110-1735-1.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "العسري ينفي أي اتصال بالأهلي بشأن بنجديد",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/2H7MFBLQGBFRTFZ7TPIVO4V7IU/"
+  },
+  {
+    "id": "20261110-1735-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1735-1-fbstory-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "العسري ينفي أي اتصال بالأهلي بشأن بنجديد",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/2H7MFBLQGBFRTFZ7TPIVO4V7IU/"
+  },
+  {
+    "id": "20261110-1735-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261110-1735-1-reel-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "العسري ينفي أي اتصال بالأهلي بشأن بنجديد",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/2H7MFBLQGBFRTFZ7TPIVO4V7IU/"
   }
 ]
