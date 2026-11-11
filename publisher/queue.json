@@ -20300,5 +20300,70 @@
     "status": "published",
     "meta_id": "18118489039817917",
     "published_at": "2026-11-11T10:15:04.684081+00:00"
+  },
+  {
+    "id": "20261111-1215-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-1215-1-fb.jpg",
+    "caption": "وجّهت العصبة الوطنية لكرة القدم الاحترافية تحذيرا إلى أندية البطولة قبل فترة الانتقالات الشتوية الممتدة من فاتح إلى 31 يناير.\n\nوأوضحت أن تأهيل اللاعبين الجدد لن يكون تلقائيا، بل مشروطا بترخيص مسبق يرتبط بالوضعية المالية لكل نادٍ، بعد دراسة الملفات من طرف لجنة المراقبة والتدبير.\n\nوستنشر العصبة في أجل أقصاه 15 دجنبر 2026 لائحة الأندية التي لا تستوفي المعايير المالية، ولن يحق لها التعاقد مع لاعبين جدد أو تأهيلهم خلال الميركاتو الشتوي.\n\nودعت الأندية إلى عدم الشروع في أي تعاقدات جديدة قبل صدور اللائحة، محمّلة إياها المسؤولية الكاملة عن أي التزام مالي أو قانوني يسبق الترخيص الرسمي.\n\nكيف تقيّمون تأثير هذه الإجراءات على أندية البطولة الاحترافية؟\n\n#البطولة_الاحترافية #العصبة_الاحترافية #الميركاتو_الشتوي",
+    "status": "now",
+    "titel": "العصبة تهدد الأندية بالحرمان من الانتدابات الشتوية",
+    "quelle_url": "https://ar.sport.le360.ma/football/RKXWSWMULBCX3LBXZ3G3RC4ELM/"
+  },
+  {
+    "id": "20261111-1215-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-1215-1-ig.jpg",
+    "caption": "⚠️ الميركاتو الشتوي لن يكون مفتوحا أمام الجميع\n\nالعصبة الاحترافية تشترط ترخيصا مسبقا مبنيا على الوضعية المالية قبل تأهيل أي لاعب جديد في الفترة من 1 إلى 31 يناير 📋\n\n📅 قبل 15 دجنبر 2026 ستُعلن لائحة الأندية التي لا تستوفي المعايير المالية، وهذه الأندية ستُحرم من الانتدابات الشتوية.\n\n🚫 إلى ذلك الحين، على الأندية تجنب أي اتفاق جديد مع اللاعبين، وكل التزام قبل الترخيص يبقى على مسؤوليتها.\n\nكيف تقيّمون ربط الانتدابات بالوضعية المالية للأندية؟\n\n#البطولة_الاحترافية #العصبة_الاحترافية #الميركاتو_الشتوي #كرة_القدم_المغربية #البطولة_المغربية",
+    "status": "now",
+    "titel": "العصبة تهدد الأندية بالحرمان من الانتدابات الشتوية",
+    "quelle_url": "https://ar.sport.le360.ma/football/RKXWSWMULBCX3LBXZ3G3RC4ELM/"
+  },
+  {
+    "id": "20261111-1215-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1215-1-fbstory-text.mp4",
+    "caption": "",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1215-1-fb.jpg",
+    "status": "scheduled",
+    "publish_at": "2026-11-11T15:24:49+01:00",
+    "titel": "العصبة تهدد الأندية بالحرمان من الانتدابات الشتوية",
+    "quelle_url": "https://ar.sport.le360.ma/football/RKXWSWMULBCX3LBXZ3G3RC4ELM/"
+  },
+  {
+    "id": "20261111-1215-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1215-1-reel-text.mp4",
+    "caption": "",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1215-1.jpg",
+    "status": "scheduled",
+    "publish_at": "2026-11-11T15:24:49+01:00",
+    "titel": "العصبة تهدد الأندية بالحرمان من الانتدابات الشتوية",
+    "quelle_url": "https://ar.sport.le360.ma/football/RKXWSWMULBCX3LBXZ3G3RC4ELM/"
+  },
+  {
+    "id": "20261111-1215-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1215-1-fbstory-text.mp4",
+    "caption": "",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1215-1-fb.jpg",
+    "status": "now",
+    "titel": "العصبة تهدد الأندية بالحرمان من الانتدابات الشتوية",
+    "quelle_url": "https://ar.sport.le360.ma/football/RKXWSWMULBCX3LBXZ3G3RC4ELM/"
+  },
+  {
+    "id": "20261111-1215-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1215-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "العصبة تهدد الأندية بالحرمان من الانتدابات الشتوية",
+    "quelle_url": "https://ar.sport.le360.ma/football/RKXWSWMULBCX3LBXZ3G3RC4ELM/"
   }
 ]
