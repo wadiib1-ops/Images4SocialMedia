@@ -2015,3 +2015,9 @@
 {"zeit": "11.11.2026 01:18:13", "aktion": "veröffentlicht", "beitrag": "20261111-0108-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1802557364292792"}
 {"zeit": "11.11.2026 01:18:46", "aktion": "fehlgeschlagen", "beitrag": "20261111-0108-1-ig-story", "plattform": "instagram", "ergebnis": "fehler", "details": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":2207032,\"is_transient\":false,\"error_user_title\":\"Medien k\\u00f6nnen nicht erstellt werden\",\"error_user_msg\":\"Fehler beim Erstellen der Medien. Bitte versuche die Medien erneut zu erstellen\",\"fbtrace_id\":\"Axlgjm0K73LH8R9MrJqRX30\"}}"}
 {"zeit": "11.11.2026 01:18:46", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "1618 Einträge geprüft"}
+{"zeit": "11.11.2026 02:13:30", "aktion": "veröffentlicht", "beitrag": "20261111-0215-1-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122224272278577271"}
+{"zeit": "11.11.2026 02:13:39", "aktion": "veröffentlicht", "beitrag": "20261111-0215-1-ig-feed", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18105971903377552"}
+{"zeit": "11.11.2026 02:14:19", "aktion": "veröffentlicht", "beitrag": "20261111-0215-1-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 17917388550542431"}
+{"zeit": "11.11.2026 02:14:50", "aktion": "veröffentlicht", "beitrag": "20261111-0215-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1642716450643981"}
+{"zeit": "11.11.2026 02:20:16", "aktion": "fehlgeschlagen", "beitrag": "20261111-0215-1-ig-story", "plattform": "instagram", "ergebnis": "fehler", "details": "Instagram-Verarbeitung dauert zu lange"}
+{"zeit": "11.11.2026 02:20:16", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "1624 Einträge geprüft"}
