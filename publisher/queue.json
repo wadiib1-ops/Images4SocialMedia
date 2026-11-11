@@ -20154,5 +20154,35 @@
     "quelle_url": "https://ar.sport.le360.ma/football/OXWZJB7GDFHVLPODRJVZQITYLQ/",
     "meta_id": "17957785422029902",
     "published_at": "2026-11-11T09:16:25.804325+00:00"
+  },
+  {
+    "id": "20261111-1045-url-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/$b_iw_mul_0.154/c_pad,w_iw,h_ih_add_$b,g_south,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_$b_mul_0.9/fl_layer_apply,g_north_west,x_$b_mul_0.05,y_$b_mul_0.05/f_jpg,q_90/https://www.sport7.ma/wp-content/uploads/2026/11/IMG_4200.jpeg",
+    "caption": "عاد المنتخب الوطني لكرة القدم الشاطئية إلى المغرب حاملاً لقب كأس العرب، بعدما حطّت بعثته في الساعات الأولى من صباح الأربعاء بمطار محمد الخامس الدولي بالدار البيضاء قادمة من مصر.\n\nوكان الأسود قد انتزعوا اللقب يوم الإثنين 9 نونبر في بورسعيد، إثر الفوز على موريتانيا بستة أهداف مقابل خمسة، ليكون أول تتويج عربي في تاريخ المنتخب.\n\nولن تطول فترة الراحة، إذ تنتظر المنتخب نهائيات كأس أمم إفريقيا للكرة الشاطئية في السنغال من 28 نونبر إلى 6 دجنبر، حيث يلعب في المجموعة الثانية إلى جانب موريتانيا ومالاوي وأنغولا.\n\nما العوامل التي ستحدد حظوظ المنتخب في كأس أمم إفريقيا بالسنغال؟\n\n#المغرب #الكرة_الشاطئية #كأس_العرب",
+    "status": "now",
+    "titel": "أسود الكرة الشاطئية يعودون إلى المغرب حاملين كأس العرب",
+    "quelle_url": "https://www.sport7.ma/المنتخب-الوطني-لكرة-القدم-الشاطئية-يع/"
+  },
+  {
+    "id": "20261111-1045-url-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/c_pad,w_1080,h_1350,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_150/fl_layer_apply,g_north_west,x_40,y_40/f_jpg,q_90/https://www.sport7.ma/wp-content/uploads/2026/11/IMG_4200.jpeg",
+    "caption": "🏆 كأس العرب وصلت إلى الدار البيضاء\n\nفجر الأربعاء، نزلت بعثة أسود الكرة الشاطئية في مطار محمد الخامس قادمة من مصر، ومعها أول لقب عربي في تاريخ المنتخب.\n\n⚽ الحسم كان في بورسعيد يوم الإثنين: فوز على موريتانيا 6-5 في نهائي متقارب.\n\n🌍 المحطة التالية: كأس أمم إفريقيا في السنغال من 28 نونبر إلى 6 دجنبر، في المجموعة الثانية مع موريتانيا ومالاوي وأنغولا.\n\n👇 ما المنتخب الأصعب على الأسود في هذه المجموعة حسب رأيكم؟\n\n#المغرب #أسود_الشاطئ #الكرة_الشاطئية #كأس_العرب #BeachSoccer",
+    "status": "now",
+    "titel": "أسود الكرة الشاطئية يعودون إلى المغرب حاملين كأس العرب",
+    "quelle_url": "https://www.sport7.ma/المنتخب-الوطني-لكرة-القدم-الشاطئية-يع/"
+  },
+  {
+    "id": "20261111-1045-url-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "image_url": "https://res.cloudinary.com/gc0qxb3y/image/fetch/c_pad,w_1080,h_1920,b_auto:border/l_fetch:aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3dhZGlpYjEtb3BzL0ltYWdlczRTb2NpYWxNZWRpYS9tYWluL2ltYWdlcy9sb2dvLW5ldS5wbmc/c_scale,h_150/fl_layer_apply,g_north_west,x_40,y_250/f_jpg,q_90/https://www.sport7.ma/wp-content/uploads/2026/11/IMG_4200.jpeg",
+    "caption": "",
+    "status": "now",
+    "titel": "أسود الكرة الشاطئية يعودون إلى المغرب حاملين كأس العرب",
+    "quelle_url": "https://www.sport7.ma/المنتخب-الوطني-لكرة-القدم-الشاطئية-يع/"
   }
 ]
