@@ -5515,5 +5515,70 @@
     "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/مرحلة-الحسم-بملف-نهائي-مونديال-2030--وفد-الفيفا-يقيم-البرنابيو-قبل-زيارة-المغرب/blt458944417b160010",
     "meta_id": "18111230840353848",
     "published_at": "2026-11-11T21:30:32.202564+00:00"
+  },
+  {
+    "id": "20261111-2315-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-2315-1-fb.jpg",
+    "caption": "الوداد الرياضي يقترب من استعادة وليد ناسي\n\nالمدرب نصر الدين نابي تلقى خبرا سارا بقرب عودة اللاعب بعد غياب طويل.\n\nناسي دخل المرحلة الأخيرة من التأهيل ويتدرب بشكل فردي حاليا. وينتظر أن يلتحق قريبا بالتداريب الجماعية للفريق.\n\nوكان قد أصيب في عظمة الترقوة اليمنى خلال الجولة الأولى من البطولة أمام وداد تمارة، وخضع لعملية جراحية ناجحة، فيما قدر النادي غيابه بين 8 و12 أسبوعا.\n\nما الإضافة التي يمكن أن يقدمها ناسي للوداد بعد عودته؟\n\n#الوداد #البطولة_برو #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "الوداد يقترب من استعادة وليد ناسي بعد إصابة الترقوة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ZMQN7WMQBFD3RECP2ZCE6XHA6M/"
+  },
+  {
+    "id": "20261111-2315-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-2315-1-ig.jpg",
+    "caption": "🔴 خبر سار في القلعة الحمراء\nوليد ناسي يقترب من العودة إلى أجواء المنافسة بعد غياب طويل 💪\n\n🏥 اللاعب أصيب في عظمة الترقوة اليمنى خلال الجولة الأولى أمام وداد تمارة، ثم خضع لعملية جراحية تكللت بالنجاح.\n\n⚽ اليوم يعيش ناسي المرحلة الأخيرة من التأهيل ويتدرب بشكل فردي، وعودته إلى التداريب الجماعية باتت قريبة.\n\nكيف تقيّمون أهمية عودته لتشكيلة الوداد؟\n\n#الوداد #الوداد_الرياضي #البطولة_برو #المغرب #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "الوداد يقترب من استعادة وليد ناسي بعد إصابة الترقوة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ZMQN7WMQBFD3RECP2ZCE6XHA6M/"
+  },
+  {
+    "id": "20261111-2315-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-2315-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-2315-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-12T02:14:40+01:00",
+    "titel": "الوداد يقترب من استعادة وليد ناسي بعد إصابة الترقوة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ZMQN7WMQBFD3RECP2ZCE6XHA6M/"
+  },
+  {
+    "id": "20261111-2315-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-2315-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-2315-1.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-12T02:14:40+01:00",
+    "titel": "الوداد يقترب من استعادة وليد ناسي بعد إصابة الترقوة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ZMQN7WMQBFD3RECP2ZCE6XHA6M/"
+  },
+  {
+    "id": "20261111-2315-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-2315-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-2315-1-fb.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "الوداد يقترب من استعادة وليد ناسي بعد إصابة الترقوة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ZMQN7WMQBFD3RECP2ZCE6XHA6M/"
+  },
+  {
+    "id": "20261111-2315-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-2315-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الوداد يقترب من استعادة وليد ناسي بعد إصابة الترقوة",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ZMQN7WMQBFD3RECP2ZCE6XHA6M/"
   }
 ]
