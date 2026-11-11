@@ -20457,5 +20457,70 @@
     "quelle_url": "https://ar.sport.le360.ma/football/ZQPHVWBZ3ZBOBPMPSA7NRCCKL4/",
     "meta_id": "18095518187484917",
     "published_at": "2026-11-11T12:15:17.934476+00:00"
+  },
+  {
+    "id": "20261111-1410-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-1410-1-fb.jpg",
+    "caption": "عبّر المدرب البرتغالي ألميدا عن خيبة أمله من نهاية تجربته مع المغرب الفاسي، رغم تفهمه لقرارات إدارة النادي.\n\nوأكد أنه غادر بضمير مرتاح، لأن الفريق حقق هدفه الأساسي بالتأهل إلى دوري أبطال إفريقيا.\n\nواعتبر أن رحيل سفيان بنجديدة كان أكبر انتكاسة عرفها الفريق.\n\nودعا إلى تقييم أي مشروع بشكل شامل، من الأهداف والإطار العام إلى تطور الفريق وجودة العمل.\n\nوأضاف أن القرار خيب أمله لكنه جزء من كرة القدم، معتبرا أنه لم يصدر عن المغرب الفاسي وحده.\n\nكيف تقيمون حصيلة ألميدا مع المغرب الفاسي؟\n\n#المغرب_الفاسي #البطولة_الاحترافية #الكرة_المغربية",
+    "status": "now",
+    "titel": "ألميدا يتحسر على نهاية تجربته مع المغرب الفاسي",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BCWYDNQ3NBDUTPPPKHAAGDRYPY/"
+  },
+  {
+    "id": "20261111-1410-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-1410-1-ig.jpg",
+    "caption": "🎙️ ألميدا يفتح قلبه بعد الرحيل عن المغرب الفاسي\n\nالمدرب البرتغالي لم يُخفِ خيبته من الطريقة التي انتهى بها مشواره مع الفريق، لكنه يؤكد أنه رحل مرتاح الضمير بعدما بلغ النادي هدفه الأكبر: دوري أبطال إفريقيا 🏆\n\n💔 في نظره، فقدان سفيان بنجديدة كان الضربة الأقسى للفريق.\n\n📊 ويرى أن الحكم على أي مشروع يجب أن يراعي الأهداف المسطرة وتطور الأداء وجودة العمل المنجز، مضيفا أنه لا يعتقد أن قرار رحيله صدر عن النادي وحده.\n\nما تقييمكم لعمل ألميدا مع الفريق الفاسي؟\n\n#المغرب_الفاسي #ألميدا #البطولة_الاحترافية #الكرة_المغربية #دوري_أبطال_إفريقيا",
+    "status": "now",
+    "titel": "ألميدا يتحسر على نهاية تجربته مع المغرب الفاسي",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BCWYDNQ3NBDUTPPPKHAAGDRYPY/"
+  },
+  {
+    "id": "20261111-1410-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1410-1-fbstory-text.mp4",
+    "caption": "",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1410-1-fb.jpg",
+    "status": "scheduled",
+    "publish_at": "2026-11-11T17:17:02+01:00",
+    "titel": "ألميدا يتحسر على نهاية تجربته مع المغرب الفاسي",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BCWYDNQ3NBDUTPPPKHAAGDRYPY/"
+  },
+  {
+    "id": "20261111-1410-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1410-1-reel-text.mp4",
+    "caption": "",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1410-1.jpg",
+    "status": "scheduled",
+    "publish_at": "2026-11-11T17:17:02+01:00",
+    "titel": "ألميدا يتحسر على نهاية تجربته مع المغرب الفاسي",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BCWYDNQ3NBDUTPPPKHAAGDRYPY/"
+  },
+  {
+    "id": "20261111-1410-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1410-1-fbstory-text.mp4",
+    "caption": "",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1410-1-fb.jpg",
+    "status": "now",
+    "titel": "ألميدا يتحسر على نهاية تجربته مع المغرب الفاسي",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BCWYDNQ3NBDUTPPPKHAAGDRYPY/"
+  },
+  {
+    "id": "20261111-1410-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1410-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "ألميدا يتحسر على نهاية تجربته مع المغرب الفاسي",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BCWYDNQ3NBDUTPPPKHAAGDRYPY/"
   }
 ]
