@@ -21031,5 +21031,70 @@
     "quelle_url": "https://alomksport.com/110397.html",
     "meta_id": "17919182358259803",
     "published_at": "2026-11-11T19:14:53.206765+00:00"
+  },
+  {
+    "id": "20261111-2115-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "caption": "مركب محمد الخامس جاهز لاستقبال الأسود\n\nيحتضن مركب محمد الخامس بالدار البيضاء مباراة المنتخب المغربي أمام النيجر يوم الجمعة 13 نونبر، ضمن تصفيات كأس أمم إفريقيا 2027.\n\nوتحت إشراف ولاية الدار البيضاء، انطلقت أشغال تنظيف مرافق المركب، إلى جانب أشغال تهم الإنارة والعشب.\n\nوكانت السلطات قد أغلقت الملعب في وجه الوداد والرجاء لتجهيز أرضيته.\n\nويرتقب أن يجري المدرب محمد وهبي حصة تدريبية بالملعب مساء الخميس.\n\nما رأيكم في جاهزية الملعب لهذه المباراة؟\n\n#المغرب #أسود_الأطلس #تصفيات_كان_2027",
+    "status": "now",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/stade-donor-20261111-2115-fb.jpg",
+    "titel": "مركب محمد الخامس يستعد لاحتضان مباراة المغرب والنيجر",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/62FJ2L64SFHP5PBPKLOGIZBLUU/"
+  },
+  {
+    "id": "20261111-2115-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "caption": "🏟️ \"دونور\" يتزين قبل موعد الجمعة\n\nعشب يُجهَّز بعناية وأضواء تُراجَع بدقة ⚽ مركب محمد الخامس بالدار البيضاء على موعد مع لقاء المنتخب المغربي والنيجر يوم 13 نونبر في تصفيات كأس أمم إفريقيا 2027.\n\n🧹 حملة تنظيف شاملة لمرافق المركب تحت إشراف ولاية الدار البيضاء، بعدما أُغلق الملعب أمام الوداد والرجاء لإعداد أرضيته.\n\n🦁 كتيبة وهبي على موعد مع حصة تدريبية فوق عشب الملعب مساء الخميس.\n\nكيف تقيمون حالة أرضية الملعب قبل المباراة؟\n\n#المغرب #أسود_الأطلس #كان_2027 #الدار_البيضاء #كرة_القدم_المغربية",
+    "status": "now",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/stade-donor-20261111-2115-ig.jpg",
+    "titel": "مركب محمد الخامس يستعد لاحتضان مباراة المغرب والنيجر",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/62FJ2L64SFHP5PBPKLOGIZBLUU/"
+  },
+  {
+    "id": "20261111-2115-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "caption": "",
+    "status": "scheduled",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-2115-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-2115-1-fb.jpg",
+    "publish_at": "2026-11-12T00:14:11+01:00",
+    "titel": "مركب محمد الخامس يستعد لاحتضان مباراة المغرب والنيجر",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/62FJ2L64SFHP5PBPKLOGIZBLUU/"
+  },
+  {
+    "id": "20261111-2115-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "caption": "",
+    "status": "scheduled",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-2115-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-2115-1.jpg",
+    "publish_at": "2026-11-12T00:14:11+01:00",
+    "titel": "مركب محمد الخامس يستعد لاحتضان مباراة المغرب والنيجر",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/62FJ2L64SFHP5PBPKLOGIZBLUU/"
+  },
+  {
+    "id": "20261111-2115-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "caption": "",
+    "status": "now",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-2115-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-2115-1-fb.jpg",
+    "titel": "مركب محمد الخامس يستعد لاحتضان مباراة المغرب والنيجر",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/62FJ2L64SFHP5PBPKLOGIZBLUU/"
+  },
+  {
+    "id": "20261111-2115-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "caption": "",
+    "status": "now",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-2115-1-story-text.mp4",
+    "titel": "مركب محمد الخامس يستعد لاحتضان مباراة المغرب والنيجر",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/62FJ2L64SFHP5PBPKLOGIZBLUU/"
   }
 ]
