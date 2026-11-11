@@ -19889,10 +19889,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-0108-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-0108-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-11T02:14:57+01:00",
     "titel": "العصبة الاحترافية توقف تأهيل أمين الكرمة مدربا للمغرب الفاسي",
-    "quelle_url": "https://ar.sport.le360.ma/football/6ZGPD5FETRDF5KNAYG54SYLIIU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/6ZGPD5FETRDF5KNAYG54SYLIIU/",
+    "meta_id": "1447645620251561",
+    "published_at": "2026-11-11T01:46:08.930050+00:00"
   },
   {
     "id": "20261111-0108-1-ig-reel",
