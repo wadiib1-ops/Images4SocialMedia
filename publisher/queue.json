@@ -20735,9 +20735,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-1715-1-fb.jpg",
     "caption": "المنتخب المغربي لأقل من 23 سنة يصل إلى إثيوبيا\n\nوصل المنتخب الوطني لأقل من 23 سنة إلى إثيوبيا صباح اليوم الأربعاء، استعدادا للدور الثاني من تصفيات كأس أمم إفريقيا للفئة.\n\nويواجه لاعبو المدرب جمال أيت بن إدير منتخب إثيوبيا ذهابا غدا الخميس بملعب ديري داوا، على الساعة الواحدة زوالا بتوقيت المغرب.\n\nوتقام مباراة الإياب يوم الثلاثاء 17 نونبر بملعب مولاي الحسن في الرباط.\n\nما توقعاتكم لنتيجة مباراة الذهاب؟\n\n#المنتخب_المغربي #أقل_من_23_سنة #كأس_أمم_إفريقيا",
-    "status": "now",
+    "status": "published",
     "titel": "المنتخب المغربي لأقل من 23 سنة يصل إلى إثيوبيا",
-    "quelle_url": "https://ar.sport.le360.ma/football/can/7BQJ5AA7ORGFFP5BHUE2BWYSKQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/can/7BQJ5AA7ORGFFP5BHUE2BWYSKQ/",
+    "meta_id": "122224359986577271",
+    "published_at": "2026-11-11T16:16:22.144015+00:00"
   },
   {
     "id": "20261111-1715-1-ig-feed",
@@ -20745,9 +20747,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-1715-1-ig.jpg",
     "caption": "✈️ الوجهة إثيوبيا… والهدف نتيجة إيجابية في الذهاب!\n\nوصل المنتخب المغربي لأقل من 23 سنة صباح الأربعاء إلى إثيوبيا، بعد رحلة انطلقت مساء الثلاثاء، لخوض الدور الثاني من تصفيات كأس أمم إفريقيا للفئة 🌍\n\n⚽ الذهاب: الخميس 12 نونبر بملعب ديري داوا، الساعة 13:00 بتوقيت المغرب\n🏟️ الإياب: الثلاثاء 17 نونبر بملعب مولاي الحسن في الرباط، الساعة 15:30\n\nالمدرب جمال أيت بن إدير اعتمد على 25 لاعبا لهذه المواجهة المزدوجة 💪\n\nكيف ترون حظوظ المنتخب في مباراة الذهاب؟\n\n#المغرب #المنتخب_المغربي #أقل_من_23_سنة #كأس_أمم_إفريقيا #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "المنتخب المغربي لأقل من 23 سنة يصل إلى إثيوبيا",
-    "quelle_url": "https://ar.sport.le360.ma/football/can/7BQJ5AA7ORGFFP5BHUE2BWYSKQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/can/7BQJ5AA7ORGFFP5BHUE2BWYSKQ/",
+    "meta_id": "17919604287495022",
+    "published_at": "2026-11-11T16:16:22.144015+00:00"
   },
   {
     "id": "20261111-1715-1-fb-reel",
@@ -20780,9 +20784,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1715-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1715-1-fb.jpg",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "المنتخب المغربي لأقل من 23 سنة يصل إلى إثيوبيا",
-    "quelle_url": "https://ar.sport.le360.ma/football/can/7BQJ5AA7ORGFFP5BHUE2BWYSKQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/can/7BQJ5AA7ORGFFP5BHUE2BWYSKQ/",
+    "meta_id": "2152372365389132",
+    "published_at": "2026-11-11T16:16:22.144015+00:00"
   },
   {
     "id": "20261111-1715-1-ig-story",
@@ -20790,8 +20796,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1715-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "المنتخب المغربي لأقل من 23 سنة يصل إلى إثيوبيا",
-    "quelle_url": "https://ar.sport.le360.ma/football/can/7BQJ5AA7ORGFFP5BHUE2BWYSKQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/can/7BQJ5AA7ORGFFP5BHUE2BWYSKQ/",
+    "meta_id": "18153642952557298",
+    "published_at": "2026-11-11T16:16:22.144015+00:00"
   }
 ]
