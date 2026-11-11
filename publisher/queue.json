@@ -20582,10 +20582,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1510-1-fbstory-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1510-1-fb.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-11T18:15:58+01:00",
     "titel": "شباب المسيرة يعين عمر لشكر مديرا رياضيا",
-    "quelle_url": "https://www.hespress.com/%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%aa%d8%ab%d9%82-%d9%81%d9%8a-%d9%84%d8%b4%d9%83%d8%b1-1837697.html"
+    "quelle_url": "https://www.hespress.com/%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%aa%d8%ab%d9%82-%d9%81%d9%8a-%d9%84%d8%b4%d9%83%d8%b1-1837697.html",
+    "meta_id": "1366384638752988",
+    "published_at": "2026-11-11T18:14:26.988071+00:00"
   },
   {
     "id": "20261111-1510-1-ig-reel",
@@ -20594,10 +20596,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1510-1-reel-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1510-1.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-11T18:15:58+01:00",
     "titel": "شباب المسيرة يعين عمر لشكر مديرا رياضيا",
-    "quelle_url": "https://www.hespress.com/%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%aa%d8%ab%d9%82-%d9%81%d9%8a-%d9%84%d8%b4%d9%83%d8%b1-1837697.html"
+    "quelle_url": "https://www.hespress.com/%d8%a5%d8%af%d8%a7%d8%b1%d8%a9-%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%b1%d8%a9-%d8%aa%d8%ab%d9%82-%d9%81%d9%8a-%d9%84%d8%b4%d9%83%d8%b1-1837697.html",
+    "meta_id": "17996757360048886",
+    "published_at": "2026-11-11T18:14:26.988071+00:00"
   },
   {
     "id": "20261111-1510-1-fb-story",
@@ -20885,9 +20889,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-1910-1-fb.jpg",
     "caption": "انطلاق أشغال ملعبين جديدين للتداريب في طنجة استعدادا لمونديال 2030\n\nبدأت يوم الثلاثاء أشغال تشييد ملعبين جديدين بمدينة طنجة، سيخصصان لتداريب المنتخبات المشاركة في كأس العالم 2030.\n\nيقع الملعب الأول بمنطقة الهرارش وسط فضاء غابوي، فيما يوجد الثاني بمنطقة اجبيلة غرب المدينة، على بعد أقل من سبعة كيلومترات من ملعب طنجة الكبير.\n\nتتولى الوكالة الوطنية للتجهيزات العامة إنجاز المشروع وفق معايير الفيفا، تحت إشراف وزارة الداخلية، على أن يتم التسليم نهاية سنة 2027.\n\nوتشمل المرافق أرضية بعشب هجين بمقاس 105 على 68 مترا، ومستودعات للملابس، وفضاء للصحافة، ومدرجا بحوالي 500 مقعد، إضافة إلى مواقف للسيارات.\n\nوبعد المونديال، ستوضع المنشأتان رهن إشارة الأندية والمدارس في طنجة.\n\nما أهمية هذه الملاعب في تحضيرات المغرب لاستضافة كأس العالم 2030؟\n\n#المغرب #مونديال2030 #طنجة",
-    "status": "now",
+    "status": "published",
     "titel": "ملعبان جديدان للتداريب في طنجة استعدادا لمونديال 2030",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/RXSBUDL33BAZXBMVJHXH4FGSVI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/RXSBUDL33BAZXBMVJHXH4FGSVI/",
+    "meta_id": "122224375586577271",
+    "published_at": "2026-11-11T18:14:26.988071+00:00"
   },
   {
     "id": "20261111-1910-1-ig-feed",
@@ -20895,9 +20901,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-1910-1-ig.jpg",
     "caption": "🏗️ طنجة تستعد لاستقبال منتخبات العالم في 2030!\n\nانطلقت الأشغال في ملعبين جديدين مخصصين لتداريب المنتخبات خلال كأس العالم ⚽\n\n📍 الأول في الهرارش وسط الغابة، والثاني في اجبيلة غرب المدينة، قرب ملعب طنجة الكبير.\n\n🌱 عشب هجين بمقاس 105 على 68 مترا، ومستودعات وفضاء للصحافة ومدرج بحوالي 500 مقعد، وفق معايير الفيفا.\n\n📅 التسليم مرتقب نهاية 2027، وبعد المونديال ستستفيد منهما الأندية والمدارس في طنجة.\n\nكيف ترون مستوى البنية التحتية الرياضية في المغرب اليوم؟\n\n#المغرب #مونديال2030 #طنجة #كرة_القدم #كأس_العالم",
-    "status": "now",
+    "status": "published",
     "titel": "ملعبان جديدان للتداريب في طنجة استعدادا لمونديال 2030",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/RXSBUDL33BAZXBMVJHXH4FGSVI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/RXSBUDL33BAZXBMVJHXH4FGSVI/",
+    "meta_id": "18149543962584234",
+    "published_at": "2026-11-11T18:14:26.988071+00:00"
   },
   {
     "id": "20261111-1910-1-fb-reel",
@@ -20930,9 +20938,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1910-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1910-1-fb.jpg",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "ملعبان جديدان للتداريب في طنجة استعدادا لمونديال 2030",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/RXSBUDL33BAZXBMVJHXH4FGSVI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/RXSBUDL33BAZXBMVJHXH4FGSVI/",
+    "meta_id": "2029691347721889",
+    "published_at": "2026-11-11T18:14:26.988071+00:00"
   },
   {
     "id": "20261111-1910-1-ig-story",
@@ -20940,8 +20950,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1910-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "ملعبان جديدان للتداريب في طنجة استعدادا لمونديال 2030",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/RXSBUDL33BAZXBMVJHXH4FGSVI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/RXSBUDL33BAZXBMVJHXH4FGSVI/",
+    "meta_id": "18110733419257921",
+    "published_at": "2026-11-11T18:14:26.988071+00:00"
   }
 ]
