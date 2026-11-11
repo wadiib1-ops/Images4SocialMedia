@@ -20505,10 +20505,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1410-1-fbstory-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1410-1-fb.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-11T17:17:02+01:00",
     "titel": "ألميدا يتحسر على نهاية تجربته مع المغرب الفاسي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/BCWYDNQ3NBDUTPPPKHAAGDRYPY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BCWYDNQ3NBDUTPPPKHAAGDRYPY/",
+    "meta_id": "1783355952914770",
+    "published_at": "2026-11-11T17:11:35.396785+00:00"
   },
   {
     "id": "20261111-1410-1-ig-reel",
@@ -20517,10 +20519,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1410-1-reel-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1410-1.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-11T17:17:02+01:00",
     "titel": "ألميدا يتحسر على نهاية تجربته مع المغرب الفاسي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/BCWYDNQ3NBDUTPPPKHAAGDRYPY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BCWYDNQ3NBDUTPPPKHAAGDRYPY/",
+    "meta_id": "18108025496282094",
+    "published_at": "2026-11-11T17:11:35.396785+00:00"
   },
   {
     "id": "20261111-1410-1-fb-story",
