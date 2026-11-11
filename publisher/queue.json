@@ -20307,9 +20307,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-1215-1-fb.jpg",
     "caption": "وجّهت العصبة الوطنية لكرة القدم الاحترافية تحذيرا إلى أندية البطولة قبل فترة الانتقالات الشتوية الممتدة من فاتح إلى 31 يناير.\n\nوأوضحت أن تأهيل اللاعبين الجدد لن يكون تلقائيا، بل مشروطا بترخيص مسبق يرتبط بالوضعية المالية لكل نادٍ، بعد دراسة الملفات من طرف لجنة المراقبة والتدبير.\n\nوستنشر العصبة في أجل أقصاه 15 دجنبر 2026 لائحة الأندية التي لا تستوفي المعايير المالية، ولن يحق لها التعاقد مع لاعبين جدد أو تأهيلهم خلال الميركاتو الشتوي.\n\nودعت الأندية إلى عدم الشروع في أي تعاقدات جديدة قبل صدور اللائحة، محمّلة إياها المسؤولية الكاملة عن أي التزام مالي أو قانوني يسبق الترخيص الرسمي.\n\nكيف تقيّمون تأثير هذه الإجراءات على أندية البطولة الاحترافية؟\n\n#البطولة_الاحترافية #العصبة_الاحترافية #الميركاتو_الشتوي",
-    "status": "now",
+    "status": "published",
     "titel": "العصبة تهدد الأندية بالحرمان من الانتدابات الشتوية",
-    "quelle_url": "https://ar.sport.le360.ma/football/RKXWSWMULBCX3LBXZ3G3RC4ELM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/RKXWSWMULBCX3LBXZ3G3RC4ELM/",
+    "meta_id": "122224330940577271",
+    "published_at": "2026-11-11T11:25:14.998877+00:00"
   },
   {
     "id": "20261111-1215-1-ig-feed",
@@ -20317,9 +20319,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-1215-1-ig.jpg",
     "caption": "⚠️ الميركاتو الشتوي لن يكون مفتوحا أمام الجميع\n\nالعصبة الاحترافية تشترط ترخيصا مسبقا مبنيا على الوضعية المالية قبل تأهيل أي لاعب جديد في الفترة من 1 إلى 31 يناير 📋\n\n📅 قبل 15 دجنبر 2026 ستُعلن لائحة الأندية التي لا تستوفي المعايير المالية، وهذه الأندية ستُحرم من الانتدابات الشتوية.\n\n🚫 إلى ذلك الحين، على الأندية تجنب أي اتفاق جديد مع اللاعبين، وكل التزام قبل الترخيص يبقى على مسؤوليتها.\n\nكيف تقيّمون ربط الانتدابات بالوضعية المالية للأندية؟\n\n#البطولة_الاحترافية #العصبة_الاحترافية #الميركاتو_الشتوي #كرة_القدم_المغربية #البطولة_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "العصبة تهدد الأندية بالحرمان من الانتدابات الشتوية",
-    "quelle_url": "https://ar.sport.le360.ma/football/RKXWSWMULBCX3LBXZ3G3RC4ELM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/RKXWSWMULBCX3LBXZ3G3RC4ELM/",
+    "meta_id": "17943743292390276",
+    "published_at": "2026-11-11T11:25:14.998877+00:00"
   },
   {
     "id": "20261111-1215-1-fb-reel",
@@ -20352,9 +20356,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1215-1-fbstory-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1215-1-fb.jpg",
-    "status": "now",
+    "status": "published",
     "titel": "العصبة تهدد الأندية بالحرمان من الانتدابات الشتوية",
-    "quelle_url": "https://ar.sport.le360.ma/football/RKXWSWMULBCX3LBXZ3G3RC4ELM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/RKXWSWMULBCX3LBXZ3G3RC4ELM/",
+    "meta_id": "3978527908961567",
+    "published_at": "2026-11-11T11:25:14.998877+00:00"
   },
   {
     "id": "20261111-1215-1-ig-story",
@@ -20362,8 +20368,9 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1215-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "failed",
     "titel": "العصبة تهدد الأندية بالحرمان من الانتدابات الشتوية",
-    "quelle_url": "https://ar.sport.le360.ma/football/RKXWSWMULBCX3LBXZ3G3RC4ELM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/RKXWSWMULBCX3LBXZ3G3RC4ELM/",
+    "error": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":2207032,\"is_transient\":false,\"error_user_title\":\"Medien k\\u00f6nnen nicht erstellt werden\",\"error_user_msg\":\"Fehler beim Erstellen der Medien. Bitte versuche die Medien erneut zu erstellen\",\"fbtrace_id\":\"A1Dz9yy6lH5Ga3sF0W7PLxr\"}}"
   }
 ]

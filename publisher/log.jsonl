@@ -2050,3 +2050,8 @@
 {"zeit": "11.11.2026 11:15:54", "aktion": "veröffentlicht", "beitrag": "20261111-1110-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 3285462381627525"}
 {"zeit": "11.11.2026 11:16:30", "aktion": "veröffentlicht", "beitrag": "20261111-1110-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18118489039817917"}
 {"zeit": "11.11.2026 11:16:30", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "1648 Einträge geprüft"}
+{"zeit": "11.11.2026 12:25:19", "aktion": "veröffentlicht", "beitrag": "20261111-1215-1-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122224330940577271"}
+{"zeit": "11.11.2026 12:25:26", "aktion": "veröffentlicht", "beitrag": "20261111-1215-1-ig-feed", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 17943743292390276"}
+{"zeit": "11.11.2026 12:25:57", "aktion": "veröffentlicht", "beitrag": "20261111-1215-1-fb-story", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 3978527908961567"}
+{"zeit": "11.11.2026 12:27:22", "aktion": "fehlgeschlagen", "beitrag": "20261111-1215-1-ig-story", "plattform": "instagram", "ergebnis": "fehler", "details": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"Fatal\",\"type\":\"OAuthException\",\"code\":-1,\"error_subcode\":2207032,\"is_transient\":false,\"error_user_title\":\"Medien k\\u00f6nnen nicht erstellt werden\",\"error_user_msg\":\"Fehler beim Erstellen der Medien. Bitte versuche die Medien erneut zu erstellen\",\"fbtrace_id\":\"A1Dz9yy6lH5Ga3sF0W7PLxr\"}}"}
+{"zeit": "11.11.2026 12:27:22", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "1654 Einträge geprüft"}
