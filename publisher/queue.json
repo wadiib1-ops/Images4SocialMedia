@@ -20805,5 +20805,70 @@
     "quelle_url": "https://ar.sport.le360.ma/football/can/7BQJ5AA7ORGFFP5BHUE2BWYSKQ/",
     "meta_id": "18153642952557298",
     "published_at": "2026-11-11T16:16:22.144015+00:00"
+  },
+  {
+    "id": "20261111-1810-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-1810-1-fb.jpg",
+    "caption": "نائل العيناوي يغادر معسكر المنتخب المغربي قبل مواجهتي النيجر.\n\nالتحق لاعب الوسط بالتجمع وهو يعاني من آلام في الكاحل. وأظهرت فحوصات طبية يوم الثلاثاء أنه لن يكون جاهزا بدنيا بالشكل المطلوب للمباراتين المقبلتين.\n\nبعد التشاور مع اللاعب وناديه، تقرر السماح له بمغادرة المعسكر لمواصلة التعافي.\n\nوفي المقابل، استدعى المدرب محمد وهبي لاعب ستراسبورغ سمير موراييط لتعويضه.\n\nويواصل المنتخب تحضيراته بالمركب الرياضي محمد الخامس بالدار البيضاء استعدادا لمواجهتي النيجر في تصفيات كأس أمم إفريقيا.\n\nكيف تقيّمون اختيار سمير موراييط لتعويض العيناوي في هذه المرحلة؟\n\n#المنتخب_المغربي #أسود_الأطلس #المغرب_النيجر",
+    "status": "now",
+    "titel": "العيناوي يغادر معسكر المنتخب المغربي وموراييط يعوضه",
+    "quelle_url": "https://ar.sport.le360.ma/football/can/A2OWHBWHZBADPHQX3QMXGTJU44/"
+  },
+  {
+    "id": "20261111-1810-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-1810-1-ig.jpg",
+    "caption": "تغيير اضطراري في معسكر أسود الأطلس قبل مواجهتي النيجر 🦁\n\nآلام الكاحل أبعدت نائل العيناوي عن التجمع، بعدما كشفت الفحوصات الطبية يوم الثلاثاء أنه لن يكون في أفضل جاهزية للمباراتين المقبلتين 🩹\n\nبالاتفاق مع اللاعب وناديه، غادر العيناوي المعسكر لاستكمال تعافيه، فيما وقع اختيار محمد وهبي على سمير موراييط، لاعب ستراسبورغ، لسد الفراغ 🔄\n\nالتحضيرات متواصلة بالمركب الرياضي محمد الخامس في الدار البيضاء استعدادا لتصفيات كأس أمم إفريقيا ⚽\n\nما رأيكم في استدعاء سمير موراييط بدلا من العيناوي؟\n\n#المنتخب_المغربي #أسود_الأطلس #المغرب #النيجر #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "العيناوي يغادر معسكر المنتخب المغربي وموراييط يعوضه",
+    "quelle_url": "https://ar.sport.le360.ma/football/can/A2OWHBWHZBADPHQX3QMXGTJU44/"
+  },
+  {
+    "id": "20261111-1810-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1810-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1810-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-11T21:13:43+01:00",
+    "titel": "العيناوي يغادر معسكر المنتخب المغربي وموراييط يعوضه",
+    "quelle_url": "https://ar.sport.le360.ma/football/can/A2OWHBWHZBADPHQX3QMXGTJU44/"
+  },
+  {
+    "id": "20261111-1810-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1810-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1810-1.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-11T21:13:43+01:00",
+    "titel": "العيناوي يغادر معسكر المنتخب المغربي وموراييط يعوضه",
+    "quelle_url": "https://ar.sport.le360.ma/football/can/A2OWHBWHZBADPHQX3QMXGTJU44/"
+  },
+  {
+    "id": "20261111-1810-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1810-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1810-1-fb.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "العيناوي يغادر معسكر المنتخب المغربي وموراييط يعوضه",
+    "quelle_url": "https://ar.sport.le360.ma/football/can/A2OWHBWHZBADPHQX3QMXGTJU44/"
+  },
+  {
+    "id": "20261111-1810-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1810-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "العيناوي يغادر معسكر المنتخب المغربي وموراييط يعوضه",
+    "quelle_url": "https://ar.sport.le360.ma/football/can/A2OWHBWHZBADPHQX3QMXGTJU44/"
   }
 ]
