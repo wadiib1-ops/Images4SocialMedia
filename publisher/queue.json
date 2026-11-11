@@ -5294,24 +5294,28 @@
     "platform": "facebook",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-2115-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-2115-1-fb.jpg",
     "publish_at": "2026-11-12T00:14:11+01:00",
     "titel": "مركب محمد الخامس يستعد لاحتضان مباراة المغرب والنيجر",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/62FJ2L64SFHP5PBPKLOGIZBLUU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/62FJ2L64SFHP5PBPKLOGIZBLUU/",
+    "meta_id": "1535522908394838",
+    "published_at": "2026-11-11T23:24:57.792116+00:00"
   },
   {
     "id": "20261111-2115-1-ig-reel",
     "platform": "instagram",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-2115-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-2115-1.jpg",
     "publish_at": "2026-11-12T00:14:11+01:00",
     "titel": "مركب محمد الخامس يستعد لاحتضان مباراة المغرب والنيجر",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/62FJ2L64SFHP5PBPKLOGIZBLUU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/62FJ2L64SFHP5PBPKLOGIZBLUU/",
+    "meta_id": "17991034677089023",
+    "published_at": "2026-11-11T23:24:57.792116+00:00"
   },
   {
     "id": "20261111-2115-1-fb-story",
@@ -5599,9 +5603,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-0015-1-fb.jpg",
     "caption": "المغرب الفاسي يعود إلى التداريب استعدادا للبطولة ودوري الأبطال\n\nقرر الطاقم التقني للمغرب الفاسي استئناف التداريب يوم الأربعاء، بعد منح اللاعبين ثلاثة أيام من الراحة.\n\nومن المنتظر أن يدخل الفريق في معسكر مغلق خلال فترة التوقف الدولي، استعدادا لمباريات البطولة ودوري أبطال إفريقيا بقيادة المدرب الجديد أمين الكرمة.\n\nوكان الفريق قد فاز على الفتح بهدف دون رد في ملعب البشير بالمحمدية، ليرفع رصيده إلى 11 نقطة، على بعد خمس نقاط من المتصدر الكوكب المراكشي.\n\nكيف تقيمون حظوظ المغرب الفاسي في الدفاع عن لقبه هذا الموسم؟\n\n#المغرب_الفاسي #البطولة_برو #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "المغرب الفاسي يستأنف التداريب ويستعد لمعسكر مغلق خلال التوقف الدولي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/WQVOUYH5T5AJ3F3PPO4T26QIII/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/WQVOUYH5T5AJ3F3PPO4T26QIII/",
+    "meta_id": "122224415960577271",
+    "published_at": "2026-11-11T23:24:57.792116+00:00"
   },
   {
     "id": "20261112-0015-1-ig-feed",
@@ -5609,9 +5615,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-0015-1-ig.jpg",
     "caption": "⚽ العمل يعود من جديد في فاس\nلاعبو المغرب الفاسي ينهون ثلاثة أيام من الراحة ويعودون إلى أرضية التداريب 💪\n\n🏆 الفوز الأخير على الفتح بهدف نظيف في ملعب البشير بالمحمدية رفع رصيد الفريق إلى 11 نقطة، بفارق خمس نقاط عن المتصدر الكوكب المراكشي.\n\n🔒 الطاقم التقني بقيادة أمين الكرمة يتجه إلى معسكر مغلق خلال التوقف الدولي، تحضيرا لمواعيد البطولة ودوري أبطال إفريقيا.\n\nما المراكز التي يحتاج المغرب الفاسي إلى تقويتها في هذه المرحلة؟\n\n#المغرب_الفاسي #الماص #البطولة_برو #دوري_أبطال_إفريقيا #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "المغرب الفاسي يستأنف التداريب ويستعد لمعسكر مغلق خلال التوقف الدولي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/WQVOUYH5T5AJ3F3PPO4T26QIII/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/WQVOUYH5T5AJ3F3PPO4T26QIII/",
+    "meta_id": "18140611888668217",
+    "published_at": "2026-11-11T23:24:57.792116+00:00"
   },
   {
     "id": "20261112-0015-1-fb-reel",
@@ -5644,9 +5652,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-0015-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-0015-1-fb.jpg",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "المغرب الفاسي يستأنف التداريب ويستعد لمعسكر مغلق خلال التوقف الدولي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/WQVOUYH5T5AJ3F3PPO4T26QIII/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/WQVOUYH5T5AJ3F3PPO4T26QIII/",
+    "meta_id": "2122257588383598",
+    "published_at": "2026-11-11T23:24:57.792116+00:00"
   },
   {
     "id": "20261112-0015-1-ig-story",
@@ -5654,8 +5664,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-0015-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "المغرب الفاسي يستأنف التداريب ويستعد لمعسكر مغلق خلال التوقف الدولي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/WQVOUYH5T5AJ3F3PPO4T26QIII/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/WQVOUYH5T5AJ3F3PPO4T26QIII/",
+    "meta_id": "18135836167764381",
+    "published_at": "2026-11-11T23:24:57.792116+00:00"
   }
 ]
