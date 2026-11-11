@@ -20391,9 +20391,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-1310-1-fb.jpg",
     "caption": "قرر الاتحاد الدولي لكرة القدم «فيفا» منع الوداد الرياضي من تسجيل لاعبين جدد لمدة ثلاث فترات انتقالية، ابتداء من 10 نونبر 2026.\n\nويعود القرار إلى مستحقات غير مسددة لنادي ألوايز ريدي البوليفي، تخص إعارة اللاعب مويسيس بانياغوا بقيمة 300 مليون سنتيم.\n\nوحسب مصدر مقرب من النادي، يرتقب ملف ثان بقيمة 850 مليون سنتيم يخص القسط الأول من صفقة انتقال اللاعب، وقد يليه قسط ثان بمليار سنتيم في الميركاتو الصيفي.\n\nكيف ترون تأثير هذا القرار على الوداد في المرحلة المقبلة؟\n\n#الوداد_الرياضي #الفيفا #البطولة_الاحترافية",
-    "status": "now",
+    "status": "published",
     "titel": "الفيفا يمنع الوداد من التعاقدات لثلاث فترات انتقالية",
-    "quelle_url": "https://ar.sport.le360.ma/football/ZQPHVWBZ3ZBOBPMPSA7NRCCKL4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ZQPHVWBZ3ZBOBPMPSA7NRCCKL4/",
+    "meta_id": "122224335890577271",
+    "published_at": "2026-11-11T12:15:17.934476+00:00"
   },
   {
     "id": "20261111-1310-1-ig-feed",
@@ -20401,9 +20403,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261111-1310-1-ig.jpg",
     "caption": "⛔ قرار جديد من الفيفا يضع الوداد أمام اختبار صعب\n\nالاتحاد الدولي يمنع النادي الأحمر من تسجيل لاعبين جدد خلال ثلاث فترات انتقالية بدءا من 10 نونبر 📋\n\n💰 السبب: 300 مليون سنتيم غير مسددة لنادي ألوايز ريدي البوليفي مقابل إعارة مويسيس بانياغوا.\n\n📂 وحسب مصدر مقرب من النادي، ملف آخر بقيمة 850 مليون سنتيم مرتقب قريبا، مع قسط ثان بمليار سنتيم قد يُطرح في الصيف.\n\nما الخطوات التي ينبغي للوداد اتخاذها لتسوية هذه الملفات؟\n\n#الوداد_الرياضي #الفيفا #البطولة_الاحترافية #كرة_القدم_المغربية #الميركاتو",
-    "status": "now",
+    "status": "published",
     "titel": "الفيفا يمنع الوداد من التعاقدات لثلاث فترات انتقالية",
-    "quelle_url": "https://ar.sport.le360.ma/football/ZQPHVWBZ3ZBOBPMPSA7NRCCKL4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ZQPHVWBZ3ZBOBPMPSA7NRCCKL4/",
+    "meta_id": "18102104267084571",
+    "published_at": "2026-11-11T12:15:17.934476+00:00"
   },
   {
     "id": "20261111-1310-1-fb-reel",
@@ -20436,9 +20440,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1310-1-fbstory-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-1310-1-fb.jpg",
-    "status": "now",
+    "status": "published",
     "titel": "الفيفا يمنع الوداد من التعاقدات لثلاث فترات انتقالية",
-    "quelle_url": "https://ar.sport.le360.ma/football/ZQPHVWBZ3ZBOBPMPSA7NRCCKL4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ZQPHVWBZ3ZBOBPMPSA7NRCCKL4/",
+    "meta_id": "1114207308187439",
+    "published_at": "2026-11-11T12:15:17.934476+00:00"
   },
   {
     "id": "20261111-1310-1-ig-story",
@@ -20446,8 +20452,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-1310-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الفيفا يمنع الوداد من التعاقدات لثلاث فترات انتقالية",
-    "quelle_url": "https://ar.sport.le360.ma/football/ZQPHVWBZ3ZBOBPMPSA7NRCCKL4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ZQPHVWBZ3ZBOBPMPSA7NRCCKL4/",
+    "meta_id": "18095518187484917",
+    "published_at": "2026-11-11T12:15:17.934476+00:00"
   }
 ]
