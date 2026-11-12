@@ -6021,5 +6021,70 @@
     "quelle_url": "https://ar.sport.le360.ma/football/botola/W64POG6YC5GKNDH66LAS357NMA/",
     "meta_id": "18119027990086068",
     "published_at": "2026-11-12T11:17:20.738209+00:00"
+  },
+  {
+    "id": "20261112-1315-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1315-1-fb.jpg",
+    "caption": "المغرب الفاسي يقدم طاقمه التقني الجديد بقيادة أمين الكرمة\n\nكشف المغرب الفاسي عن تركيبة الطاقم الذي سيشرف على الفريق خلال الموسم الحالي، بقيادة المدرب أمين الكرمة خلفا للبرتغالي روي ألميدا.\n\nويضم الطاقم المساعدين توفيق السيمو وعبد العظيم خضروف، فيما يواصل محمد حمادو مهمته مدربا لحراس المرمى.\n\nوانضم تياغو دياز إلى الطاقم مطورا للأداء، إلى جانب المعدين البدنيين ألكسندر كوبولاني ومعاذ بنعلي، والمحللين رضا الكتامي وعمرو بلحرش.\n\nوجاء هذا التغيير بعد انفصال النادي عن ألميدا إثر الهزيمة أمام وداد تمارة في البطولة الاحترافية.\n\nكيف تقيمون تركيبة الطاقم التقني الجديد للمغرب الفاسي؟\n\n#المغرب_الفاسي #البطولة_برو #أمين_الكرمة",
+    "status": "now",
+    "titel": "المغرب الفاسي يقدم طاقمه التقني الجديد بقيادة أمين الكرمة",
+    "quelle_url": "https://alomksport.com/110420.html"
+  },
+  {
+    "id": "20261112-1315-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1315-1-ig.jpg",
+    "caption": "صفحة جديدة تُفتح في فاس 🟡⚫\n\nأمين الكرمة يتسلم المشعل في المغرب الفاسي خلفا لروي ألميدا، والنادي يعلن رسميا أسماء من سيرافقونه في المهمة 📋\n\n👥 مساعدان: توفيق السيمو وعبد العظيم خضروف\n🧤 تدريب الحراس: محمد حمادو يواصل مهمته\n📈 تطوير الأداء: تياغو دياز\n💪 الإعداد البدني: ألكسندر كوبولاني ومعاذ بنعلي\n🎥 تحليل الأداء: رضا الكتامي وعمرو بلحرش\n\nالتغيير جاء بعد الخسارة أمام وداد تمارة في البطولة الاحترافية، والفريق يدخل الآن مرحلة جديدة.\n\nما رأيكم في هذه التركيبة التقنية؟\n\n#المغرب_الفاسي #البطولة_برو #أمين_الكرمة #الماص #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "المغرب الفاسي يقدم طاقمه التقني الجديد بقيادة أمين الكرمة",
+    "quelle_url": "https://alomksport.com/110420.html"
+  },
+  {
+    "id": "20261112-1315-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1315-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1315-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-12T16:18:24+01:00",
+    "titel": "المغرب الفاسي يقدم طاقمه التقني الجديد بقيادة أمين الكرمة",
+    "quelle_url": "https://alomksport.com/110420.html"
+  },
+  {
+    "id": "20261112-1315-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1315-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1315-1.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-12T16:18:24+01:00",
+    "titel": "المغرب الفاسي يقدم طاقمه التقني الجديد بقيادة أمين الكرمة",
+    "quelle_url": "https://alomksport.com/110420.html"
+  },
+  {
+    "id": "20261112-1315-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1315-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1315-1-fb.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "المغرب الفاسي يقدم طاقمه التقني الجديد بقيادة أمين الكرمة",
+    "quelle_url": "https://alomksport.com/110420.html"
+  },
+  {
+    "id": "20261112-1315-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1315-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "المغرب الفاسي يقدم طاقمه التقني الجديد بقيادة أمين الكرمة",
+    "quelle_url": "https://alomksport.com/110420.html"
   }
 ]
