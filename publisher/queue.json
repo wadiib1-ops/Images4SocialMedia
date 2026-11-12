@@ -6244,5 +6244,70 @@
     "quelle_url": "https://ar.sport.le360.ma/football/botola/YTLEWVSMTFHC5IT4NYHATQS6X4/",
     "meta_id": "18393154564239304",
     "published_at": "2026-11-12T14:15:08.435546+00:00"
+  },
+  {
+    "id": "20261112-1615-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1615-1-fb.jpg",
+    "caption": "المنتخب الأولمبي يعود بفوز ثمين من إثيوبيا\n\nحقق المنتخب المغربي لأقل من 23 سنة فوزا مهما على نظيره الإثيوبي بهدف دون رد، في ذهاب الدور الثاني من التصفيات المؤهلة إلى كأس أمم إفريقيا للفئة.\n\nوجاء هدف المباراة الوحيد في الدقيقة 27 من الشوط الأول، عن طريق يونس البحراوي.\n\nويستضيف لاعبو المدرب جمال آيت بن إيدير منافسهم في مباراة الإياب يوم الثلاثاء 17 نونبر على ملعب مولاي الحسن بالرباط، ابتداء من الساعة 15:30.\n\nكيف تقيمون أداء المنتخب الأولمبي في مباراة الذهاب؟\n\n#المنتخب_الأولمبي #المغرب #أسود_الأطلس",
+    "status": "now",
+    "titel": "المنتخب الأولمبي يفوز على إثيوبيا بهدف دون رد في ذهاب تصفيات كأس إفريقيا",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/CQSXZ6KXU5FQRNW3D3V4C4L4DQ/"
+  },
+  {
+    "id": "20261112-1615-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1615-1-ig.jpg",
+    "caption": "🔥 خطوة مهمة على طريق \"الكان\"!\n\nعاد المنتخب المغربي الأولمبي بانتصار ثمين من إثيوبيا بهدف نظيف ⚽\nيونس البحراوي وقّع هدف الفوز في الدقيقة 27 من الشوط الأول 🎯\nوالحسم سيكون في الإياب يوم الثلاثاء 17 نونبر على ملعب مولاي الحسن بالرباط 🏟️\n\nما توقعاتكم لنتيجة مباراة الإياب في الرباط؟\n\n#المنتخب_الأولمبي #المغرب #كرة_القدم #أقل_من_23_سنة #تصفيات_الكان",
+    "status": "now",
+    "titel": "المنتخب الأولمبي يفوز على إثيوبيا بهدف دون رد في ذهاب تصفيات كأس إفريقيا",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/CQSXZ6KXU5FQRNW3D3V4C4L4DQ/"
+  },
+  {
+    "id": "20261112-1615-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1615-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1615-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-12T19:16:08+01:00",
+    "titel": "المنتخب الأولمبي يفوز على إثيوبيا بهدف دون رد في ذهاب تصفيات كأس إفريقيا",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/CQSXZ6KXU5FQRNW3D3V4C4L4DQ/"
+  },
+  {
+    "id": "20261112-1615-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1615-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1615-1.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-12T19:16:08+01:00",
+    "titel": "المنتخب الأولمبي يفوز على إثيوبيا بهدف دون رد في ذهاب تصفيات كأس إفريقيا",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/CQSXZ6KXU5FQRNW3D3V4C4L4DQ/"
+  },
+  {
+    "id": "20261112-1615-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1615-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1615-1-fb.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "المنتخب الأولمبي يفوز على إثيوبيا بهدف دون رد في ذهاب تصفيات كأس إفريقيا",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/CQSXZ6KXU5FQRNW3D3V4C4L4DQ/"
+  },
+  {
+    "id": "20261112-1615-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1615-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "المنتخب الأولمبي يفوز على إثيوبيا بهدف دون رد في ذهاب تصفيات كأس إفريقيا",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/CQSXZ6KXU5FQRNW3D3V4C4L4DQ/"
   }
 ]
