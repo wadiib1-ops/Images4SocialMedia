@@ -5640,10 +5640,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-0015-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-0015-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-12T03:24:21+01:00",
     "titel": "المغرب الفاسي يستأنف التداريب ويستعد لمعسكر مغلق خلال التوقف الدولي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/WQVOUYH5T5AJ3F3PPO4T26QIII/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/WQVOUYH5T5AJ3F3PPO4T26QIII/",
+    "meta_id": "1520899349847267",
+    "published_at": "2026-11-12T04:06:59.920108+00:00"
   },
   {
     "id": "20261112-0015-1-ig-reel",
@@ -5652,10 +5654,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-0015-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-0015-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-12T03:24:21+01:00",
     "titel": "المغرب الفاسي يستأنف التداريب ويستعد لمعسكر مغلق خلال التوقف الدولي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/WQVOUYH5T5AJ3F3PPO4T26QIII/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/WQVOUYH5T5AJ3F3PPO4T26QIII/",
+    "meta_id": "17914463349510569",
+    "published_at": "2026-11-12T04:06:59.920108+00:00"
   },
   {
     "id": "20261112-0015-1-fb-story",
@@ -5713,10 +5717,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-0110-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-0110-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-12T04:14:05+01:00",
     "titel": "مدرب هولندا يكشف كواليس اختيار أوفقير للمغرب",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/",
+    "meta_id": "1154084313637356",
+    "published_at": "2026-11-12T04:06:59.920108+00:00"
   },
   {
     "id": "20261112-0110-1-ig-reel",
@@ -5725,10 +5731,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-0110-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-0110-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-12T04:14:05+01:00",
     "titel": "مدرب هولندا يكشف كواليس اختيار أوفقير للمغرب",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/",
+    "meta_id": "18110460134246699",
+    "published_at": "2026-11-12T04:06:59.920108+00:00"
   },
   {
     "id": "20261112-0110-1-fb-story",
