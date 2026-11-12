@@ -5409,10 +5409,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-2210-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-2210-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-12T01:13:58+01:00",
     "titel": "أشرف داري يستعيد مكانه مع الأهلي بثقة عموتة",
-    "quelle_url": "https://kifache.com/%d8%a8%d9%81%d8%b6%d9%84-%d8%ab%d9%82%d8%a9-%d8%b9%d9%85%d9%88%d8%aa%d8%a9-%d8%a3%d8%b4%d8%b1%d9%81-%d8%af%d8%a7%d8%b1%d9%8a-%d9%8a%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d9%85%d8%b3%d8%aa%d9%88/"
+    "quelle_url": "https://kifache.com/%d8%a8%d9%81%d8%b6%d9%84-%d8%ab%d9%82%d8%a9-%d8%b9%d9%85%d9%88%d8%aa%d8%a9-%d8%a3%d8%b4%d8%b1%d9%81-%d8%af%d8%a7%d8%b1%d9%8a-%d9%8a%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d9%85%d8%b3%d8%aa%d9%88/",
+    "meta_id": "2110106556287930",
+    "published_at": "2026-11-12T00:14:45.603462+00:00"
   },
   {
     "id": "20261111-2210-1-ig-reel",
@@ -5421,10 +5423,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261111-2210-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261111-2210-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-12T01:13:58+01:00",
     "titel": "أشرف داري يستعيد مكانه مع الأهلي بثقة عموتة",
-    "quelle_url": "https://kifache.com/%d8%a8%d9%81%d8%b6%d9%84-%d8%ab%d9%82%d8%a9-%d8%b9%d9%85%d9%88%d8%aa%d8%a9-%d8%a3%d8%b4%d8%b1%d9%81-%d8%af%d8%a7%d8%b1%d9%8a-%d9%8a%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d9%85%d8%b3%d8%aa%d9%88/"
+    "quelle_url": "https://kifache.com/%d8%a8%d9%81%d8%b6%d9%84-%d8%ab%d9%82%d8%a9-%d8%b9%d9%85%d9%88%d8%aa%d8%a9-%d8%a3%d8%b4%d8%b1%d9%81-%d8%af%d8%a7%d8%b1%d9%8a-%d9%8a%d8%b9%d9%88%d8%af-%d8%a5%d9%84%d9%89-%d9%85%d8%b3%d8%aa%d9%88/",
+    "meta_id": "18001045562823373",
+    "published_at": "2026-11-12T00:14:45.603462+00:00"
   },
   {
     "id": "20261111-2210-1-fb-story",
@@ -5676,9 +5680,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-0110-1-fb.jpg",
     "caption": "كشف مايكل رايزيغر، مدرب منتخب هولندا لأقل من 21 سنة، كواليس اختيار أيوب أوفقير اللعب للمنتخب المغربي.\n\nوأوضح أن الجهاز الفني جلس مع اللاعب قبل خمسة أيام فقط من استدعائه لأسود الأطلس، وأكد له حينها التزامه بالمنتخب الهولندي.\n\nوأضاف أنه علم بوجود اسم أوفقير في القائمة الأولية للمغرب، قبل أن يؤكد له اللاعب قراره بنفسه.\n\nواعترف رايزيغر بأن الطريقة التي تمت بها الأمور لم تكن مثالية، مشيرا إلى أن جناح ألكمار شرح له أسباب اختياره.\n\nكيف تقيّمون إضافة أوفقير إلى خيارات المنتخب الوطني؟\n\n#المنتخب_المغربي #أسود_الأطلس #أيوب_أوفقير",
-    "status": "now",
+    "status": "published",
     "titel": "مدرب هولندا يكشف كواليس اختيار أوفقير للمغرب",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/",
+    "meta_id": "122224419428577271",
+    "published_at": "2026-11-12T00:14:45.603462+00:00"
   },
   {
     "id": "20261112-0110-1-ig-feed",
@@ -5686,9 +5692,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-0110-1-ig.jpg",
     "caption": "قبل خمسة أيام فقط كان أوفقير مع هولندا… ثم اختار المغرب 👀\n\nمايكل رايزيغر، مدرب منتخب هولندا لأقل من 21 سنة، روى أن الجناح أكد له التزامه بالمنتخب الهولندي خلال جلسة جمعتهما 🗣️\n\nلكن المفاجأة جاءت عندما ظهر اسمه في القائمة الأولية لأسود الأطلس، ليؤكد له اللاعب قراره بنفسه ⚽\n\nرايزيغر اعترف بأن الأمور لم تُدَر بطريقة مثالية، وقال إن نجم ألكمار شرح له أسباب اختياره 🦁\n\nما تقييمكم لانضمام أوفقير إلى المنتخب الوطني؟\n\n#المغرب #أسود_الأطلس #أيوب_أوفقير #المنتخب_المغربي #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "مدرب هولندا يكشف كواليس اختيار أوفقير للمغرب",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/",
+    "meta_id": "18097766444660215",
+    "published_at": "2026-11-12T00:14:45.603462+00:00"
   },
   {
     "id": "20261112-0110-1-fb-reel",
@@ -5721,9 +5729,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-0110-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-0110-1-fb.jpg",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "مدرب هولندا يكشف كواليس اختيار أوفقير للمغرب",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/",
+    "meta_id": "1126269487075712",
+    "published_at": "2026-11-12T00:14:45.603462+00:00"
   },
   {
     "id": "20261112-0110-1-ig-story",
@@ -5731,8 +5741,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-0110-1-reel-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "مدرب هولندا يكشف كواليس اختيار أوفقير للمغرب",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/",
+    "meta_id": "18067323917538384",
+    "published_at": "2026-11-12T00:14:45.603462+00:00"
   }
 ]
