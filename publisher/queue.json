@@ -5944,5 +5944,70 @@
     "quelle_url": "https://www.lesiteinfo.com/sport/686729-niger-maroc-a-rabat-ouverture-de-la-billetterie-ce-jeudi.html",
     "meta_id": "18104638646338778",
     "published_at": "2026-11-12T10:16:04.762731+00:00"
+  },
+  {
+    "id": "20261112-1215-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1215-1-fb.jpg",
+    "caption": "محمود بنتايك يقترب من العودة إلى الملاعب مع الزمالك\n\nطمأن الدولي المغربي محمود بنتايك جماهير الزمالك المصري بشأن حالته الصحية. وأكد أنه بات قريبا من العودة إلى الملاعب.\n\nتعرض الظهير الأيسر لتمزق في العضلة الخلفية، وكانت آخر مباراة خاضها أمام الأهلي في الجولة السادسة.\n\nوغاب عن ست مباريات مع فريقه، بينها مواجهتا أبي إف سي الرواندي في دوري أبطال إفريقيا.\n\nوأوضح أن حالته تحسنت، وأنه سيتابع عودته مع طبيب الفريق.\n\nما المركز الذي تتوقعونه لبنتايك في تشكيلة الزمالك بعد عودته؟\n\n#محمود_بنتايك #الزمالك #المحترفون_المغاربة",
+    "status": "now",
+    "titel": "محمود بنتايك يقترب من العودة إلى الملاعب مع الزمالك",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/W64POG6YC5GKNDH66LAS357NMA/"
+  },
+  {
+    "id": "20261112-1215-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1215-1-ig.jpg",
+    "caption": "💪 خبر سار لجماهير الزمالك: بنتايك على أبواب العودة\nالظهير الأيسر المغربي يطمئن الجميع بعد أسابيع من الغياب ⚽\n\n🩺 تمزق في العضلة الخلفية أبعده عن الملاعب منذ مواجهة الأهلي في الجولة السادسة، وكانت مدة التعافي المتوقعة بين ثلاثة وأربعة أسابيع.\n\n📋 ست مباريات غاب عنها مع الفريق المصري، من بينها مواجهتا أبي إف سي الرواندي في دوري أبطال إفريقيا.\n\n🔜 بنتايك أكد أن وضعه تحسن، وأنه يتابع مراحل الرجوع مع طبيب الفريق.\n\nمتى تتوقعون أول ظهور له بعد العودة؟\n\n#محمود_بنتايك #الزمالك #المحترفون_المغاربة #أسود_الأطلس #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "محمود بنتايك يقترب من العودة إلى الملاعب مع الزمالك",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/W64POG6YC5GKNDH66LAS357NMA/"
+  },
+  {
+    "id": "20261112-1215-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1215-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1215-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-12T15:16:45+01:00",
+    "titel": "محمود بنتايك يقترب من العودة إلى الملاعب مع الزمالك",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/W64POG6YC5GKNDH66LAS357NMA/"
+  },
+  {
+    "id": "20261112-1215-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1215-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1215-1.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-12T15:16:45+01:00",
+    "titel": "محمود بنتايك يقترب من العودة إلى الملاعب مع الزمالك",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/W64POG6YC5GKNDH66LAS357NMA/"
+  },
+  {
+    "id": "20261112-1215-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1215-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1215-1-fb.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "محمود بنتايك يقترب من العودة إلى الملاعب مع الزمالك",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/W64POG6YC5GKNDH66LAS357NMA/"
+  },
+  {
+    "id": "20261112-1215-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1215-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "محمود بنتايك يقترب من العودة إلى الملاعب مع الزمالك",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/W64POG6YC5GKNDH66LAS357NMA/"
   }
 ]
