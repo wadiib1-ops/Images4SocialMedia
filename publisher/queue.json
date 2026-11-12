@@ -1168,10 +1168,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1825-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1825-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "titel": "أشبال الفوتسال يتوجون بالبرونزية في أولمبياد الشباب بداكار",
     "quelle_url": "https://ar.sport.le360.ma/football/IUCGMLMY3ZD5DI4SXMEGHTHQ5M/",
-    "publish_at": "2026-11-12T21:26:00+01:00"
+    "publish_at": "2026-11-12T21:26:00+01:00",
+    "meta_id": "2322139391874900",
+    "published_at": "2026-11-12T20:43:02.875378+00:00"
   },
   {
     "id": "20261112-1825-1-ig-reel",
@@ -1180,10 +1182,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1825-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1825-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "titel": "أشبال الفوتسال يتوجون بالبرونزية في أولمبياد الشباب بداكار",
     "quelle_url": "https://ar.sport.le360.ma/football/IUCGMLMY3ZD5DI4SXMEGHTHQ5M/",
-    "publish_at": "2026-11-12T21:26:00+01:00"
+    "publish_at": "2026-11-12T21:26:00+01:00",
+    "meta_id": "17970338667197369",
+    "published_at": "2026-11-12T20:43:02.875378+00:00"
   },
   {
     "id": "20261112-1825-1-fb-story",
@@ -1241,10 +1245,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1825-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1825-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "titel": "سيدات صن داونز يبلغن نهائي دوري أبطال إفريقيا ويواجهن الجيش الملكي",
     "quelle_url": "https://ar.sport.le360.ma/football/WKUKL6PQFNALTDYFAAGGUI4YT4/",
-    "publish_at": "2026-11-12T21:26:00+01:00"
+    "publish_at": "2026-11-12T21:26:00+01:00",
+    "meta_id": "1914457836674737",
+    "published_at": "2026-11-12T20:43:02.875378+00:00"
   },
   {
     "id": "20261112-1825-2-ig-reel",
@@ -1253,10 +1259,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1825-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1825-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "titel": "سيدات صن داونز يبلغن نهائي دوري أبطال إفريقيا ويواجهن الجيش الملكي",
     "quelle_url": "https://ar.sport.le360.ma/football/WKUKL6PQFNALTDYFAAGGUI4YT4/",
-    "publish_at": "2026-11-12T21:26:00+01:00"
+    "publish_at": "2026-11-12T21:26:00+01:00",
+    "meta_id": "18101869865533583",
+    "published_at": "2026-11-12T20:43:02.875378+00:00"
   },
   {
     "id": "20261112-1825-2-fb-story",
