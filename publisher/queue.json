@@ -5761,9 +5761,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/url-20261112-0238-fb.jpg",
     "caption": "قرر الاتحاد الأمريكي لكرة القدم سحب منتخبه لأقل من 17 سنة من كأس العالم للناشئين، التي تحتضنها قطر بعد أيام قليلة.\n\nويعود القرار إلى مخاوف تتعلق بسلامة البعثة، بعد أن رفعت الخارجية الأمريكية في 23 أكتوبر مستوى التحذير من السفر إلى قطر إلى الدرجة الثالثة.\n\nوأبلغ الاتحاد لاعبيه بالقرار عبر رسالة مكتوبة، علما أن المنتخب الأمريكي كان سيستهل مشواره يوم 21 نونبر أمام الجبل الأسود.\n\nوتنطلق البطولة بمشاركة 48 منتخبا يوم 19 نونبر وتستمر حتى 13 دجنبر، بعدما خرج الأمريكيون في النسخة الماضية من دور الـ32.\n\nكيف سيؤثر هذا الانسحاب على مجموعات البطولة؟\n\n#كأس_العالم_للناشئين #مونديال_قطر #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "الولايات المتحدة تنسحب من مونديال الناشئين في قطر",
-    "quelle_url": "https://www.espn.com/soccer/story/_/id/50455133/usa-fifa-mens-u17-world-cup-qatar-safety"
+    "quelle_url": "https://www.espn.com/soccer/story/_/id/50455133/usa-fifa-mens-u17-world-cup-qatar-safety",
+    "meta_id": "122224428254577271",
+    "published_at": "2026-11-12T01:46:07.415843+00:00"
   },
   {
     "id": "20261112-0238-url-ig-feed",
@@ -5771,9 +5773,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/url-20261112-0238-ig.jpg",
     "caption": "⚽ انسحاب مفاجئ قبل أسبوع من صافرة البداية\n\nأعلن الاتحاد الأمريكي لكرة القدم عدم مشاركة منتخبه للناشئين في كأس العالم لأقل من 17 سنة بقطر 🚫\n\n🔒 السبب: مخاوف أمنية بعد تحذير السفر من الدرجة الثالثة الذي أصدرته الخارجية الأمريكية في 23 أكتوبر.\n\n📅 البطولة تضم 48 منتخبا وتمتد من 19 نونبر إلى 13 دجنبر، وكان أول لقاء للأمريكيين أمام الجبل الأسود يوم 21 نونبر.\n\n🏆 في النسخة السابقة توقف مشوار المنتخب الأمريكي عند دور الـ32.\n\nما تقييمكم لهذا القرار؟\n\n#كأس_العالم_للناشئين #أقل_من_17_سنة #مونديال_قطر #كرة_القدم #الناشئين",
-    "status": "now",
+    "status": "published",
     "titel": "الولايات المتحدة تنسحب من مونديال الناشئين في قطر",
-    "quelle_url": "https://www.espn.com/soccer/story/_/id/50455133/usa-fifa-mens-u17-world-cup-qatar-safety"
+    "quelle_url": "https://www.espn.com/soccer/story/_/id/50455133/usa-fifa-mens-u17-world-cup-qatar-safety",
+    "meta_id": "18100675133430846",
+    "published_at": "2026-11-12T01:46:07.415843+00:00"
   },
   {
     "id": "20261112-0238-url-ig-story",
@@ -5781,8 +5785,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-0238-url-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الولايات المتحدة تنسحب من مونديال الناشئين في قطر",
-    "quelle_url": "https://www.espn.com/soccer/story/_/id/50455133/usa-fifa-mens-u17-world-cup-qatar-safety"
+    "quelle_url": "https://www.espn.com/soccer/story/_/id/50455133/usa-fifa-mens-u17-world-cup-qatar-safety",
+    "meta_id": "18198515038403644",
+    "published_at": "2026-11-12T01:46:07.415843+00:00"
   }
 ]
