@@ -1014,10 +1014,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1615-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1615-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-12T19:16:08+01:00",
     "titel": "المنتخب الأولمبي يفوز على إثيوبيا بهدف دون رد في ذهاب تصفيات كأس إفريقيا",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/CQSXZ6KXU5FQRNW3D3V4C4L4DQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/CQSXZ6KXU5FQRNW3D3V4C4L4DQ/",
+    "meta_id": "1655097569674824",
+    "published_at": "2026-11-12T18:44:53.996103+00:00"
   },
   {
     "id": "20261112-1615-1-ig-reel",
@@ -1026,10 +1028,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1615-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1615-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-12T19:16:08+01:00",
     "titel": "المنتخب الأولمبي يفوز على إثيوبيا بهدف دون رد في ذهاب تصفيات كأس إفريقيا",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/CQSXZ6KXU5FQRNW3D3V4C4L4DQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/CQSXZ6KXU5FQRNW3D3V4C4L4DQ/",
+    "meta_id": "17898872220414737",
+    "published_at": "2026-11-12T18:44:53.996103+00:00"
   },
   {
     "id": "20261112-1615-1-fb-story",
@@ -1087,10 +1091,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1630-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1630-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "titel": "عثمان معما يغيب عن مواجهة إثيوبيا بسبب الإنفلونزا",
     "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/SCLKCJ6LJ5EI7EUWCDK456IO3I/",
-    "publish_at": "2026-11-12T19:26:59+01:00"
+    "publish_at": "2026-11-12T19:26:59+01:00",
+    "meta_id": "1154729503696872",
+    "published_at": "2026-11-12T18:44:53.996103+00:00"
   },
   {
     "id": "20261112-1630-1-ig-reel",
@@ -1099,10 +1105,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1630-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1630-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "titel": "عثمان معما يغيب عن مواجهة إثيوبيا بسبب الإنفلونزا",
     "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/SCLKCJ6LJ5EI7EUWCDK456IO3I/",
-    "publish_at": "2026-11-12T19:26:59+01:00"
+    "publish_at": "2026-11-12T19:26:59+01:00",
+    "meta_id": "18148272880599989",
+    "published_at": "2026-11-12T18:44:53.996103+00:00"
   },
   {
     "id": "20261112-1630-1-fb-story",
@@ -1280,20 +1288,24 @@
     "platform": "facebook",
     "type": "photo",
     "caption": "🏖️ أسود الكرة الشاطئية يصلون إلى الدار البيضاء حاملين كأس العرب\n\nحطّ المنتخب المغربي للكرة الشاطئية فجر الأربعاء بمطار محمد الخامس قادما من مصر، حيث خصّته الجماهير باستقبال خاص بعد التتويج بكأس العرب.\n\nوكان المنتخب قد حسم النهائي يوم الاثنين في بورسعيد أمام موريتانيا بنتيجة ستة أهداف مقابل خمسة، ليحقق أول لقب من هذا النوع في تاريخ الكرة الشاطئية المغربية.\n\nوتنتظر المجموعة بعد أيام قليلة بطولة إفريقيا للكرة الشاطئية في السنغال، وتأمل مواصلة نفس المستوى القاري.\n\nكيف تقيّمون حظوظ المنتخب في البطولة الإفريقية؟\n\n#الكرة_الشاطئية #المغرب #كأس_العرب",
-    "status": "now",
+    "status": "published",
     "titel": "أسود الكرة الشاطئية يعودون بكأس العرب",
     "quelle_url": "https://ar.sport.le360.ma/football/RHEIS7G4JJGDFCPMIIXEEBIO2Y/",
-    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1945-1-fb.jpg"
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1945-1-fb.jpg",
+    "meta_id": "122224509830577271",
+    "published_at": "2026-11-12T18:44:53.996103+00:00"
   },
   {
     "id": "20261112-1945-1-ig-feed",
     "platform": "instagram",
     "type": "photo",
     "caption": "🔥 لقب تاريخي لأسود الرمال!\nالمنتخب المغربي للكرة الشاطئية يعود من مصر بكأس العرب 🏆🏖️\n\nنهاية مثيرة في بورسعيد: المغرب 6 – 5 موريتانيا، وأول تتويج من هذا النوع في تاريخ اللعبة بالمملكة ⚽\n\nاستقبال خاص بمطار محمد الخامس، والعين الآن على بطولة إفريقيا في السنغال 🌍\n\n#المغرب #الكرة_الشاطئية #كأس_العرب #أسود_الأطلس #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "أسود الكرة الشاطئية يعودون بكأس العرب",
     "quelle_url": "https://ar.sport.le360.ma/football/RHEIS7G4JJGDFCPMIIXEEBIO2Y/",
-    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1945-1-ig.jpg"
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1945-1-ig.jpg",
+    "meta_id": "18150158086542431",
+    "published_at": "2026-11-12T18:44:53.996103+00:00"
   },
   {
     "id": "20261112-1945-1-fb-reel",
@@ -1324,41 +1336,49 @@
     "platform": "facebook",
     "type": "story",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "أسود الكرة الشاطئية يعودون بكأس العرب",
     "quelle_url": "https://ar.sport.le360.ma/football/RHEIS7G4JJGDFCPMIIXEEBIO2Y/",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1945-1-fbstory-text.mp4",
-    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1945-1-fb.jpg"
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1945-1-fb.jpg",
+    "meta_id": "1706026714253006",
+    "published_at": "2026-11-12T18:44:53.996103+00:00"
   },
   {
     "id": "20261112-1945-1-ig-story",
     "platform": "instagram",
     "type": "story",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "أسود الكرة الشاطئية يعودون بكأس العرب",
     "quelle_url": "https://ar.sport.le360.ma/football/RHEIS7G4JJGDFCPMIIXEEBIO2Y/",
-    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1945-1-reel-text.mp4"
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1945-1-reel-text.mp4",
+    "meta_id": "18170489131487827",
+    "published_at": "2026-11-12T18:44:53.996103+00:00"
   },
   {
     "id": "20261112-1945-2-fb-feed",
     "platform": "facebook",
     "type": "photo",
     "caption": "🎟️ تذاكر مباراة الإياب أمام إثيوبيا في متناول الجماهير\n\nبعد الفوز المحقق في إثيوبيا، أعلنت الجامعة الملكية المغربية لكرة القدم تفاصيل بيع تذاكر مباراة الإياب للمنتخب الأولمبي.\n\nتقام المواجهة يوم الثلاثاء 17 نونبر على الساعة الثالثة والنصف بعد الزوال بالرباط، ضمن الدور الثاني من تصفيات كأس إفريقيا.\n\nالأسعار: عشرون درهما للفئة الثالثة، وثلاثون للفئة الثانية، وخمسون للفئة الأولى. وتقتصر عملية البيع على منصة ويبوك وتطبيقها الرسمي، والتذكرة الرقمية هي وسيلة الدخول الوحيدة، بما في ذلك الأطفال المرافقون.\n\nهل تخططون لحضور المباراة في المدرجات؟\n\n#المنتخب_الأولمبي #المغرب #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "الجامعة تعلن بيع تذاكر مباراة المنتخب الأولمبي أمام إثيوبيا",
     "quelle_url": "https://ar.sport.le360.ma/football/JPARH4ZIOBCD5CW6RUEKDGXZHY/",
-    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1945-2-fb.jpg"
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1945-2-fb.jpg",
+    "meta_id": "122224510022577271",
+    "published_at": "2026-11-12T18:44:53.996103+00:00"
   },
   {
     "id": "20261112-1945-2-ig-feed",
     "platform": "instagram",
     "type": "photo",
     "caption": "🎫 الجمهور على موعد مع الإياب!\nالجامعة تكشف أسعار تذاكر مباراة المنتخب الأولمبي أمام إثيوبيا ⚽\n\n📅 الثلاثاء 17 نونبر على الساعة 15:30 بالرباط\n💰 20 و30 و50 درهما حسب الفئة\n📱 البيع حصريا عبر منصة ويبوك وتطبيقها\n\nالتذكرة الرقمية هي مفتاح الدخول، حتى للأطفال المرافقين 🏟️\n\n#المنتخب_الأولمبي #المغرب #إثيوبيا #تصفيات_إفريقيا #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "الجامعة تعلن بيع تذاكر مباراة المنتخب الأولمبي أمام إثيوبيا",
     "quelle_url": "https://ar.sport.le360.ma/football/JPARH4ZIOBCD5CW6RUEKDGXZHY/",
-    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1945-2-ig.jpg"
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1945-2-ig.jpg",
+    "meta_id": "18348459571254059",
+    "published_at": "2026-11-12T18:44:53.996103+00:00"
   },
   {
     "id": "20261112-1945-2-fb-reel",
@@ -1389,20 +1409,24 @@
     "platform": "facebook",
     "type": "story",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الجامعة تعلن بيع تذاكر مباراة المنتخب الأولمبي أمام إثيوبيا",
     "quelle_url": "https://ar.sport.le360.ma/football/JPARH4ZIOBCD5CW6RUEKDGXZHY/",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1945-2-fbstory-text.mp4",
-    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1945-2-fb.jpg"
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1945-2-fb.jpg",
+    "meta_id": "1921603862139278",
+    "published_at": "2026-11-12T18:44:53.996103+00:00"
   },
   {
     "id": "20261112-1945-2-ig-story",
     "platform": "instagram",
     "type": "story",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الجامعة تعلن بيع تذاكر مباراة المنتخب الأولمبي أمام إثيوبيا",
     "quelle_url": "https://ar.sport.le360.ma/football/JPARH4ZIOBCD5CW6RUEKDGXZHY/",
-    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1945-2-reel-text.mp4"
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1945-2-reel-text.mp4",
+    "meta_id": "17884584615628698",
+    "published_at": "2026-11-12T18:44:53.996103+00:00"
   }
 ]
