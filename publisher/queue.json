@@ -5669,5 +5669,70 @@
     "quelle_url": "https://ar.sport.le360.ma/football/botola/WQVOUYH5T5AJ3F3PPO4T26QIII/",
     "meta_id": "18135836167764381",
     "published_at": "2026-11-11T23:24:57.792116+00:00"
+  },
+  {
+    "id": "20261112-0110-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-0110-1-fb.jpg",
+    "caption": "كشف مايكل رايزيغر، مدرب منتخب هولندا لأقل من 21 سنة، كواليس اختيار أيوب أوفقير اللعب للمنتخب المغربي.\n\nوأوضح أن الجهاز الفني جلس مع اللاعب قبل خمسة أيام فقط من استدعائه لأسود الأطلس، وأكد له حينها التزامه بالمنتخب الهولندي.\n\nوأضاف أنه علم بوجود اسم أوفقير في القائمة الأولية للمغرب، قبل أن يؤكد له اللاعب قراره بنفسه.\n\nواعترف رايزيغر بأن الطريقة التي تمت بها الأمور لم تكن مثالية، مشيرا إلى أن جناح ألكمار شرح له أسباب اختياره.\n\nكيف تقيّمون إضافة أوفقير إلى خيارات المنتخب الوطني؟\n\n#المنتخب_المغربي #أسود_الأطلس #أيوب_أوفقير",
+    "status": "now",
+    "titel": "مدرب هولندا يكشف كواليس اختيار أوفقير للمغرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/"
+  },
+  {
+    "id": "20261112-0110-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-0110-1-ig.jpg",
+    "caption": "قبل خمسة أيام فقط كان أوفقير مع هولندا… ثم اختار المغرب 👀\n\nمايكل رايزيغر، مدرب منتخب هولندا لأقل من 21 سنة، روى أن الجناح أكد له التزامه بالمنتخب الهولندي خلال جلسة جمعتهما 🗣️\n\nلكن المفاجأة جاءت عندما ظهر اسمه في القائمة الأولية لأسود الأطلس، ليؤكد له اللاعب قراره بنفسه ⚽\n\nرايزيغر اعترف بأن الأمور لم تُدَر بطريقة مثالية، وقال إن نجم ألكمار شرح له أسباب اختياره 🦁\n\nما تقييمكم لانضمام أوفقير إلى المنتخب الوطني؟\n\n#المغرب #أسود_الأطلس #أيوب_أوفقير #المنتخب_المغربي #كرة_القدم",
+    "status": "now",
+    "titel": "مدرب هولندا يكشف كواليس اختيار أوفقير للمغرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/"
+  },
+  {
+    "id": "20261112-0110-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-0110-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-0110-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-12T04:14:05+01:00",
+    "titel": "مدرب هولندا يكشف كواليس اختيار أوفقير للمغرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/"
+  },
+  {
+    "id": "20261112-0110-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-0110-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-0110-1.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-12T04:14:05+01:00",
+    "titel": "مدرب هولندا يكشف كواليس اختيار أوفقير للمغرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/"
+  },
+  {
+    "id": "20261112-0110-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-0110-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-0110-1-fb.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "مدرب هولندا يكشف كواليس اختيار أوفقير للمغرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/"
+  },
+  {
+    "id": "20261112-0110-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-0110-1-reel-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "مدرب هولندا يكشف كواليس اختيار أوفقير للمغرب",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6VAKTHDUYJAM7DVULVTR66M3NI/"
   }
 ]
