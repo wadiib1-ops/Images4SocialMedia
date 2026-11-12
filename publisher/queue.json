@@ -5871,5 +5871,70 @@
     "quelle_url": "https://www.hespress.com/%d8%ad%d9%86%d9%8a%d9%81%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a5%d8%b9%d8%a7%d8%af%d8%a9-%d8%a8%d9%86%d8%a7%d8%a1-%d9%86%d8%a7%d8%af-1838286.html",
     "meta_id": "18007760430007529",
     "published_at": "2026-11-12T08:15:42.237259+00:00"
+  },
+  {
+    "id": "20261112-1115-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1115-1-fb.jpg",
+    "caption": "انطلاق بيع تذاكر مباراة المغرب والنيجر بالرباط\n\nتنطلق اليوم الخميس على الساعة الثانية عشرة زوالا عملية بيع تذاكر مباراة المنتخب المغربي ومنتخب النيجر، المقررة يوم الثلاثاء 17 نونبر على الساعة الثامنة مساء بملعب الأمير مولاي عبد الله بالرباط.\n\nالتذاكر متاحة حصريا عبر منصة \"ويبوك\" وتطبيقها الرسمي، وأسعار الفئات الثلاث بين 100 و300 درهم.\n\nوأسعار المنصات الشرفية وفضاءات الضيافة بين 1000 و2000 درهم، و20 ألف درهم للجناح الخاص، مع تذكرة لكل شخص بمن فيهم الأطفال.\n\nكيف تقيمون أسعار تذاكر هذه المباراة؟\n\n#المنتخب_المغربي #أسود_الأطلس #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "انطلاق بيع تذاكر مباراة المغرب والنيجر بالرباط",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686729-niger-maroc-a-rabat-ouverture-de-la-billetterie-ce-jeudi.html"
+  },
+  {
+    "id": "20261112-1115-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261112-1115-1-ig.jpg",
+    "caption": "🎟️ تذاكر مواجهة النيجر في الرباط متاحة ابتداء من اليوم\nالموعد مع أسود الأطلس يوم الثلاثاء 17 نونبر على الساعة الثامنة مساء بملعب الأمير مولاي عبد الله ⚽\n\n🕛 فتح باب البيع اليوم الخميس على الساعة الثانية عشرة زوالا، حصريا عبر منصة \"ويبوك\" وتطبيقها الرسمي.\n\n💳 الفئة الثالثة بـ100 درهم، والثانية بـ200 درهم، والأولى بـ300 درهم، فيما تتراوح أسعار فضاءات الضيافة والمنصات الشرفية بين 1000 و2000 درهم.\n\n👨‍👧 تذكرة لكل شخص، والأطفال المرافقون لآبائهم معنيون أيضا.\n\nهل تخططون لحضور المباراة من المدرجات؟\n\n#المنتخب_المغربي #أسود_الأطلس #الرباط #تصفيات_كان_2027 #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "انطلاق بيع تذاكر مباراة المغرب والنيجر بالرباط",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686729-niger-maroc-a-rabat-ouverture-de-la-billetterie-ce-jeudi.html"
+  },
+  {
+    "id": "20261112-1115-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1115-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1115-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-12T14:15:31+01:00",
+    "titel": "انطلاق بيع تذاكر مباراة المغرب والنيجر بالرباط",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686729-niger-maroc-a-rabat-ouverture-de-la-billetterie-ce-jeudi.html"
+  },
+  {
+    "id": "20261112-1115-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1115-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1115-1.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-12T14:15:31+01:00",
+    "titel": "انطلاق بيع تذاكر مباراة المغرب والنيجر بالرباط",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686729-niger-maroc-a-rabat-ouverture-de-la-billetterie-ce-jeudi.html"
+  },
+  {
+    "id": "20261112-1115-1-fb-story",
+    "platform": "facebook",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1115-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-1115-1-fb.jpg",
+    "caption": "",
+    "status": "now",
+    "titel": "انطلاق بيع تذاكر مباراة المغرب والنيجر بالرباط",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686729-niger-maroc-a-rabat-ouverture-de-la-billetterie-ce-jeudi.html"
+  },
+  {
+    "id": "20261112-1115-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-1115-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "انطلاق بيع تذاكر مباراة المغرب والنيجر بالرباط",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686729-niger-maroc-a-rabat-ouverture-de-la-billetterie-ce-jeudi.html"
   }
 ]
