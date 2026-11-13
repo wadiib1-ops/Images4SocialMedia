@@ -1474,24 +1474,28 @@
     "platform": "facebook",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-2150-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-2150-1-fb.jpg",
     "publish_at": "2026-11-13T00:49:01+01:00",
     "titel": "الرجاء يثبت الجيناني مدربا بعد إقالة خيميز",
-    "quelle_url": "https://ar.sport.le360.ma/football/DALA5JPZWVBHLJXXISMI4APUXI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/DALA5JPZWVBHLJXXISMI4APUXI/",
+    "meta_id": "1487252163318813",
+    "published_at": "2026-11-13T01:30:25.274294+00:00"
   },
   {
     "id": "20261112-2150-1-ig-reel",
     "platform": "instagram",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-2150-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-2150-1.jpg",
     "publish_at": "2026-11-13T00:49:01+01:00",
     "titel": "الرجاء يثبت الجيناني مدربا بعد إقالة خيميز",
-    "quelle_url": "https://ar.sport.le360.ma/football/DALA5JPZWVBHLJXXISMI4APUXI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/DALA5JPZWVBHLJXXISMI4APUXI/",
+    "meta_id": "18653398072025909",
+    "published_at": "2026-11-13T01:30:25.274294+00:00"
   },
   {
     "id": "20261112-2150-1-fb-story",
@@ -1547,24 +1551,28 @@
     "platform": "facebook",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-2150-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-2150-2-fb.jpg",
     "publish_at": "2026-11-13T00:49:01+01:00",
     "titel": "بوعدي: نعرف جمهور الدار البيضاء ونحن جاهزون لمواجهة النيجر",
-    "quelle_url": "https://ar.sport.le360.ma/football/DA2WMI5F6BGQHFKHOMPIXJUDBA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/DA2WMI5F6BGQHFKHOMPIXJUDBA/",
+    "meta_id": "1010479172113942",
+    "published_at": "2026-11-13T01:30:25.274294+00:00"
   },
   {
     "id": "20261112-2150-2-ig-reel",
     "platform": "instagram",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261112-2150-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261112-2150-2.jpg",
     "publish_at": "2026-11-13T00:49:01+01:00",
     "titel": "بوعدي: نعرف جمهور الدار البيضاء ونحن جاهزون لمواجهة النيجر",
-    "quelle_url": "https://ar.sport.le360.ma/football/DA2WMI5F6BGQHFKHOMPIXJUDBA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/DA2WMI5F6BGQHFKHOMPIXJUDBA/",
+    "meta_id": "17912566941574499",
+    "published_at": "2026-11-13T01:30:25.274294+00:00"
   },
   {
     "id": "20261112-2150-2-fb-story",
