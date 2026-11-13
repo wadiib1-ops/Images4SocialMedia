@@ -39,7 +39,7 @@ G. Schlägt der Facebook-Feed-Eintrag nach der Prüfung (Abschnitt 5) endgültig
 H. Musik-Tracks im Ordner Video/ werden nie gelöscht oder verändert.
 
 4. EINTRÄGE JE MELDUNG
- - Die vier Einträge je Meldung mit Typen und Texten stehen in CLAUDE-Routine.md (FB photo, IG reel, FB story, IG story). FACEBOOK-TEXT: arabisch + französisch, höchstens 3 Hashtags; INSTAGRAM-TEXT: arabisch + französisch, genau 5 Hashtags, unter 2200 Zeichen; Stories ohne Begleittext (Text im Video, Abschnitt 8); keine Quellenzeile.
+ - Die Einträge je Meldung mit Typen und Texten stehen in CLAUDE-Routine.md (FB photo, IG reel, IG story; keine FB story mehr). FACEBOOK-TEXT: arabisch + französisch, höchstens 3 Hashtags; INSTAGRAM-TEXT: arabisch + französisch, genau 5 Hashtags, unter 2200 Zeichen; Stories ohne Begleittext (Text im Video, Abschnitt 8); keine Quellenzeile.
 Rückfälle (je Eintrag, nur wenn der Eintrag nicht anlegbar ist; das Scheitern von Reel oder Story stoppt den Facebook-Eintrag nicht):
  - Facebook-Foto: erst LOGO-URL, bei Fehler die Original-Foto-Adresse ohne Logo, dann Kandidat 2 mit Logo und ohne Logo (höchstens 4 Versuche). Alles fehlgeschlagen: Regel F.
  - Reel und Story: Video nicht baubar oder nicht hostbar: Eintrag weglassen und im Bericht melden.
@@ -83,7 +83,7 @@ Findet sich nichts Neues, wird nichts angelegt, und es gibt keine Benachrichtigu
 Abschlussbericht (deutsch, kurz, Zeiten in Berliner Zeit):
  - Je Meldung eine Zeile: Datum und Uhrzeit der Quelle, Quellenname (nur im Bericht), Themenbereich.
  - Video oder Foto (URL, Maße), Logo ja oder nein, geplante Veröffentlichungszeit, Musik-Track (Dateiname) und Startpunkt, ob der Push nach video-out klappte.
- - Nach dem Lauf des Workflows: Status der vier Einträge aus publisher/log.jsonl (veröffentlicht oder Fehlertext).
+ - Nach dem Lauf des Workflows: Status der angelegten Einträge aus publisher/log.jsonl (veröffentlicht oder Fehlertext).
  - Fehlgeschlagene oder nicht angelegte Einträge mit Grund; oder dass mangels frischer Meldungen nichts angelegt wurde.
  - Bestätigung, dass alle Texte zweisprachig (AR+FR) vor dem Anlegen fertig waren.
  - Verbrauch: Anzahl Recherche-Abrufe, Fehlschläge, nach welcher Seite gestoppt, Liste der abgerufenen Seiten mit Ergebnis.
