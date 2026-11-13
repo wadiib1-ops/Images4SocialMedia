@@ -8,4 +8,6 @@
 
 - Fragen zuerst schriftlich beantworten (Nutzerwunsch, dauerhaft, jede Session): Stellt der Nutzer nur eine Frage ("kannst du", "geht das", "welche Quelle" usw.), gib IMMER nur eine schriftliche Antwort und ändere, baue, committe oder veröffentliche nichts, bis der Nutzer es ausdrücklich verlangt.
 
-- Beitragsumfang pro Meldung (Nutzerwunsch, dauerhaft, ab 26.10.2026; Instagram-Feed entfällt dauerhaft seit 27.10.2026): je 1x Facebook-Feed (höchstens 3 Hashtags), Facebook-Story (Text im Video, Begleittext leer), Instagram-Reel (höchstens 5), Instagram-Story (Text im Video, Begleittext leer).
+- Beitragsumfang pro Meldung (Nutzerwunsch, dauerhaft, ab 26.10.2026; Instagram-Feed entfällt dauerhaft seit 27.10.2026): je 1x Facebook-Feed (höchstens 3 Hashtags), Instagram-Reel (höchstens 5), Instagram-Story (Text im Video, Begleittext leer).
+
+- Keine Facebook-Stories (Nutzerwunsch, dauerhaft, ab 13.11.2026): Facebook-Stories werden nicht mehr erstellt und nicht gepostet; Beitragsumfang pro Meldung laut CLAUDE-Routine.md.

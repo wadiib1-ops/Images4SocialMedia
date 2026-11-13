@@ -3,7 +3,7 @@
 
 Feed (Facebook-/Instagram-Feed, 1080x1350):
   /tmp/venv/bin/python mkn_template.py feed --photo F --out images/x.jpg --title T --sub S --page fb|ig --tag "<Thema>" [--date TT.MM.JJJJ]
-Video (Reel, Facebook-Story, Instagram-Story, 1080x1920): transparente Abschnitts-PNGs + fertiges Video
+Video (Reel, Instagram-Story, 1080x1920; keine Facebook-Story mehr seit 13.11.2026): transparente Abschnitts-PNGs + fertiges Video
   /tmp/venv/bin/python mkn_template.py video --photo F --track MP3 --start 8 --sections sections.json \
       --page fb|ig --out video.mp4 [--date TT.MM.JJJJ]
 sections.json: [["Abschnittstext", Sekunden], ...]; erster Abschnitt ab 0,5 s, Ende des letzten = Videoende.

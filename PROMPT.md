@@ -10,7 +10,7 @@ Pro Meldung entstehen VIER Einträge (Facebook-Reel und Instagram-Feed entfallen
  2. (entfällt: kein Instagram-Feed mehr)
  3. (entfällt: kein Facebook-Reel mehr)
  4. Instagram-Reel: dasselbe Video mit INSTAGRAM-TEXT.
- 5. Facebook-Story: Musik-Video mit Schlagzeile und Call to Action im Video, ohne Begleittext.
+ 5. (entfällt seit 13.11.2026, Nutzerwunsch, dauerhaft: keine Facebook-Story mehr, siehe CLAUDE-Routine.md)
  6. Instagram-Story: dasselbe Story-Video, ohne Begleittext.
 Ablauf eines Laufs:
  1. Dublettenprüfung (Abschnitt 7).
