@@ -262,6 +262,15 @@ def run(token):
             changed = True
             continue
 
+        # Keine Facebook-Stories mehr im Marokko-Fußball-Job (Nutzerwunsch 13.11.2026, dauerhaft):
+        # IDs dieses Jobs haben die Form JJJJMMTT-HHMM-<n>-fb-story; andere Jobs sind nicht betroffen.
+        if platform == "facebook" and entry.get("type") == "story" and re.fullmatch(r"\d{8}-\d{4}-\d+-fb-story", eid):
+            entry["status"] = "failed"
+            entry["error"] = "Facebook-Stories deaktiviert (Nutzerwunsch 13.11.2026)"
+            log("übersprungen", eid, platform, "fehler", entry["error"])
+            changed = True
+            continue
+
         grund = bereits_verwendet(entry, queue, now)
         if grund:
             entry["status"] = "failed"
