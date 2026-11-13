@@ -11,3 +11,5 @@
 - Beitragsumfang pro Meldung (Nutzerwunsch, dauerhaft, ab 26.10.2026; Instagram-Feed entfällt dauerhaft seit 27.10.2026): je 1x Facebook-Feed (höchstens 3 Hashtags), Instagram-Reel (höchstens 5), Instagram-Story (Text im Video, Begleittext leer).
 
 - Keine Facebook-Stories (Nutzerwunsch, dauerhaft, ab 13.11.2026): Facebook-Stories werden nicht mehr erstellt und nicht gepostet; Beitragsumfang pro Meldung laut CLAUDE-Routine.md.
+
+- Keine Facebook-Stories (Nutzerwunsch, dauerhaft, ab 13.11.2026, alle Jobs und Sitzungen): weder erstellen noch in die Queue legen noch posten. `publisher/publish.py` blockiert sie zusätzlich.

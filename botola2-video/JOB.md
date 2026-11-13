@@ -3,12 +3,11 @@
 Läuft jeden **Montag um 10:40 Uhr (Europe/Berlin)** als geplante Aufgabe in frischer Umgebung; alles Nötige (Code, Wappen in `Wappen/Botola2/`, Musik, Ergebnisliste) liegt in diesem Repo, Ordner `botola2-video/`. Der Botola-Pro-Job in `botola-video/` bleibt unberührt.
 
 **Ziel:** Wurden im Fenster Spiele der **Botola Pro 2** (البطولة الاحترافية إنوي للقسم الثاني, 2. Liga Marokko) beendet, wird ein Video erzeugt und **sofort nach Erstellung** direkt über die Meta Graph API (Veröffentlicher `publisher/`, ohne Buffer) veröffentlicht (Reihenfolge, Nutzerwunsch 26.10.2026):
-1. Facebook-Story (Video mit eingebranntem Text)
-2. Facebook-Reel (Video)
-3. Instagram-Story (Video mit eingebranntem Text)
-4. Instagram-Reel (Video, zugleich im Feed)
+1. Facebook-Reel (Video)
+2. Instagram-Story (Video mit eingebranntem Text)
+3. Instagram-Reel (Video, zugleich im Feed)
 
-Ohne Spiele passiert nichts.
+Es gibt **keine Facebook-Story** (Nutzerwunsch 13.11.2026, dauerhaft). Ohne Spiele passiert nichts.
 
 Antworten auf Deutsch, knapp. Nichts erfinden: keine Ergebnisse, Namen oder Minuten ohne Quelle. Text im Video und in Beiträgen immer **Arabisch**.
 
@@ -88,14 +87,13 @@ Push abgelehnt: neu holen, rebasen, einmal wiederholen. Die Abfrage muss mit HTT
 
 ## 4. Direkt veröffentlichen (ohne Buffer)
 
-Konten: Facebook-Seite `476343148890228`, Instagram `17841410500657352` (siehe `CLAUDE-Routine.md`). Es werden vier Einträge an `publisher/queue.json` angehängt (vorhandene nie ändern), alle mit `status: "now"` ohne `publish_at`, gleiche `titel`, `quelle_url` (Hauptquelle) und `runde`; `id` eindeutig, z. B. `<Lauf-Tag>-botola2-fb-story`. Die Story erscheint zusammen mit den anderen Beiträgen, kein Abstand von 5 Minuten.
+Konten: Facebook-Seite `476343148890228`, Instagram `17841410500657352` (siehe `CLAUDE-Routine.md`). Es werden drei Einträge an `publisher/queue.json` angehängt (vorhandene nie ändern), alle mit `status: "now"` ohne `publish_at`, gleiche `titel`, `quelle_url` (Hauptquelle) und `runde`; `id` eindeutig, z. B. `<Lauf-Tag>-botola2-fb-reel`. Die Instagram-Story erscheint zusammen mit den anderen Beiträgen, kein Abstand von 5 Minuten.
 
 | Reihenfolge | `platform` / `type` | `video_url` | `caption` |
 |---|---|---|---|
-| 1. Facebook-Story | `facebook` / `story` | Raw-URL `botola2-$RUN-story.mp4` | leer (Text eingebrannt, Abschnitt 2b) |
-| 2. Facebook-Reel | `facebook` / `reel` | Raw-URL `botola2-$RUN.mp4` | Inhalt `caption_fb.txt` (max. 3 Hashtags) |
-| 3. Instagram-Story | `instagram` / `story` | Raw-URL `botola2-$RUN-story.mp4` | leer (Text eingebrannt, Abschnitt 2b) |
-| 4. Instagram-Reel | `instagram` / `reel` | Raw-URL `botola2-$RUN.mp4` | Inhalt `caption.txt` (max. 5 Hashtags) |
+| 1. Facebook-Reel | `facebook` / `reel` | Raw-URL `botola2-$RUN.mp4` | Inhalt `caption_fb.txt` (max. 3 Hashtags) |
+| 2. Instagram-Story | `instagram` / `story` | Raw-URL `botola2-$RUN-story.mp4` | leer (Text eingebrannt, Abschnitt 2b) |
+| 3. Instagram-Reel | `instagram` / `reel` | Raw-URL `botola2-$RUN.mp4` | Inhalt `caption.txt` (max. 5 Hashtags) |
 
 Kein Link-Sticker. Vor dem Eintrag Hashtags per Python zählen (Wörter mit `#`; Facebook höchstens 3, Instagram höchstens 5, im Story-Video 2) und Raw-URLs per curl prüfen (HTTP 200). Dann `git add publisher/queue.json`, committen, `git push origin HEAD:main` (bei Ablehnung `git pull --rebase origin main`, einmal wiederholen). Direkt danach `publish.yml` per `actions_run_trigger` (ref main) starten und `publisher/log.jsonl` prüfen; Fehler per PushNotification melden. Schlägt ein Eintrag fehl, nicht blind neu anlegen, sondern melden.
 
@@ -110,7 +108,7 @@ git push origin HEAD:main
 
 Push abgelehnt: `git fetch origin main`, `git rebase FETCH_HEAD`, einmal erneut pushen.
 
-**Bericht** (3–5 Zeilen, Deutsch): Anzahl Spiele, Veröffentlichungszeit, je Eintrag (Facebook-Story, Facebook-Reel, Instagram-Story, Instagram-Reel) Log-Status oder Fehlertext, Hashtag-Anzahl je Eintrag, Auffälligkeiten.
+**Bericht** (3–5 Zeilen, Deutsch): Anzahl Spiele, Veröffentlichungszeit, je Eintrag (Facebook-Reel, Instagram-Story, Instagram-Reel) Log-Status oder Fehlertext, Hashtag-Anzahl je Eintrag, Auffälligkeiten.
 
 ## Regeln
 

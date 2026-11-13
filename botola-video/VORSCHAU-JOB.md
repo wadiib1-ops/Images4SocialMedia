@@ -4,7 +4,7 @@ Läuft bei JEDER Ausführung (auch dem geplanten Prompt "Instagram-Story 5 Minut
 des kommenden Spieltags gesucht (Abschnitt 1), nie nur in der Queue nach einem fertigen Feed-Video. Daraus entsteht ein Vorschau-Video
 der **Botola Pro Inwi** mit den Begegnungen und den **marokkanischen Anstoßzeiten** (Ortszeit Marokko, wie in den Quellen). Design und Musik wie beim Tagesvideo.
 Veröffentlicht wird NICHT mehr über Buffer, sondern über `publisher/queue.json` und `publish.yml` (CLAUDE-Routine.md): je 1x Facebook-Feed (Video, höchstens 3 Hashtags),
-Instagram-Reel (höchstens 5), Facebook-Story und Instagram-Story (Text im Video, Begleittext leer). Kein Instagram-Feed. Ist die Vorschau der Runde schon gepostet oder der Spielplan nicht veröffentlicht, passiert nichts (kurze Meldung).
+Instagram-Reel (höchstens 5) und Instagram-Story (Text im Video, Begleittext leer). Kein Instagram-Feed, keine Facebook-Story (Nutzerwunsch 13.11.2026, dauerhaft). Ist die Vorschau der Runde schon gepostet oder der Spielplan nicht veröffentlicht, passiert nichts (kurze Meldung).
 
 Antworte dem Nutzer auf Deutsch, knapp. Erfinde nichts: keine Termine, Uhrzeiten oder Paarungen ohne Quelle.
 
@@ -62,9 +62,9 @@ URL: `https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out
 
 ## 4. Über die Queue einplanen (statt Buffer)
 
-Vier Einträge an `publisher/queue.json` anhängen (Format und Ablauf: CLAUDE-Routine.md), `status: "now"`, `titel` = Schlagzeile der Vorschau, `quelle_url` = eine Spielplan-Quelle, zusätzlich `runde`:
+Drei Einträge an `publisher/queue.json` anhängen (Format und Ablauf: CLAUDE-Routine.md), `status: "now"`, `titel` = Schlagzeile der Vorschau, `quelle_url` = eine Spielplan-Quelle, zusätzlich `runde`:
 - Facebook-Feed (`video`, Text `out/caption-vorschau-fb.txt`, 3 Hashtags), Instagram-Reel (Text `out/caption-vorschau.txt`, 5 Hashtags).
-- Facebook-Story und Instagram-Story: Story-Video mit eingebranntem Text (`python3 story_text.py --video <Vorschau-Video> --out-video <Story-Video> --out /tmp/st.png --title "<kurzer arabischer Titel>" --cta "<CTA>" --tags "<3 Hashtags>"`, Repo-Wurzel), `caption` leer.
+- Instagram-Story (keine Facebook-Story): Story-Video mit eingebranntem Text (`python3 story_text.py --video <Vorschau-Video> --out-video <Story-Video> --out /tmp/st.png --title "<kurzer arabischer Titel>" --cta "<CTA>" --tags "<3 Hashtags>"`, Repo-Wurzel), `caption` leer.
 - Schlägt der Facebook-Feed endgültig fehl, die anderen Einträge nicht anlegen. Nach dem Push `publish.yml` per workflow_dispatch starten, `publisher/log.jsonl` prüfen.
 
 ## 5. Abschluss
