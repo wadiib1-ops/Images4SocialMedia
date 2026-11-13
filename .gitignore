@@ -1,2 +1,5 @@
 .env
 *.env
+__pycache__/
+botola-video/out/
+botola2-video/out/
