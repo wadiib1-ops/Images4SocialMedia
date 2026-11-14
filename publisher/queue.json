@@ -3128,10 +3128,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261114-1750-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261114-1750-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-14T20:51:03+01:00",
     "titel": "المغرب يصعد إلى المركز السادس في تصنيف فيفا",
-    "quelle_url": "https://ar.sport.le360.ma/football/4MPAFCZVEJFLPHAM5Q7TRWOUS4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/4MPAFCZVEJFLPHAM5Q7TRWOUS4/",
+    "meta_id": "1991194384884353",
+    "published_at": "2026-11-14T20:44:39.159588+00:00"
   },
   {
     "id": "20261114-1750-1-ig-reel",
@@ -3140,10 +3142,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261114-1750-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261114-1750-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-14T20:51:03+01:00",
     "titel": "المغرب يصعد إلى المركز السادس في تصنيف فيفا",
-    "quelle_url": "https://ar.sport.le360.ma/football/4MPAFCZVEJFLPHAM5Q7TRWOUS4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/4MPAFCZVEJFLPHAM5Q7TRWOUS4/",
+    "meta_id": "18437882644145962",
+    "published_at": "2026-11-14T20:44:39.159588+00:00"
   },
   {
     "id": "20261114-1750-1-ig-story",
@@ -3188,10 +3192,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261114-1750-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261114-1750-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-14T20:51:03+01:00",
     "titel": "النصيري يتجاوز زياش في قائمة هدافي المنتخب",
-    "quelle_url": "https://ar.sport.le360.ma/football/O54AXC4CMVFN7FGUDGTQAPFHTM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/O54AXC4CMVFN7FGUDGTQAPFHTM/",
+    "meta_id": "1677147300809915",
+    "published_at": "2026-11-14T20:44:39.159588+00:00"
   },
   {
     "id": "20261114-1750-2-ig-reel",
@@ -3200,10 +3206,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261114-1750-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261114-1750-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-14T20:51:03+01:00",
     "titel": "النصيري يتجاوز زياش في قائمة هدافي المنتخب",
-    "quelle_url": "https://ar.sport.le360.ma/football/O54AXC4CMVFN7FGUDGTQAPFHTM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/O54AXC4CMVFN7FGUDGTQAPFHTM/",
+    "meta_id": "17996405028105429",
+    "published_at": "2026-11-14T20:44:39.159588+00:00"
   },
   {
     "id": "20261114-1750-2-ig-story",
