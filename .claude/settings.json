@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git push origin HEAD:main:*)",
+      "Bash(git push -q origin HEAD:main:*)",
+      "Bash(git push origin HEAD:video-out:*)",
+      "Bash(git push -q origin HEAD:video-out:*)",
+      "Bash(git pull --rebase origin main:*)",
+      "Bash(git pull -q --rebase origin main:*)",
+      "Bash(git worktree add:*)",
+      "Bash(git worktree remove:*)"
+    ]
+  }
+}
