@@ -3863,10 +3863,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1550-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1550-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T18:52:44+01:00",
     "titel": "الجيش الملكي يواجه صنداونز في نهائي دوري أبطال إفريقيا للسيدات",
-    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/MBYC774C5FAUXNKO7AECRBJAYU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/MBYC774C5FAUXNKO7AECRBJAYU/",
+    "meta_id": "1179540507972135",
+    "published_at": "2026-11-15T18:45:33.205516+00:00"
   },
   {
     "id": "20261115-1550-1-ig-reel",
@@ -3875,10 +3877,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1550-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1550-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T18:52:44+01:00",
     "titel": "الجيش الملكي يواجه صنداونز في نهائي دوري أبطال إفريقيا للسيدات",
-    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/MBYC774C5FAUXNKO7AECRBJAYU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/MBYC774C5FAUXNKO7AECRBJAYU/",
+    "meta_id": "17991900960082290",
+    "published_at": "2026-11-15T18:45:33.205516+00:00"
   },
   {
     "id": "20261115-1550-1-ig-story",
@@ -3923,10 +3927,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1550-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1550-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T18:52:44+01:00",
     "titel": "المنتخب المغربي يكتسح الأوروغواي برباعية في مونديال مبتوري الأطراف",
-    "quelle_url": "https://ar.sport.le360.ma/football/56HB37BL6RFDPERTS2XY7CLOUM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/56HB37BL6RFDPERTS2XY7CLOUM/",
+    "meta_id": "28447856701560044",
+    "published_at": "2026-11-15T18:45:33.205516+00:00"
   },
   {
     "id": "20261115-1550-2-ig-reel",
@@ -3935,10 +3941,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1550-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1550-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T18:52:44+01:00",
     "titel": "المنتخب المغربي يكتسح الأوروغواي برباعية في مونديال مبتوري الأطراف",
-    "quelle_url": "https://ar.sport.le360.ma/football/56HB37BL6RFDPERTS2XY7CLOUM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/56HB37BL6RFDPERTS2XY7CLOUM/",
+    "meta_id": "18100515923452555",
+    "published_at": "2026-11-15T18:45:33.205516+00:00"
   },
   {
     "id": "20261115-1550-2-ig-story",
