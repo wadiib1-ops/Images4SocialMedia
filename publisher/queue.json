@@ -3685,5 +3685,113 @@
     "quelle_url": "https://ar.sport.le360.ma/football/BLSRX75FKRG2FPUTDXLBCSZSAM/",
     "meta_id": "18112665098238257",
     "published_at": "2026-11-15T11:20:26.627650+00:00"
+  },
+  {
+    "id": "20261115-1350-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261115-1350-1-fb.jpg",
+    "caption": "نظّم متحف الكرة المغربية لقاءً تكريمياً للمدرب الوطني هشام الدكيك تحت شعار «مايسترو الفوتسال».\n\nفاز المنتخب بقيادته بكأس إفريقيا للأمم أربع مرات في 2016 و2020 و2024 و2026، وتوّج أيضاً بكأس العرب ثلاث مرات في 2021 و2022 و2023.\n\nاختارته منصة FutsalPlanet أفضل مدرب فوتسال في العالم لسنة 2023، ويحتل المنتخب المركز السادس عالمياً.\n\nكيف تقيّمون مسار المنتخب الوطني للفوتسال مع الدكيك؟\n\n#الفوتسال #هشام_الدكيك #المنتخب_المغربي",
+    "status": "now",
+    "titel": "متحف الكرة المغربية يكرّم هشام الدكيك",
+    "quelle_url": "https://alomksport.com/110543.html"
+  },
+  {
+    "id": "20261115-1350-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261115-1350-1-ig.jpg",
+    "caption": "🎩 مايسترو الفوتسال يعود إلى الواجهة!\n\nمتحف الكرة المغربية احتفى بمسيرة الناخب الوطني هشام الدكيك في لقاء خاص ⚽\n\nأربعة ألقاب إفريقية وثلاثة ألقاب عربية، ثم جائزة أفضل مدرب فوتسال في العالم لسنة 2023 🏆\n\nوالمنتخب اليوم سادس العالم ✨\n\n#فوتسال #الدكيك #المنتخب_المغربي #كرة_القدم_المغربية #الفوتسال_المغربي",
+    "status": "now",
+    "titel": "متحف الكرة المغربية يكرّم هشام الدكيك",
+    "quelle_url": "https://alomksport.com/110543.html"
+  },
+  {
+    "id": "20261115-1350-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1350-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1350-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-15T16:55:00+01:00",
+    "titel": "متحف الكرة المغربية يكرّم هشام الدكيك",
+    "quelle_url": "https://alomksport.com/110543.html"
+  },
+  {
+    "id": "20261115-1350-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1350-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1350-1.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-15T16:55:00+01:00",
+    "titel": "متحف الكرة المغربية يكرّم هشام الدكيك",
+    "quelle_url": "https://alomksport.com/110543.html"
+  },
+  {
+    "id": "20261115-1350-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1350-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "متحف الكرة المغربية يكرّم هشام الدكيك",
+    "quelle_url": "https://alomksport.com/110543.html"
+  },
+  {
+    "id": "20261115-1350-2-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261115-1350-2-fb.jpg",
+    "caption": "سجّل يوسف النصيري هدفاً في مرمى النيجر وعاد إلى صفوف المنتخب المغربي بعد غياب دام عدة أشهر.\n\nعبّر عن سعادته بالهدف وقال إنه في خدمة وطنه ولا يريد أن يخذل الجمهور. وعن غيابه عن مونديال 2026 في أمريكا الشمالية أكد أنه ليس غاضباً.\n\nكيف تقيّمون عودة النصيري إلى المنتخب؟\n\n#النصيري #المنتخب_المغربي #أسود_الأطلس",
+    "status": "now",
+    "titel": "النصيري: لست غاضباً من غيابي عن المونديال",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686879-youssef-en-nesyri-sur-son-absence-au-mondial-je-ne-suis-pas-fache-video.html"
+  },
+  {
+    "id": "20261115-1350-2-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261115-1350-2-ig.jpg",
+    "caption": "⚽ النصيري يهزّ الشباك ويتحدث بهدوء!\n\nبعد هدفه أمام النيجر وعودته إلى المنتخب، قال مهاجم أسود الأطلس إنه في خدمة بلاده 🦁\n\nوبخصوص غيابه عن مونديال 2026، كان ردّه واضحاً: لست غاضباً 🙌\n\n#النصيري #أسود_الأطلس #المنتخب_المغربي #كرة_القدم_المغربية #المغرب",
+    "status": "now",
+    "titel": "النصيري: لست غاضباً من غيابي عن المونديال",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686879-youssef-en-nesyri-sur-son-absence-au-mondial-je-ne-suis-pas-fache-video.html"
+  },
+  {
+    "id": "20261115-1350-2-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1350-2-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1350-2-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-15T16:55:00+01:00",
+    "titel": "النصيري: لست غاضباً من غيابي عن المونديال",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686879-youssef-en-nesyri-sur-son-absence-au-mondial-je-ne-suis-pas-fache-video.html"
+  },
+  {
+    "id": "20261115-1350-2-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1350-2-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1350-2.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-15T16:55:00+01:00",
+    "titel": "النصيري: لست غاضباً من غيابي عن المونديال",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686879-youssef-en-nesyri-sur-son-absence-au-mondial-je-ne-suis-pas-fache-video.html"
+  },
+  {
+    "id": "20261115-1350-2-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1350-2-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "النصيري: لست غاضباً من غيابي عن المونديال",
+    "quelle_url": "https://www.lesiteinfo.com/sport/686879-youssef-en-nesyri-sur-son-absence-au-mondial-je-ne-suis-pas-fache-video.html"
   }
 ]
