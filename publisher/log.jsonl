@@ -2444,3 +2444,10 @@
 {"zeit": "15.11.2026 12:00:58", "aktion": "veröffentlicht", "beitrag": "20261115-1150-2-ig-feed", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18143887006719325"}
 {"zeit": "15.11.2026 12:01:53", "aktion": "veröffentlicht", "beitrag": "20261115-1150-2-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18079491866765944"}
 {"zeit": "15.11.2026 12:01:53", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "275 Einträge geprüft"}
+{"zeit": "15.11.2026 12:15:03", "aktion": "übersprungen", "beitrag": "20261115-0750-1-fb-feed", "plattform": "facebook", "ergebnis": "fehler", "details": "Quelle bereits am 2026-11-15T10:59:00.275656+00:00 veröffentlicht"}
+{"zeit": "15.11.2026 12:15:03", "aktion": "übersprungen", "beitrag": "20261115-0750-1-ig-feed", "plattform": "instagram", "ergebnis": "fehler", "details": "Quelle bereits am 2026-11-15T10:59:00.275656+00:00 veröffentlicht"}
+{"zeit": "15.11.2026 12:15:03", "aktion": "übersprungen", "beitrag": "20261115-0750-1-ig-story", "plattform": "instagram", "ergebnis": "fehler", "details": "Quelle bereits am 2026-11-15T10:59:00.275656+00:00 veröffentlicht"}
+{"zeit": "15.11.2026 12:15:07", "aktion": "veröffentlicht", "beitrag": "20261115-0750-2-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122224856630577271"}
+{"zeit": "15.11.2026 12:15:20", "aktion": "veröffentlicht", "beitrag": "20261115-0750-2-ig-feed", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18016096802762907"}
+{"zeit": "15.11.2026 12:15:55", "aktion": "veröffentlicht", "beitrag": "20261115-0750-2-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18106965623639249"}
+{"zeit": "15.11.2026 12:15:55", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "285 Einträge geprüft"}
