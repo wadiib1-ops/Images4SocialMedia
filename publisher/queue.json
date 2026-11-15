@@ -3420,10 +3420,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1150-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1150-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T14:58:35+01:00",
     "titel": "بعثة منتخب الناشئين تصل إلى قطر",
-    "quelle_url": "https://alyaoum24.com/2057674.html"
+    "quelle_url": "https://alyaoum24.com/2057674.html",
+    "meta_id": "2059855001360339",
+    "published_at": "2026-11-15T14:45:25.578813+00:00"
   },
   {
     "id": "20261115-1150-1-ig-reel",
@@ -3432,10 +3434,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1150-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1150-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T14:58:35+01:00",
     "titel": "بعثة منتخب الناشئين تصل إلى قطر",
-    "quelle_url": "https://alyaoum24.com/2057674.html"
+    "quelle_url": "https://alyaoum24.com/2057674.html",
+    "meta_id": "18147378610592925",
+    "published_at": "2026-11-15T14:45:25.578813+00:00"
   },
   {
     "id": "20261115-1150-1-ig-story",
@@ -3480,10 +3484,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1150-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1150-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T14:58:35+01:00",
     "titel": "وهبي يبرمج مباراة إعدادية للأسود قبل مواجهة النيجر",
-    "quelle_url": "https://ar.sport.le360.ma/football/UCIUWK6FBJGIROMV2DOS7ACRDU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/UCIUWK6FBJGIROMV2DOS7ACRDU/",
+    "meta_id": "1616809063554427",
+    "published_at": "2026-11-15T14:45:25.578813+00:00"
   },
   {
     "id": "20261115-1150-2-ig-reel",
@@ -3492,10 +3498,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1150-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1150-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T14:58:35+01:00",
     "titel": "وهبي يبرمج مباراة إعدادية للأسود قبل مواجهة النيجر",
-    "quelle_url": "https://ar.sport.le360.ma/football/UCIUWK6FBJGIROMV2DOS7ACRDU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/UCIUWK6FBJGIROMV2DOS7ACRDU/",
+    "meta_id": "18205120795379562",
+    "published_at": "2026-11-15T14:45:25.578813+00:00"
   },
   {
     "id": "20261115-1150-2-ig-story",
@@ -3538,10 +3546,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-0750-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-0750-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "failed",
     "publish_at": "2026-11-15T15:14:15+01:00",
     "titel": "وهبي يبرمج مباراة تجريبية أمام المنتخب الأولمبي قبل مواجهة النيجر",
-    "quelle_url": "https://ar.sport.le360.ma/football/UCIUWK6FBJGIROMV2DOS7ACRDU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/UCIUWK6FBJGIROMV2DOS7ACRDU/",
+    "error": "Quelle bereits am 2026-11-15T14:45:25.578813+00:00 veröffentlicht"
   },
   {
     "id": "20261115-0750-1-ig-reel",
@@ -3550,10 +3559,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-0750-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-0750-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "failed",
     "publish_at": "2026-11-15T15:14:15+01:00",
     "titel": "وهبي يبرمج مباراة تجريبية أمام المنتخب الأولمبي قبل مواجهة النيجر",
-    "quelle_url": "https://ar.sport.le360.ma/football/UCIUWK6FBJGIROMV2DOS7ACRDU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/UCIUWK6FBJGIROMV2DOS7ACRDU/",
+    "error": "Quelle bereits am 2026-11-15T14:45:25.578813+00:00 veröffentlicht"
   },
   {
     "id": "20261115-0750-1-ig-story",
@@ -3597,10 +3607,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-0750-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-0750-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T15:14:15+01:00",
     "titel": "الأشبال يشدون الرحال إلى قطر للمشاركة في مونديال أقل من 17 سنة",
-    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/WP6YXQIAUBGLNIAO7RCOFYE5Y4/"
+    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/WP6YXQIAUBGLNIAO7RCOFYE5Y4/",
+    "meta_id": "2326073571481650",
+    "published_at": "2026-11-15T14:45:25.578813+00:00"
   },
   {
     "id": "20261115-0750-2-ig-reel",
@@ -3609,10 +3621,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-0750-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-0750-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T15:14:15+01:00",
     "titel": "الأشبال يشدون الرحال إلى قطر للمشاركة في مونديال أقل من 17 سنة",
-    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/WP6YXQIAUBGLNIAO7RCOFYE5Y4/"
+    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/WP6YXQIAUBGLNIAO7RCOFYE5Y4/",
+    "meta_id": "17877688995649716",
+    "published_at": "2026-11-15T14:45:25.578813+00:00"
   },
   {
     "id": "20261115-0750-2-ig-story",
@@ -3657,10 +3671,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-0950-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-0950-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T15:25:00+01:00",
     "titel": "بنعطية: مسؤولية الحكام في نهائي الكان",
-    "quelle_url": "https://ar.sport.le360.ma/football/BLSRX75FKRG2FPUTDXLBCSZSAM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/BLSRX75FKRG2FPUTDXLBCSZSAM/",
+    "meta_id": "1104665705788971",
+    "published_at": "2026-11-15T14:45:25.578813+00:00"
   },
   {
     "id": "20261115-0950-1-ig-reel",
@@ -3669,10 +3685,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-0950-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-0950-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T15:25:00+01:00",
     "titel": "بنعطية: مسؤولية الحكام في نهائي الكان",
-    "quelle_url": "https://ar.sport.le360.ma/football/BLSRX75FKRG2FPUTDXLBCSZSAM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/BLSRX75FKRG2FPUTDXLBCSZSAM/",
+    "meta_id": "18418923586085577",
+    "published_at": "2026-11-15T14:45:25.578813+00:00"
   },
   {
     "id": "20261115-0950-1-ig-story",
