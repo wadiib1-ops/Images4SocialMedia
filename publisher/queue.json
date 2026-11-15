@@ -3625,5 +3625,59 @@
     "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/WP6YXQIAUBGLNIAO7RCOFYE5Y4/",
     "meta_id": "18106965623639249",
     "published_at": "2026-11-15T11:15:03.255516+00:00"
+  },
+  {
+    "id": "20261115-0950-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/m20261115-0950-1-fb.jpg",
+    "caption": "المهدي بنعطية، القائد السابق للمنتخب المغربي، تحدث عن نهائي كأس إفريقيا أمام السنغال في حوار مع برنامج «منو لاتور» على قناة كانال بلوس.\n\nوصف بنعطية المباراة بالمتوازنة، وأشاد بمشوار المغرب في البطولة، مشيراً إلى أن السنغال وضعت الفريقين أمام صعوبات كبيرة.\n\nوقال إن المسؤولية لا تقع على اللاعبين وحدهم، بل تشمل الحكام ومسؤولي المباراة بعد السماح باستئناف اللعب إثر عودة الفريق السنغالي إلى أرضية الملعب.\n\nوأضاف أن مغادرة فريق للملعب بعدد لا يكفي لمواصلة اللعب تعني خسارة بالانسحاب حسب قراءته للوائح، معتبراً أن الوضع تحول إلى فوضى.\n\nما تقييمكم لتصريحات بنعطية حول إدارة نهائي الكأس؟\n\n#المنتخب_المغربي #بنعطية #كأس_إفريقيا",
+    "status": "now",
+    "titel": "بنعطية: مسؤولية الحكام في نهائي الكان",
+    "quelle_url": "https://ar.sport.le360.ma/football/BLSRX75FKRG2FPUTDXLBCSZSAM/"
+  },
+  {
+    "id": "20261115-0950-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/m20261115-0950-1-ig.jpg",
+    "caption": "🎙️ بنعطية يفتح ملف نهائي «الكان» أمام السنغال.\n\nفي حوار على كانال بلوس، اعتبر القائد السابق للأسود أن المباراة كانت متوازنة وأن مشوار المغرب في البطولة يستحق الإشادة.\n\n⚖️ لكنه حمّل الحكام ومسؤولي اللقاء جزءاً من المسؤولية بعد استئناف اللعب إثر عودة لاعبي السنغال إلى الملعب، ووصف ما جرى بالفوضى.\n\nوماذا عنكم، كيف رأيتم قرارات التحكيم في تلك المباراة؟ 👇\n\n#بنعطية #الأسود #كأس_إفريقيا #المنتخب_المغربي #كرة_القدم",
+    "status": "now",
+    "titel": "بنعطية: مسؤولية الحكام في نهائي الكان",
+    "quelle_url": "https://ar.sport.le360.ma/football/BLSRX75FKRG2FPUTDXLBCSZSAM/"
+  },
+  {
+    "id": "20261115-0950-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-0950-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-0950-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-15T15:25:00+01:00",
+    "titel": "بنعطية: مسؤولية الحكام في نهائي الكان",
+    "quelle_url": "https://ar.sport.le360.ma/football/BLSRX75FKRG2FPUTDXLBCSZSAM/"
+  },
+  {
+    "id": "20261115-0950-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-0950-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-0950-1.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-15T15:25:00+01:00",
+    "titel": "بنعطية: مسؤولية الحكام في نهائي الكان",
+    "quelle_url": "https://ar.sport.le360.ma/football/BLSRX75FKRG2FPUTDXLBCSZSAM/"
+  },
+  {
+    "id": "20261115-0950-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-0950-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "بنعطية: مسؤولية الحكام في نهائي الكان",
+    "quelle_url": "https://ar.sport.le360.ma/football/BLSRX75FKRG2FPUTDXLBCSZSAM/"
   }
 ]
