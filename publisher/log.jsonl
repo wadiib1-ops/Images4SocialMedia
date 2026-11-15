@@ -2484,3 +2484,10 @@
 {"zeit": "15.11.2026 17:48:00", "aktion": "veröffentlicht", "beitrag": "20261115-1350-2-fb-reel", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 3060019741012787"}
 {"zeit": "15.11.2026 17:49:33", "aktion": "veröffentlicht", "beitrag": "20261115-1350-2-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 17868655779676234"}
 {"zeit": "15.11.2026 17:49:33", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "310 Einträge geprüft"}
+{"zeit": "15.11.2026 18:02:14", "aktion": "veröffentlicht", "beitrag": "20261115-1747-1-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122224886306577271"}
+{"zeit": "15.11.2026 18:02:22", "aktion": "veröffentlicht", "beitrag": "20261115-1747-1-ig-feed", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 17889028674501788"}
+{"zeit": "15.11.2026 18:02:58", "aktion": "veröffentlicht", "beitrag": "20261115-1747-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 17959864281272741"}
+{"zeit": "15.11.2026 18:03:02", "aktion": "veröffentlicht", "beitrag": "20261115-1747-2-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122224886516577271"}
+{"zeit": "15.11.2026 18:03:08", "aktion": "fehlgeschlagen", "beitrag": "20261115-1747-2-ig-feed", "plattform": "instagram", "ergebnis": "fehler", "details": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Kann nicht ver\\u00f6ffentlicht werden\",\"error_user_msg\":\"Die Medien k\\u00f6nnen noch nicht ver\\u00f6ffentlicht werden. Bitte warte noch einen Moment.\",\"fbtrace_id\":\"AiHwDVX_LmB8t5HWWPa0Xli\"}}"}
+{"zeit": "15.11.2026 18:04:40", "aktion": "veröffentlicht", "beitrag": "20261115-1747-2-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 17958005556271459"}
+{"zeit": "15.11.2026 18:04:40", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "320 Einträge geprüft"}
