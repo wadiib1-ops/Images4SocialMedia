@@ -3735,10 +3735,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1350-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1350-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T16:55:00+01:00",
     "titel": "متحف الكرة المغربية يكرّم هشام الدكيك",
-    "quelle_url": "https://alomksport.com/110543.html"
+    "quelle_url": "https://alomksport.com/110543.html",
+    "meta_id": "973735528759802",
+    "published_at": "2026-11-15T16:46:05.351977+00:00"
   },
   {
     "id": "20261115-1350-1-ig-reel",
@@ -3747,10 +3749,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1350-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1350-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T16:55:00+01:00",
     "titel": "متحف الكرة المغربية يكرّم هشام الدكيك",
-    "quelle_url": "https://alomksport.com/110543.html"
+    "quelle_url": "https://alomksport.com/110543.html",
+    "meta_id": "18139356106650954",
+    "published_at": "2026-11-15T16:46:05.351977+00:00"
   },
   {
     "id": "20261115-1350-1-ig-story",
@@ -3795,10 +3799,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1350-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1350-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T16:55:00+01:00",
     "titel": "النصيري: لست غاضباً من غيابي عن المونديال",
-    "quelle_url": "https://www.lesiteinfo.com/sport/686879-youssef-en-nesyri-sur-son-absence-au-mondial-je-ne-suis-pas-fache-video.html"
+    "quelle_url": "https://www.lesiteinfo.com/sport/686879-youssef-en-nesyri-sur-son-absence-au-mondial-je-ne-suis-pas-fache-video.html",
+    "meta_id": "3060019741012787",
+    "published_at": "2026-11-15T16:46:05.351977+00:00"
   },
   {
     "id": "20261115-1350-2-ig-reel",
@@ -3807,10 +3813,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-1350-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-1350-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-15T16:55:00+01:00",
     "titel": "النصيري: لست غاضباً من غيابي عن المونديال",
-    "quelle_url": "https://www.lesiteinfo.com/sport/686879-youssef-en-nesyri-sur-son-absence-au-mondial-je-ne-suis-pas-fache-video.html"
+    "quelle_url": "https://www.lesiteinfo.com/sport/686879-youssef-en-nesyri-sur-son-absence-au-mondial-je-ne-suis-pas-fache-video.html",
+    "meta_id": "17868655779676234",
+    "published_at": "2026-11-15T16:46:05.351977+00:00"
   },
   {
     "id": "20261115-1350-2-ig-story",
