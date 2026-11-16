@@ -4677,5 +4677,59 @@
     "quelle_url": "https://ar.sport.le360.ma/football/LAWKGYDKANDQLAPIW4VBWKUCPY/",
     "meta_id": "17964787398080223",
     "published_at": "2026-11-16T08:11:17.576460+00:00"
+  },
+  {
+    "id": "20261116-0947-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "caption": "وائل محيا، لاعب بوروسيا مونشنغلادباخ، تحدث عن اختياره المنتخب الألماني.\n\nوقال في حوار مع صحيفة بيلد إن والده مغربي وإن المغرب جزء من عائلته.\n\nوأوضح أن القرار كان صعباً وأن كلوب أقنعه بأفكاره، وذلك بحضور والديه خلال النقاش.\n\nوأضاف أن كلوب لم يقدم له أي وعود بخصوص مسيرته مع المنتخب الألماني.\n\nما رأيكم في اختيارات لاعبي المهجر بين المنتخبات؟\n\n#المغرب #كرة_القدم #وائل_محيا",
+    "status": "now",
+    "titel": "وائل محيا: المغرب جزء من عائلتي",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/QQOWVXGJA5H7FM2EHGFQFONMBQ/",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261116-0947-1-fb.jpg"
+  },
+  {
+    "id": "20261116-0947-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "caption": "🎙️ «المغرب جزء من عائلتي»\n\nهكذا تحدث وائل محيا، لاعب بوروسيا مونشنغلادباخ، في حوار مع صحيفة بيلد عن علاقته بالمغرب، بلد والده. ⚽\n\nاللاعب اعترف بأن اختيار ألمانيا لم يكن سهلاً، وبأن كلوب كان صاحب الكلمة الحاسمة بفضل أفكاره، بعد جلسة جمعته بوالديه. 🤝\n\nومع ذلك، لم يمنحه المدرب أي ضمانات بخصوص مستقبله مع المنتخب. 🔍\n\n#وائل_محيا #لاعبو_المهجر #المغرب #كرة_القدم #بوروسيا_مونشنغلادباخ",
+    "status": "now",
+    "titel": "وائل محيا: المغرب جزء من عائلتي",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/QQOWVXGJA5H7FM2EHGFQFONMBQ/",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261116-0947-1-ig.jpg"
+  },
+  {
+    "id": "20261116-0947-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "caption": "",
+    "status": "scheduled",
+    "titel": "وائل محيا: المغرب جزء من عائلتي",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/QQOWVXGJA5H7FM2EHGFQFONMBQ/",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261116-0947-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261116-0947-1-fb.jpg",
+    "publish_at": "2026-11-16T12:54:22+01:00"
+  },
+  {
+    "id": "20261116-0947-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "caption": "",
+    "status": "scheduled",
+    "titel": "وائل محيا: المغرب جزء من عائلتي",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/QQOWVXGJA5H7FM2EHGFQFONMBQ/",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261116-0947-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261116-0947-1.jpg",
+    "publish_at": "2026-11-16T12:54:22+01:00"
+  },
+  {
+    "id": "20261116-0947-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "caption": "",
+    "status": "now",
+    "titel": "وائل محيا: المغرب جزء من عائلتي",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/QQOWVXGJA5H7FM2EHGFQFONMBQ/",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261116-0947-1-story-text.mp4"
   }
 ]
