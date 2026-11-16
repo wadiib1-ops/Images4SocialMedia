@@ -4294,10 +4294,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-2150-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-2150-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-16T00:55:00+01:00",
     "titel": "الرجاء يعرف طاقم تحكيم مواجهة أسكو دي كارا",
-    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/NJIBMBUJSNF7XGLKHSSDKAIM6A/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/NJIBMBUJSNF7XGLKHSSDKAIM6A/",
+    "meta_id": "1231683316201990",
+    "published_at": "2026-11-16T00:00:31.314385+00:00"
   },
   {
     "id": "20261115-2150-1-ig-reel",
@@ -4306,10 +4308,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-2150-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-2150-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-16T00:55:00+01:00",
     "titel": "الرجاء يعرف طاقم تحكيم مواجهة أسكو دي كارا",
-    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/NJIBMBUJSNF7XGLKHSSDKAIM6A/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/NJIBMBUJSNF7XGLKHSSDKAIM6A/",
+    "meta_id": "17983621467128362",
+    "published_at": "2026-11-16T00:00:31.314385+00:00"
   },
   {
     "id": "20261115-2150-1-ig-story",
@@ -4354,10 +4358,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-2150-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-2150-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-16T00:55:00+01:00",
     "titel": "إصابة بريكة ونور الدين في تداريب المغرب الفاسي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/AR4RPGSMW5GLREJT2TQDV7QOZA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/AR4RPGSMW5GLREJT2TQDV7QOZA/",
+    "meta_id": "1688228639379767",
+    "published_at": "2026-11-16T00:00:31.314385+00:00"
   },
   {
     "id": "20261115-2150-2-ig-reel",
@@ -4366,10 +4372,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-2150-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-2150-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-16T00:55:00+01:00",
     "titel": "إصابة بريكة ونور الدين في تداريب المغرب الفاسي",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/AR4RPGSMW5GLREJT2TQDV7QOZA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/AR4RPGSMW5GLREJT2TQDV7QOZA/",
+    "meta_id": "18113906216626977",
+    "published_at": "2026-11-16T00:00:31.314385+00:00"
   },
   {
     "id": "20261115-2150-2-ig-story",
