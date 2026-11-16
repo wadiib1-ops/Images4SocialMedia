@@ -4422,10 +4422,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-2346-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-2346-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-16T02:52:07+01:00",
     "titel": "طاقم مغربي يدير قمة الزمالك وكلوب الإفريقي",
-    "quelle_url": "https://ar.sport.le360.ma/football/WJ3TSXQBLJH3RB4S3ATVMROCBU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/WJ3TSXQBLJH3RB4S3ATVMROCBU/",
+    "meta_id": "2111935716117543",
+    "published_at": "2026-11-16T06:34:40.918211+00:00"
   },
   {
     "id": "20261115-2346-1-ig-reel",
@@ -4434,10 +4436,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-2346-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-2346-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-16T02:52:07+01:00",
     "titel": "طاقم مغربي يدير قمة الزمالك وكلوب الإفريقي",
-    "quelle_url": "https://ar.sport.le360.ma/football/WJ3TSXQBLJH3RB4S3ATVMROCBU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/WJ3TSXQBLJH3RB4S3ATVMROCBU/",
+    "meta_id": "17971673001198930",
+    "published_at": "2026-11-16T06:34:40.918211+00:00"
   },
   {
     "id": "20261115-2346-1-ig-story",
@@ -4482,10 +4486,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-2346-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-2346-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-16T02:52:07+01:00",
     "titel": "الشباك وتوريس والرميشي تتصدرن جوائز دوري أبطال إفريقيا للسيدات",
-    "quelle_url": "https://www.hespress.com/%d8%b3%d9%8a%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%8a%d9%83%d8%aa%d8%b3%d8%ad%d9%86-%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d8%a6%d8%b2-%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%8a%d8%a9-1840457.html"
+    "quelle_url": "https://www.hespress.com/%d8%b3%d9%8a%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%8a%d9%83%d8%aa%d8%b3%d8%ad%d9%86-%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d8%a6%d8%b2-%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%8a%d8%a9-1840457.html",
+    "meta_id": "4671877053132229",
+    "published_at": "2026-11-16T06:34:40.918211+00:00"
   },
   {
     "id": "20261115-2346-2-ig-reel",
@@ -4494,10 +4500,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261115-2346-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261115-2346-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-16T02:52:07+01:00",
     "titel": "الشباك وتوريس والرميشي تتصدرن جوائز دوري أبطال إفريقيا للسيدات",
-    "quelle_url": "https://www.hespress.com/%d8%b3%d9%8a%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%8a%d9%83%d8%aa%d8%b3%d8%ad%d9%86-%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d8%a6%d8%b2-%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%8a%d8%a9-1840457.html"
+    "quelle_url": "https://www.hespress.com/%d8%b3%d9%8a%d8%af%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d9%8a%d9%83%d8%aa%d8%b3%d8%ad%d9%86-%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d8%a6%d8%b2-%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%8a%d8%a9-1840457.html",
+    "meta_id": "18082758227726322",
+    "published_at": "2026-11-16T06:34:40.918211+00:00"
   },
   {
     "id": "20261115-2346-2-ig-story",
