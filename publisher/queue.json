@@ -4589,10 +4589,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261116-0745-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261116-0745-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-16T12:10:28+01:00",
     "titel": "بنعطية يروي موقفاً جمعه برونالدو في يوفنتوس",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/AFXUGTYESNEQJKXHV7KJ7LVUFU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/AFXUGTYESNEQJKXHV7KJ7LVUFU/",
+    "meta_id": "1240363485225960",
+    "published_at": "2026-11-16T12:50:01.938712+00:00"
   },
   {
     "id": "20261116-0745-1-ig-reel",
@@ -4601,10 +4603,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261116-0745-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261116-0745-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-16T12:10:28+01:00",
     "titel": "بنعطية يروي موقفاً جمعه برونالدو في يوفنتوس",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/AFXUGTYESNEQJKXHV7KJ7LVUFU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/AFXUGTYESNEQJKXHV7KJ7LVUFU/",
+    "meta_id": "18427263316158357",
+    "published_at": "2026-11-16T12:50:01.938712+00:00"
   },
   {
     "id": "20261116-0745-1-ig-story",
@@ -4649,10 +4653,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261116-0745-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261116-0745-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-16T12:10:28+01:00",
     "titel": "وداد فاس وأولمبيك الدشيرة يتصدران القسم الثاني بعد الجولة 8",
-    "quelle_url": "https://ar.sport.le360.ma/football/LAWKGYDKANDQLAPIW4VBWKUCPY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/LAWKGYDKANDQLAPIW4VBWKUCPY/",
+    "meta_id": "4761816424144154",
+    "published_at": "2026-11-16T12:50:01.938712+00:00"
   },
   {
     "id": "20261116-0745-2-ig-reel",
@@ -4661,10 +4667,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261116-0745-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261116-0745-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-16T12:10:28+01:00",
     "titel": "وداد فاس وأولمبيك الدشيرة يتصدران القسم الثاني بعد الجولة 8",
-    "quelle_url": "https://ar.sport.le360.ma/football/LAWKGYDKANDQLAPIW4VBWKUCPY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/LAWKGYDKANDQLAPIW4VBWKUCPY/",
+    "meta_id": "17956441116301038",
+    "published_at": "2026-11-16T12:50:01.938712+00:00"
   },
   {
     "id": "20261116-0745-2-ig-story",
@@ -4707,24 +4715,28 @@
     "platform": "facebook",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "titel": "وائل محيا: المغرب جزء من عائلتي",
     "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/QQOWVXGJA5H7FM2EHGFQFONMBQ/",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261116-0947-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261116-0947-1-fb.jpg",
-    "publish_at": "2026-11-16T12:54:22+01:00"
+    "publish_at": "2026-11-16T12:54:22+01:00",
+    "meta_id": "2149598555672488",
+    "published_at": "2026-11-16T12:50:01.938712+00:00"
   },
   {
     "id": "20261116-0947-1-ig-reel",
     "platform": "instagram",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "titel": "وائل محيا: المغرب جزء من عائلتي",
     "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/QQOWVXGJA5H7FM2EHGFQFONMBQ/",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261116-0947-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261116-0947-1.jpg",
-    "publish_at": "2026-11-16T12:54:22+01:00"
+    "publish_at": "2026-11-16T12:54:22+01:00",
+    "meta_id": "18101492384103818",
+    "published_at": "2026-11-16T12:50:01.938712+00:00"
   },
   {
     "id": "20261116-0947-1-ig-story",
