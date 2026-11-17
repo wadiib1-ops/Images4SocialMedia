@@ -5381,5 +5381,59 @@
     "quelle_url": "https://ar.sport.le360.ma/football/EBKKSZPBMBAJBJ2W265J7WPDDM/",
     "meta_id": "17887487772624300",
     "published_at": "2026-11-17T06:54:28.088320+00:00"
+  },
+  {
+    "id": "20261117-0950-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261117-0950-1-fb.jpg",
+    "caption": "يدخل المدرب المغربي بادو الزاكي اليوم اختبارا جديدا مع منتخب الأردن، إذ يواجه «النشامى» نظيره الأسترالي في مباراة ودية.\n\nوبحسب تقارير صحفية أردنية، قد تؤثر نتيجة اللقاء في مستقبل الزاكي مع المنتخب، علما أن عقده يمتد لسنة واحدة وقد مرت منه أربعة أشهر.\n\nوتشير التقارير ذاتها إلى أن فترة التوقف الدولي المقبلة ستكون في مارس 2027.\n\nكيف تقيمون مسار بادو الزاكي مع المنتخب الأردني حتى الآن؟\n\n#بادو_الزاكي #منتخب_الأردن #المدرب_المغربي",
+    "status": "now",
+    "titel": "الزاكي يواجه أستراليا مع الأردن وسط تقارير عن مستقبله",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/COR6TRSZVVCTXCEYNEP64RKA3Q/"
+  },
+  {
+    "id": "20261117-0950-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261117-0950-1-ig.jpg",
+    "caption": "🔥 بادو الزاكي أمام اختبار جديد مع النشامى!\n\nيخوض المنتخب الأردني اليوم مباراة ودية أمام أستراليا بقيادة المدرب المغربي ⚽\n\nوتقول تقارير صحفية أردنية إن نتيجة اللقاء قد ترسم ملامح مستقبله، فعقده يمتد لسنة وقد مرت منه أربعة أشهر 💪\n\nبالتوفيق للمدرب المغربي 🦁\n\n#بادو_الزاكي #النشامى #منتخب_الأردن #المدرب_المغربي #الكرة_المغربية",
+    "status": "now",
+    "titel": "الزاكي يواجه أستراليا مع الأردن وسط تقارير عن مستقبله",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/COR6TRSZVVCTXCEYNEP64RKA3Q/"
+  },
+  {
+    "id": "20261117-0950-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261117-0950-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261117-0950-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-17T13:00:00+01:00",
+    "titel": "الزاكي يواجه أستراليا مع الأردن وسط تقارير عن مستقبله",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/COR6TRSZVVCTXCEYNEP64RKA3Q/"
+  },
+  {
+    "id": "20261117-0950-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261117-0950-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261117-0950-1.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-17T13:00:00+01:00",
+    "titel": "الزاكي يواجه أستراليا مع الأردن وسط تقارير عن مستقبله",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/COR6TRSZVVCTXCEYNEP64RKA3Q/"
+  },
+  {
+    "id": "20261117-0950-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261117-0950-1-reel-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الزاكي يواجه أستراليا مع الأردن وسط تقارير عن مستقبله",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/COR6TRSZVVCTXCEYNEP64RKA3Q/"
   }
 ]
