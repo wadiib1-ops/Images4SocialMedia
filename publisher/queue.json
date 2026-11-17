@@ -5037,10 +5037,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261116-2147-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261116-2147-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-17T00:52:09+01:00",
     "titel": "المنتخب المغربي يواجه النيجر غدا وعينه على التأهل إلى الكان",
-    "quelle_url": "https://ar.sport.le360.ma/football/2AHIGYRF7RHVLJSOKICT37HYA4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/2AHIGYRF7RHVLJSOKICT37HYA4/",
+    "meta_id": "4579869905612731",
+    "published_at": "2026-11-17T00:26:18.632647+00:00"
   },
   {
     "id": "20261116-2147-1-ig-reel",
@@ -5049,10 +5051,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261116-2147-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261116-2147-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-17T00:52:09+01:00",
     "titel": "المنتخب المغربي يواجه النيجر غدا وعينه على التأهل إلى الكان",
-    "quelle_url": "https://ar.sport.le360.ma/football/2AHIGYRF7RHVLJSOKICT37HYA4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/2AHIGYRF7RHVLJSOKICT37HYA4/",
+    "meta_id": "18246281920314536",
+    "published_at": "2026-11-17T00:26:18.632647+00:00"
   },
   {
     "id": "20261116-2147-1-ig-story",
@@ -5097,10 +5101,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261116-2147-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261116-2147-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-17T00:52:09+01:00",
     "titel": "الأولمبي المغربي يستقبل إثيوبيا غدا في الإياب",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6FCVCL7UTBDNDLUZAHM6J5YLLY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6FCVCL7UTBDNDLUZAHM6J5YLLY/",
+    "meta_id": "2121055868532113",
+    "published_at": "2026-11-17T00:26:18.632647+00:00"
   },
   {
     "id": "20261116-2147-2-ig-reel",
@@ -5109,10 +5115,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261116-2147-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261116-2147-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-17T00:52:09+01:00",
     "titel": "الأولمبي المغربي يستقبل إثيوبيا غدا في الإياب",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6FCVCL7UTBDNDLUZAHM6J5YLLY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6FCVCL7UTBDNDLUZAHM6J5YLLY/",
+    "meta_id": "18121179589791819",
+    "published_at": "2026-11-17T00:26:18.632647+00:00"
   },
   {
     "id": "20261116-2147-2-ig-story",
