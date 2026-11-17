@@ -5613,10 +5613,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261117-1348-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261117-1348-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-17T18:38:42+01:00",
     "titel": "الجامعة تخصص مكافآت المونديال للاعبي الأسود",
-    "quelle_url": "https://ar.sport.le360.ma/football/6LB72AQIQRDOVDNMJCZLPGQC3Y/"
+    "quelle_url": "https://ar.sport.le360.ma/football/6LB72AQIQRDOVDNMJCZLPGQC3Y/",
+    "meta_id": "1897168554775211",
+    "published_at": "2026-11-17T17:48:16.702337+00:00"
   },
   {
     "id": "20261117-1348-1-ig-reel",
@@ -5625,10 +5627,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261117-1348-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261117-1348-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-17T18:38:42+01:00",
     "titel": "الجامعة تخصص مكافآت المونديال للاعبي الأسود",
-    "quelle_url": "https://ar.sport.le360.ma/football/6LB72AQIQRDOVDNMJCZLPGQC3Y/"
+    "quelle_url": "https://ar.sport.le360.ma/football/6LB72AQIQRDOVDNMJCZLPGQC3Y/",
+    "meta_id": "18122173480975529",
+    "published_at": "2026-11-17T17:48:16.702337+00:00"
   },
   {
     "id": "20261117-1348-1-ig-story",
@@ -5673,10 +5677,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261117-1348-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261117-1348-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-17T18:38:42+01:00",
     "titel": "ثلاثة وجوه رجاوية ترفض العودة إلى الرجاء",
-    "quelle_url": "https://ar.sport.le360.ma/football/JLOOPNRR4RDMDLQXJZ2HWOT2HU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/JLOOPNRR4RDMDLQXJZ2HWOT2HU/",
+    "meta_id": "1206357708382233",
+    "published_at": "2026-11-17T17:48:16.702337+00:00"
   },
   {
     "id": "20261117-1348-2-ig-reel",
@@ -5685,10 +5691,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261117-1348-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261117-1348-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-17T18:38:42+01:00",
     "titel": "ثلاثة وجوه رجاوية ترفض العودة إلى الرجاء",
-    "quelle_url": "https://ar.sport.le360.ma/football/JLOOPNRR4RDMDLQXJZ2HWOT2HU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/JLOOPNRR4RDMDLQXJZ2HWOT2HU/",
+    "meta_id": "17992211871065455",
+    "published_at": "2026-11-17T17:48:16.702337+00:00"
   },
   {
     "id": "20261117-1348-2-ig-story",
