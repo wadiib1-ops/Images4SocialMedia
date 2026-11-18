@@ -15,7 +15,9 @@ concurrency:
   group: video-out
   cancel-in-progress: false
 
-# WICHTIG: Dieser Job arbeitet NUR auf dem Branch video-out und löscht NUR *.mp4.
+# WICHTIG: Videos: nur *.mp4 auf dem Branch video-out. Bilder (Nutzerwunsch 18.11.2026): nur images/*.jpg und images/*.png
+# auf main, aelter als 24 Stunden. Geschuetzt: images/logo-neu.png, alle Dateien OHNE 8-stelliges Datum im Namen
+# (z. B. Laenderbilder, Turnierlogo) und Bilder, auf die ein noch offener Queue-Eintrag (scheduled/now) zeigt.
 # Die Musik-Tracks (Video/*.mp3 auf main) und alles andere auf main werden nie angefasst.
 
 jobs:
@@ -92,4 +94,51 @@ jobs:
           echo "::error::Push nach video-out nach 3 Versuchen abgelehnt"; exit 1
         else
           echo "Keine Änderungen."
+        fi
+
+    - name: Branch main auschecken (Bilder)
+      if: steps.zeit.outputs.run == 'true'
+      uses: actions/checkout@v4
+      with:
+        ref: main
+        path: main-wt
+        fetch-depth: 0
+
+    - name: Bilder in images/ aelter als 24 Stunden loeschen
+      if: steps.zeit.outputs.run == 'true'
+      working-directory: main-wt
+      run: |
+        LIMIT=$(( $(date +%s) - 24*3600 ))
+        # Noch nicht veroeffentlichte Eintraege schuetzen (image_url und cover_url)
+        python3 -c "import json; [print((e.get(k) or '').rsplit('/',1)[-1]) for e in json.load(open('publisher/queue.json')) if e.get('status') in ('scheduled','now') for k in ('image_url','cover_url')]" | sort -u > /tmp/keep-img.txt
+        echo "Geschuetzte Bilder:"; cat /tmp/keep-img.txt
+        : > /tmp/del-img.txt
+        git ls-files 'images/*.jpg' 'images/*.png' | while IFS= read -r file; do
+          name=$(basename "$file")
+          [ "$name" = "logo-neu.png" ] && continue
+          echo "$name" | grep -Eq '[0-9]{8}' || continue
+          grep -qxF "$name" /tmp/keep-img.txt && continue
+          ts=$(git log -1 --format=%ct -- "$file")
+          if [ -n "$ts" ] && [ "$ts" -lt "$LIMIT" ]; then echo "$file" >> /tmp/del-img.txt; fi
+        done
+        echo "Zu loeschen: $(wc -l < /tmp/del-img.txt) Bilder"
+        if [ -s /tmp/del-img.txt ]; then
+          xargs -d '\n' git rm -q -- < /tmp/del-img.txt
+        fi
+
+    - name: Bild-Aenderungen nach main hochladen
+      if: steps.zeit.outputs.run == 'true'
+      working-directory: main-wt
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        if ! git diff --staged --quiet; then
+          git commit -m "System: Bilder in images/ älter als 24 Stunden entfernt"
+          for i in 1 2 3; do
+            git push origin HEAD:main && exit 0
+            sleep $((i*10)); git pull --rebase origin main || true
+          done
+          echo "::error::Push nach main nach 3 Versuchen abgelehnt"; exit 1
+        else
+          echo "Keine Bilder zu loeschen."
         fi
