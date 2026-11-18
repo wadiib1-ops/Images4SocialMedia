@@ -6253,10 +6253,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261118-1547-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261118-1547-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-18T18:50:00+01:00",
     "titel": "المنتخب النسوي يواجه فنزويلا وديا في فرنسا",
-    "quelle_url": "https://ar.sport.le360.ma/football/55BCEW5JVBGONIKCRVJOZPZVP4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/55BCEW5JVBGONIKCRVJOZPZVP4/",
+    "meta_id": "1449223373403524",
+    "published_at": "2026-11-18T18:50:48.273848+00:00"
   },
   {
     "id": "20261118-1547-1-ig-reel",
@@ -6265,10 +6267,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261118-1547-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261118-1547-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-18T18:50:00+01:00",
     "titel": "المنتخب النسوي يواجه فنزويلا وديا في فرنسا",
-    "quelle_url": "https://ar.sport.le360.ma/football/55BCEW5JVBGONIKCRVJOZPZVP4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/55BCEW5JVBGONIKCRVJOZPZVP4/",
+    "meta_id": "18076026941760639",
+    "published_at": "2026-11-18T18:50:48.273848+00:00"
   },
   {
     "id": "20261118-1547-1-ig-story",
@@ -6313,10 +6317,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261118-1547-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261118-1547-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-18T18:50:00+01:00",
     "titel": "عبد الله وزان ثاني أصغر هداف في تاريخ الأسود",
-    "quelle_url": "https://kifache.com/%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3%d8%b5%d8%ba%d8%b1-%d9%87%d8%af%d8%a7%d9%81-%d8%a8%d9%82%d9%85%d9%8a%d8%b5-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d9%88%d8%b2/"
+    "quelle_url": "https://kifache.com/%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3%d8%b5%d8%ba%d8%b1-%d9%87%d8%af%d8%a7%d9%81-%d8%a8%d9%82%d9%85%d9%8a%d8%b5-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d9%88%d8%b2/",
+    "meta_id": "4386661258312281",
+    "published_at": "2026-11-18T18:50:48.273848+00:00"
   },
   {
     "id": "20261118-1547-2-ig-reel",
@@ -6325,10 +6331,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261118-1547-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261118-1547-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-18T18:50:00+01:00",
     "titel": "عبد الله وزان ثاني أصغر هداف في تاريخ الأسود",
-    "quelle_url": "https://kifache.com/%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3%d8%b5%d8%ba%d8%b1-%d9%87%d8%af%d8%a7%d9%81-%d8%a8%d9%82%d9%85%d9%8a%d8%b5-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d9%88%d8%b2/"
+    "quelle_url": "https://kifache.com/%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3%d8%b5%d8%ba%d8%b1-%d9%87%d8%af%d8%a7%d9%81-%d8%a8%d9%82%d9%85%d9%8a%d8%b5-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af-%d8%b9%d8%a8%d8%af-%d8%a7%d9%84%d9%84%d9%87-%d9%88%d8%b2/",
+    "meta_id": "18141911794722489",
+    "published_at": "2026-11-18T18:50:48.273848+00:00"
   },
   {
     "id": "20261118-1547-2-ig-story",
@@ -6468,9 +6476,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261118-1950-1-fb.jpg",
     "caption": "بعد فوز المنتخب المغربي على النيجر بهدف دون رد وحجز بطاقة التأهل إلى كأس إفريقيا 2027، خصّ ريال مدريد لاعبه إبراهيم دياز بلفتة على صفحته الرسمية.\n\nالنادي الملكي نشر مجموعة من الصور للاعب بقميص الأسود بعد التأهل.\n\nويتصدر المنتخب المجموعة الأولى برصيد 12 نقطة من أربع مباريات.\n\nكيف تقيّمون مساهمة دياز مع المنتخب في هذه التصفيات؟\n\n#المنتخب_المغربي #إبراهيم_دياز #كأس_إفريقيا",
-    "status": "now",
+    "status": "published",
     "titel": "ريال مدريد يفاجئ إبراهيم دياز بعد تأهل الأسود إلى كأس إفريقيا",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6GOTZKV525GMRJZNM6MMI24KBI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6GOTZKV525GMRJZNM6MMI24KBI/",
+    "meta_id": "122225269976577271",
+    "published_at": "2026-11-18T18:50:48.273848+00:00"
   },
   {
     "id": "20261118-1950-1-ig-feed",
@@ -6478,9 +6488,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261118-1950-1-ig.jpg",
     "caption": "🔥 ريال مدريد يوجّه تحية خاصة لإبراهيم دياز!\n\n⚽ بعد تأهل الأسود إلى كأس إفريقيا 2027 إثر الفوز على النيجر بهدف نظيف، نشرت الصفحة الرسمية للنادي الملكي صورا للاعب بقميص المنتخب.\n\n🦁 المنتخب يقود المجموعة الأولى بـ12 نقطة من أربع مباريات.\n\n✨ تأهل مستحق ورسالة تقدير من أحد أكبر الأندية في العالم.\n\n#إبراهيم_دياز #ريال_مدريد #أسود_الأطلس #كأس_إفريقيا #المغرب",
-    "status": "now",
+    "status": "published",
     "titel": "ريال مدريد يفاجئ إبراهيم دياز بعد تأهل الأسود إلى كأس إفريقيا",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6GOTZKV525GMRJZNM6MMI24KBI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6GOTZKV525GMRJZNM6MMI24KBI/",
+    "meta_id": "18149846494568655",
+    "published_at": "2026-11-18T18:50:48.273848+00:00"
   },
   {
     "id": "20261118-1950-1-fb-reel",
@@ -6512,9 +6524,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261118-1950-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "ريال مدريد يفاجئ إبراهيم دياز بعد تأهل الأسود إلى كأس إفريقيا",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6GOTZKV525GMRJZNM6MMI24KBI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/6GOTZKV525GMRJZNM6MMI24KBI/",
+    "meta_id": "18204571048378970",
+    "published_at": "2026-11-18T18:50:48.273848+00:00"
   },
   {
     "id": "20261118-1950-2-fb-feed",
@@ -6522,9 +6536,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261118-1950-2-fb.jpg",
     "caption": "عبّر أيوب بوعدي عن سعادته بتأهل المنتخب المغربي إلى كأس إفريقيا 2027، عبر منشور على حسابه الرسمي في إنستغرام.\n\nكتب اللاعب: «تمت المهمة بنجاح… نلتقي مجددا السنة المقبلة»، في إشارة إلى موعد مع الجماهير في العرس القاري.\n\nجاء التأهل بعد الفوز على النيجر بهدف دون رد في الرباط، ويتصدر المنتخب المجموعة الأولى برصيد 12 نقطة.\n\nما رأيكم في مشاركة بوعدي مع المنتخب في هذه التصفيات؟\n\n#المنتخب_المغربي #أيوب_بوعدي #كأس_إفريقيا",
-    "status": "now",
+    "status": "published",
     "titel": "بوعدي يحتفل بتأهل الأسود إلى كأس إفريقيا برسالة خاصة",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/MVFXKEWNPNFWZIONPMMCSURQFM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/MVFXKEWNPNFWZIONPMMCSURQFM/",
+    "meta_id": "122225270312577271",
+    "published_at": "2026-11-18T18:50:48.273848+00:00"
   },
   {
     "id": "20261118-1950-2-ig-feed",
@@ -6532,9 +6548,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261118-1950-2-ig.jpg",
     "caption": "💬 «تمت المهمة بنجاح»… هكذا احتفل أيوب بوعدي بتأهل الأسود!\n\n⚽ لاعب الوسط شارك فرحته عبر إنستغرام بعد الفوز على النيجر بهدف نظيف في الرباط، وختم رسالته بموعد مع الجماهير السنة المقبلة.\n\n🦁 المنتخب حجز مقعده في كأس إفريقيا 2027 ويتصدر مجموعته بـ12 نقطة.\n\n✨ فرحة تتقاسمها الجماهير المغربية.\n\n#أيوب_بوعدي #أسود_الأطلس #كأس_إفريقيا #المنتخب_المغربي #المغرب",
-    "status": "now",
+    "status": "published",
     "titel": "بوعدي يحتفل بتأهل الأسود إلى كأس إفريقيا برسالة خاصة",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/MVFXKEWNPNFWZIONPMMCSURQFM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/MVFXKEWNPNFWZIONPMMCSURQFM/",
+    "meta_id": "18128415979910283",
+    "published_at": "2026-11-18T18:50:48.273848+00:00"
   },
   {
     "id": "20261118-1950-2-fb-reel",
@@ -6566,8 +6584,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261118-1950-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "بوعدي يحتفل بتأهل الأسود إلى كأس إفريقيا برسالة خاصة",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/MVFXKEWNPNFWZIONPMMCSURQFM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/MVFXKEWNPNFWZIONPMMCSURQFM/",
+    "meta_id": "18099356816441612",
+    "published_at": "2026-11-18T18:50:48.273848+00:00"
   }
 ]
