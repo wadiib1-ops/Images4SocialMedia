@@ -6125,10 +6125,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261118-1350-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261118-1350-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-18T17:08:24+01:00",
     "titel": "ثلاثة مهاجمين يقودون هجوم الأشبال في مونديال قطر",
-    "quelle_url": "https://www.yabiladi.com/articles/details/208060/maroc-compte-baha-rabbaj-aoud.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/208060/maroc-compte-baha-rabbaj-aoud.html",
+    "meta_id": "1405873354678427",
+    "published_at": "2026-11-18T16:50:12.855391+00:00"
   },
   {
     "id": "20261118-1350-1-ig-reel",
@@ -6137,10 +6139,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261118-1350-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261118-1350-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-18T17:08:24+01:00",
     "titel": "ثلاثة مهاجمين يقودون هجوم الأشبال في مونديال قطر",
-    "quelle_url": "https://www.yabiladi.com/articles/details/208060/maroc-compte-baha-rabbaj-aoud.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/208060/maroc-compte-baha-rabbaj-aoud.html",
+    "meta_id": "17995848719855700",
+    "published_at": "2026-11-18T16:50:12.855391+00:00"
   },
   {
     "id": "20261118-1350-1-ig-story",
@@ -6185,10 +6189,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261118-1350-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261118-1350-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-18T17:08:24+01:00",
     "titel": "ابن يدر يبرر توبيخه لزهواني بعد الفوز على إثيوبيا",
-    "quelle_url": "https://www.yabiladi.com/articles/details/208005/jamal-yeder-pique-colere-contre.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/208005/jamal-yeder-pique-colere-contre.html",
+    "meta_id": "1704342111420339",
+    "published_at": "2026-11-18T16:50:12.855391+00:00"
   },
   {
     "id": "20261118-1350-2-ig-reel",
@@ -6197,10 +6203,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261118-1350-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261118-1350-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-18T17:08:24+01:00",
     "titel": "ابن يدر يبرر توبيخه لزهواني بعد الفوز على إثيوبيا",
-    "quelle_url": "https://www.yabiladi.com/articles/details/208005/jamal-yeder-pique-colere-contre.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/208005/jamal-yeder-pique-colere-contre.html",
+    "meta_id": "18032708195882089",
+    "published_at": "2026-11-18T16:50:12.855391+00:00"
   },
   {
     "id": "20261118-1350-2-ig-story",
@@ -6340,9 +6348,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261118-1746-1-fb.jpg",
     "caption": "تعادل الجيش الملكي سلبيا أمام اتحاد الزموري للخميسات في أول مباراة ودية له خلال فترة التوقف الدولي.\n\nيستعد الفريق العسكري لدور المجموعات في كأس الكونفدرالية الإفريقية، ويلاقي وداد تمارة يوم الجمعة في مباراة ودية ثانية.\n\nيبدأ مشواره القاري يوم 27 نونبر أمام دوربان سيتي الجنوب إفريقي في الرباط.\n\nكيف تقيمون جاهزية الفريق قبل انطلاق المنافسة القارية؟\n\n#الجيش_الملكي #كأس_الكونفدرالية #المغرب",
-    "status": "now",
+    "status": "published",
     "titel": "الجيش الملكي يتعادل وديا أمام الخميسات",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/BWMEE3AQ7ZDNPH6VJUMSEA5DWU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BWMEE3AQ7ZDNPH6VJUMSEA5DWU/",
+    "meta_id": "122225244398577271",
+    "published_at": "2026-11-18T16:50:12.855391+00:00"
   },
   {
     "id": "20261118-1746-1-ig-feed",
@@ -6350,9 +6360,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261118-1746-1-ig.jpg",
     "caption": "⚽ الجيش الملكي يخرج بتعادل سلبي في أول اختبار ودي!\n\nلم تسفر المواجهة أمام اتحاد الزموري للخميسات عن أهداف خلال فترة التوقف الدولي 🔥\n\nالفريق يواصل استعداداته لدور المجموعات في كأس الكونفدرالية، مع محطة ودية جديدة أمام وداد تمارة الجمعة 💪\n\nالموعد القاري الأول: 27 نونبر أمام دوربان سيتي في الرباط 🏟️\n\n#الجيش_الملكي #كأس_الكونفدرالية #البطولة_الاحترافية #كرة_القدم_المغربية #المغرب",
-    "status": "now",
+    "status": "published",
     "titel": "الجيش الملكي يتعادل وديا أمام الخميسات",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/BWMEE3AQ7ZDNPH6VJUMSEA5DWU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BWMEE3AQ7ZDNPH6VJUMSEA5DWU/",
+    "meta_id": "18100079933436784",
+    "published_at": "2026-11-18T16:50:12.855391+00:00"
   },
   {
     "id": "20261118-1746-1-fb-reel",
@@ -6384,9 +6396,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261118-1746-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الجيش الملكي يتعادل وديا أمام الخميسات",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/BWMEE3AQ7ZDNPH6VJUMSEA5DWU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/BWMEE3AQ7ZDNPH6VJUMSEA5DWU/",
+    "meta_id": "18113765525164309",
+    "published_at": "2026-11-18T16:50:12.855391+00:00"
   },
   {
     "id": "20261118-1746-2-fb-feed",
@@ -6394,9 +6408,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261118-1746-2-fb.jpg",
     "caption": "تربك الغيابات حسابات مدرب الوداد نصر الدين نبي خلال معسكر مغلق من عشرة أيام في مراكش، يستغل فيه الفريق فترة التوقف الدولي.\n\nيغيب ستة لاعبين بسبب الاستدعاءات الدولية والإصابات، من بينهم محمد منصف المستدعى للمنتخب المغربي تحت 20 سنة، وشمس الدين العلوي الذي خضع لعملية جراحية بعد إصابة في الوجه.\n\nكيف ترون تأثير هذه الغيابات على جاهزية الفريق قبل مواجهة الجيش الملكي؟\n\n#الوداد #الجيش_الملكي #المغرب",
-    "status": "now",
+    "status": "published",
     "titel": "غيابات بالجملة في الوداد قبل مواجهة الجيش الملكي",
-    "quelle_url": "https://ar.sport.le360.ma/football/ZIQR5EP34BCI7ENSE7JCPEXW5Q/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ZIQR5EP34BCI7ENSE7JCPEXW5Q/",
+    "meta_id": "122225244710577271",
+    "published_at": "2026-11-18T16:50:12.855391+00:00"
   },
   {
     "id": "20261118-1746-2-ig-feed",
@@ -6404,9 +6420,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261118-1746-2-ig.jpg",
     "caption": "🔴 غيابات بالجملة تضع نصر الدين نبي أمام اختبار صعب!\n\nمعسكر مراكش المغلق يستمر عشرة أيام، لكن ستة لاعبين لن يكونوا حاضرين بسبب الاستدعاءات الدولية والإصابات ⚠️\n\nمحمد منصف مع المنتخب تحت 20 سنة، وشمس الدين العلوي يتعافى بعد عملية في الوجه 💪\n\nالوداد يستعد للعودة إلى المنافسة أمام الجيش الملكي ⚽\n\n#الوداد #الجيش_الملكي #البطولة_الاحترافية #كرة_القدم_المغربية #المغرب",
-    "status": "now",
+    "status": "published",
     "titel": "غيابات بالجملة في الوداد قبل مواجهة الجيش الملكي",
-    "quelle_url": "https://ar.sport.le360.ma/football/ZIQR5EP34BCI7ENSE7JCPEXW5Q/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ZIQR5EP34BCI7ENSE7JCPEXW5Q/",
+    "meta_id": "18111450344254622",
+    "published_at": "2026-11-18T16:50:12.855391+00:00"
   },
   {
     "id": "20261118-1746-2-fb-reel",
@@ -6438,8 +6456,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261118-1746-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "غيابات بالجملة في الوداد قبل مواجهة الجيش الملكي",
-    "quelle_url": "https://ar.sport.le360.ma/football/ZIQR5EP34BCI7ENSE7JCPEXW5Q/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ZIQR5EP34BCI7ENSE7JCPEXW5Q/",
+    "meta_id": "18127744144900838",
+    "published_at": "2026-11-18T16:50:12.855391+00:00"
   }
 ]
