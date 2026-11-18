@@ -1,0 +1,33 @@
+# Cloudflare Worker für das Fortschritt-Dashboard (Anleitung: backend/README.md)
+name = "fortschritt-dashboard"
+main = "src/index.js"
+compatibility_date = "2025-09-01"
+workers_dev = true
+preview_urls = false
+
+# Das Dashboard (Ordner dashboard/) wird vom Worker ausgeliefert. run_worker_first sorgt dafür,
+# dass jede Datei erst nach der Anmeldeprüfung herausgegeben wird.
+[assets]
+directory = "../dashboard"
+binding = "ASSETS"
+run_worker_first = true
+
+# Höchstens 5 Anmeldeversuche pro Minute und IP-Adresse
+[[ratelimits]]
+name = "LOGIN_LIMITER"
+namespace_id = "1701"
+simple = { limit = 5, period = 60 }
+
+[observability]
+enabled = true
+
+[vars]
+GITHUB_REPO = "wadiib1-ops/Images4SocialMedia"
+GITHUB_BRANCH = "main"
+LOG_PATH = "publisher/log.jsonl"
+HISTORY_PATH = "publisher/log_history.jsonl"
+# Während dieser Workflow läuft, wird nichts gelöscht (er schreibt das Protokoll).
+PUBLISH_WORKFLOW = "publish.yml"
+
+# Secrets (nicht hier eintragen, sondern mit "npx wrangler secret put NAME" oder im Cloudflare-Dashboard):
+#   ADMIN_USER, ADMIN_PASSWORD_HASH, TOTP_SECRET, SESSION_SECRET, GITHUB_TOKEN
