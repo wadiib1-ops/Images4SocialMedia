@@ -198,6 +198,7 @@ input[type="date"] { background: var(--surface-2); border: 0; border-radius: 8px
 .table-tools input { flex: 1 1 200px; min-width: 0; }
 .table-scroll { overflow: auto; max-height: 560px; }
 table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.table-scroll table { min-width: 760px; }
 th, td { text-align: left; padding: 7px 8px; border-bottom: 1px solid var(--grid); vertical-align: top; }
 th { color: var(--muted); font-weight: 600; font-size: 12px; position: sticky; top: 0; background: var(--surface); }
 td.num, td.time { font-variant-numeric: tabular-nums; white-space: nowrap; }
