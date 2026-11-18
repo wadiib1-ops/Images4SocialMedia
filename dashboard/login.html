@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Anmelden · Projektfortschritt</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main class="login-wrap">
+  <form class="card login" id="loginForm" novalidate>
+    <h1>Projektfortschritt</h1>
+    <p class="card-note">Zugang nur mit Anmeldung. Den sechsstelligen Code zeigt deine Authenticator-App.</p>
+    <label>Benutzername<input id="user" name="username" autocomplete="username" autocapitalize="none" spellcheck="false" required></label>
+    <label>Passwort<input id="password" name="password" type="password" autocomplete="current-password" required></label>
+    <label>Code aus der App<input id="code" name="code" inputmode="numeric" autocomplete="one-time-code" pattern="[0-9]{6}" maxlength="6" required></label>
+    <div class="login-error" id="err" role="alert"></div>
+    <button class="btn-primary" id="submit" type="submit">Anmelden</button>
+  </form>
+</main>
+<script src="login.js"></script>
+</body>
+</html>

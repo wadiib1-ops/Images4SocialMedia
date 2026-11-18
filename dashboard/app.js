@@ -18,8 +18,10 @@
   // ---------------------------------------------------------------- 1. Konfiguration
   const REPO_RAW = "https://raw.githubusercontent.com/wadiib1-ops/images4socialmedia/main/publisher/log.jsonl";
   const params = new URLSearchParams(location.search);
-  // Reihenfolge: ?src=…, dann die Datei im selben Repo (GitHub Pages / lokaler Server), dann raw.githubusercontent.
-  const SOURCES = [params.get("src"), "../publisher/log.jsonl", REPO_RAW].filter(Boolean);
+  // Mit Backend (Anmeldung): nur /api/log. Ohne Backend (lokal, statisch): ?src=…, dann die Datei im selben Repo,
+  // dann raw.githubusercontent. Welcher Fall vorliegt, entscheidet detectAdmin() beim Start.
+  let SOURCES = [params.get("src"), "../publisher/log.jsonl", REPO_RAW].filter(Boolean);
+  const API = { me: "/api/me", log: "/api/log", history: "/api/history", del: "/api/log/delete", logout: "/api/logout" };
   const REFRESH_MS = 2 * 60 * 1000;
   const TZ = "Europe/Berlin";
   const STORE_KEY = "fortschritt-dashboard";
@@ -79,7 +81,8 @@
     for (const src of SOURCES) {
       try {
         const url = src + (src.includes("?") ? "&" : "?") + "ts=" + Date.now();
-        const res = await fetch(url, { cache: "no-store" });
+        const res = await fetch(url, { cache: "no-store", credentials: "same-origin" });
+        if (res.status === 401 && state.admin) { toLogin(); throw new Error("nicht angemeldet"); }
         if (!res.ok) throw new Error("HTTP " + res.status);
         const text = await res.text();
         if (!text.trim().startsWith("{")) throw new Error("keine JSONL-Daten");
@@ -159,6 +162,10 @@
     selectedDay: null,
     table: { kind: "", q: "", limit: 100 },
     newLines: new Set(),
+    lines: [],            // Rohzeilen von log.jsonl (für das Löschen)
+    admin: null,          // { user, exp, repo } wenn über das Backend angemeldet
+    selected: new Map(),  // Zeilenindex -> Rohzeile
+    history: null,        // Änderungs-Historie vom Backend
   };
 
   function today() { return berlinDayKey(new Date()); }
@@ -342,7 +349,9 @@
     { id: "heatmap", span: 7, render: viewHeatmap },
     { id: "errors", span: 12, render: viewErrors },
     { id: "log", span: 12, render: viewLog },
+    { id: "history", span: 12, render: viewHistory, admin: true },
   ];
+  const visibleViews = () => VIEWS.filter((v) => !v.admin || state.admin);
 
   function activeSeries() {
     return Object.entries(PLATFORMS)
@@ -524,29 +533,81 @@
   function viewLog(ctx, el) {
     const t = state.table;
     const q = t.q.trim().toLowerCase();
+    const admin = !!state.admin;
     const rows = ctx.cur.filter((e) => (!t.kind || e.kind === t.kind) && (!q || (e.beitrag + " " + e.details).toLowerCase().includes(q)))
       .sort((a, b) => b.line - a.line);
     const shown = rows.slice(0, t.limit);
+    const nSel = state.selected.size;
+    const allShownSel = shown.length > 0 && shown.every((e) => state.selected.has(e.line));
     el.innerHTML = `<div class="card-head"><h2>Protokoll</h2><span class="card-note">${fmtInt(rows.length)} Einträge · ${rangeLabel()}</span></div>
       <div class="table-tools">
         <select id="tKind" aria-label="Ereignisart"><option value="">alle Ereignisse</option>${Object.entries(EVENT_KINDS).filter(([k]) => k !== "other").map(([k, v]) => `<option value="${k}" ${t.kind === k ? "selected" : ""}>${v.label}</option>`).join("")}</select>
         <input id="tQ" type="search" placeholder="Beitrag oder Details suchen" value="${esc(t.q)}">
       </div>
+      ${admin ? `<div class="sel-bar">
+        <span class="grow">${nSel ? `<b>${fmtInt(nSel)}</b> ausgewählt` : "Einträge zum Löschen auswählen"}</span>
+        <button class="icon-btn" id="tSelAll" ${rows.length ? "" : "disabled"}>Alle ${fmtInt(rows.length)} Treffer wählen</button>
+        <button class="icon-btn" id="tSelNone" ${nSel ? "" : "disabled"}>Auswahl aufheben</button>
+        <button class="btn-danger" id="tDelete" ${nSel ? "" : "disabled"}>Ausgewählte löschen</button>
+      </div>` : ""}
       <div class="table-scroll"><table>
-        <thead><tr><th>Zeit</th><th>Ereignis</th><th>Beitrag</th><th>Plattform</th><th>Details</th></tr></thead>
-        <tbody>${shown.length ? shown.map((e) => { const K = EVENT_KINDS[e.kind]; return `<tr class="${state.newLines.has(e.line) ? "is-new" : ""}">
+        <thead><tr>${admin ? `<th class="sel-col"><input type="checkbox" id="tSelShown" aria-label="Angezeigte Einträge wählen" ${allShownSel ? "checked" : ""}></th>` : ""}<th>Zeit</th><th>Ereignis</th><th>Beitrag</th><th>Plattform</th><th>Details</th></tr></thead>
+        <tbody>${shown.length ? shown.map((e) => { const K = EVENT_KINDS[e.kind]; const sel = state.selected.has(e.line); return `<tr class="${state.newLines.has(e.line) ? "is-new" : ""} ${sel ? "is-sel" : ""}">
+          ${admin ? `<td class="sel-col"><input type="checkbox" data-line="${e.line}" aria-label="Eintrag wählen" ${sel ? "checked" : ""}></td>` : ""}
           <td class="time">${dayLabel(e.day)} ${esc(e.time)}</td>
           <td><span class="badge ${K.cls}"><i>${K.icon}</i>${K.label}</span></td>
           <td>${esc(e.beitrag || "–")}</td>
           <td>${esc(PLATFORMS[e.platform]?.label || "–")}</td>
-          <td class="details">${esc(e.kind === "fail" || e.kind === "skip" ? errorCategory(e) : e.details)}</td></tr>`; }).join("") : `<tr><td colspan="5" class="empty">Keine Einträge.</td></tr>`}</tbody>
+          <td class="details">${esc(e.kind === "fail" || e.kind === "skip" ? errorCategory(e) : e.details)}</td></tr>`; }).join("") : `<tr><td colspan="${admin ? 6 : 5}" class="empty">Keine Einträge.</td></tr>`}</tbody>
       </table></div>
       ${rows.length > t.limit ? `<button class="icon-btn more" id="tMore">${fmtInt(Math.min(100, rows.length - t.limit))} weitere anzeigen</button>` : ""}`;
-    $("#tKind", el).addEventListener("change", (ev) => { t.kind = ev.target.value; t.limit = 100; viewLog(buildCtx(), el); });
+    const redraw = () => viewLog(buildCtx(), el);
+    $("#tKind", el).addEventListener("change", (ev) => { t.kind = ev.target.value; t.limit = 100; redraw(); });
     const qi = $("#tQ", el);
     let timer;
-    qi.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(() => { t.q = qi.value; t.limit = 100; viewLog(buildCtx(), el); const n = $("#tQ", el); n.focus(); n.setSelectionRange(n.value.length, n.value.length); }, 200); });
-    $("#tMore", el)?.addEventListener("click", () => { t.limit += 100; viewLog(buildCtx(), el); });
+    qi.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(() => { t.q = qi.value; t.limit = 100; redraw(); const n = $("#tQ", el); n.focus(); n.setSelectionRange(n.value.length, n.value.length); }, 200); });
+    $("#tMore", el)?.addEventListener("click", () => { t.limit += 100; redraw(); });
+    if (!admin) return;
+    const pick = (e, on) => { if (on) state.selected.set(e.line, state.lines[e.line]); else state.selected.delete(e.line); };
+    el.querySelector("tbody").addEventListener("change", (ev) => {
+      const cb = ev.target.closest("input[data-line]"); if (!cb) return;
+      const e = shown.find((x) => x.line === Number(cb.dataset.line)); if (e) pick(e, cb.checked);
+      redraw();
+    });
+    $("#tSelShown", el).addEventListener("change", (ev) => { shown.forEach((e) => pick(e, ev.target.checked)); redraw(); });
+    $("#tSelAll", el).addEventListener("click", () => { rows.forEach((e) => pick(e, true)); redraw(); });
+    $("#tSelNone", el).addEventListener("click", () => { state.selected.clear(); redraw(); });
+    $("#tDelete", el).addEventListener("click", openDeleteDialog);
+  }
+
+  // Änderungs-Historie: jede Löschung mit Zeit, Benutzer, Grund und den vollständigen gelöschten Zeilen.
+  function viewHistory(ctx, el) {
+    const h = state.history;
+    const repo = state.admin?.repo || "";
+    const head = `<div class="card-head"><h2>Änderungs-Historie</h2><span class="card-note">${h ? `${fmtInt(h.length)} Änderungen · <a href="https://github.com/${esc(repo)}/commits/main/publisher/log_history.jsonl" target="_blank" rel="noopener">Verlauf auf GitHub</a>` : ""}</span></div>`;
+    if (!h) {
+      el.innerHTML = head + `<div class="state" style="padding:24px"><div class="spinner"></div>Historie wird geladen …</div>`;
+      loadHistory().then(() => viewHistory(buildCtx(), el)).catch((e) => { el.innerHTML = head + `<div class="empty">Historie konnte nicht geladen werden (${esc(e.message)}).</div>`; });
+      return;
+    }
+    el.innerHTML = head + (h.length ? `<div class="hist">${h.slice(0, 200).map((r, i) => `
+      <div class="hist-item" style="--i:${Math.min(i, 10)}">
+        <div class="hist-head"><b>✕ ${fmtInt(r.anzahl || 0)} ${r.anzahl === 1 ? "Eintrag" : "Einträge"} gelöscht</b>
+          <span>${esc(r.zeit)}</span><span class="card-note">von ${esc(r.benutzer)}</span>
+</div>
+        <div class="hist-reason">Grund: ${esc(r.grund || "–")}</div>
+        <details><summary>Gelöschte Einträge anzeigen</summary>
+          ${(r.eintraege || []).map((x) => `<pre>Zeile ${fmtInt(x.zeile)}: ${esc(x.text)}</pre>`).join("")}
+        </details>
+      </div>`).join("")}</div>` : `<div class="empty">Noch keine Änderungen.</div>`);
+  }
+
+  async function loadHistory() {
+    const res = await fetch(API.history, { cache: "no-store", credentials: "same-origin" });
+    if (res.status === 401) { toLogin(); throw new Error("nicht angemeldet"); }
+    const data = await res.json().catch(() => ({}));
+    if (!res.ok) throw new Error(data.error || "HTTP " + res.status);
+    state.history = data.eintraege || [];
   }
 
   // ---------------------------------------------------------------- Rendern
@@ -556,16 +617,16 @@
     const ctx = buildCtx();
     const app = $("#app");
     if (full || !app.querySelector(".kpis")) {
-      app.innerHTML = renderKpis(ctx) + `<div class="grid">${VIEWS.map((v, i) => `<section class="card span-${v.span}" style="--i:${i + 2}" id="v-${v.id}"></section>`).join("")}</div>`;
+      app.innerHTML = renderKpis(ctx) + `<div class="grid">${visibleViews().map((v, i) => `<section class="card span-${v.span}" style="--i:${i + 2}" id="v-${v.id}"></section>`).join("")}</div>`;
       app.querySelectorAll("[data-count]").forEach(countUp);
-      VIEWS.forEach((v) => v.render(ctx, $("#v-" + v.id)));
+      visibleViews().forEach((v) => v.render(ctx, $("#v-" + v.id)));
     } else {
       // Teil-Aktualisierung (z. B. Tag gewählt): Karten ohne Einblend-Animation neu zeichnen
       ["trend", "issues", "day"].forEach((id) => { const v = VIEWS.find((x) => x.id === id); const el = $("#v-" + id); el.style.animation = "none"; v.render(ctx, el); });
     }
     lastWidth = app.clientWidth;
     $("#stand").textContent = state.loadedAt ? state.loadedAt.toLocaleString("de-DE", { timeZone: TZ, dateStyle: "short", timeStyle: "short" }) : "–";
-    $("#srcInfo").textContent = `${fmtInt(state.events.length)} Protokolleinträge · Quelle: ${state.src.startsWith("http") ? "GitHub" : state.src}`;
+    $("#srcInfo").textContent = `${fmtInt(state.events.length)} Protokolleinträge · Quelle: ${state.admin ? "GitHub (angemeldet)" : state.src.startsWith("http") ? "GitHub" : state.src}`;
   }
 
   window.addEventListener("resize", () => {
@@ -625,13 +686,15 @@
     const el = $("#v-log"); if (el) viewLog(buildCtx(), el);
   });
 
-  async function refresh(initial) {
+  async function refresh(initial, force) {
     const live = $("#live");
     try {
       const { text, src } = await loadLog();
       const events = parseLog(text);
+      state.lines = text.split("\n");
+      for (const [line, raw] of state.selected) if (state.lines[line] !== raw) state.selected.delete(line);
       const before = initial ? Number(store("seenLines") || 0) : state.events.length;
-      const changed = initial || events.length !== state.events.length;
+      const changed = initial || force || events.length !== state.events.length;
       state.events = events;
       state.src = src;
       state.loadedAt = new Date();
@@ -652,9 +715,95 @@
     }
   }
 
+  // ---------------------------------------------------------------- 7. Verwaltung (nur mit Backend-Anmeldung)
+  function toLogin() {
+    location.replace("/login?next=" + encodeURIComponent(location.pathname + location.search));
+  }
+
+  // Wird die Seite vom Backend ausgeliefert, liefert /api/me den angemeldeten Benutzer.
+  // Auf einer statischen Seite (lokal) gibt es /api/me nicht: dann nur Anzeige, keine Verwaltung.
+  async function detectAdmin() {
+    if (params.get("src")) return;
+    try {
+      const res = await fetch(API.me, { cache: "no-store", credentials: "same-origin" });
+      if (res.status === 401) { toLogin(); return new Promise(() => {}); }
+      if (!res.ok || !(res.headers.get("Content-Type") || "").includes("json")) return;
+      state.admin = await res.json();
+      SOURCES = [API.log];
+      const chip = document.createElement("span");
+      chip.className = "user-chip";
+      chip.innerHTML = `👤 ${esc(state.admin.user)}`;
+      const out = document.createElement("button");
+      out.className = "icon-btn"; out.id = "btnLogout"; out.textContent = "Abmelden";
+      out.addEventListener("click", async () => {
+        try { await fetch(API.logout, { method: "POST", credentials: "same-origin" }); } catch (e) { /* trotzdem weiter */ }
+        location.replace("/login");
+      });
+      $(".filters").append(chip, out);
+      // Sitzung läuft ab: rechtzeitig zur Anmeldung
+      const ms = state.admin.exp * 1000 - Date.now();
+      if (ms > 0) setTimeout(toLogin, Math.min(ms, 2147483647));
+    } catch (e) { /* kein Backend erreichbar: statischer Modus */ }
+  }
+
+  function toast(msg) {
+    document.querySelectorAll(".toast").forEach((t) => t.remove());
+    const t = document.createElement("div");
+    t.className = "toast"; t.setAttribute("role", "status"); t.textContent = msg;
+    document.body.appendChild(t);
+    setTimeout(() => t.remove(), 6000);
+  }
+
+  function openDeleteDialog() {
+    const sel = [...state.selected.entries()].sort((a, b) => a[0] - b[0]);
+    if (!sel.length) return;
+    const byLine = new Map(state.events.map((e) => [e.line, e]));
+    const dlg = document.createElement("dialog");
+    dlg.className = "modal";
+    dlg.innerHTML = `<form method="dialog">
+      <h2>${fmtInt(sel.length)} ${sel.length === 1 ? "Eintrag" : "Einträge"} löschen?</h2>
+      <div class="card-note">Die Zeilen werden aus publisher/log.jsonl entfernt (ein Commit im Repo). Sie bleiben vollständig in der Änderungs-Historie erhalten.</div>
+      <div class="modal-list">${sel.slice(0, 50).map(([line]) => { const e = byLine.get(line); return `<div>${e ? `${dayLabel(e.day)} ${esc(e.time)} · ${esc(EVENT_KINDS[e.kind].label)} · ${esc(e.beitrag || e.details)}` : "Zeile " + (line + 1)}</div>`; }).join("")}${sel.length > 50 ? `<div>… und ${fmtInt(sel.length - 50)} weitere</div>` : ""}</div>
+      <label class="card-note" for="delReason">Grund (steht in der Historie)</label>
+      <textarea id="delReason" maxlength="500" required placeholder="z. B. Testeinträge entfernen"></textarea>
+      <div class="login-error" id="delErr" role="alert"></div>
+      <div class="modal-actions"><button class="icon-btn" value="cancel" formnovalidate>Abbrechen</button><button class="btn-danger" id="delGo" value="ok">Endgültig löschen</button></div>
+    </form>`;
+    document.body.appendChild(dlg);
+    dlg.addEventListener("close", () => dlg.remove());
+    const go = $("#delGo", dlg);
+    $("#delReason", dlg).addEventListener("input", () => { $("#delErr", dlg).textContent = ""; });
+    go.addEventListener("click", async (ev) => {
+      ev.preventDefault();
+      const reason = $("#delReason", dlg).value.trim();
+      if (!reason) { $("#delErr", dlg).textContent = "Bitte einen Grund angeben."; return; }
+      go.disabled = true; go.textContent = "Lösche …";
+      try {
+        const res = await fetch(API.del, {
+          method: "POST", credentials: "same-origin",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ reason, entries: sel.map(([line, text]) => ({ line, text })) }),
+        });
+        if (res.status === 401) { toLogin(); return; }
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok) throw new Error(data.error || "HTTP " + res.status);
+        state.selected.clear();
+        state.history = null;
+        store("seenLines", Math.max(0, Number(store("seenLines") || 0) - data.anzahl));
+        dlg.close();
+        toast(`${fmtInt(data.anzahl)} ${data.anzahl === 1 ? "Eintrag" : "Einträge"} gelöscht und in der Historie vermerkt.`);
+        await refresh(false, true);
+      } catch (e) {
+        $("#delErr", dlg).textContent = e.message;
+        go.disabled = false; go.textContent = "Endgültig löschen";
+      }
+    });
+    dlg.showModal();
+  }
+
   bindSeg("#fRange", "range");
   bindSeg("#fPlat", "platform");
-  $("#btnRefresh").addEventListener("click", () => refresh(false));
-  refresh(true);
+  $("#btnRefresh").addEventListener("click", () => { state.history = null; refresh(false, true); });
+  detectAdmin().then(() => refresh(true));
   setInterval(() => { if (!document.hidden) refresh(false); }, REFRESH_MS);
 })();
