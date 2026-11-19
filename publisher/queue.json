@@ -7405,10 +7405,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1548-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1548-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T18:53:02+01:00",
     "titel": "بوتافوغو يخسر برباعية أمام كورينثيانز وزياش يدخل بديلا",
-    "quelle_url": "https://ar.sport.le360.ma/football/NXRFSIEH2ZFRXHTH7JKMXOLSOM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/NXRFSIEH2ZFRXHTH7JKMXOLSOM/",
+    "meta_id": "1392090913000318",
+    "published_at": "2026-11-19T18:50:40.635183+00:00"
   },
   {
     "id": "20261119-1548-1-ig-reel",
@@ -7417,10 +7419,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1548-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1548-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T18:53:02+01:00",
     "titel": "بوتافوغو يخسر برباعية أمام كورينثيانز وزياش يدخل بديلا",
-    "quelle_url": "https://ar.sport.le360.ma/football/NXRFSIEH2ZFRXHTH7JKMXOLSOM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/NXRFSIEH2ZFRXHTH7JKMXOLSOM/",
+    "meta_id": "18100988321445313",
+    "published_at": "2026-11-19T18:50:40.635183+00:00"
   },
   {
     "id": "20261119-1548-1-ig-story",
@@ -7465,10 +7469,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1548-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1548-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T18:53:02+01:00",
     "titel": "الرجاء يبرمج مباراة ودية أمام اتحاد طنجة قبل مواجهة أسكو دي كارا",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/Z2IVKILV3JBIZHRNHCGOBUSK5Y/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/Z2IVKILV3JBIZHRNHCGOBUSK5Y/",
+    "meta_id": "1783123022783329",
+    "published_at": "2026-11-19T18:50:40.635183+00:00"
   },
   {
     "id": "20261119-1548-2-ig-reel",
@@ -7477,10 +7483,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1548-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1548-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T18:53:02+01:00",
     "titel": "الرجاء يبرمج مباراة ودية أمام اتحاد طنجة قبل مواجهة أسكو دي كارا",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/Z2IVKILV3JBIZHRNHCGOBUSK5Y/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/Z2IVKILV3JBIZHRNHCGOBUSK5Y/",
+    "meta_id": "18135373636766267",
+    "published_at": "2026-11-19T18:50:40.635183+00:00"
   },
   {
     "id": "20261119-1548-2-ig-story",
@@ -7620,9 +7628,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/zemrat-20261119-1950-fb.jpg",
     "caption": "أعلن فريق اتحاد تواركة رسميا تعاقده مع المدرب عبد الواحد زمرات لقيادة الفريق في البطولة برو.\n\nيأتي القرار بعد إنهاء الارتباط مع المدرب غوغلييلمو أرينا بالتراضي.\n\nوأوضح مكتب النادي أن الاختيار وقع على زمرات لكفاءته ومعرفته بالفريق، من أجل ضمان الاستقرار التقني ومواصلة المشروع الرياضي.\n\nكيف تقيمون هذا التعاقد؟\n\n#اتحاد_تواركة #البطولة_برو #زمرات",
-    "status": "now",
+    "status": "published",
     "titel": "اتحاد تواركة يتعاقد رسميا مع المدرب عبد الواحد زمرات",
-    "quelle_url": "https://ar.sport.le360.ma/football/3VJ46IGL6NHXNBL4CYKBAN25L4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/3VJ46IGL6NHXNBL4CYKBAN25L4/",
+    "meta_id": "122225390954577271",
+    "published_at": "2026-11-19T18:50:40.635183+00:00"
   },
   {
     "id": "20261119-1950-1-ig-feed",
@@ -7630,9 +7640,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/zemrat-20261119-1950-ig.jpg",
     "caption": "🔥 زمرات مدربا جديدا لاتحاد تواركة!\n\nالنادي حسم الأمر رسميا بعد الانفصال بالتراضي عن غوغلييلمو أرينا ⚽\n\nإدارة الفريق اختارت زمرات لمعرفته بالفريق ولتحقيق الاستقرار التقني 📋\n\nهل ينجح المدرب الجديد في مهمته؟\n\n#اتحاد_تواركة #البطولة_برو #زمرات #كرة_القدم #المغرب",
-    "status": "now",
+    "status": "published",
     "titel": "اتحاد تواركة يتعاقد رسميا مع المدرب عبد الواحد زمرات",
-    "quelle_url": "https://ar.sport.le360.ma/football/3VJ46IGL6NHXNBL4CYKBAN25L4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/3VJ46IGL6NHXNBL4CYKBAN25L4/",
+    "meta_id": "18380724076301313",
+    "published_at": "2026-11-19T18:50:40.635183+00:00"
   },
   {
     "id": "20261119-1950-1-fb-reel",
@@ -7664,9 +7676,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1950-1-reel-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "اتحاد تواركة يتعاقد رسميا مع المدرب عبد الواحد زمرات",
-    "quelle_url": "https://ar.sport.le360.ma/football/3VJ46IGL6NHXNBL4CYKBAN25L4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/3VJ46IGL6NHXNBL4CYKBAN25L4/",
+    "meta_id": "17992283460114007",
+    "published_at": "2026-11-19T18:50:40.635183+00:00"
   },
   {
     "id": "20261119-1950-2-fb-feed",
@@ -7674,9 +7688,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/amputee-20261119-1950-fb.jpg",
     "caption": "يخوض المنتخب المغربي لمبتوري الأطراف اليوم الخميس ربع نهائي كأس العالم بالمكسيك أمام وصيف بطل العالم، على الساعة 22:00.\n\nوكان الأسود قد أنهوا دور المجموعات دون هزيمة بعد الفوز على الأوروغواي والولايات المتحدة وأوزبكستان، قبل أن يتجاوزوا إيطاليا ويبلغوا الدور ربع النهائي.\n\nما توقعاتكم لهذه المواجهة؟\n\n#مبتورو_الأطراف #المنتخب_المغربي #كأس_العالم",
-    "status": "now",
+    "status": "published",
     "titel": "الأسود لمبتوري الأطراف أمام وصيف العالم في ربع نهائي المونديال",
-    "quelle_url": "https://ar.sport.le360.ma/football/PVGAL6DD65HZRBOQU6H7D66KBI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/PVGAL6DD65HZRBOQU6H7D66KBI/",
+    "meta_id": "122225391104577271",
+    "published_at": "2026-11-19T18:50:40.635183+00:00"
   },
   {
     "id": "20261119-1950-2-ig-feed",
@@ -7684,9 +7700,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/amputee-20261119-1950-ig.jpg",
     "caption": "🦁 موعد مهم لأسود الأطلس في المكسيك!\n\nالمنتخب المغربي لمبتوري الأطراف يواجه وصيف العالم في ربع النهائي اليوم على الساعة 22:00 ⚽\n\nالمسار حتى الآن: دور مجموعات بلا هزيمة ثم الفوز على إيطاليا 💪\n\nمن سيعبر إلى نصف النهائي؟\n\n#مبتورو_الأطراف #المنتخب_المغربي #كأس_العالم #أسود_الأطلس #المكسيك",
-    "status": "now",
+    "status": "published",
     "titel": "الأسود لمبتوري الأطراف أمام وصيف العالم في ربع نهائي المونديال",
-    "quelle_url": "https://ar.sport.le360.ma/football/PVGAL6DD65HZRBOQU6H7D66KBI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/PVGAL6DD65HZRBOQU6H7D66KBI/",
+    "meta_id": "18232840180333391",
+    "published_at": "2026-11-19T18:50:40.635183+00:00"
   },
   {
     "id": "20261119-1950-2-fb-reel",
@@ -7718,8 +7736,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1950-2-reel-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الأسود لمبتوري الأطراف أمام وصيف العالم في ربع نهائي المونديال",
-    "quelle_url": "https://ar.sport.le360.ma/football/PVGAL6DD65HZRBOQU6H7D66KBI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/PVGAL6DD65HZRBOQU6H7D66KBI/",
+    "meta_id": "18161773063509431",
+    "published_at": "2026-11-19T18:50:40.635183+00:00"
   }
 ]
