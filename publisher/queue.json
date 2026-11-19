@@ -7877,5 +7877,59 @@
     "quelle_url": "https://ar.sport.le360.ma/football/267E7EJCMNGHBCX4XJD5L5MFPQ/",
     "meta_id": "18015264852002765",
     "published_at": "2026-11-19T20:52:04.397321+00:00"
+  },
+  {
+    "id": "20261119-2348-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/diaz-20261119-2348-fb.jpg",
+    "caption": "كشفت تقارير إعلامية ترتيب إبراهيم دياز في سلم رواتب ريال مدريد لموسم 2026.\n\nيتقاضى اللاعب المغربي نحو 118 ألف و599 أورو في الأسبوع، ما يضعه في المركز 21 داخل قائمة الفريق الملكي.\n\nويرتبط دياز بعقد مع النادي إلى غاية يونيو 2027، بينما يتصدر كيليان مبابي وفينيسيوس جونيور القائمة بنحو 508 آلاف و399 أورو أسبوعيا.\n\nويتقاضى ستة لاعبين أقل منه، من بينهم لونين وإندريك وكارلوس ألفاريز.\n\nكيف تقيّمون مكانة دياز داخل تشكيلة ريال مدريد؟\n\n#إبراهيم_دياز #ريال_مدريد #الأسود",
+    "status": "now",
+    "titel": "إبراهيم دياز في المرتبة 21 بسلم رواتب ريال مدريد",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/D4NNRA7CMJANHAQFQ4N277PTYM/"
+  },
+  {
+    "id": "20261119-2348-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/diaz-20261119-2348-ig.jpg",
+    "caption": "💰 رقم لافت في سلم رواتب ريال مدريد!\n\nإبراهيم دياز يحتل المركز 21 بنحو 118 ألف و599 أورو أسبوعيا ⚽\n\nعقده ممتد إلى يونيو 2027، بينما يتربع مبابي وفينيسيوس على القمة بنحو 508 آلاف أورو 🔝\n\nوستة لاعبين يتقاضون أقل منه في الفريق الملكي 🤍\n\n#إبراهيم_دياز #ريال_مدريد #الأسود #المحترفون_المغاربة #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "إبراهيم دياز في المرتبة 21 بسلم رواتب ريال مدريد",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/D4NNRA7CMJANHAQFQ4N277PTYM/"
+  },
+  {
+    "id": "20261119-2348-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-2348-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-2348-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-20T02:50:05+01:00",
+    "titel": "إبراهيم دياز في المرتبة 21 بسلم رواتب ريال مدريد",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/D4NNRA7CMJANHAQFQ4N277PTYM/"
+  },
+  {
+    "id": "20261119-2348-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-2348-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-2348-1.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-20T02:50:05+01:00",
+    "titel": "إبراهيم دياز في المرتبة 21 بسلم رواتب ريال مدريد",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/D4NNRA7CMJANHAQFQ4N277PTYM/"
+  },
+  {
+    "id": "20261119-2348-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-2348-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "إبراهيم دياز في المرتبة 21 بسلم رواتب ريال مدريد",
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/D4NNRA7CMJANHAQFQ4N277PTYM/"
   }
 ]
