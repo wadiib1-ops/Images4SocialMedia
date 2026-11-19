@@ -7533,10 +7533,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1747-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1747-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T20:50:27+01:00",
     "titel": "الركراكي يقترب من تدريب المنتخب القطري",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/JTXYLRNGUJBE3OLFPPSQZBDMVE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/JTXYLRNGUJBE3OLFPPSQZBDMVE/",
+    "meta_id": "1093046157103417",
+    "published_at": "2026-11-19T20:45:22.842170+00:00"
   },
   {
     "id": "20261119-1747-1-ig-reel",
@@ -7545,10 +7547,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1747-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1747-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T20:50:27+01:00",
     "titel": "الركراكي يقترب من تدريب المنتخب القطري",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/JTXYLRNGUJBE3OLFPPSQZBDMVE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/JTXYLRNGUJBE3OLFPPSQZBDMVE/",
+    "meta_id": "18117645458123791",
+    "published_at": "2026-11-19T20:45:22.842170+00:00"
   },
   {
     "id": "20261119-1747-1-ig-story",
@@ -7593,10 +7597,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1747-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1747-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T20:50:27+01:00",
     "titel": "حجي مرشح لمنصب مدير تقني في الاتحاد المالي",
-    "quelle_url": "https://ar.sport.le360.ma/football/ARV6N2NBONEZTCGYBLQE44FAZI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ARV6N2NBONEZTCGYBLQE44FAZI/",
+    "meta_id": "4303234669957664",
+    "published_at": "2026-11-19T20:45:22.842170+00:00"
   },
   {
     "id": "20261119-1747-2-ig-reel",
@@ -7605,10 +7611,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1747-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1747-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T20:50:27+01:00",
     "titel": "حجي مرشح لمنصب مدير تقني في الاتحاد المالي",
-    "quelle_url": "https://ar.sport.le360.ma/football/ARV6N2NBONEZTCGYBLQE44FAZI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ARV6N2NBONEZTCGYBLQE44FAZI/",
+    "meta_id": "18110318287965375",
+    "published_at": "2026-11-19T20:45:22.842170+00:00"
   },
   {
     "id": "20261119-1747-2-ig-story",
