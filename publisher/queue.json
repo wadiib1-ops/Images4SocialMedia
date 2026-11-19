@@ -7021,10 +7021,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-0946-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-0946-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T12:49:00+01:00",
     "titel": "بركان يكتسح مولودية وجدة وديا بثلاثية",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/VPJARVLLDFHSFGRRPUSQPKOJBE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/VPJARVLLDFHSFGRRPUSQPKOJBE/",
+    "meta_id": "1186434090732222",
+    "published_at": "2026-11-19T12:46:45.035069+00:00"
   },
   {
     "id": "20261119-0946-1-ig-reel",
@@ -7033,10 +7035,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-0946-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-0946-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T12:49:00+01:00",
     "titel": "بركان يكتسح مولودية وجدة وديا بثلاثية",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/VPJARVLLDFHSFGRRPUSQPKOJBE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/VPJARVLLDFHSFGRRPUSQPKOJBE/",
+    "meta_id": "18081717041548459",
+    "published_at": "2026-11-19T12:46:45.035069+00:00"
   },
   {
     "id": "20261119-0946-1-ig-story",
@@ -7081,10 +7085,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-0946-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-0946-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T12:49:00+01:00",
     "titel": "وهبي: المغرب مرجع عالمي في استقطاب مزدوجي الجنسية",
-    "quelle_url": "https://alomksport.com/110653.html"
+    "quelle_url": "https://alomksport.com/110653.html",
+    "meta_id": "2347612416055811",
+    "published_at": "2026-11-19T12:46:45.035069+00:00"
   },
   {
     "id": "20261119-0946-2-ig-reel",
@@ -7093,10 +7099,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-0946-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-0946-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T12:49:00+01:00",
     "titel": "وهبي: المغرب مرجع عالمي في استقطاب مزدوجي الجنسية",
-    "quelle_url": "https://alomksport.com/110653.html"
+    "quelle_url": "https://alomksport.com/110653.html",
+    "meta_id": "18173140846502504",
+    "published_at": "2026-11-19T12:46:45.035069+00:00"
   },
   {
     "id": "20261119-0946-2-ig-story",
