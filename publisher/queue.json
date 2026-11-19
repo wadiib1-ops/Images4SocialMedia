@@ -7661,10 +7661,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1950-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1950-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T22:50:26+01:00",
     "titel": "اتحاد تواركة يتعاقد رسميا مع المدرب عبد الواحد زمرات",
-    "quelle_url": "https://ar.sport.le360.ma/football/3VJ46IGL6NHXNBL4CYKBAN25L4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/3VJ46IGL6NHXNBL4CYKBAN25L4/",
+    "meta_id": "2357262564677939",
+    "published_at": "2026-11-19T22:04:08.945946+00:00"
   },
   {
     "id": "20261119-1950-1-ig-reel",
@@ -7673,10 +7675,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1950-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1950-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T22:50:26+01:00",
     "titel": "اتحاد تواركة يتعاقد رسميا مع المدرب عبد الواحد زمرات",
-    "quelle_url": "https://ar.sport.le360.ma/football/3VJ46IGL6NHXNBL4CYKBAN25L4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/3VJ46IGL6NHXNBL4CYKBAN25L4/",
+    "meta_id": "18065816372796485",
+    "published_at": "2026-11-19T22:04:08.945946+00:00"
   },
   {
     "id": "20261119-1950-1-ig-story",
@@ -7721,10 +7725,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1950-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1950-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T22:50:26+01:00",
     "titel": "الأسود لمبتوري الأطراف أمام وصيف العالم في ربع نهائي المونديال",
-    "quelle_url": "https://ar.sport.le360.ma/football/PVGAL6DD65HZRBOQU6H7D66KBI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/PVGAL6DD65HZRBOQU6H7D66KBI/",
+    "meta_id": "1136189305979180",
+    "published_at": "2026-11-19T22:04:08.945946+00:00"
   },
   {
     "id": "20261119-1950-2-ig-reel",
@@ -7733,10 +7739,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1950-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1950-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T22:50:26+01:00",
     "titel": "الأسود لمبتوري الأطراف أمام وصيف العالم في ربع نهائي المونديال",
-    "quelle_url": "https://ar.sport.le360.ma/football/PVGAL6DD65HZRBOQU6H7D66KBI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/PVGAL6DD65HZRBOQU6H7D66KBI/",
+    "meta_id": "18384767371215137",
+    "published_at": "2026-11-19T22:04:08.945946+00:00"
   },
   {
     "id": "20261119-1950-2-ig-story",
