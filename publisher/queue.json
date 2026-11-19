@@ -7277,10 +7277,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1355-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1355-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T16:54:23+01:00",
     "titel": "الأشبال يواجهون فيجي غدا في افتتاح مونديال قطر للناشئين",
-    "quelle_url": "https://ar.sport.le360.ma/football/747YRUQJUREKTECX3DMTQG7RVQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/747YRUQJUREKTECX3DMTQG7RVQ/",
+    "meta_id": "1032894483167982",
+    "published_at": "2026-11-19T16:46:25.478037+00:00"
   },
   {
     "id": "20261119-1355-1-ig-reel",
@@ -7289,10 +7291,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1355-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1355-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T16:54:23+01:00",
     "titel": "الأشبال يواجهون فيجي غدا في افتتاح مونديال قطر للناشئين",
-    "quelle_url": "https://ar.sport.le360.ma/football/747YRUQJUREKTECX3DMTQG7RVQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/747YRUQJUREKTECX3DMTQG7RVQ/",
+    "meta_id": "18135254539685104",
+    "published_at": "2026-11-19T16:46:25.478037+00:00"
   },
   {
     "id": "20261119-1355-1-ig-story",
@@ -7337,10 +7341,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1355-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1355-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T16:54:23+01:00",
     "titel": "الزاكي يؤكد ارتياحه في منصب مدرب الأردن بعد الفوز على أستراليا",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/W7EC7ZNAHBCBLNJB3PWK3UKAFM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/W7EC7ZNAHBCBLNJB3PWK3UKAFM/",
+    "meta_id": "1113784761476734",
+    "published_at": "2026-11-19T16:46:25.478037+00:00"
   },
   {
     "id": "20261119-1355-2-ig-reel",
@@ -7349,10 +7355,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261119-1355-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261119-1355-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-19T16:54:23+01:00",
     "titel": "الزاكي يؤكد ارتياحه في منصب مدرب الأردن بعد الفوز على أستراليا",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/W7EC7ZNAHBCBLNJB3PWK3UKAFM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/W7EC7ZNAHBCBLNJB3PWK3UKAFM/",
+    "meta_id": "17936683194417192",
+    "published_at": "2026-11-19T16:46:25.478037+00:00"
   },
   {
     "id": "20261119-1355-2-ig-story",
