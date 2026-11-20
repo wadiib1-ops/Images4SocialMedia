@@ -8237,10 +8237,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-1150-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-1150-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-20T14:51:17+01:00",
     "titel": "رحيمي يسجل ويقود العين للفوز على الظفرة",
-    "quelle_url": "https://ar.sport.le360.ma/football/H5KGWHHHXVC55MMNPQJDZEM4PU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/H5KGWHHHXVC55MMNPQJDZEM4PU/",
+    "meta_id": "3300666016989286",
+    "published_at": "2026-11-20T14:52:05.641276+00:00"
   },
   {
     "id": "20261120-1150-1-ig-reel",
@@ -8249,10 +8251,11 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-1150-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-1150-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "failed",
     "publish_at": "2026-11-20T14:51:17+01:00",
     "titel": "رحيمي يسجل ويقود العين للفوز على الظفرة",
-    "quelle_url": "https://ar.sport.le360.ma/football/H5KGWHHHXVC55MMNPQJDZEM4PU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/H5KGWHHHXVC55MMNPQJDZEM4PU/",
+    "error": "Meta-Fehler HTTP 500: {\"error\":{\"message\":\"An unexpected error has occurred. Please retry your request later.\",\"code\":2,\"type\":\"OAuthException\",\"is_transient\":true,\"fbtrace_id\":\"AIaYGhTK5c7veKLpEcNS50Y\"}}"
   },
   {
     "id": "20261120-1150-1-ig-story",
@@ -8297,10 +8300,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-1150-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-1150-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-20T14:51:17+01:00",
     "titel": "سبورتينغ لشبونة يكرم منصف زكري بعد أول مشاركة دولية",
-    "quelle_url": "https://ar.sport.le360.ma/football/autres-championnats/UNQBZZVFVNBKBNKELAOPOUTGR4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/autres-championnats/UNQBZZVFVNBKBNKELAOPOUTGR4/",
+    "meta_id": "1538467928107115",
+    "published_at": "2026-11-20T14:52:05.641276+00:00"
   },
   {
     "id": "20261120-1150-2-ig-reel",
@@ -8309,10 +8314,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-1150-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-1150-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-20T14:51:17+01:00",
     "titel": "سبورتينغ لشبونة يكرم منصف زكري بعد أول مشاركة دولية",
-    "quelle_url": "https://ar.sport.le360.ma/football/autres-championnats/UNQBZZVFVNBKBNKELAOPOUTGR4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/autres-championnats/UNQBZZVFVNBKBNKELAOPOUTGR4/",
+    "meta_id": "18097269068165081",
+    "published_at": "2026-11-20T14:52:05.641276+00:00"
   },
   {
     "id": "20261120-1150-2-ig-story",
@@ -8452,9 +8459,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mas-meknes-20261120-1547-fb.jpg",
     "caption": "حسم المغرب الفاسي ملعب مباراتيه القادمتين على أرضه في دور المجموعات من دوري أبطال إفريقيا.\n\nسيستقبل الفريق الهلال السوداني يوم 5 دجنبر، ثم حوريا كوناكري الغيني يوم 19 دجنبر، بالملعب الشرفي في مكناس.\n\nويلعب المغرب الفاسي في المجموعة الرابعة إلى جانب بيراميدز والهلال وحوريا.\n\nوسيسافر وفد الفريق إلى مصر يوم 25 نونبر لمواجهة بيراميدز، على أن يعود يوم 30 نونبر.\n\nكيف تقيمون حظوظ الفريق في هذه المجموعة؟\n\n#المغرب_الفاسي #دوري_أبطال_إفريقيا #مكناس",
-    "status": "now",
+    "status": "published",
     "titel": "المغرب الفاسي يحسم ملعب مباراتيه أمام الهلال وحوريا",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/MPHIUD24PVEX5FPTPGIIABO5YA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/MPHIUD24PVEX5FPTPGIIABO5YA/",
+    "meta_id": "122225489036577271",
+    "published_at": "2026-11-20T14:52:05.641276+00:00"
   },
   {
     "id": "20261120-1547-1-ig-feed",
@@ -8462,9 +8471,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mas-meknes-20261120-1547-ig.jpg",
     "caption": "🏟️ المغرب الفاسي يختار مكناس!\n\nعرف الفريق ملعب مباراتيه القادمتين في دوري أبطال إفريقيا: الملعب الشرفي بمدينة مكناس. 🏆\n\nالموعد الأول يوم 5 دجنبر أمام الهلال السوداني، والثاني يوم 19 دجنبر أمام حوريا كوناكري. 📅\n\nقبل ذلك، يسافر الوفد إلى مصر يوم 25 نونبر لملاقاة بيراميدز، ويعود يوم 30 منه. ✈️\n\n#المغرب_الفاسي #دوري_أبطال_إفريقيا #مكناس #كرة_القدم #الكاف",
-    "status": "now",
+    "status": "published",
     "titel": "المغرب الفاسي يحسم ملعب مباراتيه أمام الهلال وحوريا",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/MPHIUD24PVEX5FPTPGIIABO5YA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/MPHIUD24PVEX5FPTPGIIABO5YA/",
+    "meta_id": "17926000011222985",
+    "published_at": "2026-11-20T14:52:05.641276+00:00"
   },
   {
     "id": "20261120-1547-1-fb-reel",
@@ -8496,9 +8507,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-1547-1-reel-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "المغرب الفاسي يحسم ملعب مباراتيه أمام الهلال وحوريا",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/MPHIUD24PVEX5FPTPGIIABO5YA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/MPHIUD24PVEX5FPTPGIIABO5YA/",
+    "meta_id": "18100749869414532",
+    "published_at": "2026-11-20T14:52:05.641276+00:00"
   },
   {
     "id": "20261120-1547-2-fb-feed",
@@ -8506,9 +8519,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/raja-kandil-20261120-1547-fb.jpg",
     "caption": "يواجه مدرب الرجاء عبد الكريم الجيناني غيابات مؤثرة قبل مباراة أسكو كارا التوغولي يوم 27 نونبر في أولى جولات كأس الكونفدرالية.\n\nسيخضع قنديل لعملية جراحية هذا الأسبوع بعدما تفاقمت إصابته، وقد يغيب مدة تصل إلى شهرين.\n\nكما سيغيب محمد المكعازي نحو 20 يوما.\n\nفي المقابل، تعافى يونس باكيز ومنعم الإدريسي وبلال ولد الشيخ من إصاباتهم وقد يعودون إلى المجموعة.\n\nكيف تقيمون استعدادات الفريق لهذه المباراة؟\n\n#الرجاء #كأس_الكونفدرالية #الجيناني",
-    "status": "now",
+    "status": "published",
     "titel": "غيابات مؤثرة للرجاء قبل مواجهة أسكو كارا",
-    "quelle_url": "https://ar.sport.le360.ma/football/coupe-caf/Q346O63RLNAIVDKPHKAM4SSRD4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/coupe-caf/Q346O63RLNAIVDKPHKAM4SSRD4/",
+    "meta_id": "122225489210577271",
+    "published_at": "2026-11-20T14:52:05.641276+00:00"
   },
   {
     "id": "20261120-1547-2-ig-feed",
@@ -8516,9 +8531,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/raja-kandil-20261120-1547-ig.jpg",
     "caption": "🚨 ضربة جديدة للرجاء قبل أسكو كارا!\n\nقنديل سيخضع لعملية جراحية هذا الأسبوع، وقد يغيب شهرين بعدما تفاقمت إصابته. 🏥\n\nالمكعازي بدوره خارج الحسابات نحو 20 يوما. ⏳\n\nوفي الجهة الأخرى، عودة محتملة لباكيز والإدريسي وولد الشيخ بعد التعافي. 💪\n\nموعد المباراة: 27 نونبر في الجولة الأولى من كأس الكونفدرالية. ⚽\n\n#الرجاء #كأس_الكونفدرالية #الجيناني #أسكو_كارا #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "غيابات مؤثرة للرجاء قبل مواجهة أسكو كارا",
-    "quelle_url": "https://ar.sport.le360.ma/football/coupe-caf/Q346O63RLNAIVDKPHKAM4SSRD4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/coupe-caf/Q346O63RLNAIVDKPHKAM4SSRD4/",
+    "meta_id": "18101399855388573",
+    "published_at": "2026-11-20T14:52:05.641276+00:00"
   },
   {
     "id": "20261120-1547-2-fb-reel",
@@ -8550,8 +8567,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-1547-2-reel-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "غيابات مؤثرة للرجاء قبل مواجهة أسكو كارا",
-    "quelle_url": "https://ar.sport.le360.ma/football/coupe-caf/Q346O63RLNAIVDKPHKAM4SSRD4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/coupe-caf/Q346O63RLNAIVDKPHKAM4SSRD4/",
+    "meta_id": "18092433302269258",
+    "published_at": "2026-11-20T14:52:05.641276+00:00"
   }
 ]
