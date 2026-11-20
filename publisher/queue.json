@@ -7981,10 +7981,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-0747-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-0747-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-20T10:50:49+01:00",
     "titel": "مبتورو الأطراف يتأهلون إلى نصف نهائي المونديال بعد الفوز على أنغولا",
-    "quelle_url": "https://ar.sport.le360.ma/football/7ZAQD445EBCF7E7TZD7KBDZHZQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/7ZAQD445EBCF7E7TZD7KBDZHZQ/",
+    "meta_id": "1078526171865709",
+    "published_at": "2026-11-20T10:46:26.834576+00:00"
   },
   {
     "id": "20261120-0747-1-ig-reel",
@@ -7993,10 +7995,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-0747-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-0747-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-20T10:50:49+01:00",
     "titel": "مبتورو الأطراف يتأهلون إلى نصف نهائي المونديال بعد الفوز على أنغولا",
-    "quelle_url": "https://ar.sport.le360.ma/football/7ZAQD445EBCF7E7TZD7KBDZHZQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/7ZAQD445EBCF7E7TZD7KBDZHZQ/",
+    "meta_id": "18391931797234976",
+    "published_at": "2026-11-20T10:46:26.834576+00:00"
   },
   {
     "id": "20261120-0747-1-ig-story",
@@ -8041,10 +8045,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-0747-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-0747-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-20T10:50:49+01:00",
     "titel": "عبد الله وزان يلفت أنظار الإعلام الفرنسي بعد هدفه أمام النيجر",
-    "quelle_url": "https://ar.sport.le360.ma/football/FTM6QHKY7RDOJN65XHVVKVC5TY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/FTM6QHKY7RDOJN65XHVVKVC5TY/",
+    "meta_id": "1188828546830670",
+    "published_at": "2026-11-20T10:46:26.834576+00:00"
   },
   {
     "id": "20261120-0747-2-ig-reel",
@@ -8053,10 +8059,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-0747-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-0747-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-20T10:50:49+01:00",
     "titel": "عبد الله وزان يلفت أنظار الإعلام الفرنسي بعد هدفه أمام النيجر",
-    "quelle_url": "https://ar.sport.le360.ma/football/FTM6QHKY7RDOJN65XHVVKVC5TY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/FTM6QHKY7RDOJN65XHVVKVC5TY/",
+    "meta_id": "18155829229540270",
+    "published_at": "2026-11-20T10:46:26.834576+00:00"
   },
   {
     "id": "20261120-0747-2-ig-story",
