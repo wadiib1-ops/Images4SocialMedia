@@ -8669,10 +8669,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-1750-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-1750-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-20T20:53:27+01:00",
     "titel": "باريس سان جيرمان يفتح مفاوضات التمديد مع حكيمي",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/XXC2R7N7F5HVDABQPRVWQK2CXI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/XXC2R7N7F5HVDABQPRVWQK2CXI/",
+    "meta_id": "1220373286983349",
+    "published_at": "2026-11-20T20:24:31.762656+00:00"
   },
   {
     "id": "20261120-1750-1-ig-reel",
@@ -8681,10 +8683,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-1750-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-1750-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-20T20:53:27+01:00",
     "titel": "باريس سان جيرمان يفتح مفاوضات التمديد مع حكيمي",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/XXC2R7N7F5HVDABQPRVWQK2CXI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/XXC2R7N7F5HVDABQPRVWQK2CXI/",
+    "meta_id": "18113019218574405",
+    "published_at": "2026-11-20T20:24:31.762656+00:00"
   },
   {
     "id": "20261120-1750-1-ig-story",
@@ -8729,10 +8733,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-1750-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-1750-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-20T20:53:27+01:00",
     "titel": "المغرب يواجه البرازيل الليلة في نصف نهائي مونديال مبتوري الأطراف",
-    "quelle_url": "https://ar.sport.le360.ma/football/H5USACKIKZEBFJXXME72IAPMNQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/H5USACKIKZEBFJXXME72IAPMNQ/",
+    "meta_id": "2191092055089360",
+    "published_at": "2026-11-20T20:24:31.762656+00:00"
   },
   {
     "id": "20261120-1750-2-ig-reel",
@@ -8741,10 +8747,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-1750-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-1750-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-20T20:53:27+01:00",
     "titel": "المغرب يواجه البرازيل الليلة في نصف نهائي مونديال مبتوري الأطراف",
-    "quelle_url": "https://ar.sport.le360.ma/football/H5USACKIKZEBFJXXME72IAPMNQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/H5USACKIKZEBFJXXME72IAPMNQ/",
+    "meta_id": "17967904878218188",
+    "published_at": "2026-11-20T20:24:31.762656+00:00"
   },
   {
     "id": "20261120-1750-2-ig-story",
