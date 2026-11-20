@@ -8875,5 +8875,27 @@
     "titel": "تعليق البطولة الاحترافية النسوية بعد الجولة السادسة",
     "quelle_url": "https://ar.sport.le360.ma/football/T26HGYWFGFC6BPP2JQABEYCEJE/",
     "error": "Instagram-Verarbeitung: ERROR (Error: Media upload has failed with error code 2207076)"
+  },
+  {
+    "id": "20261120-1948-1-ig-story-b",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-1948-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "المغرب يكتسح فيجي 6-0 في مونديال الناشئين",
+    "quelle_url": "https://ar.sport.le360.ma/football/WHSVIL4SG5BI5IUJVRWFNMSHVU/",
+    "error": "Instagram-Verarbeitung: ERROR (Error: Media upload has failed with error code 2207076)"
+  },
+  {
+    "id": "20261120-1948-2-ig-story-b",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-1948-2-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "تعليق البطولة الاحترافية النسوية بعد الجولة السادسة",
+    "quelle_url": "https://ar.sport.le360.ma/football/T26HGYWFGFC6BPP2JQABEYCEJE/",
+    "error": "Instagram-Verarbeitung: ERROR (Error: Media upload has failed with error code 2207076)"
   }
 ]
