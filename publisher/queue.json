@@ -9394,10 +9394,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261121-1145-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261121-1145-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-21T14:50:44+01:00",
     "titel": "الجيش الملكي يمدد عقد يوسف الفحلي حتى صيف 2029",
-    "quelle_url": "https://alomksport.com/110724.html"
+    "quelle_url": "https://alomksport.com/110724.html",
+    "meta_id": "1217267727493651",
+    "published_at": "2026-11-21T14:52:52.203522+00:00"
   },
   {
     "id": "20261121-1145-1-ig-reel",
@@ -9406,10 +9408,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261121-1145-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261121-1145-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-21T14:50:44+01:00",
     "titel": "الجيش الملكي يمدد عقد يوسف الفحلي حتى صيف 2029",
-    "quelle_url": "https://alomksport.com/110724.html"
+    "quelle_url": "https://alomksport.com/110724.html",
+    "meta_id": "18083406101380714",
+    "published_at": "2026-11-21T14:52:52.203522+00:00"
   },
   {
     "id": "20261121-1145-1-ig-story",
@@ -9454,10 +9458,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261121-1145-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261121-1145-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-21T14:50:44+01:00",
     "titel": "ريال مدريد يقترب من تمديد عقد إبراهيم دياز حتى 2031",
-    "quelle_url": "https://alomksport.com/110713.html"
+    "quelle_url": "https://alomksport.com/110713.html",
+    "meta_id": "3169341770090806",
+    "published_at": "2026-11-21T14:52:52.203522+00:00"
   },
   {
     "id": "20261121-1145-2-ig-reel",
@@ -9466,10 +9472,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261121-1145-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261121-1145-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-21T14:50:44+01:00",
     "titel": "ريال مدريد يقترب من تمديد عقد إبراهيم دياز حتى 2031",
-    "quelle_url": "https://alomksport.com/110713.html"
+    "quelle_url": "https://alomksport.com/110713.html",
+    "meta_id": "17922120027465545",
+    "published_at": "2026-11-21T14:52:52.203522+00:00"
   },
   {
     "id": "20261121-1145-2-ig-story",
@@ -9609,9 +9617,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261121-1546-1-fb.jpg",
     "caption": "اختير عبد الله وزان، لاعب أياكس أمستردام، فائزا بجائزة هدف الشهر عن أكتوبر\n\nوكان وزان سجل هدف الفوز 1-0 على النيجر في الرباط يوم 18 نوفمبر\n\nوضمن الهدف للأسود التأهل إلى كأس إفريقيا 2027\n\nوأصبح بذلك أصغر لاعب يسجل لمنتخب المغرب في مباراة رسمية في هذا القرن\n\nكيف تقيمون مسيرة عبد الله وزان حتى الآن؟\n\n#عبد_الله_وزان #أسود_الأطلس #أياكس",
-    "status": "now",
+    "status": "published",
     "titel": "وزان يتوج بجائزة هدف الشهر في أياكس",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/7FT3DXJ7XFBWDMO65ILQ4NAPCA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/7FT3DXJ7XFBWDMO65ILQ4NAPCA/",
+    "meta_id": "122225627618577271",
+    "published_at": "2026-11-21T14:52:52.203522+00:00"
   },
   {
     "id": "20261121-1546-1-ig-feed",
@@ -9619,9 +9629,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261121-1546-1-ig.jpg",
     "caption": "⚽ موهبة مغربية تتألق في هولندا!\n\nعبد الله وزان يحصد جائزة هدف الشهر عن أكتوبر مع أياكس أمستردام 🏆\n\nاللاعب الشاب نفسه سجل هدف التأهل أمام النيجر (1-0) في الرباط يوم 18 نوفمبر، وصار أصغر هداف رسمي للأسود في هذا القرن 🦁\n\nما أبرز نقطة قوة في لعب وزان برأيكم؟\n\n#وزان #أياكس #أسود_الأطلس #المنتخب_المغربي #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "وزان يتوج بجائزة هدف الشهر في أياكس",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/7FT3DXJ7XFBWDMO65ILQ4NAPCA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/7FT3DXJ7XFBWDMO65ILQ4NAPCA/",
+    "meta_id": "18129847951883210",
+    "published_at": "2026-11-21T14:52:52.203522+00:00"
   },
   {
     "id": "20261121-1546-1-fb-reel",
@@ -9653,9 +9665,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261121-1546-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "وزان يتوج بجائزة هدف الشهر في أياكس",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/7FT3DXJ7XFBWDMO65ILQ4NAPCA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/7FT3DXJ7XFBWDMO65ILQ4NAPCA/",
+    "meta_id": "17869435947678721",
+    "published_at": "2026-11-21T14:52:52.203522+00:00"
   },
   {
     "id": "20261121-1546-2-fb-feed",
@@ -9663,9 +9677,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261121-1546-2-fb.jpg",
     "caption": "حافظ فوزي لقجع على موقعه القيادي في الكاف خلال الجمعية العامة الـ48 بأبوجا يوم 21 نوفمبر\n\nويبقى لقجع النائب الأول لرئيس الكاف وعضوا في اللجنة التنفيذية\n\nولم يعد يرأس لجنة المالية، التي يديرها مؤقتا الزامبي أندرو كامانغا\n\nوضمت اللجان الجديدة طه المنصوري رئيسا للجنة تطوير كرة الصالات والكرة الشاطئية\n\nكما انضم عبد اللطيف المقتريض وعز الدين يعقوبي وفتحي جمال إلى لجان الكاف\n\nما رأيكم في الحضور المغربي داخل أجهزة الكاف؟\n\n#الكاف #فوزي_لقجع #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "لقجع يحافظ على منصبه القيادي في الكاف",
-    "quelle_url": "https://ar.sport.le360.ma/football/VLQQB45ZABBDLPRQ5LRGTKWVKE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/VLQQB45ZABBDLPRQ5LRGTKWVKE/",
+    "meta_id": "122225627864577271",
+    "published_at": "2026-11-21T14:52:52.203522+00:00"
   },
   {
     "id": "20261121-1546-2-ig-feed",
@@ -9673,9 +9689,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261121-1546-2-ig.jpg",
     "caption": "🏛️ حضور مغربي قوي داخل الكاف\n\nفوزي لقجع يبقى النائب الأول لرئيس الكاف وعضوا في اللجنة التنفيذية بعد جمعية أبوجا\n\nوأربعة مغاربة في اللجان الجديدة: المنصوري للصالات والكرة الشاطئية، والمقتريض لمسابقات الأندية، ويعقوبي للفئات الشابة، وجمال للتطوير التقني ⚽\n\nهل ترون أن هذا الحضور يخدم الكرة المغربية؟\n\n#الكاف #لقجع #الجامعة_الملكية #كرة_إفريقيا #المغرب",
-    "status": "now",
+    "status": "published",
     "titel": "لقجع يحافظ على منصبه القيادي في الكاف",
-    "quelle_url": "https://ar.sport.le360.ma/football/VLQQB45ZABBDLPRQ5LRGTKWVKE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/VLQQB45ZABBDLPRQ5LRGTKWVKE/",
+    "meta_id": "17916949653547520",
+    "published_at": "2026-11-21T14:52:52.203522+00:00"
   },
   {
     "id": "20261121-1546-2-fb-reel",
@@ -9707,8 +9725,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261121-1546-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "لقجع يحافظ على منصبه القيادي في الكاف",
-    "quelle_url": "https://ar.sport.le360.ma/football/VLQQB45ZABBDLPRQ5LRGTKWVKE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/VLQQB45ZABBDLPRQ5LRGTKWVKE/",
+    "meta_id": "18070540256523847",
+    "published_at": "2026-11-21T14:52:52.203522+00:00"
   }
 ]
