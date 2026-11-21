@@ -9074,10 +9074,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-2350-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-2350-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-21T02:55:21+01:00",
     "titel": "رين يكثف مفاوضات تمديد عقد أيت بودلال",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/Q5ODBJAO6BHRBF4M3EU6S4TKHI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/Q5ODBJAO6BHRBF4M3EU6S4TKHI/",
+    "meta_id": "2115110435796351",
+    "published_at": "2026-11-21T06:44:43.268253+00:00"
   },
   {
     "id": "20261120-2350-1-ig-reel",
@@ -9086,10 +9088,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-2350-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-2350-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-21T02:55:21+01:00",
     "titel": "رين يكثف مفاوضات تمديد عقد أيت بودلال",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/Q5ODBJAO6BHRBF4M3EU6S4TKHI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/Q5ODBJAO6BHRBF4M3EU6S4TKHI/",
+    "meta_id": "18512706004103365",
+    "published_at": "2026-11-21T06:44:43.268253+00:00"
   },
   {
     "id": "20261120-2350-1-ig-story",
@@ -9134,10 +9138,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-2350-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-2350-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-21T02:55:21+01:00",
     "titel": "الجولة 9 من القسم الثاني: صراع الصدارة يشتعل",
-    "quelle_url": "https://ar.sport.le360.ma/football/DB6OZNLE5RHCPOWQM33LX5VRUU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/DB6OZNLE5RHCPOWQM33LX5VRUU/",
+    "meta_id": "1903108007799095",
+    "published_at": "2026-11-21T06:44:43.268253+00:00"
   },
   {
     "id": "20261120-2350-2-ig-reel",
@@ -9146,10 +9152,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261120-2350-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261120-2350-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-21T02:55:21+01:00",
     "titel": "الجولة 9 من القسم الثاني: صراع الصدارة يشتعل",
-    "quelle_url": "https://ar.sport.le360.ma/football/DB6OZNLE5RHCPOWQM33LX5VRUU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/DB6OZNLE5RHCPOWQM33LX5VRUU/",
+    "meta_id": "18141828202649721",
+    "published_at": "2026-11-21T06:44:43.268253+00:00"
   },
   {
     "id": "20261120-2350-2-ig-story",
