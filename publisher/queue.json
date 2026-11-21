@@ -9522,10 +9522,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261121-1350-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261121-1350-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-21T17:15:00+01:00",
     "titel": "ميندي يكشف خطته لإرباك دياز قبل ركلة الجزاء",
-    "quelle_url": "https://alomksport.com/110741.html"
+    "quelle_url": "https://alomksport.com/110741.html",
+    "meta_id": "1651682639780142",
+    "published_at": "2026-11-21T16:40:54.369195+00:00"
   },
   {
     "id": "20261121-1350-1-ig-reel",
@@ -9534,10 +9536,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261121-1350-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261121-1350-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-21T17:15:00+01:00",
     "titel": "ميندي يكشف خطته لإرباك دياز قبل ركلة الجزاء",
-    "quelle_url": "https://alomksport.com/110741.html"
+    "quelle_url": "https://alomksport.com/110741.html",
+    "meta_id": "17931155739264398",
+    "published_at": "2026-11-21T16:40:54.369195+00:00"
   },
   {
     "id": "20261121-1350-1-ig-story",
@@ -9582,10 +9586,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261121-1350-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261121-1350-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-21T17:15:00+01:00",
     "titel": "الوداد يواصل معسكر مراكش قبل الكلاسيكو",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/6YJXBVPFEFADFDUREVII4AJ3RI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/6YJXBVPFEFADFDUREVII4AJ3RI/",
+    "meta_id": "2231752514444073",
+    "published_at": "2026-11-21T16:40:54.369195+00:00"
   },
   {
     "id": "20261121-1350-2-ig-reel",
@@ -9594,10 +9600,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261121-1350-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261121-1350-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-21T17:15:00+01:00",
     "titel": "الوداد يواصل معسكر مراكش قبل الكلاسيكو",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/6YJXBVPFEFADFDUREVII4AJ3RI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/6YJXBVPFEFADFDUREVII4AJ3RI/",
+    "meta_id": "17911556727568972",
+    "published_at": "2026-11-21T16:40:54.369195+00:00"
   },
   {
     "id": "20261121-1350-2-ig-story",
