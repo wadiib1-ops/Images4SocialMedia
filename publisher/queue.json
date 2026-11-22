@@ -10796,10 +10796,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1800-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1800-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T20:55:08+01:00",
     "titel": "موتسيبي: الكاف سيلتزم بقرار الطاس في نهائي الكان",
-    "quelle_url": "https://ar.sport.le360.ma/football/KBBQU3GLRBGB7P67CYFVAG5OVI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/KBBQU3GLRBGB7P67CYFVAG5OVI/",
+    "meta_id": "1521067196502828",
+    "published_at": "2026-11-22T20:50:42.028192+00:00"
   },
   {
     "id": "20261122-1800-1-ig-reel",
@@ -10808,10 +10810,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1800-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1800-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T20:55:08+01:00",
     "titel": "موتسيبي: الكاف سيلتزم بقرار الطاس في نهائي الكان",
-    "quelle_url": "https://ar.sport.le360.ma/football/KBBQU3GLRBGB7P67CYFVAG5OVI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/KBBQU3GLRBGB7P67CYFVAG5OVI/",
+    "meta_id": "18104462684352400",
+    "published_at": "2026-11-22T20:50:42.028192+00:00"
   },
   {
     "id": "20261122-1800-1-ig-story",
@@ -10856,10 +10860,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1800-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1800-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T20:55:08+01:00",
     "titel": "الزابيري يسجل ثنائية ويرفع رصيده إلى 11 هدفا",
-    "quelle_url": "https://ar.sport.le360.ma/football/2EWI2Q2TNRDTNDP5UFCUBUEDJY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/2EWI2Q2TNRDTNDP5UFCUBUEDJY/",
+    "meta_id": "1177794184586786",
+    "published_at": "2026-11-22T20:50:42.028192+00:00"
   },
   {
     "id": "20261122-1800-2-ig-reel",
@@ -10868,10 +10874,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1800-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1800-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T20:55:08+01:00",
     "titel": "الزابيري يسجل ثنائية ويرفع رصيده إلى 11 هدفا",
-    "quelle_url": "https://ar.sport.le360.ma/football/2EWI2Q2TNRDTNDP5UFCUBUEDJY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/2EWI2Q2TNRDTNDP5UFCUBUEDJY/",
+    "meta_id": "18080492636766132",
+    "published_at": "2026-11-22T20:50:42.028192+00:00"
   },
   {
     "id": "20261122-1800-2-ig-story",
@@ -11024,9 +11032,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/feed-20261122-2147-1-fb.jpg",
     "caption": "يضم المغرب 51 لاعبا في الدوريات الأوروبية الخمس الكبرى، أي ما يعادل 1.94 بالمائة من مجموع اللاعبين، وفق أرقام موقع ترانسفير ماركت.\n\nويتقدم المغرب بذلك على السنغال (46 لاعبا، 1.75 بالمائة) وكوت ديفوار (43 لاعبا، 1.64 بالمائة).\n\nومن بين الأسماء الحاضرة حكيمي وأكرد وبراهيم دياز والزلزولي ومزراوي وبوعدي وعدلي والخنوس.\n\nكيف تقيمون حضور اللاعبين المغاربة في أوروبا؟\n\n#المحترفون_المغاربة #أسود_الأطلس #الدوريات_الكبرى",
-    "status": "now",
+    "status": "published",
     "titel": "51 لاعبا مغربيا في الدوريات الأوروبية الخمس الكبرى",
-    "quelle_url": "https://lematin.ma/sports/big-5-europeen-le-football-marocain-sinstalle-sur-le-devant-de-la-scene/376931"
+    "quelle_url": "https://lematin.ma/sports/big-5-europeen-le-football-marocain-sinstalle-sur-le-devant-de-la-scene/376931",
+    "meta_id": "122225772830577271",
+    "published_at": "2026-11-22T20:50:42.028192+00:00"
   },
   {
     "id": "20261122-2147-1-ig-feed",
@@ -11034,9 +11044,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/feed-20261122-2147-1-ig.jpg",
     "caption": "🌍 المغرب في قلب أوروبا الكبرى!\n\n51 لاعبا مغربيا ينشطون في الدوريات الخمس الكبرى، أي 1.94 بالمائة من اللاعبين، حسب ترانسفير ماركت. ⚽\n\nنتقدم على السنغال بـ46 لاعبا وكوت ديفوار بـ43 لاعبا. 💪\n\nمن حكيمي إلى براهيم دياز والزلزولي ومزراوي وبوعدي وعدلي والخنوس، الحضور المغربي يتوسع. 🔥\n\nما رأيكم في هذا الانتشار؟\n\n#المحترفون_المغاربة #أسود_الأطلس #كرة_القدم_المغربية #حكيمي #الدوريات_الكبرى",
-    "status": "now",
+    "status": "published",
     "titel": "51 لاعبا مغربيا في الدوريات الأوروبية الخمس الكبرى",
-    "quelle_url": "https://lematin.ma/sports/big-5-europeen-le-football-marocain-sinstalle-sur-le-devant-de-la-scene/376931"
+    "quelle_url": "https://lematin.ma/sports/big-5-europeen-le-football-marocain-sinstalle-sur-le-devant-de-la-scene/376931",
+    "meta_id": "18144274315621810",
+    "published_at": "2026-11-22T20:50:42.028192+00:00"
   },
   {
     "id": "20261122-2147-1-fb-reel",
@@ -11068,9 +11080,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-2147-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "51 لاعبا مغربيا في الدوريات الأوروبية الخمس الكبرى",
-    "quelle_url": "https://lematin.ma/sports/big-5-europeen-le-football-marocain-sinstalle-sur-le-devant-de-la-scene/376931"
+    "quelle_url": "https://lematin.ma/sports/big-5-europeen-le-football-marocain-sinstalle-sur-le-devant-de-la-scene/376931",
+    "meta_id": "17914241760573070",
+    "published_at": "2026-11-22T20:50:42.028192+00:00"
   },
   {
     "id": "20261122-2147-2-fb-feed",
@@ -11078,9 +11092,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/feed-20261122-2147-2-fb.jpg",
     "caption": "أشاد المدرب إنزو ماريسكا بأداء الدولي المغربي أيوب بوعدي في مواجهة فولهام.\n\nوكان بوعدي أساسيا في المباراة وغادر أرضية الملعب في الدقيقة 85، بعد نيله رابع أفضل تقييم في فريقه وفق منصة سوفا سكور.\n\nوأوضح ماريسكا أن الطاقم الفني يواصل البحث عن الحلول التي تخدم المجموعة وتطوير الانسجام بين اللاعبين.\n\nكيف تقيمون مستوى بوعدي مع فريقه؟\n\n#أيوب_بوعدي #أسود_الأطلس #المحترفون_المغاربة",
-    "status": "now",
+    "status": "published",
     "titel": "ماريسكا يشيد بأداء بوعدي أمام فولهام",
-    "quelle_url": "https://kifache.com/%d9%85%d8%a7%d8%b1%d9%8a%d8%b3%d9%83%d8%a7-%d8%a3%d9%8a%d9%88%d8%a8-%d8%a8%d9%88%d8%b9%d8%af%d9%8a-%d9%82%d8%af%d9%85-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%ac%d9%8a%d8%af%d8%a9-%d9%88%d8%a3%d8%b8/"
+    "quelle_url": "https://kifache.com/%d9%85%d8%a7%d8%b1%d9%8a%d8%b3%d9%83%d8%a7-%d8%a3%d9%8a%d9%88%d8%a8-%d8%a8%d9%88%d8%b9%d8%af%d9%8a-%d9%82%d8%af%d9%85-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%ac%d9%8a%d8%af%d8%a9-%d9%88%d8%a3%d8%b8/",
+    "meta_id": "122225773064577271",
+    "published_at": "2026-11-22T20:50:42.028192+00:00"
   },
   {
     "id": "20261122-2147-2-ig-feed",
@@ -11088,9 +11104,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/feed-20261122-2147-2-ig.jpg",
     "caption": "⭐ كلمة طيبة من ماريسكا في حق بوعدي!\n\nالمدرب أشاد بأداء الدولي المغربي أمام فولهام، حيث بدأ أساسيا وغادر في الدقيقة 85. ⚽\n\nونال رابع أفضل تقييم في فريقه حسب سوفا سكور. 📊\n\nوأكد ماريسكا أن الطاقم يواصل البحث عن الحلول وبناء الانسجام داخل المجموعة. 💪\n\nما تقييمكم لأداء بوعدي؟\n\n#أيوب_بوعدي #بوعدي #أسود_الأطلس #المحترفون_المغاربة #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "ماريسكا يشيد بأداء بوعدي أمام فولهام",
-    "quelle_url": "https://kifache.com/%d9%85%d8%a7%d8%b1%d9%8a%d8%b3%d9%83%d8%a7-%d8%a3%d9%8a%d9%88%d8%a8-%d8%a8%d9%88%d8%b9%d8%af%d9%8a-%d9%82%d8%af%d9%85-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%ac%d9%8a%d8%af%d8%a9-%d9%88%d8%a3%d8%b8/"
+    "quelle_url": "https://kifache.com/%d9%85%d8%a7%d8%b1%d9%8a%d8%b3%d9%83%d8%a7-%d8%a3%d9%8a%d9%88%d8%a8-%d8%a8%d9%88%d8%b9%d8%af%d9%8a-%d9%82%d8%af%d9%85-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%ac%d9%8a%d8%af%d8%a9-%d9%88%d8%a3%d8%b8/",
+    "meta_id": "18344229301278614",
+    "published_at": "2026-11-22T20:50:42.028192+00:00"
   },
   {
     "id": "20261122-2147-2-fb-reel",
@@ -11122,8 +11140,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-2147-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "ماريسكا يشيد بأداء بوعدي أمام فولهام",
-    "quelle_url": "https://kifache.com/%d9%85%d8%a7%d8%b1%d9%8a%d8%b3%d9%83%d8%a7-%d8%a3%d9%8a%d9%88%d8%a8-%d8%a8%d9%88%d8%b9%d8%af%d9%8a-%d9%82%d8%af%d9%85-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%ac%d9%8a%d8%af%d8%a9-%d9%88%d8%a3%d8%b8/"
+    "quelle_url": "https://kifache.com/%d9%85%d8%a7%d8%b1%d9%8a%d8%b3%d9%83%d8%a7-%d8%a3%d9%8a%d9%88%d8%a8-%d8%a8%d9%88%d8%b9%d8%af%d9%8a-%d9%82%d8%af%d9%85-%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d8%a9-%d8%ac%d9%8a%d8%af%d8%a9-%d9%88%d8%a3%d8%b8/",
+    "meta_id": "18166675126494634",
+    "published_at": "2026-11-22T20:50:42.028192+00:00"
   }
 ]
