@@ -10668,10 +10668,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1546-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1546-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T18:53:58+01:00",
     "titel": "الزلزولي يستبعد مغادرة بيتيس في الشتاء",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/JH3CHINNQVHO5EDB5F5LY6DIWY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/JH3CHINNQVHO5EDB5F5LY6DIWY/",
+    "meta_id": "1611640940158720",
+    "published_at": "2026-11-22T18:09:50.130305+00:00"
   },
   {
     "id": "20261122-1546-1-ig-reel",
@@ -10680,10 +10682,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1546-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1546-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T18:53:58+01:00",
     "titel": "الزلزولي يستبعد مغادرة بيتيس في الشتاء",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/JH3CHINNQVHO5EDB5F5LY6DIWY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/JH3CHINNQVHO5EDB5F5LY6DIWY/",
+    "meta_id": "18081858581755284",
+    "published_at": "2026-11-22T18:09:50.130305+00:00"
   },
   {
     "id": "20261122-1546-1-ig-story",
@@ -10728,10 +10732,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1546-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1546-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T18:53:58+01:00",
     "titel": "النصيري يعود إلى تدريبات الاتحاد",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/B64BSE4ZYBD2NFSXHU5FWZJY7E/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/B64BSE4ZYBD2NFSXHU5FWZJY7E/",
+    "meta_id": "4988439471300763",
+    "published_at": "2026-11-22T18:09:50.130305+00:00"
   },
   {
     "id": "20261122-1546-2-ig-reel",
@@ -10740,10 +10746,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1546-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1546-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T18:53:58+01:00",
     "titel": "النصيري يعود إلى تدريبات الاتحاد",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/B64BSE4ZYBD2NFSXHU5FWZJY7E/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/B64BSE4ZYBD2NFSXHU5FWZJY7E/",
+    "meta_id": "18130149155311278",
+    "published_at": "2026-11-22T18:09:50.130305+00:00"
   },
   {
     "id": "20261122-1546-2-ig-story",
@@ -10763,9 +10771,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/feed-20261122-1800-1-fb.jpg",
     "caption": "أكد باتريس موتسيبي، رئيس الاتحاد الإفريقي لكرة القدم، أن محكمة التحكيم الرياضي «الطاس» ستصدر قرارها في نزاع نهائي كأس أمم إفريقيا 2025 بين المغرب والسنغال خلال الأيام المقبلة.\n\nوشدد على أن الكاف سيلتزم بالحكم مهما كانت نتيجته. وكانت السنغال قد طعنت في قرار لجنة الاستئناف الذي اعتبرها منهزمة بثلاثة أهداف دون مقابل ومنح اللقب للمغرب، بعد مغادرة لاعبيها أرضية الملعب في الرباط لمدة 14 دقيقة.\n\nجاءت تصريحات موتسيبي خلال الجمعية العمومية للكاف في أبوجا، ويُنتظر صدور الحكم قبل نهاية نونبر.\n\nكيف تقيّمون موقف الكاف من هذا الملف؟\n\n#المنتخب_المغربي #الكان #الطاس",
-    "status": "now",
+    "status": "published",
     "titel": "موتسيبي: الكاف سيلتزم بقرار الطاس في نهائي الكان",
-    "quelle_url": "https://ar.sport.le360.ma/football/KBBQU3GLRBGB7P67CYFVAG5OVI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/KBBQU3GLRBGB7P67CYFVAG5OVI/",
+    "meta_id": "122225759024577271",
+    "published_at": "2026-11-22T18:09:50.130305+00:00"
   },
   {
     "id": "20261122-1800-1-ig-feed",
@@ -10773,9 +10783,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/feed-20261122-1800-1-ig.jpg",
     "caption": "⚖️ الكلمة الأخيرة للطاس!\n\nرئيس الكاف باتريس موتسيبي يعلن أن حكم محكمة التحكيم الرياضي في قضية نهائي «الكان» بين المغرب والسنغال سيصدر في الأيام القادمة، وأن الاتحاد الإفريقي سيحترمه كيفما كان.\n\n📍 الملف انتقل إلى لوزان بعد مغادرة لاعبي السنغال الملعب 14 دقيقة في الرباط.\n🗓️ الجلسة عُقدت في 8 أكتوبر، والقرار منتظر قبل نهاية نونبر.\n\nما رأيكم في تطورات القضية؟\n\n#المنتخب_المغربي #أسود_الأطلس #الكان #الطاس #الكاف",
-    "status": "now",
+    "status": "published",
     "titel": "موتسيبي: الكاف سيلتزم بقرار الطاس في نهائي الكان",
-    "quelle_url": "https://ar.sport.le360.ma/football/KBBQU3GLRBGB7P67CYFVAG5OVI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/KBBQU3GLRBGB7P67CYFVAG5OVI/",
+    "meta_id": "17930343066428036",
+    "published_at": "2026-11-22T18:09:50.130305+00:00"
   },
   {
     "id": "20261122-1800-1-fb-reel",
@@ -10807,9 +10819,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1800-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "موتسيبي: الكاف سيلتزم بقرار الطاس في نهائي الكان",
-    "quelle_url": "https://ar.sport.le360.ma/football/KBBQU3GLRBGB7P67CYFVAG5OVI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/KBBQU3GLRBGB7P67CYFVAG5OVI/",
+    "meta_id": "18101629937689028",
+    "published_at": "2026-11-22T18:09:50.130305+00:00"
   },
   {
     "id": "20261122-1800-2-fb-feed",
@@ -10817,9 +10831,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/feed-20261122-1800-2-fb.jpg",
     "caption": "سجل الدولي المغربي ياسر الزابيري هدفين في غضون دقيقتين مع راسينغ سانتاندير أمام ريال سوسيداد في الدوري الإسباني يوم الأحد 22 نونبر 2026.\n\nوبهذا الثنائي رفع المهاجم المعار من رين الفرنسي رصيده إلى 11 هدفا في 13 مباراة بالليغا، متجاوزا الهدف الذي حدده لنفسه قبل ظهوره الأول مع الفريق وهو عشرة أهداف.\n\nكما أصبح خامس أكثر هداف في تاريخ النادي بالدوري الإسباني، رغم أنه لم يبلغ 22 عاما بعد.\n\nكيف تقيّمون مسيرة الزابيري هذا الموسم؟\n\n#الزابيري #راسينغ_سانتاندير #الليغا",
-    "status": "now",
+    "status": "published",
     "titel": "الزابيري يسجل ثنائية ويرفع رصيده إلى 11 هدفا",
-    "quelle_url": "https://ar.sport.le360.ma/football/2EWI2Q2TNRDTNDP5UFCUBUEDJY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/2EWI2Q2TNRDTNDP5UFCUBUEDJY/",
+    "meta_id": "122225759210577271",
+    "published_at": "2026-11-22T18:09:50.130305+00:00"
   },
   {
     "id": "20261122-1800-2-ig-feed",
@@ -10827,9 +10843,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/feed-20261122-1800-2-ig.jpg",
     "caption": "🔥 ثنائية في دقيقتين!\n\nياسر الزابيري يواصل التألق مع راسينغ سانتاندير ويسجل هدفين في مرمى ريال سوسيداد، ليصل إلى 11 هدفا في 13 مباراة بالليغا.\n\n⚽ كان قد أعلن رغبته في تسجيل عشرة أهداف، وها هو يتجاوزها.\n📈 وهو الآن خامس أكثر هداف في تاريخ النادي بالدوري الإسباني، وعمره أقل من 22 سنة.\n\nما رأيكم في أرقام الزابيري هذا الموسم؟\n\n#الزابيري #أسود_الأطلس #الليغا #راسينغ_سانتاندير #المغرب",
-    "status": "now",
+    "status": "published",
     "titel": "الزابيري يسجل ثنائية ويرفع رصيده إلى 11 هدفا",
-    "quelle_url": "https://ar.sport.le360.ma/football/2EWI2Q2TNRDTNDP5UFCUBUEDJY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/2EWI2Q2TNRDTNDP5UFCUBUEDJY/",
+    "meta_id": "17964845130000055",
+    "published_at": "2026-11-22T18:09:50.130305+00:00"
   },
   {
     "id": "20261122-1800-2-fb-reel",
@@ -10861,8 +10879,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1800-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الزابيري يسجل ثنائية ويرفع رصيده إلى 11 هدفا",
-    "quelle_url": "https://ar.sport.le360.ma/football/2EWI2Q2TNRDTNDP5UFCUBUEDJY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/2EWI2Q2TNRDTNDP5UFCUBUEDJY/",
+    "meta_id": "18575768209077644",
+    "published_at": "2026-11-22T18:09:50.130305+00:00"
   }
 ]
