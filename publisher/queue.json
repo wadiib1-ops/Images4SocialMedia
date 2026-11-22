@@ -10416,24 +10416,28 @@
     "platform": "facebook",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "titel": "سفيان ديوب: فخور بتمثيل المغرب وأطمح لإظهار قدراتي",
     "quelle_url": "https://kifache.com/%d8%af%d9%8a%d9%88%d8%a8-%d9%81%d8%ae%d9%88%d8%b1-%d8%a8%d8%aa%d9%85%d8%ab%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d8%a3%d8%b7%d9%85%d8%ad-%d9%84%d8%a5%d8%b8%d9%87%d8%a7%d8%b1-%d8%a5/",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-0947-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-0947-1-fb.jpg",
-    "publish_at": "2026-11-22T15:55:11+01:00"
+    "publish_at": "2026-11-22T15:55:11+01:00",
+    "meta_id": "1142746418654158",
+    "published_at": "2026-11-22T16:45:57.905943+00:00"
   },
   {
     "id": "20261122-0947-1-ig-reel",
     "platform": "instagram",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "titel": "سفيان ديوب: فخور بتمثيل المغرب وأطمح لإظهار قدراتي",
     "quelle_url": "https://kifache.com/%d8%af%d9%8a%d9%88%d8%a8-%d9%81%d8%ae%d9%88%d8%b1-%d8%a8%d8%aa%d9%85%d8%ab%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d8%a3%d8%b7%d9%85%d8%ad-%d9%84%d8%a5%d8%b8%d9%87%d8%a7%d8%b1-%d8%a5/",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-0947-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-0947-1.jpg",
-    "publish_at": "2026-11-22T15:55:11+01:00"
+    "publish_at": "2026-11-22T15:55:11+01:00",
+    "meta_id": "18129367918855644",
+    "published_at": "2026-11-22T16:45:57.905943+00:00"
   },
   {
     "id": "20261122-0947-1-ig-story",
@@ -10474,24 +10478,26 @@
     "platform": "facebook",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "failed",
     "titel": "السبعاوي يهز الشباك في تعادل سان تروند وشارلوروا 2-2",
     "quelle_url": "https://ar.sport.le360.ma/football/HBZJP5GAOZHUTJBNH3N3WRKC7E/",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-0947-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-0947-2-fb.jpg",
-    "publish_at": "2026-11-22T15:55:11+01:00"
+    "publish_at": "2026-11-22T15:55:11+01:00",
+    "error": "Quelle bereits am 2026-11-22T12:00:47.562988+00:00 veröffentlicht"
   },
   {
     "id": "20261122-0947-2-ig-reel",
     "platform": "instagram",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "failed",
     "titel": "السبعاوي يهز الشباك في تعادل سان تروند وشارلوروا 2-2",
     "quelle_url": "https://ar.sport.le360.ma/football/HBZJP5GAOZHUTJBNH3N3WRKC7E/",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-0947-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-0947-2.jpg",
-    "publish_at": "2026-11-22T15:55:11+01:00"
+    "publish_at": "2026-11-22T15:55:11+01:00",
+    "error": "Quelle bereits am 2026-11-22T12:00:47.562988+00:00 veröffentlicht"
   },
   {
     "id": "20261122-0947-2-ig-story",
@@ -10533,24 +10539,27 @@
     "platform": "facebook",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1346-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1346-1-fb.jpg",
     "publish_at": "2026-11-22T16:50:00+01:00",
     "titel": "إكمان يقترب من العودة إلى التدريبات الجماعية مع ليل",
-    "quelle_url": "https://alomksport.com/110769.html"
+    "quelle_url": "https://alomksport.com/110769.html",
+    "meta_id": "1144526771633768",
+    "published_at": "2026-11-22T16:45:57.905943+00:00"
   },
   {
     "id": "20261122-1346-1-ig-reel",
     "platform": "instagram",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "failed",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1346-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1346-1.jpg",
     "publish_at": "2026-11-22T16:50:00+01:00",
     "titel": "إكمان يقترب من العودة إلى التدريبات الجماعية مع ليل",
-    "quelle_url": "https://alomksport.com/110769.html"
+    "quelle_url": "https://alomksport.com/110769.html",
+    "error": "Instagram-Verarbeitung: ERROR (Error: Media upload has failed with error code 2207077)"
   },
   {
     "id": "20261122-1346-1-ig-story",
@@ -10593,24 +10602,28 @@
     "platform": "facebook",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1346-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1346-2-fb.jpg",
     "publish_at": "2026-11-22T16:50:00+01:00",
     "titel": "بونو يحظى باستقبال جماهيري في فرغانة قبل مواجهة نفتشي",
-    "quelle_url": "https://ar.sport.le360.ma/football/3NPMASVQMFFVHC4U7DAK7DK56Y/"
+    "quelle_url": "https://ar.sport.le360.ma/football/3NPMASVQMFFVHC4U7DAK7DK56Y/",
+    "meta_id": "1129739613260505",
+    "published_at": "2026-11-22T16:45:57.905943+00:00"
   },
   {
     "id": "20261122-1346-2-ig-reel",
     "platform": "instagram",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1346-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1346-2.jpg",
     "publish_at": "2026-11-22T16:50:00+01:00",
     "titel": "بونو يحظى باستقبال جماهيري في فرغانة قبل مواجهة نفتشي",
-    "quelle_url": "https://ar.sport.le360.ma/football/3NPMASVQMFFVHC4U7DAK7DK56Y/"
+    "quelle_url": "https://ar.sport.le360.ma/football/3NPMASVQMFFVHC4U7DAK7DK56Y/",
+    "meta_id": "17970918687207075",
+    "published_at": "2026-11-22T16:45:57.905943+00:00"
   },
   {
     "id": "20261122-1346-2-ig-story",

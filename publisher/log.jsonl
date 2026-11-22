@@ -3104,3 +3104,12 @@
 {"zeit": "22.11.2026 15:55:46", "aktion": "veröffentlicht", "beitrag": "20261122-1546-2-ig-feed", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18145425979614393"}
 {"zeit": "22.11.2026 15:56:23", "aktion": "veröffentlicht", "beitrag": "20261122-1546-2-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18097999208267009"}
 {"zeit": "22.11.2026 15:56:23", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "843 Einträge geprüft"}
+{"zeit": "22.11.2026 17:46:33", "aktion": "veröffentlicht", "beitrag": "20261122-0947-1-fb-reel", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1142746418654158"}
+{"zeit": "22.11.2026 17:48:24", "aktion": "veröffentlicht", "beitrag": "20261122-0947-1-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18129367918855644"}
+{"zeit": "22.11.2026 17:48:24", "aktion": "übersprungen", "beitrag": "20261122-0947-2-fb-reel", "plattform": "facebook", "ergebnis": "fehler", "details": "Quelle bereits am 2026-11-22T12:00:47.562988+00:00 veröffentlicht"}
+{"zeit": "22.11.2026 17:48:24", "aktion": "übersprungen", "beitrag": "20261122-0947-2-ig-reel", "plattform": "instagram", "ergebnis": "fehler", "details": "Quelle bereits am 2026-11-22T12:00:47.562988+00:00 veröffentlicht"}
+{"zeit": "22.11.2026 17:48:57", "aktion": "veröffentlicht", "beitrag": "20261122-1346-1-fb-reel", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1144526771633768"}
+{"zeit": "22.11.2026 17:49:25", "aktion": "fehlgeschlagen", "beitrag": "20261122-1346-1-ig-reel", "plattform": "instagram", "ergebnis": "fehler", "details": "Instagram-Verarbeitung: ERROR (Error: Media upload has failed with error code 2207077)"}
+{"zeit": "22.11.2026 17:49:56", "aktion": "veröffentlicht", "beitrag": "20261122-1346-2-fb-reel", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1129739613260505"}
+{"zeit": "22.11.2026 17:50:34", "aktion": "veröffentlicht", "beitrag": "20261122-1346-2-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 17970918687207075"}
+{"zeit": "22.11.2026 17:50:34", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "843 Einträge geprüft"}
