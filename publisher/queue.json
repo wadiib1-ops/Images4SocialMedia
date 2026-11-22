@@ -10265,9 +10265,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261122-0755-1-fb.jpg",
     "caption": "فاز الرجاء الرياضي على اتحاد طنجة بهدفين مقابل هدف في مباراة ودية أقيمت أمس السبت بأكاديمية النادي في بوسكورة.\n\nسجل الهدفين آدم النفاتي وإسماعيل خافي، وجاء اللقاء بعد تعادل بهدفين مع نهضة الزمامرة في مباراة ودية سابقة.\n\nيستعد الفريق بقيادة عبد الكريم الجيناني لمواجهة أسكو دي كارا الطوغولي يوم 28 الجاري في الجولة الأولى من مرحلة المجموعات بكأس الكونفدرالية الإفريقية.\n\nكيف تقيمون جاهزية الفريق قبل الانطلاقة القارية؟\n\n#الرجاء #كرة_القدم_المغربية #كأس_الكونفدرالية",
-    "status": "now",
+    "status": "published",
     "titel": "الرجاء يتغلب على اتحاد طنجة وديا",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/U6MHVJ7JTBDTRODUBYOXQX2IUI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/U6MHVJ7JTBDTRODUBYOXQX2IUI/",
+    "meta_id": "122225726822577271",
+    "published_at": "2026-11-22T12:00:47.562988+00:00"
   },
   {
     "id": "20261122-0755-1-ig-feed",
@@ -10275,9 +10277,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261122-0755-1-ig.jpg",
     "caption": "⚽ الرجاء يواصل استعداداته بفوز ودي!\n\nأمام اتحاد طنجة، انتهت المباراة بهدفين لهدف بفضل آدم النفاتي وإسماعيل خافي 🔥\n\nالمواجهة جرت بأكاديمية الرجاء في بوسكورة، والموعد القادم يوم 28 الجاري أمام أسكو دي كارا في الكونفدرالية 💚\n\n#الرجاء #الرجاء_الرياضي #البطولة #كأس_الكونفدرالية #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "الرجاء يتغلب على اتحاد طنجة وديا",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/U6MHVJ7JTBDTRODUBYOXQX2IUI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/U6MHVJ7JTBDTRODUBYOXQX2IUI/",
+    "meta_id": "18173606245464850",
+    "published_at": "2026-11-22T12:00:47.562988+00:00"
   },
   {
     "id": "20261122-0755-1-fb-reel",
@@ -10286,10 +10290,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-0755-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-0755-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T10:49:20+01:00",
     "titel": "الرجاء يتغلب على اتحاد طنجة وديا",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/U6MHVJ7JTBDTRODUBYOXQX2IUI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/U6MHVJ7JTBDTRODUBYOXQX2IUI/",
+    "meta_id": "4555763894672460",
+    "published_at": "2026-11-22T12:00:47.562988+00:00"
   },
   {
     "id": "20261122-0755-1-ig-reel",
@@ -10298,10 +10304,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-0755-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-0755-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T10:49:20+01:00",
     "titel": "الرجاء يتغلب على اتحاد طنجة وديا",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/U6MHVJ7JTBDTRODUBYOXQX2IUI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/U6MHVJ7JTBDTRODUBYOXQX2IUI/",
+    "meta_id": "18143139925621512",
+    "published_at": "2026-11-22T12:00:47.562988+00:00"
   },
   {
     "id": "20261122-0755-1-ig-story",
@@ -10309,9 +10317,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-0755-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "الرجاء يتغلب على اتحاد طنجة وديا",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/U6MHVJ7JTBDTRODUBYOXQX2IUI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/U6MHVJ7JTBDTRODUBYOXQX2IUI/",
+    "meta_id": "18648657814038583",
+    "published_at": "2026-11-22T12:00:47.562988+00:00"
   },
   {
     "id": "20261122-0755-2-fb-feed",
@@ -10319,9 +10329,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261122-0755-2-fb.jpg",
     "caption": "سجل المغربي إلياس السبعاوي هدف التعادل الأول لفريقه سان تروند في مواجهة سبورتينغ شارلوروا، وانتهت المباراة بهدفين لمثلهما ضمن الدورة الثانية عشرة من الدوري البلجيكي.\n\nشهد اللقاء ثلاث حالات طرد. ورفع شارلوروا رصيده إلى 28 نقطة محافظا على المركز الرابع، بينما يحتل سان تروند المركز العاشر مؤقتا برصيد 12 نقطة.\n\nكيف تقيمون مستوى اللاعب هذا الموسم؟\n\n#إلياس_السبعاوي #الدوري_البلجيكي #المحترفون_المغاربة",
-    "status": "now",
+    "status": "published",
     "titel": "السبعاوي يسجل في تعادل سان تروند مع شارلوروا",
-    "quelle_url": "https://ar.sport.le360.ma/football/HBZJP5GAOZHUTJBNH3N3WRKC7E/"
+    "quelle_url": "https://ar.sport.le360.ma/football/HBZJP5GAOZHUTJBNH3N3WRKC7E/",
+    "meta_id": "122225727284577271",
+    "published_at": "2026-11-22T12:00:47.562988+00:00"
   },
   {
     "id": "20261122-0755-2-ig-feed",
@@ -10329,9 +10341,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261122-0755-2-ig.jpg",
     "caption": "🔥 السبعاوي يهز الشباك في بلجيكا!\n\nاللاعب المغربي سجل هدف التعادل الأول لسان تروند أمام شارلوروا ⚽\n\nمباراة مجنونة بنتيجة 2-2 وثلاث بطاقات حمراء 🟥\n\nشارلوروا في المركز الرابع بـ28 نقطة وسان تروند عاشر مؤقتا بـ12 نقطة 📊\n\n#السبعاوي #الدوري_البلجيكي #المحترفون_المغاربة #سان_تروند #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "السبعاوي يسجل في تعادل سان تروند مع شارلوروا",
-    "quelle_url": "https://ar.sport.le360.ma/football/HBZJP5GAOZHUTJBNH3N3WRKC7E/"
+    "quelle_url": "https://ar.sport.le360.ma/football/HBZJP5GAOZHUTJBNH3N3WRKC7E/",
+    "meta_id": "18122031811968447",
+    "published_at": "2026-11-22T12:00:47.562988+00:00"
   },
   {
     "id": "20261122-0755-2-fb-reel",
@@ -10340,10 +10354,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-0755-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-0755-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T10:49:20+01:00",
     "titel": "السبعاوي يسجل في تعادل سان تروند مع شارلوروا",
-    "quelle_url": "https://ar.sport.le360.ma/football/HBZJP5GAOZHUTJBNH3N3WRKC7E/"
+    "quelle_url": "https://ar.sport.le360.ma/football/HBZJP5GAOZHUTJBNH3N3WRKC7E/",
+    "meta_id": "2119958125552204",
+    "published_at": "2026-11-22T12:00:47.562988+00:00"
   },
   {
     "id": "20261122-0755-2-ig-reel",
@@ -10352,10 +10368,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-0755-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-0755-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T10:49:20+01:00",
     "titel": "السبعاوي يسجل في تعادل سان تروند مع شارلوروا",
-    "quelle_url": "https://ar.sport.le360.ma/football/HBZJP5GAOZHUTJBNH3N3WRKC7E/"
+    "quelle_url": "https://ar.sport.le360.ma/football/HBZJP5GAOZHUTJBNH3N3WRKC7E/",
+    "meta_id": "18026511290948889",
+    "published_at": "2026-11-22T12:00:47.562988+00:00"
   },
   {
     "id": "20261122-0755-2-ig-story",
@@ -10363,29 +10381,35 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-0755-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "السبعاوي يسجل في تعادل سان تروند مع شارلوروا",
-    "quelle_url": "https://ar.sport.le360.ma/football/HBZJP5GAOZHUTJBNH3N3WRKC7E/"
+    "quelle_url": "https://ar.sport.le360.ma/football/HBZJP5GAOZHUTJBNH3N3WRKC7E/",
+    "meta_id": "18161551666446718",
+    "published_at": "2026-11-22T12:00:47.562988+00:00"
   },
   {
     "id": "20261122-0947-1-fb-feed",
     "platform": "facebook",
     "type": "photo",
     "caption": "عبّر سفيان ديوب، لاعب نادي نيس الفرنسي، عن فخره الكبير بارتداء قميص المنتخب المغربي.\nوقال في حديث تلفزيوني إنه لم يقدّم بعد كل ما لديه مع الأسود، ويتمنى فرصة جديدة لإظهار قدراته والمساهمة في تحقيق أهداف المجموعة.\nوأضاف أن اللعب إلى جانب لاعبين موهوبين يمنحه خبرة أكبر، وأنه يسعى لتعزيز مكانته في التشكيلة رغم قوة المنافسة.\nكيف تقيّمون مستوى ديوب مع نيس؟\n\n#المنتخب_المغربي #أسود_الأطلس #سفيان_ديوب",
-    "status": "now",
+    "status": "published",
     "titel": "سفيان ديوب: فخور بتمثيل المغرب وأطمح لإظهار قدراتي",
     "quelle_url": "https://kifache.com/%d8%af%d9%8a%d9%88%d8%a8-%d9%81%d8%ae%d9%88%d8%b1-%d8%a8%d8%aa%d9%85%d8%ab%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d8%a3%d8%b7%d9%85%d8%ad-%d9%84%d8%a5%d8%b8%d9%87%d8%a7%d8%b1-%d8%a5/",
-    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261122-0947-1-fb.jpg"
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261122-0947-1-fb.jpg",
+    "meta_id": "122225727734577271",
+    "published_at": "2026-11-22T12:00:47.562988+00:00"
   },
   {
     "id": "20261122-0947-1-ig-feed",
     "platform": "instagram",
     "type": "photo",
     "caption": "🦁 «أفتخر بتمثيل المغرب»... هكذا تحدث سفيان ديوب!\nلاعب نيس الفرنسي يؤكد أنه لم يُظهر كل إمكاناته مع الأسود بعد 💪\nيريد فرصة جديدة، ويرى أن مجاورة لاعبين موهوبين مدرسة حقيقية للتطور ⚽\nالمنافسة قوية، لكن الطموح أكبر 🔥\n\n#سفيان_ديوب #الأسود #المنتخب_المغربي #نيس #كرة_القدم",
-    "status": "now",
+    "status": "published",
     "titel": "سفيان ديوب: فخور بتمثيل المغرب وأطمح لإظهار قدراتي",
     "quelle_url": "https://kifache.com/%d8%af%d9%8a%d9%88%d8%a8-%d9%81%d8%ae%d9%88%d8%b1-%d8%a8%d8%aa%d9%85%d8%ab%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d8%a3%d8%b7%d9%85%d8%ad-%d9%84%d8%a5%d8%b8%d9%87%d8%a7%d8%b1-%d8%a5/",
-    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261122-0947-1-ig.jpg"
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261122-0947-1-ig.jpg",
+    "meta_id": "18653074045052757",
+    "published_at": "2026-11-22T12:00:47.562988+00:00"
   },
   {
     "id": "20261122-0947-1-fb-reel",
@@ -10416,30 +10440,34 @@
     "platform": "instagram",
     "type": "story",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "سفيان ديوب: فخور بتمثيل المغرب وأطمح لإظهار قدراتي",
     "quelle_url": "https://kifache.com/%d8%af%d9%8a%d9%88%d8%a8-%d9%81%d8%ae%d9%88%d8%b1-%d8%a8%d8%aa%d9%85%d8%ab%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%88%d8%a3%d8%b7%d9%85%d8%ad-%d9%84%d8%a5%d8%b8%d9%87%d8%a7%d8%b1-%d8%a5/",
-    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-0947-1-story-text.mp4"
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-0947-1-story-text.mp4",
+    "meta_id": "17945281509099752",
+    "published_at": "2026-11-22T12:00:47.562988+00:00"
   },
   {
     "id": "20261122-0947-2-fb-feed",
     "platform": "facebook",
     "type": "photo",
     "caption": "سجّل المغربي إلياس السبعاوي هدف التعادل لسان تروند في الشوط الأول، خلال مباراة الجولة 12 من الدوري البلجيكي أمام شارلوروا.\nانتهى اللقاء بالتعادل 2-2، بعد أن تقدم شارلوروا مرتين وأدرك سان تروند التعادل في الدقائق الأخيرة.\nوشهدت المباراة ثلاث بطاقات حمراء، بينها بطاقة للمغربي ياسين الخليفي لاعب شارلوروا قبل الدقيقة 60.\nبهذه النتيجة يحتفظ شارلوروا بالمركز الرابع برصيد 28 نقطة، ويصعد سان تروند مؤقتا إلى المركز العاشر برصيد 12 نقطة.\nكيف تقيّمون أداء السبعاوي في هذه المباراة؟\n\n#السبعاوي #الدوري_البلجيكي #المغاربة_بالخارج",
-    "status": "now",
+    "status": "failed",
     "titel": "السبعاوي يهز الشباك في تعادل سان تروند وشارلوروا 2-2",
     "quelle_url": "https://ar.sport.le360.ma/football/HBZJP5GAOZHUTJBNH3N3WRKC7E/",
-    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261122-0947-2-fb.jpg"
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261122-0947-2-fb.jpg",
+    "error": "Quelle bereits am 2026-11-22T12:00:47.562988+00:00 veröffentlicht"
   },
   {
     "id": "20261122-0947-2-ig-feed",
     "platform": "instagram",
     "type": "photo",
     "caption": "⚽ السبعاوي يعلن حضوره في بلجيكا!\nهدف التعادل في الشوط الأول لسان تروند أمام شارلوروا 🔥\nمباراة مثيرة انتهت 2-2 وشهدت ثلاث بطاقات حمراء 🟥، منها واحدة لمواطنه ياسين الخليفي 😮\nشارلوروا رابع بـ28 نقطة وسان تروند عاشر بـ12 نقطة 📊\n\n#إلياس_السبعاوي #الدوري_البلجيكي #سان_تروند #المغاربة_بالخارج #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "failed",
     "titel": "السبعاوي يهز الشباك في تعادل سان تروند وشارلوروا 2-2",
     "quelle_url": "https://ar.sport.le360.ma/football/HBZJP5GAOZHUTJBNH3N3WRKC7E/",
-    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261122-0947-2-ig.jpg"
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261122-0947-2-ig.jpg",
+    "error": "Quelle bereits am 2026-11-22T12:00:47.562988+00:00 veröffentlicht"
   },
   {
     "id": "20261122-0947-2-fb-reel",
@@ -10470,9 +10498,10 @@
     "platform": "instagram",
     "type": "story",
     "caption": "",
-    "status": "now",
+    "status": "failed",
     "titel": "السبعاوي يهز الشباك في تعادل سان تروند وشارلوروا 2-2",
     "quelle_url": "https://ar.sport.le360.ma/football/HBZJP5GAOZHUTJBNH3N3WRKC7E/",
-    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-0947-2-story-text.mp4"
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-0947-2-story-text.mp4",
+    "error": "Quelle bereits am 2026-11-22T12:00:47.562988+00:00 veröffentlicht"
   }
 ]
