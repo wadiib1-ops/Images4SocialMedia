@@ -10937,10 +10937,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1948-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1948-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T22:52:25+01:00",
     "titel": "الأشبال يستعدون لمواجهة الصين في مونديال الناشئين",
-    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/334VNLIPMVGTRJCYWATRDXB3VI/"
+    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/334VNLIPMVGTRJCYWATRDXB3VI/",
+    "meta_id": "1849197113021304",
+    "published_at": "2026-11-22T22:42:33.623537+00:00"
   },
   {
     "id": "20261122-1948-1-ig-reel",
@@ -10949,10 +10951,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1948-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1948-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T22:52:25+01:00",
     "titel": "الأشبال يستعدون لمواجهة الصين في مونديال الناشئين",
-    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/334VNLIPMVGTRJCYWATRDXB3VI/"
+    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/334VNLIPMVGTRJCYWATRDXB3VI/",
+    "meta_id": "17903808390674131",
+    "published_at": "2026-11-22T22:42:33.623537+00:00"
   },
   {
     "id": "20261122-1948-1-ig-story",
@@ -10997,10 +11001,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1948-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1948-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T22:52:25+01:00",
     "titel": "الوزارة تهنئ أسود مبتوري الأطراف ببلوغ نهائي المونديال",
-    "quelle_url": "https://ar.sport.le360.ma/football/DSTRV2AQYRGOJAAYEK4XXPHPIY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/DSTRV2AQYRGOJAAYEK4XXPHPIY/",
+    "meta_id": "1457257675854929",
+    "published_at": "2026-11-22T22:42:33.623537+00:00"
   },
   {
     "id": "20261122-1948-2-ig-reel",
@@ -11009,10 +11015,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261122-1948-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261122-1948-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-22T22:52:25+01:00",
     "titel": "الوزارة تهنئ أسود مبتوري الأطراف ببلوغ نهائي المونديال",
-    "quelle_url": "https://ar.sport.le360.ma/football/DSTRV2AQYRGOJAAYEK4XXPHPIY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/DSTRV2AQYRGOJAAYEK4XXPHPIY/",
+    "meta_id": "18034471277885674",
+    "published_at": "2026-11-22T22:42:33.623537+00:00"
   },
   {
     "id": "20261122-1948-2-ig-story",
