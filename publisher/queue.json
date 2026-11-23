@@ -11360,10 +11360,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-0800-1-fbstory-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-0800-1-fb.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T10:53:01+01:00",
     "titel": "المنتخب المغربي لمبتوري الأطراف وصيف العالم بعد الخسارة أمام غانا",
-    "quelle_url": "https://ar.sport.le360.ma/football/CQKAMJBHEVB5VFSHBUJDD2JFEY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/CQKAMJBHEVB5VFSHBUJDD2JFEY/",
+    "meta_id": "2916675018710467",
+    "published_at": "2026-11-23T10:44:35.910783+00:00"
   },
   {
     "id": "20261123-0800-1-ig-reel",
@@ -11372,10 +11374,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-0800-1-reel-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-0800-1.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T10:53:01+01:00",
     "titel": "المنتخب المغربي لمبتوري الأطراف وصيف العالم بعد الخسارة أمام غانا",
-    "quelle_url": "https://ar.sport.le360.ma/football/CQKAMJBHEVB5VFSHBUJDD2JFEY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/CQKAMJBHEVB5VFSHBUJDD2JFEY/",
+    "meta_id": "17912723127319290",
+    "published_at": "2026-11-23T10:44:35.910783+00:00"
   },
   {
     "id": "20261123-0800-1-ig-story",
@@ -11420,10 +11424,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-0800-2-fbstory-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-0800-2-fb.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T10:53:01+01:00",
     "titel": "المغرب الفاسي يجدد عقد أنس الطاهري حتى 2029",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/LNSBTYLUDFBI3LGJSUED3EGMKU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/LNSBTYLUDFBI3LGJSUED3EGMKU/",
+    "meta_id": "1156477340681916",
+    "published_at": "2026-11-23T10:44:35.910783+00:00"
   },
   {
     "id": "20261123-0800-2-ig-reel",
@@ -11432,10 +11438,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-0800-2-reel-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-0800-2.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T10:53:01+01:00",
     "titel": "المغرب الفاسي يجدد عقد أنس الطاهري حتى 2029",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/LNSBTYLUDFBI3LGJSUED3EGMKU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/LNSBTYLUDFBI3LGJSUED3EGMKU/",
+    "meta_id": "18130504321665389",
+    "published_at": "2026-11-23T10:44:35.910783+00:00"
   },
   {
     "id": "20261123-0800-2-ig-story",
