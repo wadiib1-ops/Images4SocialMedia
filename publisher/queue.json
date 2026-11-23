@@ -11896,10 +11896,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-1748-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-1748-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T20:59:24+01:00",
     "titel": "أربعة أندية أوروبية تراقب إبراهيم رباج",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/RRT54EMMHRFC3M2KSQEJXWXDJ4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/RRT54EMMHRFC3M2KSQEJXWXDJ4/",
+    "meta_id": "2012296273061070",
+    "published_at": "2026-11-23T20:44:44.175237+00:00"
   },
   {
     "id": "20261123-1748-1-ig-reel",
@@ -11908,10 +11910,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-1748-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-1748-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T20:59:24+01:00",
     "titel": "أربعة أندية أوروبية تراقب إبراهيم رباج",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/RRT54EMMHRFC3M2KSQEJXWXDJ4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/RRT54EMMHRFC3M2KSQEJXWXDJ4/",
+    "meta_id": "17996395146023377",
+    "published_at": "2026-11-23T20:44:44.175237+00:00"
   },
   {
     "id": "20261123-1748-1-ig-story",
@@ -11932,10 +11936,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-1748-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-1748-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T20:59:24+01:00",
     "titel": "تأجيل أربع مباريات من الجولة الثامنة للبطولة",
-    "quelle_url": "https://ar.sport.le360.ma/football/WBBGJYFHZRDLHO5QXY6NBVE23M/"
+    "quelle_url": "https://ar.sport.le360.ma/football/WBBGJYFHZRDLHO5QXY6NBVE23M/",
+    "meta_id": "1147105681036250",
+    "published_at": "2026-11-23T20:44:44.175237+00:00"
   },
   {
     "id": "20261123-1748-2-ig-reel",
@@ -11944,10 +11950,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-1748-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-1748-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T20:59:24+01:00",
     "titel": "تأجيل أربع مباريات من الجولة الثامنة للبطولة",
-    "quelle_url": "https://ar.sport.le360.ma/football/WBBGJYFHZRDLHO5QXY6NBVE23M/"
+    "quelle_url": "https://ar.sport.le360.ma/football/WBBGJYFHZRDLHO5QXY6NBVE23M/",
+    "meta_id": "17914201638301598",
+    "published_at": "2026-11-23T20:44:44.175237+00:00"
   },
   {
     "id": "20261123-1748-2-ig-story",
