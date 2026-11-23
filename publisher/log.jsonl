@@ -3219,3 +3219,14 @@
 {"zeit": "23.11.2026 18:04:04", "aktion": "veröffentlicht", "beitrag": "20261123-1748-2-ig-feed", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18019616750970239"}
 {"zeit": "23.11.2026 18:04:39", "aktion": "veröffentlicht", "beitrag": "20261123-1748-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18362891281217194"}
 {"zeit": "23.11.2026 18:05:30", "aktion": "veröffentlicht", "beitrag": "20261123-1748-2-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18109379879255584"}
+{"zeit": "23.11.2026 19:54:00", "aktion": "veröffentlicht", "beitrag": "20261123-1547-1-fb-reel", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1438483674939137"}
+{"zeit": "23.11.2026 19:54:37", "aktion": "veröffentlicht", "beitrag": "20261123-1547-1-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18155772085491561"}
+{"zeit": "23.11.2026 19:55:07", "aktion": "veröffentlicht", "beitrag": "20261123-1547-2-fb-reel", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 1452086149783340"}
+{"zeit": "23.11.2026 19:55:42", "aktion": "veröffentlicht", "beitrag": "20261123-1547-2-ig-reel", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18174602527466998"}
+{"zeit": "23.11.2026 19:55:47", "aktion": "veröffentlicht", "beitrag": "20261123-1850-1-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122225874170577271"}
+{"zeit": "23.11.2026 19:55:51", "aktion": "fehlgeschlagen", "beitrag": "20261123-1850-1-ig-feed", "plattform": "instagram", "ergebnis": "fehler", "details": "Meta-Fehler HTTP 400: {\"error\":{\"message\":\"Media ID is not available\",\"code\":9007,\"type\":\"OAuthException\",\"error_subcode\":2207027,\"is_transient\":false,\"error_user_msg\":\"Die Medien können noch nicht veröffentlicht werden. Bitte warte noch einen Moment.\",\"error_user_title\":\"Kann nicht veröffentlicht werden\",\"fbtrace_id\":\"AKRrxluHHNRGVpxWhNZMNVu\"}}"}
+{"zeit": "23.11.2026 19:56:31", "aktion": "veröffentlicht", "beitrag": "20261123-1850-1-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18109664875972477"}
+{"zeit": "23.11.2026 19:56:35", "aktion": "veröffentlicht", "beitrag": "20261123-1850-2-fb-feed", "plattform": "facebook", "ergebnis": "erfolg", "details": "Meta-ID 122225874308577271"}
+{"zeit": "23.11.2026 19:56:49", "aktion": "veröffentlicht", "beitrag": "20261123-1850-2-ig-feed", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 18123561298962343"}
+{"zeit": "23.11.2026 19:57:25", "aktion": "veröffentlicht", "beitrag": "20261123-1850-2-ig-story", "plattform": "instagram", "ergebnis": "erfolg", "details": "Meta-ID 17953285068302955"}
+{"zeit": "23.11.2026 19:57:25", "aktion": "lauf", "beitrag": "", "plattform": "", "ergebnis": "", "details": "947 Einträge geprüft"}
