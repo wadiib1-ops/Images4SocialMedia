@@ -11296,10 +11296,12 @@
     "type": "reel",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola2-2026-11-23.mp4",
     "caption": "🏆 نتائج الجولة 9 من البطولة الاحترافية إنوي للقسم الثاني\n📅 الأحد 22 نونبر 2026\n\n⚽ شباب أطلس خنيفرة 1 - 1 أولمبيك الدشيرة\n⚽ الاتحاد الزموري للخميسات 2 - 1 اتحاد أبي الجعد\n⚽ أولمبيك خريبكة 2 - 1 النادي القنيطري\n⚽ سطاد المغربي 0 - 0 الشباب السالمي\n⚽ أولمبيك آسفي 0 - 0 وداد فاس\n⚽ شباب المحمدية 1 - 1 مولودية وجدة\n⚽ الاتحاد الإسلامي الوجدي 3 - 0 شباب المسيرة\n⚽ شباب بن جرير 3 - 0 اتحاد يعقوب المنصور\n\n📊 الترتيب العام بعد الجولة 9 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#القسم_الثاني #البطولة_الاحترافية_2 #البطولة_الاحترافية_إنوي",
-    "status": "now",
+    "status": "published",
     "titel": "نتائج الجولة 9 من البطولة الاحترافية القسم الثاني",
     "quelle_url": "https://www.eurosport.de/fussball/gnf-ii/zeitplan-kalender-ergebnisse.shtml",
-    "runde": 9
+    "runde": 9,
+    "meta_id": "1151721597447793",
+    "published_at": "2026-11-23T05:49:54.803575+00:00"
   },
   {
     "id": "2026-11-23-botola2-ig-story",
@@ -11307,10 +11309,12 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola2-2026-11-23-story.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "نتائج الجولة 9 من البطولة الاحترافية القسم الثاني",
     "quelle_url": "https://www.eurosport.de/fussball/gnf-ii/zeitplan-kalender-ergebnisse.shtml",
-    "runde": 9
+    "runde": 9,
+    "meta_id": "18000183237043373",
+    "published_at": "2026-11-23T05:49:54.803575+00:00"
   },
   {
     "id": "2026-11-23-botola2-ig-reel",
@@ -11318,9 +11322,11 @@
     "type": "reel",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/botola2-2026-11-23.mp4",
     "caption": "🏆 نتائج الجولة 9 من البطولة الاحترافية إنوي للقسم الثاني\n📅 الأحد 22 نونبر 2026\n\n⚽ شباب أطلس خنيفرة 1 - 1 أولمبيك الدشيرة\n⚽ الاتحاد الزموري للخميسات 2 - 1 اتحاد أبي الجعد\n⚽ أولمبيك خريبكة 2 - 1 النادي القنيطري\n⚽ سطاد المغربي 0 - 0 الشباب السالمي\n⚽ أولمبيك آسفي 0 - 0 وداد فاس\n⚽ شباب المحمدية 1 - 1 مولودية وجدة\n⚽ الاتحاد الإسلامي الوجدي 3 - 0 شباب المسيرة\n⚽ شباب بن جرير 3 - 0 اتحاد يعقوب المنصور\n\n📊 الترتيب العام بعد الجولة 9 في الفيديو\n💬 شاركونا توقعاتكم في التعليقات\n\n#القسم_الثاني #البطولة_الاحترافية_2 #البطولة_الاحترافية_إنوي #الدوري_المغربي #كرة_القدم_المغربية",
-    "status": "now",
+    "status": "published",
     "titel": "نتائج الجولة 9 من البطولة الاحترافية القسم الثاني",
     "quelle_url": "https://www.eurosport.de/fussball/gnf-ii/zeitplan-kalender-ergebnisse.shtml",
-    "runde": 9
+    "runde": 9,
+    "meta_id": "17888224518513505",
+    "published_at": "2026-11-23T05:49:54.803575+00:00"
   }
 ]
