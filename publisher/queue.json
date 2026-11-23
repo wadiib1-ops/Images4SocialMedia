@@ -11999,10 +11999,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-1850-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-1850-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T22:52:53+01:00",
     "titel": "أشبال الأطلس يفرضون التعادل على الصين",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/2CTW6U3TMBGQTPNJZXDOXJCGJY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/2CTW6U3TMBGQTPNJZXDOXJCGJY/",
+    "meta_id": "1872144453920169",
+    "published_at": "2026-11-23T22:46:33.244723+00:00"
   },
   {
     "id": "20261123-1850-1-ig-reel",
@@ -12011,10 +12013,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-1850-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-1850-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T22:52:53+01:00",
     "titel": "أشبال الأطلس يفرضون التعادل على الصين",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/2CTW6U3TMBGQTPNJZXDOXJCGJY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/2CTW6U3TMBGQTPNJZXDOXJCGJY/",
+    "meta_id": "18110992978957035",
+    "published_at": "2026-11-23T22:46:33.244723+00:00"
   },
   {
     "id": "20261123-1850-1-ig-story",
@@ -12059,10 +12063,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-1850-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-1850-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T22:52:53+01:00",
     "titel": "المغرب والسنغال في ملحق كأس إفريقيا للأولمبي",
-    "quelle_url": "https://ar.sport.le360.ma/football/PMWT6AD4OBFORMJNVT3LRNTXMQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/PMWT6AD4OBFORMJNVT3LRNTXMQ/",
+    "meta_id": "1718746689760322",
+    "published_at": "2026-11-23T22:46:33.244723+00:00"
   },
   {
     "id": "20261123-1850-2-ig-reel",
@@ -12071,10 +12077,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-1850-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-1850-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T22:52:53+01:00",
     "titel": "المغرب والسنغال في ملحق كأس إفريقيا للأولمبي",
-    "quelle_url": "https://ar.sport.le360.ma/football/PMWT6AD4OBFORMJNVT3LRNTXMQ/"
+    "quelle_url": "https://ar.sport.le360.ma/football/PMWT6AD4OBFORMJNVT3LRNTXMQ/",
+    "meta_id": "18204348856377852",
+    "published_at": "2026-11-23T22:46:33.244723+00:00"
   },
   {
     "id": "20261123-1850-2-ig-story",
