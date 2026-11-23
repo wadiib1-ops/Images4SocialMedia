@@ -11616,10 +11616,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-1347-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-1347-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T16:55:15+01:00",
     "titel": "بلاهيك يستدعي 28 لاعبة لمواجهتي فنزويلا وفرنسا",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/76AHJA4W4RDVFAX7TPXL3IVRGM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/76AHJA4W4RDVFAX7TPXL3IVRGM/",
+    "meta_id": "1020439524446205",
+    "published_at": "2026-11-23T16:58:03.872467+00:00"
   },
   {
     "id": "20261123-1347-1-ig-reel",
@@ -11628,10 +11630,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-1347-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-1347-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T16:55:15+01:00",
     "titel": "بلاهيك يستدعي 28 لاعبة لمواجهتي فنزويلا وفرنسا",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/76AHJA4W4RDVFAX7TPXL3IVRGM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/76AHJA4W4RDVFAX7TPXL3IVRGM/",
+    "meta_id": "18084507416372504",
+    "published_at": "2026-11-23T16:58:03.872467+00:00"
   },
   {
     "id": "20261123-1347-1-ig-story",
@@ -11676,10 +11680,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-1347-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-1347-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T16:55:15+01:00",
     "titel": "شغاغ أفضل لاعب في كأس العالم لمبتوري الأطراف",
-    "quelle_url": "https://www.yabiladi.com/articles/details/208447/mohcine-chghagh-designe-meilleur-joueur.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/208447/mohcine-chghagh-designe-meilleur-joueur.html",
+    "meta_id": "1688552759393576",
+    "published_at": "2026-11-23T16:58:03.872467+00:00"
   },
   {
     "id": "20261123-1347-2-ig-reel",
@@ -11688,10 +11694,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-1347-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-1347-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T16:55:15+01:00",
     "titel": "شغاغ أفضل لاعب في كأس العالم لمبتوري الأطراف",
-    "quelle_url": "https://www.yabiladi.com/articles/details/208447/mohcine-chghagh-designe-meilleur-joueur.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/208447/mohcine-chghagh-designe-meilleur-joueur.html",
+    "meta_id": "17875127529643607",
+    "published_at": "2026-11-23T16:58:03.872467+00:00"
   },
   {
     "id": "20261123-1347-2-ig-story",
