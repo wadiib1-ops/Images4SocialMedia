@@ -11488,10 +11488,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-0950-1-fbstory-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-0950-1-fb.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T12:50:17+01:00",
     "titel": "ميساء باها تسجل ثاني أهدافها مع برشلونة",
-    "quelle_url": "https://www.yabiladi.com/articles/details/208441/liga-mayssa-baha-inscrit-deuxieme.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/208441/liga-mayssa-baha-inscrit-deuxieme.html",
+    "meta_id": "1688504459640281",
+    "published_at": "2026-11-23T12:55:42.483624+00:00"
   },
   {
     "id": "20261123-0950-1-ig-reel",
@@ -11500,10 +11502,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-0950-1-reel-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-0950-1.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T12:50:17+01:00",
     "titel": "ميساء باها تسجل ثاني أهدافها مع برشلونة",
-    "quelle_url": "https://www.yabiladi.com/articles/details/208441/liga-mayssa-baha-inscrit-deuxieme.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/208441/liga-mayssa-baha-inscrit-deuxieme.html",
+    "meta_id": "18496745128106339",
+    "published_at": "2026-11-23T12:55:42.483624+00:00"
   },
   {
     "id": "20261123-0950-1-ig-story",
@@ -11548,10 +11552,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-0950-2-fbstory-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-0950-2-fb.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T12:50:17+01:00",
     "titel": "المنتخب المغربي لقصار القامة يتعادل مع كولومبيا في مونديال تمارة",
-    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/WC6RZDV7JJCJBA4TV5G52BLA7I/"
+    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/WC6RZDV7JJCJBA4TV5G52BLA7I/",
+    "meta_id": "1120178120744910",
+    "published_at": "2026-11-23T12:55:42.483624+00:00"
   },
   {
     "id": "20261123-0950-2-ig-reel",
@@ -11560,10 +11566,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-0950-2-reel-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261123-0950-2.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-23T12:50:17+01:00",
     "titel": "المنتخب المغربي لقصار القامة يتعادل مع كولومبيا في مونديال تمارة",
-    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/WC6RZDV7JJCJBA4TV5G52BLA7I/"
+    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/WC6RZDV7JJCJBA4TV5G52BLA7I/",
+    "meta_id": "18179939239449453",
+    "published_at": "2026-11-23T12:55:42.483624+00:00"
   },
   {
     "id": "20261123-0950-2-ig-story",
@@ -11583,9 +11591,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261123-1347-1-fb.jpg",
     "caption": "أعلن مدرب المنتخب المغربي للسيدات إيريك بلاهيك لائحة من 28 لاعبة\n\nلمعسكر إعدادي ينطلق الثلاثاء 24 نوفمبر ويستمر حتى 6 دجنبر بالمعمورة\n\nوتضم اللائحة لاعبات من البطولة الوطنية وأخريات ينشطن في أوروبا\n\nيخوض المنتخب وديتين بفرنسا: أمام فنزويلا فاتح دجنبر على السادسة والنصف مساء وأمام فرنسا يوم 5 دجنبر على الثامنة وعشر دقائق مساء بتوقيت المغرب\n\nكيف تقيمون اختيارات المدرب في هذه اللائحة؟\n\n#لبؤات_الأطلس #المنتخب_النسوي #كرة_القدم_النسوية",
-    "status": "now",
+    "status": "published",
     "titel": "بلاهيك يستدعي 28 لاعبة لمواجهتي فنزويلا وفرنسا",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/76AHJA4W4RDVFAX7TPXL3IVRGM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/76AHJA4W4RDVFAX7TPXL3IVRGM/",
+    "meta_id": "122225848496577271",
+    "published_at": "2026-11-23T12:55:42.483624+00:00"
   },
   {
     "id": "20261123-1347-1-ig-feed",
@@ -11593,9 +11603,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261123-1347-1-ig.jpg",
     "caption": "لبؤات الأطلس على موعد جديد! 🦁\nإيريك بلاهيك وجّه الدعوة إلى 28 لاعبة للمعسكر الإعدادي بالمعمورة من 24 نوفمبر إلى 6 دجنبر ⚽\nبعده تنتظر المنتخب مباراتان وديتان في فرنسا: الأولى أمام فنزويلا فاتح دجنبر، والثانية أمام فرنسا يوم 5 دجنبر 🔥\nاللائحة تجمع لاعبات من البطولة الوطنية ومحترفات في أوروبا 💚\n\n#لبؤات_الأطلس #المنتخب_النسوي #كرة_القدم_النسوية #المغرب #بلاهيك",
-    "status": "now",
+    "status": "published",
     "titel": "بلاهيك يستدعي 28 لاعبة لمواجهتي فنزويلا وفرنسا",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/76AHJA4W4RDVFAX7TPXL3IVRGM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/76AHJA4W4RDVFAX7TPXL3IVRGM/",
+    "meta_id": "17878077789593752",
+    "published_at": "2026-11-23T12:55:42.483624+00:00"
   },
   {
     "id": "20261123-1347-1-fb-reel",
@@ -11627,9 +11639,11 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-1347-1-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "بلاهيك يستدعي 28 لاعبة لمواجهتي فنزويلا وفرنسا",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/76AHJA4W4RDVFAX7TPXL3IVRGM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/76AHJA4W4RDVFAX7TPXL3IVRGM/",
+    "meta_id": "18121910206994369",
+    "published_at": "2026-11-23T12:55:42.483624+00:00"
   },
   {
     "id": "20261123-1347-2-fb-feed",
@@ -11637,9 +11651,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261123-1347-2-fb.jpg",
     "caption": "اختير محسن شغاغ، قائد المنتخب المغربي لمبتوري الأطراف، أفضل لاعب في كأس العالم 2026 وتسلم الجائزة مساء الأحد في سان خوان دي لوس لاغوس بالمكسيك وجاء ذلك بعد خسارة النهائي أمام غانا بهدف دون رد\n\nوأكد شغاغ أن الإنجاز ثمرة عمل المجموعة، وأن الهدف كان التتويج باللقب ودعا المدرب عثمان النجمي إلى بطولة وطنية أقوى لتطوير اللاعبين\n\nوالموعد المقبل كأس أمم إفريقيا في أنغولا خلال شهر أبريل\n\nكيف تقيمون مسيرة المنتخب في هذا المونديال؟\n\n#منتخب_مبتوري_الأطراف #شغاغ #المغرب",
-    "status": "now",
+    "status": "published",
     "titel": "شغاغ أفضل لاعب في كأس العالم لمبتوري الأطراف",
-    "quelle_url": "https://www.yabiladi.com/articles/details/208447/mohcine-chghagh-designe-meilleur-joueur.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/208447/mohcine-chghagh-designe-meilleur-joueur.html",
+    "meta_id": "122225848784577271",
+    "published_at": "2026-11-23T12:55:42.483624+00:00"
   },
   {
     "id": "20261123-1347-2-ig-feed",
@@ -11647,9 +11663,11 @@
     "type": "photo",
     "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261123-1347-2-ig.jpg",
     "caption": "قائد بروح بطل! 💪\nمحسن شغاغ يتوج بجائزة أفضل لاعب في كأس العالم لمبتوري الأطراف بالمكسيك 🏆\nرغم خسارة النهائي أمام غانا بهدف دون رد، أرجع الفضل للمجموعة بأكملها 💚\nوينتظر أسود الأطلس موعد كأس أمم إفريقيا في أنغولا خلال أبريل ⚽\n\n#شغاغ #مبتورو_الأطراف #أسود_الأطلس #المغرب #كأس_العالم",
-    "status": "now",
+    "status": "published",
     "titel": "شغاغ أفضل لاعب في كأس العالم لمبتوري الأطراف",
-    "quelle_url": "https://www.yabiladi.com/articles/details/208447/mohcine-chghagh-designe-meilleur-joueur.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/208447/mohcine-chghagh-designe-meilleur-joueur.html",
+    "meta_id": "17953758501346576",
+    "published_at": "2026-11-23T12:55:42.483624+00:00"
   },
   {
     "id": "20261123-1347-2-fb-reel",
@@ -11681,8 +11699,10 @@
     "type": "story",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261123-1347-2-story-text.mp4",
     "caption": "",
-    "status": "now",
+    "status": "published",
     "titel": "شغاغ أفضل لاعب في كأس العالم لمبتوري الأطراف",
-    "quelle_url": "https://www.yabiladi.com/articles/details/208447/mohcine-chghagh-designe-meilleur-joueur.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/208447/mohcine-chghagh-designe-meilleur-joueur.html",
+    "meta_id": "18113217725268437",
+    "published_at": "2026-11-23T12:55:42.483624+00:00"
   }
 ]
