@@ -12215,5 +12215,59 @@
     "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/LR3USDJBAFD55MFBEPEI7ZPFPY/",
     "meta_id": "18652448350044901",
     "published_at": "2026-11-23T22:55:19.365376+00:00"
+  },
+  {
+    "id": "20261124-0745-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261124-0745-1-fb.jpg",
+    "caption": "الرجاء البيضاوي يستأنف التحضيرات لمواجهة الافتتاح في كأس الكونفدرالية الإفريقية.\n\nمنح المدرب عبد الكريم الجيناني لاعبيه يوم راحة بعد الفوز وديا على اتحاد طنجة بهدفين لهدف، ثم استدعاهم للعودة إلى التداريب استعدادا للمباراة الأولى في دور المجموعات.\n\nالخصم أسكو دي كارا التوغولي السبت المقبل بالملعب الشرفي محمد الخامس بالدار البيضاء.\n\nما تقييمكم لاستعدادات الفريق قبل هذه المواجهة؟\n\n#الرجاء #كأس_الكونفدرالية #الكرة_المغربية",
+    "status": "now",
+    "titel": "الرجاء يعود إلى التداريب قبل أولى مباريات الكونفدرالية",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ZXMHVXSNFZD5LN5YZKSPXGP3ZM/"
+  },
+  {
+    "id": "20261124-0745-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261124-0745-1-ig.jpg",
+    "caption": "⚽ الرجاء يعود إلى العمل بعد يوم راحة!\n\nالجيناني جمع لاعبيه من جديد بعد الفوز الودي على اتحاد طنجة 2-1، والعين على أول مواجهة في كأس الكونفدرالية الإفريقية 🔥\n\nأسكو دي كارا من توغو ينتظر الخضر السبت المقبل في الملعب الشرفي بالدار البيضاء 🏟️\n\nمن يضمن النقاط الثلاث في الافتتاح؟\n\n#الرجاء_البيضاوي #كأس_الكونفدرالية #الكرة_المغربية #الجيناني #كاف",
+    "status": "now",
+    "titel": "الرجاء يعود إلى التداريب قبل أولى مباريات الكونفدرالية",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ZXMHVXSNFZD5LN5YZKSPXGP3ZM/"
+  },
+  {
+    "id": "20261124-0745-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261124-0745-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261124-0745-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-24T10:50:30+01:00",
+    "titel": "الرجاء يعود إلى التداريب قبل أولى مباريات الكونفدرالية",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ZXMHVXSNFZD5LN5YZKSPXGP3ZM/"
+  },
+  {
+    "id": "20261124-0745-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261124-0745-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261124-0745-1.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-24T10:50:30+01:00",
+    "titel": "الرجاء يعود إلى التداريب قبل أولى مباريات الكونفدرالية",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ZXMHVXSNFZD5LN5YZKSPXGP3ZM/"
+  },
+  {
+    "id": "20261124-0745-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261124-0745-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "الرجاء يعود إلى التداريب قبل أولى مباريات الكونفدرالية",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ZXMHVXSNFZD5LN5YZKSPXGP3ZM/"
   }
 ]
