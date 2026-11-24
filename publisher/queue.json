@@ -12255,10 +12255,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261124-0745-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261124-0745-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-24T10:50:30+01:00",
     "titel": "الرجاء يعود إلى التداريب قبل أولى مباريات الكونفدرالية",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/ZXMHVXSNFZD5LN5YZKSPXGP3ZM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ZXMHVXSNFZD5LN5YZKSPXGP3ZM/",
+    "meta_id": "2011791432833144",
+    "published_at": "2026-11-24T10:45:48.186933+00:00"
   },
   {
     "id": "20261124-0745-1-ig-reel",
@@ -12267,10 +12269,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261124-0745-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261124-0745-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-24T10:50:30+01:00",
     "titel": "الرجاء يعود إلى التداريب قبل أولى مباريات الكونفدرالية",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/ZXMHVXSNFZD5LN5YZKSPXGP3ZM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/ZXMHVXSNFZD5LN5YZKSPXGP3ZM/",
+    "meta_id": "18453111709131545",
+    "published_at": "2026-11-24T10:45:48.186933+00:00"
   },
   {
     "id": "20261124-0745-1-ig-story",
