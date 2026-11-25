@@ -12959,10 +12959,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261124-2146-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261124-2146-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-25T00:49:26+01:00",
     "titel": "محمد فاخر يحدث انقساما في الرجاء",
-    "quelle_url": "https://ar.sport.le360.ma/football/D66CKZEKIRE4ZGFR37NCBPINK4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/D66CKZEKIRE4ZGFR37NCBPINK4/",
+    "meta_id": "1135185322487669",
+    "published_at": "2026-11-25T04:14:28.003424+00:00"
   },
   {
     "id": "20261124-2146-1-ig-reel",
@@ -12971,10 +12973,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261124-2146-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261124-2146-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-25T00:49:26+01:00",
     "titel": "محمد فاخر يحدث انقساما في الرجاء",
-    "quelle_url": "https://ar.sport.le360.ma/football/D66CKZEKIRE4ZGFR37NCBPINK4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/D66CKZEKIRE4ZGFR37NCBPINK4/",
+    "meta_id": "18115712150142968",
+    "published_at": "2026-11-25T04:14:28.003424+00:00"
   },
   {
     "id": "20261124-2146-1-ig-story",
@@ -13019,10 +13023,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261124-2146-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261124-2146-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-25T00:49:26+01:00",
     "titel": "المغرب الفاسي ينهي الجدل ويحسم مستقبل مدربه الكرمة",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/5CARKIDDBJFCXMKR3FT26ZDKXA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/5CARKIDDBJFCXMKR3FT26ZDKXA/",
+    "meta_id": "1856716345333290",
+    "published_at": "2026-11-25T04:14:28.003424+00:00"
   },
   {
     "id": "20261124-2146-2-ig-reel",
@@ -13031,10 +13037,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261124-2146-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261124-2146-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-25T00:49:26+01:00",
     "titel": "المغرب الفاسي ينهي الجدل ويحسم مستقبل مدربه الكرمة",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/5CARKIDDBJFCXMKR3FT26ZDKXA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/5CARKIDDBJFCXMKR3FT26ZDKXA/",
+    "meta_id": "18230318710326886",
+    "published_at": "2026-11-25T04:14:28.003424+00:00"
   },
   {
     "id": "20261124-2146-2-ig-story",
@@ -13079,10 +13087,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261124-2346-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261124-2346-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-25T02:54:18+01:00",
     "titel": "الجمع العام يثير الجدل في اتحاد طنجة",
-    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d9%8a%d8%ab%d9%8a%d8%b1-%d8%a7%d9%84%d8%ac%d8%af%d9%84-%d9%81%d9%8a-%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%b7%d9%86%d8%ac%d8%a9-1845091.html"
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d9%8a%d8%ab%d9%8a%d8%b1-%d8%a7%d9%84%d8%ac%d8%af%d9%84-%d9%81%d9%8a-%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%b7%d9%86%d8%ac%d8%a9-1845091.html",
+    "meta_id": "1698609921605490",
+    "published_at": "2026-11-25T04:14:28.003424+00:00"
   },
   {
     "id": "20261124-2346-1-ig-reel",
@@ -13091,10 +13101,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261124-2346-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261124-2346-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-25T02:54:18+01:00",
     "titel": "الجمع العام يثير الجدل في اتحاد طنجة",
-    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d9%8a%d8%ab%d9%8a%d8%b1-%d8%a7%d9%84%d8%ac%d8%af%d9%84-%d9%81%d9%8a-%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%b7%d9%86%d8%ac%d8%a9-1845091.html"
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d8%ac%d9%85%d8%b9-%d8%a7%d9%84%d8%b9%d8%a7%d9%85-%d9%8a%d8%ab%d9%8a%d8%b1-%d8%a7%d9%84%d8%ac%d8%af%d9%84-%d9%81%d9%8a-%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%b7%d9%86%d8%ac%d8%a9-1845091.html",
+    "meta_id": "18129616684917915",
+    "published_at": "2026-11-25T04:14:28.003424+00:00"
   },
   {
     "id": "20261124-2346-1-ig-story",
@@ -13139,10 +13151,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261124-2346-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261124-2346-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-25T02:54:18+01:00",
     "titel": "اللبؤات يتوافدن على مركب المعمورة",
-    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d9%84%d8%a8%d8%a4%d8%a7%d8%aa-%d9%8a%d8%aa%d9%88%d8%a7%d9%81%d8%af%d9%86-%d8%b9%d9%84%d9%89-%d9%85%d8%b1%d9%83%d8%a8-%d8%a7%d9%84%d9%85%d8%b9%d9%85%d9%88%d8%b1%d8%a9-1845283.html"
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d9%84%d8%a8%d8%a4%d8%a7%d8%aa-%d9%8a%d8%aa%d9%88%d8%a7%d9%81%d8%af%d9%86-%d8%b9%d9%84%d9%89-%d9%85%d8%b1%d9%83%d8%a8-%d8%a7%d9%84%d9%85%d8%b9%d9%85%d9%88%d8%b1%d8%a9-1845283.html",
+    "meta_id": "998555459466057",
+    "published_at": "2026-11-25T04:14:28.003424+00:00"
   },
   {
     "id": "20261124-2346-2-ig-reel",
@@ -13151,10 +13165,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261124-2346-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261124-2346-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-25T02:54:18+01:00",
     "titel": "اللبؤات يتوافدن على مركب المعمورة",
-    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d9%84%d8%a8%d8%a4%d8%a7%d8%aa-%d9%8a%d8%aa%d9%88%d8%a7%d9%81%d8%af%d9%86-%d8%b9%d9%84%d9%89-%d9%85%d8%b1%d9%83%d8%a8-%d8%a7%d9%84%d9%85%d8%b9%d9%85%d9%88%d8%b1%d8%a9-1845283.html"
+    "quelle_url": "https://www.hespress.com/%d8%a7%d9%84%d9%84%d8%a8%d8%a4%d8%a7%d8%aa-%d9%8a%d8%aa%d9%88%d8%a7%d9%81%d8%af%d9%86-%d8%b9%d9%84%d9%89-%d9%85%d8%b1%d9%83%d8%a8-%d8%a7%d9%84%d9%85%d8%b9%d9%85%d9%88%d8%b1%d8%a9-1845283.html",
+    "meta_id": "18157071217536721",
+    "published_at": "2026-11-25T04:14:28.003424+00:00"
   },
   {
     "id": "20261124-2346-2-ig-story",
