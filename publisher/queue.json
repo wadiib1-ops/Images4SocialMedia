@@ -14111,10 +14111,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261125-2145-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261125-2145-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-26T00:53:59+01:00",
     "titel": "الجيش الملكي يطلق بيع تذاكر مواجهة دوربان سيتي",
-    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/BT462G3MXRGCXLJU3CEUKFA5Z4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/BT462G3MXRGCXLJU3CEUKFA5Z4/",
+    "meta_id": "29639853118972519",
+    "published_at": "2026-11-26T05:21:05.609753+00:00"
   },
   {
     "id": "20261125-2145-1-ig-reel",
@@ -14123,10 +14125,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261125-2145-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261125-2145-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-26T00:53:59+01:00",
     "titel": "الجيش الملكي يطلق بيع تذاكر مواجهة دوربان سيتي",
-    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/BT462G3MXRGCXLJU3CEUKFA5Z4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/ligue-des-champions-caf/BT462G3MXRGCXLJU3CEUKFA5Z4/",
+    "meta_id": "18121689082791579",
+    "published_at": "2026-11-26T05:21:05.609753+00:00"
   },
   {
     "id": "20261125-2145-1-ig-story",
@@ -14171,10 +14175,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261125-2145-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261125-2145-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-26T00:53:59+01:00",
     "titel": "عموتة يتلقى عرضا من نادٍ ليبي بعد رحيله عن الأهلي",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/OQ4Z25HKQBGRHILVENC42ANDSY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/OQ4Z25HKQBGRHILVENC42ANDSY/",
+    "meta_id": "1166582342489002",
+    "published_at": "2026-11-26T05:21:05.609753+00:00"
   },
   {
     "id": "20261125-2145-2-ig-reel",
@@ -14183,10 +14189,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261125-2145-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261125-2145-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-26T00:53:59+01:00",
     "titel": "عموتة يتلقى عرضا من نادٍ ليبي بعد رحيله عن الأهلي",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/OQ4Z25HKQBGRHILVENC42ANDSY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/OQ4Z25HKQBGRHILVENC42ANDSY/",
+    "meta_id": "18106790624652295",
+    "published_at": "2026-11-26T05:21:05.609753+00:00"
   },
   {
     "id": "20261125-2145-2-ig-story",
