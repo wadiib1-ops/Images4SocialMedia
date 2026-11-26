@@ -14623,10 +14623,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261126-1548-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261126-1548-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-26T18:53:00+01:00",
     "titel": "الزابيري باق في سانتاندير حتى نهاية الإعارة",
-    "quelle_url": "https://www.hespress.com/%d8%b2%d8%a7%d8%a8%d9%8a%d8%b1%d9%8a-%d9%8a%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1-%d9%85%d8%b9-%d8%b3%d8%a7%d9%86%d8%aa%d8%a7%d9%86%d8%af%d9%8a%d8%b1-1845936.html"
+    "quelle_url": "https://www.hespress.com/%d8%b2%d8%a7%d8%a8%d9%8a%d8%b1%d9%8a-%d9%8a%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1-%d9%85%d8%b9-%d8%b3%d8%a7%d9%86%d8%aa%d8%a7%d9%86%d8%af%d9%8a%d8%b1-1845936.html",
+    "meta_id": "2359470588183956",
+    "published_at": "2026-11-26T18:45:41.892471+00:00"
   },
   {
     "id": "20261126-1548-1-ig-reel",
@@ -14635,10 +14637,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261126-1548-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261126-1548-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-26T18:53:00+01:00",
     "titel": "الزابيري باق في سانتاندير حتى نهاية الإعارة",
-    "quelle_url": "https://www.hespress.com/%d8%b2%d8%a7%d8%a8%d9%8a%d8%b1%d9%8a-%d9%8a%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1-%d9%85%d8%b9-%d8%b3%d8%a7%d9%86%d8%aa%d8%a7%d9%86%d8%af%d9%8a%d8%b1-1845936.html"
+    "quelle_url": "https://www.hespress.com/%d8%b2%d8%a7%d8%a8%d9%8a%d8%b1%d9%8a-%d9%8a%d9%88%d8%a7%d8%b5%d9%84-%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1-%d9%85%d8%b9-%d8%b3%d8%a7%d9%86%d8%aa%d8%a7%d9%86%d8%af%d9%8a%d8%b1-1845936.html",
+    "meta_id": "18082039157742982",
+    "published_at": "2026-11-26T18:45:41.892471+00:00"
   },
   {
     "id": "20261126-1548-1-ig-story",
@@ -14683,10 +14687,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261126-1548-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261126-1548-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-26T18:53:00+01:00",
     "titel": "حكيمي يتفوق على زياش في المباريات الأوروبية",
-    "quelle_url": "https://ar.sport.le360.ma/football/HHG6JRWFXRA5TO4OXM4RHH464E/"
+    "quelle_url": "https://ar.sport.le360.ma/football/HHG6JRWFXRA5TO4OXM4RHH464E/",
+    "meta_id": "1799520364660549",
+    "published_at": "2026-11-26T18:45:41.892471+00:00"
   },
   {
     "id": "20261126-1548-2-ig-reel",
@@ -14695,10 +14701,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261126-1548-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261126-1548-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-26T18:53:00+01:00",
     "titel": "حكيمي يتفوق على زياش في المباريات الأوروبية",
-    "quelle_url": "https://ar.sport.le360.ma/football/HHG6JRWFXRA5TO4OXM4RHH464E/"
+    "quelle_url": "https://ar.sport.le360.ma/football/HHG6JRWFXRA5TO4OXM4RHH464E/",
+    "meta_id": "18132520495853997",
+    "published_at": "2026-11-26T18:45:41.892471+00:00"
   },
   {
     "id": "20261126-1548-2-ig-story",
