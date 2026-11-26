@@ -14455,5 +14455,113 @@
     "quelle_url": "https://www.kooora.com/كرة-قدم/أخبار/بأداء-استثنائي-حكيمي-يتحدى-ضغوطات-قرار-كاس-ويبدع-في-ليلة-تعثر-باريس/bltf653de196ac49224",
     "meta_id": "18062773391560760",
     "published_at": "2026-11-26T11:42:43.422861+00:00"
+  },
+  {
+    "id": "20261126-1355-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261126-1355-1-fb.jpg",
+    "caption": "تتحدث تقارير صحفية عن منافسة بين المغرب وإسبانيا على استضافة نهائي كأس العالم 2030، الذي ستنظمه ثلاث دول هي المغرب وإسبانيا والبرتغال.\n\nيراهن المغرب على ملعب الحسن الثاني المرتقب قرب الدار البيضاء، والذي يُنتظر أن يتسع لنحو 115 ألف متفرج.\n\nفي المقابل تملك إسبانيا بنية تحتية جاهزة وخبرة في تنظيم الأحداث الكبرى، مع انقسام بين مدريد وبرشلونة حول الملعب المرشح.\n\nما رأيكم، أي ملعب أنسب لاحتضان النهائي؟\n\n#المغرب #كأس_العالم_2030 #كرة_القدم",
+    "status": "now",
+    "titel": "تنافس مغربي إسباني على نهائي مونديال 2030",
+    "quelle_url": "https://alomksport.com/110903.html"
+  },
+  {
+    "id": "20261126-1355-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261126-1355-1-ig.jpg",
+    "caption": "نهائي مونديال 2030 يشعل المنافسة بين المغرب وإسبانيا 🏆🔥\n\nتقارير صحفية تتحدث عن تنافس قوي على احتضان المباراة الختامية للمونديال الذي تنظمه ثلاث دول: المغرب وإسبانيا والبرتغال ⚽\n\nالمغرب يراهن على ملعب الحسن الثاني قرب الدار البيضاء بسعة تقارب 115 ألف متفرج 🏟️، بينما تعتمد إسبانيا على بنية تحتية جاهزة وخبرة كبيرة، وسط انقسام بين مدريد وبرشلونة حول الملعب.\n\nأين تتمنون أن يقام النهائي؟ 👇\n\n#المغرب #مونديال_2030 #ملعب_الحسن_الثاني #كرة_القدم #المنتخب_المغربي",
+    "status": "now",
+    "titel": "تنافس مغربي إسباني على نهائي مونديال 2030",
+    "quelle_url": "https://alomksport.com/110903.html"
+  },
+  {
+    "id": "20261126-1355-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261126-1355-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261126-1355-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-26T16:53:45+01:00",
+    "titel": "تنافس مغربي إسباني على نهائي مونديال 2030",
+    "quelle_url": "https://alomksport.com/110903.html"
+  },
+  {
+    "id": "20261126-1355-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261126-1355-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261126-1355-1.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-26T16:53:45+01:00",
+    "titel": "تنافس مغربي إسباني على نهائي مونديال 2030",
+    "quelle_url": "https://alomksport.com/110903.html"
+  },
+  {
+    "id": "20261126-1355-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261126-1355-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "تنافس مغربي إسباني على نهائي مونديال 2030",
+    "quelle_url": "https://alomksport.com/110903.html"
+  },
+  {
+    "id": "20261126-1355-2-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261126-1355-2-fb.jpg",
+    "caption": "يستعد الحارس المغربي ياسين بونو لقيادة الهلال في مواجهة الاتفاق بمدينة الدمام يوم السبت، ضمن الجولة 13 من الدوري السعودي.\n\nيتصدر الهلال الترتيب برصيد 30 نقطة مع مباراة مؤجلة، متقدما بفارق نقطتين عن القادسية.\n\nوكان الفريق قد تعادل 2-2 مع ناساف الأوزبكي في دوري أبطال آسيا.\n\nكيف تتوقعون أداء بونو في هذه المباراة؟\n\n#بونو #الهلال #الدوري_السعودي",
+    "status": "now",
+    "titel": "بونو يتطلع لقيادة الهلال للحفاظ على صدارة الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/autres-championnats/I4HM4CTEYVDIJDRJCWQ3CF7QJA/"
+  },
+  {
+    "id": "20261126-1355-2-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/mkn-20261126-1355-2-ig.jpg",
+    "caption": "بونو جاهز لقيادة الهلال نحو الصدارة 🧤🔥\n\nالحارس المغربي ياسين بونو يخوض مع الهلال مواجهة الاتفاق في الدمام يوم السبت ضمن الجولة 13 من الدوري السعودي ⚽\n\nالهلال يتصدر بـ30 نقطة مع مباراة مؤجلة، بفارق نقطتين عن القادسية، بعد تعادله 2-2 مع ناساف في دوري أبطال آسيا 💪\n\nهل ينجح الزعيم في الحفاظ على الصدارة؟ 👇\n\n#بونو #الهلال #الدوري_السعودي #ياسين_بونو #الأسود_في_الخارج",
+    "status": "now",
+    "titel": "بونو يتطلع لقيادة الهلال للحفاظ على صدارة الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/autres-championnats/I4HM4CTEYVDIJDRJCWQ3CF7QJA/"
+  },
+  {
+    "id": "20261126-1355-2-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261126-1355-2-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261126-1355-2-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-26T16:53:45+01:00",
+    "titel": "بونو يتطلع لقيادة الهلال للحفاظ على صدارة الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/autres-championnats/I4HM4CTEYVDIJDRJCWQ3CF7QJA/"
+  },
+  {
+    "id": "20261126-1355-2-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261126-1355-2-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261126-1355-2.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-26T16:53:45+01:00",
+    "titel": "بونو يتطلع لقيادة الهلال للحفاظ على صدارة الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/autres-championnats/I4HM4CTEYVDIJDRJCWQ3CF7QJA/"
+  },
+  {
+    "id": "20261126-1355-2-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261126-1355-2-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "بونو يتطلع لقيادة الهلال للحفاظ على صدارة الدوري السعودي",
+    "quelle_url": "https://ar.sport.le360.ma/football/autres-championnats/I4HM4CTEYVDIJDRJCWQ3CF7QJA/"
   }
 ]
