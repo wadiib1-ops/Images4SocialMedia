@@ -15442,10 +15442,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1347-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1347-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T16:57:16+01:00",
     "titel": "إبراهيم دياز يمدد عقده مع ريال مدريد حتى 2031",
-    "quelle_url": "https://www.yabiladi.com/articles/details/208950/brahim-diaz-prolonge-contrat-avec.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/208950/brahim-diaz-prolonge-contrat-avec.html",
+    "meta_id": "2250932112454492",
+    "published_at": "2026-11-27T16:11:26.023882+00:00"
   },
   {
     "id": "20261127-1347-1-ig-reel",
@@ -15454,10 +15456,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1347-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1347-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T16:57:16+01:00",
     "titel": "إبراهيم دياز يمدد عقده مع ريال مدريد حتى 2031",
-    "quelle_url": "https://www.yabiladi.com/articles/details/208950/brahim-diaz-prolonge-contrat-avec.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/208950/brahim-diaz-prolonge-contrat-avec.html",
+    "meta_id": "17917095852480091",
+    "published_at": "2026-11-27T16:11:26.023882+00:00"
   },
   {
     "id": "20261127-1347-1-ig-story",
@@ -15502,10 +15506,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1347-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1347-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T16:57:16+01:00",
     "titel": "ريان بونيدة يسجل ثنائية ويقود أياكس للفوز على تون",
-    "quelle_url": "https://www.yabiladi.com/articles/details/208864/rayane-bounida-inscrit-double-lors.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/208864/rayane-bounida-inscrit-double-lors.html",
+    "meta_id": "2042071146481436",
+    "published_at": "2026-11-27T16:11:26.023882+00:00"
   },
   {
     "id": "20261127-1347-2-ig-reel",
@@ -15514,10 +15520,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1347-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1347-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T16:57:16+01:00",
     "titel": "ريان بونيدة يسجل ثنائية ويقود أياكس للفوز على تون",
-    "quelle_url": "https://www.yabiladi.com/articles/details/208864/rayane-bounida-inscrit-double-lors.html"
+    "quelle_url": "https://www.yabiladi.com/articles/details/208864/rayane-bounida-inscrit-double-lors.html",
+    "meta_id": "17908058469603835",
+    "published_at": "2026-11-27T16:11:26.023882+00:00"
   },
   {
     "id": "20261127-1347-2-ig-story",
