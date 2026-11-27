@@ -15658,5 +15658,59 @@
     "quelle_url": "https://ar.sport.le360.ma/football/E4RWQENB3RH3NBQBA5MOBXR7II/",
     "meta_id": "18654494422002589",
     "published_at": "2026-11-27T14:57:38.626953+00:00"
+  },
+  {
+    "id": "20261127-1747-1-fb-feed",
+    "platform": "facebook",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261127-1747-1-fb.jpg",
+    "caption": "منح المدرب نصر الدين نابي لاعبي الوداد يوما للراحة بعد انتهاء المعسكر التدريبي في مراكش.\n\nوتأتي هذه الخطوة قبل عودة الفريق إلى المنافسة، في إطار إعادة ترتيب أوراق المجموعة.\n\nكيف تقيمون استعدادات الوداد للمرحلة المقبلة؟\n\n#الوداد #نصر_الدين_نابي #البطولة_برو",
+    "status": "now",
+    "titel": "نابي يمنح لاعبي الوداد يوم راحة بعد معسكر مراكش",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/IRQT24U2LZAIJOFRV4WPL2OVDA/"
+  },
+  {
+    "id": "20261127-1747-1-ig-feed",
+    "platform": "instagram",
+    "type": "photo",
+    "image_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/20261127-1747-1-ig.jpg",
+    "caption": "🔴⚪ استراحة محارب في الوداد!\n\nنصر الدين نابي منح اللاعبين يوم راحة بعد المعسكر التدريبي في مراكش، قبل العودة للمنافسة 💪\n\nخطوة تهدف إلى ترتيب أوراق المجموعة استعدادا للمرحلة المقبلة 🔄\n\nهل تخدم هذه الاستراحة الفريق؟ 👇\n\n#الوداد #نابي #البطولة_برو #الوداد_الرياضي #كرة_القدم_المغربية",
+    "status": "now",
+    "titel": "نابي يمنح لاعبي الوداد يوم راحة بعد معسكر مراكش",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/IRQT24U2LZAIJOFRV4WPL2OVDA/"
+  },
+  {
+    "id": "20261127-1747-1-fb-reel",
+    "platform": "facebook",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1747-1-fbstory-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1747-1-fb.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-27T20:51:19+01:00",
+    "titel": "نابي يمنح لاعبي الوداد يوم راحة بعد معسكر مراكش",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/IRQT24U2LZAIJOFRV4WPL2OVDA/"
+  },
+  {
+    "id": "20261127-1747-1-ig-reel",
+    "platform": "instagram",
+    "type": "reel",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1747-1-reel-text.mp4",
+    "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1747-1.jpg",
+    "caption": "",
+    "status": "scheduled",
+    "publish_at": "2026-11-27T20:51:19+01:00",
+    "titel": "نابي يمنح لاعبي الوداد يوم راحة بعد معسكر مراكش",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/IRQT24U2LZAIJOFRV4WPL2OVDA/"
+  },
+  {
+    "id": "20261127-1747-1-ig-story",
+    "platform": "instagram",
+    "type": "story",
+    "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1747-1-story-text.mp4",
+    "caption": "",
+    "status": "now",
+    "titel": "نابي يمنح لاعبي الوداد يوم راحة بعد معسكر مراكش",
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/IRQT24U2LZAIJOFRV4WPL2OVDA/"
   }
 ]
