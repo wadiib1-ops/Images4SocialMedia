@@ -15005,24 +15005,28 @@
     "platform": "facebook",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "titel": "المنتخب المغربي لقصار القامة يتأهل لنصف نهائي المونديال لأول مرة",
     "quelle_url": "https://ar.sport.le360.ma/football/HYQH7TEAOZBZVI2S3LS5EOBYLM/",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261126-2146-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261126-2146-1-fb.jpg",
-    "publish_at": "2026-11-27T01:00:41+01:00"
+    "publish_at": "2026-11-27T01:00:41+01:00",
+    "meta_id": "2772671773246282",
+    "published_at": "2026-11-27T00:02:08.929341+00:00"
   },
   {
     "id": "20261126-2146-1-ig-reel",
     "platform": "instagram",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "titel": "المنتخب المغربي لقصار القامة يتأهل لنصف نهائي المونديال لأول مرة",
     "quelle_url": "https://ar.sport.le360.ma/football/HYQH7TEAOZBZVI2S3LS5EOBYLM/",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261126-2146-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261126-2146-1.jpg",
-    "publish_at": "2026-11-27T01:00:41+01:00"
+    "publish_at": "2026-11-27T01:00:41+01:00",
+    "meta_id": "18123890320963019",
+    "published_at": "2026-11-27T00:02:08.929341+00:00"
   },
   {
     "id": "20261126-2146-1-ig-story",
@@ -15065,24 +15069,28 @@
     "platform": "facebook",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "titel": "الأشبال يتأهلون لدور 32 من مونديال قطر رغم الخسارة أمام إسبانيا",
     "quelle_url": "https://ar.sport.le360.ma/football/T7YX2BQ44RFNDKKP5A4MBUFSII/",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261126-2146-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261126-2146-2-fb.jpg",
-    "publish_at": "2026-11-27T01:00:41+01:00"
+    "publish_at": "2026-11-27T01:00:41+01:00",
+    "meta_id": "2558539121292085",
+    "published_at": "2026-11-27T00:02:08.929341+00:00"
   },
   {
     "id": "20261126-2146-2-ig-reel",
     "platform": "instagram",
     "type": "reel",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "titel": "الأشبال يتأهلون لدور 32 من مونديال قطر رغم الخسارة أمام إسبانيا",
     "quelle_url": "https://ar.sport.le360.ma/football/T7YX2BQ44RFNDKKP5A4MBUFSII/",
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261126-2146-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261126-2146-2.jpg",
-    "publish_at": "2026-11-27T01:00:41+01:00"
+    "publish_at": "2026-11-27T01:00:41+01:00",
+    "meta_id": "18135511603703716",
+    "published_at": "2026-11-27T00:02:08.929341+00:00"
   },
   {
     "id": "20261126-2146-2-ig-story",
