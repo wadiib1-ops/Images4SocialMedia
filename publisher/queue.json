@@ -15570,10 +15570,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1546-1-fbstory-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1546-1-fb.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T18:57:05+01:00",
     "titel": "المغرب حاضر بقوة في قوائم جوائز الكاف للسيدات",
-    "quelle_url": "https://ar.sport.le360.ma/football/P4YOO7W36VC4TICW5S23YGVW2M/"
+    "quelle_url": "https://ar.sport.le360.ma/football/P4YOO7W36VC4TICW5S23YGVW2M/",
+    "meta_id": "1026040643113026",
+    "published_at": "2026-11-27T18:11:42.918948+00:00"
   },
   {
     "id": "20261127-1546-1-ig-reel",
@@ -15582,10 +15584,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1546-1-reel-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1546-1.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T18:57:05+01:00",
     "titel": "المغرب حاضر بقوة في قوائم جوائز الكاف للسيدات",
-    "quelle_url": "https://ar.sport.le360.ma/football/P4YOO7W36VC4TICW5S23YGVW2M/"
+    "quelle_url": "https://ar.sport.le360.ma/football/P4YOO7W36VC4TICW5S23YGVW2M/",
+    "meta_id": "18177473134402458",
+    "published_at": "2026-11-27T18:11:42.918948+00:00"
   },
   {
     "id": "20261127-1546-1-ig-story",
@@ -15630,10 +15634,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1546-2-fbstory-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1546-2-fb.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T18:57:05+01:00",
     "titel": "الوداد يدعو جماهيره للتصويت لهدف زياش",
-    "quelle_url": "https://ar.sport.le360.ma/football/E4RWQENB3RH3NBQBA5MOBXR7II/"
+    "quelle_url": "https://ar.sport.le360.ma/football/E4RWQENB3RH3NBQBA5MOBXR7II/",
+    "meta_id": "1551611006989858",
+    "published_at": "2026-11-27T18:11:42.918948+00:00"
   },
   {
     "id": "20261127-1546-2-ig-reel",
@@ -15642,10 +15648,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1546-2-reel-text.mp4",
     "caption": "",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1546-2.jpg",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T18:57:05+01:00",
     "titel": "الوداد يدعو جماهيره للتصويت لهدف زياش",
-    "quelle_url": "https://ar.sport.le360.ma/football/E4RWQENB3RH3NBQBA5MOBXR7II/"
+    "quelle_url": "https://ar.sport.le360.ma/football/E4RWQENB3RH3NBQBA5MOBXR7II/",
+    "meta_id": "17913915822665170",
+    "published_at": "2026-11-27T18:11:42.918948+00:00"
   },
   {
     "id": "20261127-1546-2-ig-story",
