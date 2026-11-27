@@ -15135,10 +15135,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-0011-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-0011-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T03:18:48+01:00",
     "titel": "أيوب أوفقير يتألق بثنائية في الدوري الأوروبي",
-    "quelle_url": "https://ar.sport.le360.ma/football/SPA2WLYXWZEYFCQCLHCJ4QPAVI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/SPA2WLYXWZEYFCQCLHCJ4QPAVI/",
+    "meta_id": "1159866399953955",
+    "published_at": "2026-11-27T06:46:28.226391+00:00"
   },
   {
     "id": "20261127-0011-1-ig-reel",
@@ -15147,10 +15149,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-0011-1-story-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-0011-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T03:18:48+01:00",
     "titel": "أيوب أوفقير يتألق بثنائية في الدوري الأوروبي",
-    "quelle_url": "https://ar.sport.le360.ma/football/SPA2WLYXWZEYFCQCLHCJ4QPAVI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/SPA2WLYXWZEYFCQCLHCJ4QPAVI/",
+    "meta_id": "17954364045056546",
+    "published_at": "2026-11-27T06:46:28.226391+00:00"
   },
   {
     "id": "20261127-0011-1-ig-story",
@@ -15195,10 +15199,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-0011-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-0011-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T03:18:48+01:00",
     "titel": "الجيش الملكي والرجاء في دور مجموعات كأس الكاف",
-    "quelle_url": "https://ar.sport.le360.ma/football/coupe-caf/HW43KZGDCVHJXFG7DDZFYQZ6AM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/coupe-caf/HW43KZGDCVHJXFG7DDZFYQZ6AM/",
+    "meta_id": "1570805245106355",
+    "published_at": "2026-11-27T06:46:28.226391+00:00"
   },
   {
     "id": "20261127-0011-2-ig-reel",
@@ -15207,10 +15213,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-0011-2-story-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-0011-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T03:18:48+01:00",
     "titel": "الجيش الملكي والرجاء في دور مجموعات كأس الكاف",
-    "quelle_url": "https://ar.sport.le360.ma/football/coupe-caf/HW43KZGDCVHJXFG7DDZFYQZ6AM/"
+    "quelle_url": "https://ar.sport.le360.ma/football/coupe-caf/HW43KZGDCVHJXFG7DDZFYQZ6AM/",
+    "meta_id": "18001475936828954",
+    "published_at": "2026-11-27T06:46:28.226391+00:00"
   },
   {
     "id": "20261127-0011-2-ig-story",
