@@ -15762,10 +15762,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1947-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1947-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T22:51:36+01:00",
     "titel": "«الكاف» يعتمد تقنية الفار في دور المجموعات",
-    "quelle_url": "https://ar.sport.le360.ma/football/YQYTU76XSBFVNP2TI2UND4B6HA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/YQYTU76XSBFVNP2TI2UND4B6HA/",
+    "meta_id": "1466734942250132",
+    "published_at": "2026-11-27T22:11:27.551757+00:00"
   },
   {
     "id": "20261127-1947-1-ig-reel",
@@ -15774,10 +15776,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1947-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1947-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T22:51:36+01:00",
     "titel": "«الكاف» يعتمد تقنية الفار في دور المجموعات",
-    "quelle_url": "https://ar.sport.le360.ma/football/YQYTU76XSBFVNP2TI2UND4B6HA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/YQYTU76XSBFVNP2TI2UND4B6HA/",
+    "meta_id": "18105071651412138",
+    "published_at": "2026-11-27T22:11:27.551757+00:00"
   },
   {
     "id": "20261127-1947-1-ig-story",
@@ -15822,10 +15826,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1947-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1947-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T22:51:36+01:00",
     "titel": "وفد «فيفا» يبدأ جولة تفقدية في المغرب",
-    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/GMDM2F5B4FH4DNRKQFOE3KNARM/"
+    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/GMDM2F5B4FH4DNRKQFOE3KNARM/",
+    "meta_id": "1444207344461640",
+    "published_at": "2026-11-27T22:11:27.551757+00:00"
   },
   {
     "id": "20261127-1947-2-ig-reel",
@@ -15834,10 +15840,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1947-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1947-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T22:51:36+01:00",
     "titel": "وفد «فيفا» يبدأ جولة تفقدية في المغرب",
-    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/GMDM2F5B4FH4DNRKQFOE3KNARM/"
+    "quelle_url": "https://ar.sport.le360.ma/coupe-du-monde/GMDM2F5B4FH4DNRKQFOE3KNARM/",
+    "meta_id": "18144446308722785",
+    "published_at": "2026-11-27T22:11:27.551757+00:00"
   },
   {
     "id": "20261127-1947-2-ig-story",
