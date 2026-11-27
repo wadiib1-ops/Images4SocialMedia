@@ -15698,10 +15698,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1747-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1747-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T20:51:19+01:00",
     "titel": "نابي يمنح لاعبي الوداد يوم راحة بعد معسكر مراكش",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/IRQT24U2LZAIJOFRV4WPL2OVDA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/IRQT24U2LZAIJOFRV4WPL2OVDA/",
+    "meta_id": "1519713953364572",
+    "published_at": "2026-11-27T20:11:35.363393+00:00"
   },
   {
     "id": "20261127-1747-1-ig-reel",
@@ -15710,10 +15712,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-1747-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-1747-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-27T20:51:19+01:00",
     "titel": "نابي يمنح لاعبي الوداد يوم راحة بعد معسكر مراكش",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/IRQT24U2LZAIJOFRV4WPL2OVDA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/IRQT24U2LZAIJOFRV4WPL2OVDA/",
+    "meta_id": "17894439681686332",
+    "published_at": "2026-11-27T20:11:35.363393+00:00"
   },
   {
     "id": "20261127-1747-1-ig-story",
