@@ -71,9 +71,13 @@ def scene_fixture(m, idx, total, pos, t, dur):
     num(cd, (480, 226), "VS", F("900Black", 52), WHITE)
     # Uhrzeit
     cd.rounded_rectangle((250, 470, 710, 660), 40, fill=GREEN_D + (255,), outline=GOLD + (255,), width=3)
-    num(cd, (480, 552), m["time"], F("900Black", 120), WHITE)
-    text(cd, (480, 720), day_label(m["date"]), F("700Bold", 50), GOLD)
-    text(cd, (480, 785), "بتوقيت المغرب", F("400Regular", 34), MUTED)
+    if m.get("time"):
+        num(cd, (480, 552), m["time"], F("900Black", 120), WHITE)
+        text(cd, (480, 720), day_label(m["date"]), F("700Bold", 50), GOLD)
+        text(cd, (480, 785), "بتوقيت المغرب", F("400Regular", 34), MUTED)
+    else:
+        text(cd, (480, 552), "VS", F("900Black", 120), WHITE)
+        text(cd, (480, 720), day_label(m["date"]), F("700Bold", 50), GOLD)
     cd.line((80, 840, 880, 840), fill=GOLD + (120,), width=2)
     # Platzierung vor dem Spiel
     text(cd, (480, 885), "الترتيب قبل المباراة", F("700Bold", 32), MUTED)
@@ -116,7 +120,7 @@ def scene_overview(data, t, dur):
                 text(d, (tx + x0, y + 38), name, fit_font("700Bold", 34, name, 300), WHITE + (al,), anc)
             d.rounded_rectangle((W // 2 - 70 + x0, y + 16, W // 2 + 70 + x0, y + 64), 14, fill=GREEN_D + (al,),
                                 outline=GOLD + (al,), width=2)
-            num(d, (W // 2 + x0, y + 38), m["time"], F("900Black", 34), GOLD + (al,))
+            num(d, (W // 2 + x0, y + 38), m.get("time") or "VS", F("900Black", 34), GOLD + (al,))
         y += 100
     return lay
 
@@ -135,7 +139,7 @@ PREVIEW_LOG = os.path.join(finalize.BASE, "preview_log.json")
 
 
 def caption(data):
-    L = [f"🔥 برنامج الجولة {data['round']} من البطولة الاحترافية إنوي للقسم الثاني", f"📅 {data.get('date_range', '')} (بتوقيت المغرب)", ""]
+    L = [f"🔥 برنامج الجولة {data['round']} من البطولة الاحترافية إنوي للقسم الثاني", f"📅 {data.get('date_range', '')}", ""]
     last = None
     for m in data["matches"]:
         if m["date"] != last:
@@ -143,7 +147,7 @@ def caption(data):
                 L.append("")
             last = m["date"]
             L.append(day_label(m["date"]))
-        L.append(f"⚽ {m['time']} {m['home']} × {m['away']}")
+        L.append(f"⚽ {m.get('time', '')} {m['home']} × {m['away']}".replace("⚽  ", "⚽ "))
     L += ["", data.get("question") or "💬 من سيفوز؟ شاركونا توقعاتكم في التعليقات", ""]
     # Hashtag-Limits (Nutzerwunsch 24.10.2026): Facebook höchstens 3, Instagram höchstens 5
     tags = ["#القسم_الثاني", "#البطولة_الاحترافية_2", "#البطولة_الاحترافية_إنوي", "#الدوري_المغربي", "#كرة_القدم_المغربية"]
@@ -172,7 +176,7 @@ def main(src, out, data=None):
     teams = json.load(open(finalize.LEDGER, encoding="utf-8"))["teams"]
     for m in data["matches"]:
         m["home"], m["away"] = finalize.canon(m["home"], amap, teams), finalize.canon(m["away"], amap, teams)
-    data["matches"].sort(key=lambda m: (m["date"], m["time"]))
+    data["matches"].sort(key=lambda m: (m["date"], m.get("time", "")))
     rows, _, _ = standings.compute()
     pos = {r["team"]: {"rank": i, "pts": r["pts"]} for i, r in enumerate(rows, 1)}
     n = len(data["matches"])
