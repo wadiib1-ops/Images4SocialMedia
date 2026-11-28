@@ -15890,10 +15890,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-2150-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-2150-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T00:49:19+01:00",
     "titel": "النصيري يقود الاتحاد للفوز على نيوم",
-    "quelle_url": "https://ar.sport.le360.ma/football/WS4B5J67ORGCJCHNNOAO4I2ZZA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/WS4B5J67ORGCJCHNNOAO4I2ZZA/",
+    "meta_id": "1968021264180727",
+    "published_at": "2026-11-28T00:11:20.315046+00:00"
   },
   {
     "id": "20261127-2150-1-ig-reel",
@@ -15902,10 +15904,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-2150-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-2150-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T00:49:19+01:00",
     "titel": "النصيري يقود الاتحاد للفوز على نيوم",
-    "quelle_url": "https://ar.sport.le360.ma/football/WS4B5J67ORGCJCHNNOAO4I2ZZA/"
+    "quelle_url": "https://ar.sport.le360.ma/football/WS4B5J67ORGCJCHNNOAO4I2ZZA/",
+    "meta_id": "18143478091545570",
+    "published_at": "2026-11-28T00:11:20.315046+00:00"
   },
   {
     "id": "20261127-2150-1-ig-story",
@@ -15950,10 +15954,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-2150-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-2150-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T00:49:19+01:00",
     "titel": "المغرب يواجه تشيلي في دور 32 من مونديال الناشئين",
-    "quelle_url": "https://ar.sport.le360.ma/football/WBUY7GM4LBCYRECNM4YFUTLH3Y/"
+    "quelle_url": "https://ar.sport.le360.ma/football/WBUY7GM4LBCYRECNM4YFUTLH3Y/",
+    "meta_id": "41588495027416363",
+    "published_at": "2026-11-28T00:11:20.315046+00:00"
   },
   {
     "id": "20261127-2150-2-ig-reel",
@@ -15962,10 +15968,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-2150-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-2150-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T00:49:19+01:00",
     "titel": "المغرب يواجه تشيلي في دور 32 من مونديال الناشئين",
-    "quelle_url": "https://ar.sport.le360.ma/football/WBUY7GM4LBCYRECNM4YFUTLH3Y/"
+    "quelle_url": "https://ar.sport.le360.ma/football/WBUY7GM4LBCYRECNM4YFUTLH3Y/",
+    "meta_id": "18435174661148592",
+    "published_at": "2026-11-28T00:11:20.315046+00:00"
   },
   {
     "id": "20261127-2150-2-ig-story",
