@@ -16018,10 +16018,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-2350-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-2350-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T02:51:16+01:00",
     "titel": "المنتخب المغربي لقصار القامة يبلغ نهائي المونديال",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/4TQHKGIWKZAC5PL3YEYTGWLKIE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/4TQHKGIWKZAC5PL3YEYTGWLKIE/",
+    "meta_id": "1852288719140281",
+    "published_at": "2026-11-28T02:10:50.775191+00:00"
   },
   {
     "id": "20261127-2350-1-ig-reel",
@@ -16030,10 +16032,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-2350-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-2350-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T02:51:16+01:00",
     "titel": "المنتخب المغربي لقصار القامة يبلغ نهائي المونديال",
-    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/4TQHKGIWKZAC5PL3YEYTGWLKIE/"
+    "quelle_url": "https://ar.sport.le360.ma/football/lions-atlas/4TQHKGIWKZAC5PL3YEYTGWLKIE/",
+    "meta_id": "17979207759170267",
+    "published_at": "2026-11-28T02:10:50.775191+00:00"
   },
   {
     "id": "20261127-2350-1-ig-story",
@@ -16078,10 +16082,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-2350-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-2350-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T02:51:16+01:00",
     "titel": "التعادل يحسم مواجهة أمل تزنيت والمغرب التطواني",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/EZ6BDK4VBBGSZARG3RISR7VKJY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/EZ6BDK4VBBGSZARG3RISR7VKJY/",
+    "meta_id": "1011362604852756",
+    "published_at": "2026-11-28T02:10:50.775191+00:00"
   },
   {
     "id": "20261127-2350-2-ig-reel",
@@ -16090,10 +16096,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261127-2350-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261127-2350-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T02:51:16+01:00",
     "titel": "التعادل يحسم مواجهة أمل تزنيت والمغرب التطواني",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/EZ6BDK4VBBGSZARG3RISR7VKJY/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/EZ6BDK4VBBGSZARG3RISR7VKJY/",
+    "meta_id": "18012281273990715",
+    "published_at": "2026-11-28T02:10:50.775191+00:00"
   },
   {
     "id": "20261127-2350-2-ig-story",
