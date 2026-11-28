@@ -16274,10 +16274,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261128-0950-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261128-0950-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T12:54:56+01:00",
     "titel": "النادي المكناسي والكوكب في صراع الصدارة بالجولة الثامنة",
-    "quelle_url": "https://ar.sport.le360.ma/football/NDFPNIFY3RBEXAL7DPFYHYQYMI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/NDFPNIFY3RBEXAL7DPFYHYQYMI/",
+    "meta_id": "3505244542987894",
+    "published_at": "2026-11-28T12:11:27.496512+00:00"
   },
   {
     "id": "20261128-0950-1-ig-reel",
@@ -16286,10 +16288,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261128-0950-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261128-0950-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T12:54:56+01:00",
     "titel": "النادي المكناسي والكوكب في صراع الصدارة بالجولة الثامنة",
-    "quelle_url": "https://ar.sport.le360.ma/football/NDFPNIFY3RBEXAL7DPFYHYQYMI/"
+    "quelle_url": "https://ar.sport.le360.ma/football/NDFPNIFY3RBEXAL7DPFYHYQYMI/",
+    "meta_id": "18141967804640697",
+    "published_at": "2026-11-28T12:11:27.496512+00:00"
   },
   {
     "id": "20261128-0950-1-ig-story",
@@ -16334,10 +16338,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261128-0950-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261128-0950-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T12:54:56+01:00",
     "titel": "إلغاء صفقة تهيئة محيط ملعب أكادير للمرة الثانية",
-    "quelle_url": "https://www.hespress.com/%d8%aa%d8%b9%d8%ab%d8%b1-%d9%8a%d8%b7%d8%a7%d9%84-%d8%aa%d9%87%d9%8a%d8%a6%d8%a9-%d9%85%d8%ad%d9%8a%d8%b7-%d9%85%d9%84%d8%b9%d8%a8-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-1846631.html"
+    "quelle_url": "https://www.hespress.com/%d8%aa%d8%b9%d8%ab%d8%b1-%d9%8a%d8%b7%d8%a7%d9%84-%d8%aa%d9%87%d9%8a%d8%a6%d8%a9-%d9%85%d8%ad%d9%8a%d8%b7-%d9%85%d9%84%d8%b9%d8%a8-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-1846631.html",
+    "meta_id": "1142575571827546",
+    "published_at": "2026-11-28T12:11:27.496512+00:00"
   },
   {
     "id": "20261128-0950-2-ig-reel",
@@ -16346,10 +16352,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261128-0950-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261128-0950-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T12:54:56+01:00",
     "titel": "إلغاء صفقة تهيئة محيط ملعب أكادير للمرة الثانية",
-    "quelle_url": "https://www.hespress.com/%d8%aa%d8%b9%d8%ab%d8%b1-%d9%8a%d8%b7%d8%a7%d9%84-%d8%aa%d9%87%d9%8a%d8%a6%d8%a9-%d9%85%d8%ad%d9%8a%d8%b7-%d9%85%d9%84%d8%b9%d8%a8-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-1846631.html"
+    "quelle_url": "https://www.hespress.com/%d8%aa%d8%b9%d8%ab%d8%b1-%d9%8a%d8%b7%d8%a7%d9%84-%d8%aa%d9%87%d9%8a%d8%a6%d8%a9-%d9%85%d8%ad%d9%8a%d8%b7-%d9%85%d9%84%d8%b9%d8%a8-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d8%b1-1846631.html",
+    "meta_id": "18030782561870056",
+    "published_at": "2026-11-28T12:11:27.496512+00:00"
   },
   {
     "id": "20261128-0950-2-ig-story",
