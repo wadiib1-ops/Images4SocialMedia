@@ -16146,10 +16146,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261128-0750-1-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261128-0750-1-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T10:51:28+01:00",
     "titel": "الزابيري يسجل في فوز راسينغ سانتاندير على ليفانتي",
-    "quelle_url": "https://ar.sport.le360.ma/football/liga/CP5AZL6XKFCMNG6JYLS3SY6QA4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/liga/CP5AZL6XKFCMNG6JYLS3SY6QA4/",
+    "meta_id": "996537406380784",
+    "published_at": "2026-11-28T10:11:25.503173+00:00"
   },
   {
     "id": "20261128-0750-1-ig-reel",
@@ -16158,10 +16160,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261128-0750-1-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261128-0750-1.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T10:51:28+01:00",
     "titel": "الزابيري يسجل في فوز راسينغ سانتاندير على ليفانتي",
-    "quelle_url": "https://ar.sport.le360.ma/football/liga/CP5AZL6XKFCMNG6JYLS3SY6QA4/"
+    "quelle_url": "https://ar.sport.le360.ma/football/liga/CP5AZL6XKFCMNG6JYLS3SY6QA4/",
+    "meta_id": "18114561548269972",
+    "published_at": "2026-11-28T10:11:25.503173+00:00"
   },
   {
     "id": "20261128-0750-1-ig-story",
@@ -16206,10 +16210,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261128-0750-2-fbstory-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261128-0750-2-fb.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T10:51:28+01:00",
     "titel": "ناسي يقترب من العودة إلى تشكيلة الوداد",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/LJT5HDZ6ZBHPXPK43HYPD7WXNU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/LJT5HDZ6ZBHPXPK43HYPD7WXNU/",
+    "meta_id": "1675333967621431",
+    "published_at": "2026-11-28T10:11:25.503173+00:00"
   },
   {
     "id": "20261128-0750-2-ig-reel",
@@ -16218,10 +16224,12 @@
     "video_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/video-out/musik-20261128-0750-2-reel-text.mp4",
     "cover_url": "https://raw.githubusercontent.com/wadiib1-ops/Images4SocialMedia/main/images/cover-20261128-0750-2.jpg",
     "caption": "",
-    "status": "scheduled",
+    "status": "published",
     "publish_at": "2026-11-28T10:51:28+01:00",
     "titel": "ناسي يقترب من العودة إلى تشكيلة الوداد",
-    "quelle_url": "https://ar.sport.le360.ma/football/botola/LJT5HDZ6ZBHPXPK43HYPD7WXNU/"
+    "quelle_url": "https://ar.sport.le360.ma/football/botola/LJT5HDZ6ZBHPXPK43HYPD7WXNU/",
+    "meta_id": "18136326457782314",
+    "published_at": "2026-11-28T10:11:25.503173+00:00"
   },
   {
     "id": "20261128-0750-2-ig-story",
